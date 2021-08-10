@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Alonso  Marcos Alonso (Chelsea, Defender)",CHE,5.5,0,0.01,-0.01,2800.0,0,0.0,0.0,inf,0.01,-0.01,2800.0,07/02/2021
+"Azpilicueta  César Azpilicueta (Chelsea, Defender)",CHE,6.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,07/02/2021
+"Chilwell  Benjamin Chilwell (Chelsea, Defender)",CHE,6.0,0,0.06,-0.06,1033.3,0,0.09,-0.09,688.9,0.15,-0.15,413.3,07/02/2021
+"Christensen  Andreas Christensen (Chelsea, Defender)",CHE,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,07/02/2021
+"Jorginho  Jorge Luiz Frello Filho (Chelsea, Midfielder)",CHE,6.0,0,0.03,-0.03,3000.0,1,0.79,0.21,113.9,0.82,0.18,109.8,07/02/2021
+"Giroud  Olivier Giroud (Chelsea, Forward)",CHE,6.5,0,0.01,-0.01,6200.0,0,0.0,0.0,inf,0.01,-0.01,6200.0,07/02/2021
+"Hudson-Odoi  Callum Hudson-Odoi (Chelsea, Midfielder)",CHE,5.5,0,0.04,-0.04,700.0,0,0.0,0.0,inf,0.04,-0.04,700.0,07/02/2021
+"James (Reece)  Reece James (Chelsea, Defender)",CHE,5.5,0,0.08,-0.08,1125.0,0,0.09,-0.09,1000.0,0.17,-0.17,529.4,07/02/2021
+"Kanté  N&#039;Golo Kanté (Chelsea, Midfielder)",CHE,5.0,0,0.02,-0.02,750.0,0,0.0,0.0,inf,0.02,-0.02,750.0,07/02/2021
+"Kovacic  Mateo Kovacic (Chelsea, Midfielder)",CHE,5.0,0,0.17,-0.17,529.4,0,0.04,-0.04,2250.0,0.21,-0.21,428.6,07/02/2021
+"Mendy (Edouard)  Edouard Mendy (Chelsea, Goalkeeper)",CHE,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/02/2021
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,0,0.2,-0.2,450.0,1,0.32,0.68,281.3,0.52,0.48,173.1,07/02/2021
+"Rüdiger  Antonio Rüdiger (Chelsea, Defender)",CHE,5.5,0,0.01,-0.01,9000.0,0,0.04,-0.04,2250.0,0.05,-0.05,1800.0,07/02/2021
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,1,0.1,0.9,750.0,0,0.23,-0.23,326.1,0.33,0.67,227.3,07/02/2021
+"Basham  Chris Basham (Sheffield United, Defender)",SHU,4.6,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,07/02/2021
+"Bogle  Jayden Bogle (Sheffield United, Defender)",SHU,4.3,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,07/02/2021
+"Brewster  Rhian Brewster (Sheffield United, Forward)",SHU,4.2,0,0.0,0.0,inf,0,0.11,-0.11,36.4,0.11,-0.11,36.4,07/02/2021
+"Bryan (Kean)  Kean Bryan (Sheffield United, Defender)",SHU,3.9,0,0.01,-0.01,6800.0,0,0.0,0.0,inf,0.01,-0.01,6800.0,07/02/2021
+"Oliver Burke  Oliver Burke (Sheffield United, Midfielder)",SHU,4.1,0,0.0,0.0,inf,0,0.38,-0.38,163.2,0.38,-0.38,163.2,07/02/2021
+"Egan  John Egan (Sheffield United, Defender)",SHU,4.7,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/02/2021
+"Fleck  John Fleck (Sheffield United, Midfielder)",SHU,5.6,0,0.02,-0.02,4500.0,0,0.03,-0.03,3000.0,0.05,-0.05,1800.0,07/02/2021
+"Lowe  Max Lowe (Sheffield United, Defender)",SHU,4.2,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,07/02/2021
+"Lundstram  John Lundstram (Sheffield United, Midfielder)",SHU,4.8,0,0.01,-0.01,9000.0,0,0.03,-0.03,3000.0,0.04,-0.04,2250.0,07/02/2021
+"McBurnie  Oliver McBurnie (Sheffield United, Forward)",SHU,5.6,0,0.16,-0.16,562.5,0,0.0,0.0,inf,0.16,-0.16,562.5,07/02/2021
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,0,0.01,-0.01,2800.0,0,0.03,-0.03,933.3,0.04,-0.04,700.0,07/02/2021
+"Norwood  Oliver Norwood (Sheffield United, Midfielder)",SHU,4.5,0,0.01,-0.01,8600.0,0,0.0,0.0,inf,0.01,-0.01,8600.0,07/02/2021
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,07/02/2021
+"Sharp  Billy Sharp (Sheffield United, Forward)",SHU,5.5,0,0.0,0.0,inf,0,0.09,-0.09,244.4,0.09,-0.09,244.4,07/02/2021

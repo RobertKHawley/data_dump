@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"João Cancelo  João Pedro Cavaco Cancelo (Manchester City, Defender)",MCI,6.0,1,90,0,0,0,0,0,0,0,2,0,0,0,TOT,9,21/11/2020,DEF,False
+"De Bruyne  Kevin De Bruyne (Manchester City, Midfielder)",MCI,12.0,1,90,0,0,0,0,0,0,0,2,0,0,0,TOT,9,21/11/2020,MID,False
+"Foden  Phil Foden (Manchester City, Midfielder)",MCI,8.0,0,18,1,0,0,0,0,0,0,0,0,0,0,TOT,9,21/11/2020,MID,False
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,1,90,0,0,0,0,0,0,0,2,0,1,0,TOT,9,21/11/2020,DEF,False
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,TOT,9,21/11/2020,MID,False
+"Laporte  Aymeric Laporte (Manchester City, Defender)",MCI,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,TOT,9,21/11/2020,DEF,False
+"Mahrez  Riyad Mahrez (Manchester City, Midfielder)",MCI,9.0,1,72,0,1,0,0,0,0,0,2,0,0,0,TOT,9,21/11/2020,MID,False
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,1,90,0,0,0,0,0,0,0,2,0,0,0,TOT,9,21/11/2020,GKP,False
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,0,18,1,0,0,0,0,0,0,0,0,0,0,TOT,9,21/11/2020,MID,False
+"Torres  Ferran Torres (Manchester City, Midfielder)",MCI,7.0,1,90,0,0,0,0,0,0,0,2,0,1,0,TOT,9,21/11/2020,MID,False
+"Bernardo Silva  Bernardo Mota Veiga de Carvalho e Silva (Manchester City, Midfielder)",MCI,7.0,1,72,0,1,0,0,0,0,0,2,0,0,0,TOT,9,21/11/2020,MID,False
+"Walker (Kyle)  Kyle Walker (Manchester City, Defender)",MCI,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,TOT,9,21/11/2020,DEF,False
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,1,90,0,0,0,0,0,0,0,2,0,0,0,TOT,9,21/11/2020,FWD,False
+"Alderweireld  Toby Alderweireld (Tottenham Hotspur, Defender)",TOT,5.0,1,81,0,1,0,0,0,0,1,0,0,0,0,MCI,9,21/11/2020,DEF,True
+"Aurier  Serge Aurier (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,MCI,9,21/11/2020,DEF,True
+"Bergwijn  Steven Bergwijn (Tottenham Hotspur, Midfielder)",TOT,6.0,1,73,0,1,0,0,0,0,1,0,0,0,0,MCI,9,21/11/2020,MID,True
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,MCI,9,21/11/2020,DEF,True
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,MCI,9,21/11/2020,MID,True
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,1,90,0,0,0,1,0,1,1,0,0,1,0,MCI,9,21/11/2020,FWD,True
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,MCI,9,21/11/2020,GKP,True
+"Lo Celso  Giovani Lo Celso (Tottenham Hotspur, Midfielder)",TOT,6.0,0,25,1,0,1,0,0,0,0,0,0,0,0,MCI,9,21/11/2020,MID,True
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,1,65,0,1,0,1,0,1,1,0,0,0,0,MCI,9,21/11/2020,MID,True
+"Reguilón  Sergio Reguilón (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,MCI,9,21/11/2020,DEF,True
+"Rodon  Joe Rodon (Tottenham Hotspur, Defender)",TOT,4.5,0,9,1,0,0,0,0,0,0,0,0,0,0,MCI,9,21/11/2020,DEF,True
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,0,17,1,0,0,0,0,0,0,0,0,0,0,MCI,9,21/11/2020,MID,True
+"Sissoko  Moussa Sissoko (Tottenham Hotspur, Midfielder)",TOT,4.5,1,90,0,0,0,0,0,0,1,0,0,1,0,MCI,9,21/11/2020,MID,True
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,1,90,0,0,1,0,0,0,1,0,0,0,0,MCI,9,21/11/2020,MID,True

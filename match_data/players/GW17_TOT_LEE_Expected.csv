@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Alioski  Ezgjan Alioski (Leeds United, Defender)",LEE,4.4,0,0.05,-0.05,1280.0,0,0.09,-0.09,711.1,0.14,-0.14,457.1,02/01/2021
+"Ayling  Luke Ayling (Leeds United, Defender)",LEE,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,02/01/2021
+"Bamford  Patrick Bamford (Leeds United, Forward)",LEE,8.0,0,0.09,-0.09,1000.0,0,0.61,-0.61,147.5,0.7,-0.7,128.6,02/01/2021
+"Dallas  Stuart Dallas (Leeds United, Defender)",LEE,5.5,0,0.02,-0.02,4500.0,0,0.05,-0.05,1800.0,0.07,-0.07,1285.7,02/01/2021
+"Raphinha  Raphael Dias Belloli (Leeds United, Midfielder)",LEE,6.5,0,0.29,-0.29,310.3,0,0.04,-0.04,2250.0,0.33,-0.33,272.7,02/01/2021
+"Harrison  Jack Harrison (Leeds United, Midfielder)",LEE,6.0,0,0.2,-0.2,305.0,0,0.03,-0.03,2033.3,0.23,-0.23,265.2,02/01/2021
+"Hernández  Pablo Hernández (Leeds United, Midfielder)",LEE,5.5,0,0.02,-0.02,1250.0,0,0.07,-0.07,357.1,0.09,-0.09,277.8,02/01/2021
+"Klich  Mateusz Klich (Leeds United, Midfielder)",LEE,5.5,0,0.08,-0.08,1125.0,0,0.12,-0.12,750.0,0.2,-0.2,450.0,02/01/2021
+"Meslier  Illan Meslier (Leeds United, Goalkeeper)",LEE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,02/01/2021
+"Rodrigo  Rodrigo Moreno Machado (Leeds United, Forward)",LEE,6.5,0,0.09,-0.09,722.2,0,0.09,-0.09,722.2,0.18,-0.18,361.1,02/01/2021
+"Phillips (Kalvin)  Kalvin Phillips (Leeds United, Midfielder)",LEE,5.0,0,0.01,-0.01,9000.0,0,0.05,-0.05,1800.0,0.06,-0.06,1500.0,02/01/2021
+"Poveda-Ocampo  Ian Carlo Poveda-Ocampo (Leeds United, Midfielder)",LEE,4.5,0,0.02,-0.02,1450.0,0,0.0,0.0,inf,0.02,-0.02,1450.0,02/01/2021
+"Shackleton  Jamie Shackleton (Leeds United, Midfielder)",LEE,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,02/01/2021
+"Struijk  Pascal Struijk (Leeds United, Defender)",LEE,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,02/01/2021
+"Alderweireld  Toby Alderweireld (Tottenham Hotspur, Defender)",TOT,5.0,0,0.0,0.0,inf,1,0.26,0.74,346.2,0.26,0.74,346.2,02/01/2021
+"Carlos Vinicius  Carlos Vinicius Alves Morais (Tottenham Hotspur, Forward)",TOT,6.9,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,02/01/2021
+"Bergwijn  Steven Bergwijn (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.13,-0.13,692.3,0,0.66,-0.66,136.4,0.79,-0.79,113.9,02/01/2021
+"Davies (Ben)  Ben Davies (Tottenham Hotspur, Defender)",TOT,4.5,0,0.16,-0.16,562.5,0,0.05,-0.05,1800.0,0.21,-0.21,428.6,02/01/2021
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,0,0.01,-0.01,9000.0,0,0.05,-0.05,1800.0,0.06,-0.06,1500.0,02/01/2021
+"Doherty  Matt Doherty (Tottenham Hotspur, Defender)",TOT,5.0,0,0.02,-0.02,4450.0,0,0.0,0.0,inf,0.02,-0.02,4450.0,02/01/2021
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,0,0.03,-0.03,3000.0,0,0.1,-0.1,900.0,0.13,-0.13,692.3,02/01/2021
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,1,0.09,0.91,966.7,1,1.03,-0.03,84.5,1.12,0.88,77.7,02/01/2021
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,02/01/2021
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.01,-0.01,7800.0,0,0.09,-0.09,866.7,0.1,-0.1,780.0,02/01/2021
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,02/01/2021
+"Sissoko  Moussa Sissoko (Tottenham Hotspur, Midfielder)",TOT,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,02/01/2021
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,1,0.13,0.87,692.3,1,0.35,0.65,257.1,0.48,1.52,187.5,02/01/2021
+"Winks  Harry Winks (Tottenham Hotspur, Midfielder)",TOT,4.5,0,0.02,-0.02,3800.0,0,0.03,-0.03,2533.3,0.05,-0.05,1520.0,02/01/2021

@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Aubameyang  Pierre-Emerick Aubameyang (Arsenal, Midfielder)",ARS,10.0,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,18,14/01/2021,MID,True
+"Bellerín  Héctor Bellerín (Arsenal, Defender)",ARS,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,18,14/01/2021,DEF,True
+"Dani Ceballos  Daniel Ceballos Fernández (Arsenal, Midfielder)",ARS,4.7,1,69,0,1,0,0,0,0,1,0,0,0,0,CRY,18,14/01/2021,MID,True
+"Holding  Rob Holding (Arsenal, Defender)",ARS,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,18,14/01/2021,DEF,True
+"Lacazette  Alexandre Lacazette (Arsenal, Forward)",ARS,8.5,1,81,0,1,0,0,0,0,1,0,0,0,0,CRY,18,14/01/2021,FWD,True
+"Leno  Bernd Leno (Arsenal, Goalkeeper)",ARS,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,18,14/01/2021,GKP,True
+"Luiz  David Luiz Moreira Marinho (Arsenal, Defender)",ARS,5.4,1,90,0,0,0,0,0,0,1,0,0,1,0,CRY,18,14/01/2021,DEF,True
+"Maitland-Niles  Ainsley Maitland-Niles (Arsenal, Defender)",ARS,5.5,1,65,0,1,0,0,0,0,1,0,0,0,0,CRY,18,14/01/2021,DEF,True
+"Eddie Nketiah  Edward Nketiah (Arsenal, Forward)",ARS,5.5,0,9,1,0,0,0,0,0,0,0,0,0,0,CRY,18,14/01/2021,FWD,True
+"Partey  Thomas Partey (Arsenal, Midfielder)",ARS,5.0,0,21,1,0,0,0,0,0,0,0,0,0,0,CRY,18,14/01/2021,MID,True
+"Pepe  Nicolas Pepe (Arsenal, Midfielder)",ARS,7.5,0,25,1,0,0,0,0,0,0,0,0,0,0,CRY,18,14/01/2021,MID,True
+"Saka  Bukayo Saka (Arsenal, Midfielder)",ARS,6.5,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,18,14/01/2021,MID,True
+"Smith-Rowe  Emile Smith-Rowe (Arsenal, Midfielder)",ARS,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,18,14/01/2021,MID,True
+"Xhaka  Granit Xhaka (Arsenal, Midfielder)",ARS,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,18,14/01/2021,MID,True
+"Jordan Ayew  Jordan Ayew (Crystal Palace, Forward)",CRY,6.0,0,9,1,0,0,0,0,0,0,0,0,0,0,ARS,18,14/01/2021,FWD,False
+"Benteke  Christian Benteke (Crystal Palace, Forward)",CRY,6.5,1,81,0,1,0,0,0,0,1,0,0,0,0,ARS,18,14/01/2021,FWD,False
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,ARS,18,14/01/2021,MID,False
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,ARS,18,14/01/2021,GKP,False
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,ARS,18,14/01/2021,MID,False
+"McArthur  James McArthur (Crystal Palace, Midfielder)",CRY,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,ARS,18,14/01/2021,MID,False
+"McCarthy (James)  James McCarthy (Crystal Palace, Midfielder)",CRY,4.3,0,1,1,0,0,0,0,0,0,0,0,0,0,ARS,18,14/01/2021,MID,False
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,1,89,0,1,0,0,0,0,1,0,0,0,0,ARS,18,14/01/2021,MID,False
+"Mitchell  Tyrick Mitchell (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,ARS,18,14/01/2021,DEF,False
+"Tomkins  James Tomkins (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,0,0,1,0,0,1,0,ARS,18,14/01/2021,DEF,False
+"Townsend (Andros)  Andros Townsend (Crystal Palace, Midfielder)",CRY,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,ARS,18,14/01/2021,MID,False
+"Ward (Joel)  Joel Ward (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,ARS,18,14/01/2021,DEF,False
+"Zaha  Wilfried Zaha (Crystal Palace, Midfielder)",CRY,7.0,1,90,0,0,0,0,0,0,1,0,0,0,0,ARS,18,14/01/2021,MID,False

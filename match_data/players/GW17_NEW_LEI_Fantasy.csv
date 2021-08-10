@@ -1,0 +1,27 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,1,90,0,0,0,1,0,1,0,1,0,0,0,NEW,17,03/01/2021,MID,False
+"Barnes (Harvey)  Harvey Barnes (Leicester City, Midfielder)",LEI,7.0,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,17,03/01/2021,MID,False
+"Castagne  Timothy Castagne (Leicester City, Defender)",LEI,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,17,03/01/2021,DEF,False
+"Evans  Jonny Evans (Leicester City, Defender)",LEI,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,17,03/01/2021,DEF,False
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,17,03/01/2021,DEF,False
+"Justin  James Justin (Leicester City, Defender)",LEI,5.0,1,90,0,0,0,0,0,0,0,1,0,1,0,NEW,17,03/01/2021,DEF,False
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,1,79,0,1,1,0,0,0,1,0,0,0,0,NEW,17,03/01/2021,MID,False
+"Ndidi  Onyinye Wilfred Ndidi (Leicester City, Midfielder)",LEI,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,17,03/01/2021,MID,False
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,17,03/01/2021,GKP,False
+"Söyüncü  Caglar Söyüncü (Leicester City, Defender)",LEI,5.0,0,11,1,0,0,0,0,0,0,1,0,0,0,NEW,17,03/01/2021,DEF,False
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,1,90,0,0,1,0,0,0,0,1,0,1,0,NEW,17,03/01/2021,MID,False
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,1,90,0,0,0,1,0,1,0,1,0,0,0,NEW,17,03/01/2021,FWD,False
+"Almirón  Miguel Almirón (Newcastle United, Midfielder)",NEW,5.5,1,64,0,1,0,0,0,0,0,1,0,0,0,LEI,17,03/01/2021,MID,True
+"Joelinton  Joelinton Cássio Apolinário de Lira (Newcastle United, Forward)",NEW,6.0,1,65,0,1,0,0,0,0,0,1,0,0,0,LEI,17,03/01/2021,FWD,True
+"Carroll  Andy Carroll (Newcastle United, Forward)",NEW,5.1,0,11,1,0,1,0,0,0,0,0,0,0,0,LEI,17,03/01/2021,FWD,True
+"Clark  Ciaran Clark (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,17,03/01/2021,DEF,True
+"Darlow  Karl Darlow (Newcastle United, Goalkeeper)",NEW,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,17,03/01/2021,GKP,True
+"Fernández  Federico Fernández (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,17,03/01/2021,DEF,True
+"Longstaff (Sean)  Sean Longstaff (Newcastle United, Midfielder)",NEW,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,17,03/01/2021,MID,True
+"Longstaff (Matthew)  Matthew Longstaff (Newcastle United, Midfielder)",NEW,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,17,03/01/2021,MID,True
+"Jacob Murphy  Jacob Murphy (Newcastle United, Midfielder)",NEW,5.0,0,26,1,0,0,0,0,0,0,1,0,0,0,LEI,17,03/01/2021,MID,True
+"Ritchie  Matt Ritchie (Newcastle United, Midfielder)",NEW,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,17,03/01/2021,MID,True
+"Schär  Fabian Schär (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,17,03/01/2021,DEF,True
+"Shelvey  Jonjo Shelvey (Newcastle United, Midfielder)",NEW,5.5,0,25,1,0,0,0,0,0,0,1,0,0,0,LEI,17,03/01/2021,MID,True
+"C Wilson  Callum Wilson (Newcastle United, Forward)",NEW,7.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,17,03/01/2021,FWD,True
+"Yedlin  DeAndre Yedlin (Newcastle United, Defender)",NEW,4.3,1,79,0,1,0,0,0,0,0,2,0,0,0,LEI,17,03/01/2021,DEF,True

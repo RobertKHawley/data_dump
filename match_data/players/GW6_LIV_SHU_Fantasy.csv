@@ -1,0 +1,27 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,6,24/10/2020,DEF,True
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,1,83,0,1,1,0,0,0,0,1,0,0,0,SHU,6,24/10/2020,FWD,True
+"Gomez  Joseph Gomez (Liverpool, Defender)",LIV,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,6,24/10/2020,DEF,True
+"Henderson (Jordan)  Jordan Henderson (Liverpool, Midfielder)",LIV,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,6,24/10/2020,MID,True
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,1,90,0,0,0,1,1,2,0,1,0,0,0,SHU,6,24/10/2020,MID,True
+"Milner  James Milner (Liverpool, Midfielder)",LIV,5.0,0,7,1,0,0,0,0,0,0,0,0,0,0,SHU,6,24/10/2020,MID,True
+"Minamino  Takumi Minamino (Liverpool, Midfielder)",LIV,5.5,0,7,1,0,0,0,0,0,0,0,0,0,0,SHU,6,24/10/2020,MID,True
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,6,24/10/2020,GKP,True
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,6,24/10/2020,DEF,True
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,6,24/10/2020,MID,True
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,6,24/10/2020,MID,True
+"Diogo Jota  Diogo José Teixeira da Silva (Liverpool, Midfielder)",LIV,7.5,1,83,0,1,1,0,0,0,0,1,0,0,0,SHU,6,24/10/2020,MID,True
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,6,24/10/2020,MID,True
+"Ampadu  Ethan Ampadu (Sheffield United, Defender)",SHU,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,6,24/10/2020,DEF,False
+"Baldock  George Baldock (Sheffield United, Defender)",SHU,4.9,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,6,24/10/2020,DEF,False
+"Basham  Chris Basham (Sheffield United, Defender)",SHU,4.6,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,6,24/10/2020,DEF,False
+"Berge  Sander Berge (Sheffield United, Midfielder)",SHU,4.9,1,90,0,0,1,0,0,0,0,2,0,1,0,LIV,6,24/10/2020,MID,False
+"Brewster  Rhian Brewster (Sheffield United, Forward)",SHU,4.2,1,54,0,1,0,0,0,0,0,1,0,0,0,LIV,6,24/10/2020,FWD,False
+"Oliver Burke  Oliver Burke (Sheffield United, Midfielder)",SHU,4.1,0,36,1,0,0,0,0,0,0,1,0,0,0,LIV,6,24/10/2020,MID,False
+"Egan  John Egan (Sheffield United, Defender)",SHU,4.7,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,6,24/10/2020,DEF,False
+"Lundstram  John Lundstram (Sheffield United, Midfielder)",SHU,4.8,1,76,0,1,0,0,0,0,0,2,0,1,0,LIV,6,24/10/2020,MID,False
+"McBurnie  Oliver McBurnie (Sheffield United, Forward)",SHU,5.6,1,90,0,0,0,0,1,1,0,2,0,0,0,LIV,6,24/10/2020,FWD,False
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,0,14,1,0,0,0,0,0,0,0,0,0,0,LIV,6,24/10/2020,FWD,False
+"Osborn  Ben Osborn (Sheffield United, Midfielder)",SHU,4.7,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,6,24/10/2020,MID,False
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,6,24/10/2020,GKP,False
+"Stevens (Enda)  Enda Stevens (Sheffield United, Defender)",SHU,5.0,1,90,0,0,0,0,0,0,0,2,0,1,0,LIV,6,24/10/2020,DEF,False

@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Bernard  Bernard Anício Caldeira Duarte (Everton, Midfielder)",EVE,5.5,0,8,1,0,0,0,0,0,0,0,0,0,0,LEE,10,28/11/2020,MID,True
+"Calvert-Lewin  Dominic Calvert-Lewin (Everton, Forward)",EVE,8.0,1,90,0,0,0,0,0,0,0,1,0,0,0,LEE,10,28/11/2020,FWD,True
+"Davies (Tom)  Tom Davies (Everton, Midfielder)",EVE,5.0,1,61,0,1,0,0,0,0,1,0,0,0,0,LEE,10,28/11/2020,MID,True
+"Delph  Fabian Delph (Everton, Midfielder)",EVE,4.5,0,29,1,0,0,0,0,0,0,1,0,0,0,LEE,10,28/11/2020,MID,True
+"Doucouré  Abdoulaye Doucouré (Everton, Midfielder)",EVE,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,LEE,10,28/11/2020,MID,True
+"Godfrey  Ben Godfrey (Everton, Defender)",EVE,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,LEE,10,28/11/2020,DEF,True
+"Holgate  Mason Holgate (Everton, Defender)",EVE,4.5,1,82,0,1,0,0,0,0,0,1,0,0,0,LEE,10,28/11/2020,DEF,True
+"Iwobi  Alex Iwobi (Everton, Midfielder)",EVE,6.0,1,67,0,1,0,0,0,0,1,0,0,0,0,LEE,10,28/11/2020,MID,True
+"Keane  Michael Keane (Everton, Defender)",EVE,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,LEE,10,28/11/2020,DEF,True
+"Allan  Allan Marques Loureiro (Everton, Midfielder)",EVE,4.5,1,90,0,0,0,0,0,0,0,1,0,1,0,LEE,10,28/11/2020,MID,True
+"Pickford  Jordan Pickford (Everton, Goalkeeper)",EVE,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,LEE,10,28/11/2020,GKP,True
+"Rodríguez  James Rodríguez (Everton, Midfielder)",EVE,7.0,1,90,0,0,0,0,0,0,0,1,0,0,0,LEE,10,28/11/2020,MID,True
+"André Gomes  André Filipe Tavares Gomes (Everton, Midfielder)",EVE,5.0,0,23,1,0,0,0,0,0,0,1,0,0,0,LEE,10,28/11/2020,MID,True
+"Richarlison  Richarlison de Andrade (Everton, Forward)",EVE,7.5,1,90,0,0,0,0,0,0,0,1,0,0,0,LEE,10,28/11/2020,FWD,True
+"Alioski  Ezgjan Alioski (Leeds United, Defender)",LEE,4.4,1,90,0,0,0,0,0,0,1,0,0,0,0,EVE,10,28/11/2020,DEF,False
+"Ayling  Luke Ayling (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,1,0,0,1,0,EVE,10,28/11/2020,DEF,False
+"Bamford  Patrick Bamford (Leeds United, Forward)",LEE,8.0,1,89,0,1,0,0,0,0,1,0,0,0,0,EVE,10,28/11/2020,FWD,False
+"Cooper  Liam Cooper (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,1,0,0,1,0,EVE,10,28/11/2020,DEF,False
+"Hélder Costa  Helder Costa (Leeds United, Midfielder)",LEE,5.5,0,1,1,0,0,0,0,0,0,0,0,0,0,EVE,10,28/11/2020,MID,False
+"Dallas  Stuart Dallas (Leeds United, Defender)",LEE,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,EVE,10,28/11/2020,DEF,False
+"Raphinha  Raphael Dias Belloli (Leeds United, Midfielder)",LEE,6.5,1,85,0,1,1,0,0,0,1,0,0,0,0,EVE,10,28/11/2020,MID,False
+"Harrison  Jack Harrison (Leeds United, Midfielder)",LEE,6.0,1,89,0,1,0,1,0,1,1,0,0,0,0,EVE,10,28/11/2020,MID,False
+"Klich  Mateusz Klich (Leeds United, Midfielder)",LEE,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,EVE,10,28/11/2020,MID,False
+"Koch  Robin Koch (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,EVE,10,28/11/2020,DEF,False
+"Meslier  Illan Meslier (Leeds United, Goalkeeper)",LEE,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,EVE,10,28/11/2020,GKP,False
+"Rodrigo  Rodrigo Moreno Machado (Leeds United, Forward)",LEE,6.5,0,1,1,0,0,0,0,0,0,0,0,0,0,EVE,10,28/11/2020,FWD,False
+"Phillips (Kalvin)  Kalvin Phillips (Leeds United, Midfielder)",LEE,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,EVE,10,28/11/2020,MID,False
+"Poveda-Ocampo  Ian Carlo Poveda-Ocampo (Leeds United, Midfielder)",LEE,4.5,0,5,1,0,0,0,0,0,0,0,0,0,0,EVE,10,28/11/2020,MID,False

@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Barkley  Ross Barkley (Aston Villa, Midfielder)",AVL,5.5,0,0.04,-0.04,1925.0,0,0.02,-0.02,3850.0,0.06,-0.06,1283.3,09/05/2021
+"Cash  Matthew Cash (Aston Villa, Defender)",AVL,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,09/05/2021
+"Davis (Keinan)  Keinan Davis (Aston Villa, Forward)",AVL,4.5,0,0.06,-0.06,216.7,0,0.0,0.0,inf,0.06,-0.06,216.7,09/05/2021
+"El Ghazi  Anwar El Ghazi (Aston Villa, Midfielder)",AVL,6.0,0,0.02,-0.02,3900.0,0,0.1,-0.1,780.0,0.12,-0.12,650.0,09/05/2021
+"Konsa Ngoyo  Ezri Konsa Ngoyo (Aston Villa, Defender)",AVL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,09/05/2021
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,09/05/2021
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,0,0.07,-0.07,1285.7,0,0.0,0.0,inf,0.07,-0.07,1285.7,09/05/2021
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,09/05/2021
+"Wesley  Wesley Moraes Ferreira da Silva (Aston Villa, Forward)",AVL,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,09/05/2021
+"Jacob Ramsey  Jacob Ramsey (Aston Villa, Midfielder)",AVL,4.5,0,0.01,-0.01,2500.0,0,0.0,0.0,inf,0.01,-0.01,2500.0,09/05/2021
+"Douglas Luiz  Douglas Luiz Soares de Paulo (Aston Villa, Midfielder)",AVL,4.5,0,0.02,-0.02,3250.0,0,0.02,-0.02,3250.0,0.04,-0.04,1625.0,09/05/2021
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,0,0.11,-0.11,818.2,0,0.03,-0.03,3000.0,0.14,-0.14,642.9,09/05/2021
+"Traore (Bertrand)  Bertrand Traore (Aston Villa, Midfielder)",AVL,6.0,0,0.0,0.0,inf,1,0.24,0.76,375.0,0.24,0.76,375.0,09/05/2021
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,0,0.02,-0.02,4450.0,0,0.11,-0.11,809.1,0.13,-0.13,684.6,09/05/2021
+"Bailly  Eric Bailly (Manchester United, Defender)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,09/05/2021
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,0,0.17,-0.17,505.9,1,0.99,0.01,86.9,1.16,-0.16,74.1,09/05/2021
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,0,0.01,-0.01,2500.0,1,0.33,0.67,75.8,0.34,0.66,73.5,09/05/2021
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,0,0.02,-0.02,3250.0,1,0.13,0.87,500.0,0.15,0.85,433.3,09/05/2021
+"Henderson (Dean)  Dean Henderson (Manchester United, Goalkeeper)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,09/05/2021
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,0,0.0,0.0,inf,0,0.03,-0.03,2600.0,0.03,-0.03,2600.0,09/05/2021
+"Matic  Nemanja Matic (Manchester United, Midfielder)",MUN,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,09/05/2021
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,09/05/2021
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,09/05/2021
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,0,0.08,-0.08,1125.0,0,0.07,-0.07,1285.7,0.15,-0.15,600.0,09/05/2021
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,1,0.3,0.7,300.0,0,0.08,-0.08,1125.0,0.38,0.62,236.8,09/05/2021
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,0,0.06,-0.06,1500.0,0,0.03,-0.03,3000.0,0.09,-0.09,1000.0,09/05/2021
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,0,0.1,-0.1,900.0,0,0.09,-0.09,1000.0,0.19,-0.19,473.7,09/05/2021
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,1,0.05,0.95,1800.0,0,0.0,0.0,inf,0.05,0.95,1800.0,09/05/2021

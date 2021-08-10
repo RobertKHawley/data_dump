@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"João Cancelo  João Pedro Cavaco Cancelo (Manchester City, Defender)",MCI,6.0,1,0.26,0.74,346.2,1,0.13,0.87,692.3,0.39,1.61,230.8,26/01/2021
+"Foden  Phil Foden (Manchester City, Midfielder)",MCI,8.0,0,0.06,-0.06,866.7,0,0.17,-0.17,305.9,0.23,-0.23,226.1,26/01/2021
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,26/01/2021
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,0,0.05,-0.05,1040.0,2,0.37,1.63,140.5,0.42,1.58,123.8,26/01/2021
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,0,0.09,-0.09,1000.0,0,0.02,-0.02,4500.0,0.11,-0.11,818.2,26/01/2021
+"Laporte  Aymeric Laporte (Manchester City, Defender)",MCI,5.5,0,0.0,0.0,inf,0,0.06,-0.06,633.3,0.06,-0.06,633.3,26/01/2021
+"Mahrez  Riyad Mahrez (Manchester City, Midfielder)",MCI,9.0,1,0.67,0.33,134.3,1,0.14,0.86,642.9,0.81,1.19,111.1,26/01/2021
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/01/2021
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,1,0.1,0.9,900.0,1,0.92,0.08,97.8,1.02,0.98,88.2,26/01/2021
+"Stones  John Stones (Manchester City, Defender)",MCI,5.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,26/01/2021
+"Torres  Ferran Torres (Manchester City, Midfielder)",MCI,7.0,0,0.06,-0.06,633.3,0,0.05,-0.05,760.0,0.11,-0.11,345.5,26/01/2021
+"Bernardo Silva  Bernardo Mota Veiga de Carvalho e Silva (Manchester City, Midfielder)",MCI,7.0,1,0.07,0.93,871.4,0,0.0,0.0,inf,0.07,0.93,871.4,26/01/2021
+"Zinchenko  Oleksandr Zinchenko (Manchester City, Defender)",MCI,5.5,0,0.09,-0.09,1000.0,0,0.0,0.0,inf,0.09,-0.09,1000.0,26/01/2021
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,0,0.03,-0.03,966.7,0,0.0,0.0,inf,0.03,-0.03,966.7,26/01/2021
+"Ajayi  Semi Ajayi (West Bromwich Albion, Defender)",WBA,4.8,0,0.01,-0.01,9000.0,0,0.24,-0.24,375.0,0.25,-0.25,360.0,26/01/2021
+"Bartley  Kyle Bartley (West Bromwich Albion, Defender)",WBA,4.4,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/01/2021
+"Matheus Pereira  Matheus Fellipe Costa Pereira (West Bromwich Albion, Midfielder)",WBA,5.4,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,26/01/2021
+"Furlong  Darnell Furlong (West Bromwich Albion, Defender)",WBA,4.5,0,0.0,0.0,inf,0,0.13,-0.13,692.3,0.13,-0.13,692.3,26/01/2021
+"Gibbs  Kieran Gibbs (West Bromwich Albion, Defender)",WBA,4.3,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/01/2021
+"Grant (Karlan)  Karlan Grant (West Bromwich Albion, Forward)",WBA,5.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/01/2021
+"Johnstone  Sam Johnstone (West Bromwich Albion, Goalkeeper)",WBA,4.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/01/2021
+"Livermore  Jake Livermore (West Bromwich Albion, Midfielder)",WBA,4.7,0,0.01,-0.01,9000.0,0,0.14,-0.14,642.9,0.15,-0.15,600.0,26/01/2021
+"O'Shea  Dara O&#039;Shea (West Bromwich Albion, Defender)",WBA,4.2,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/01/2021
+"Phillips (Matthew)  Matthew Phillips (West Bromwich Albion, Midfielder)",WBA,5.1,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/01/2021
+"Robinson (Callum)  Callum Robinson (West Bromwich Albion, Forward)",WBA,5.2,0,0.0,0.0,inf,0,0.07,-0.07,642.9,0.07,-0.07,642.9,26/01/2021
+"Robson-Kanu  Hal Robson-Kanu (West Bromwich Albion, Forward)",WBA,5.2,0,0.01,-0.01,2600.0,0,0.0,0.0,inf,0.01,-0.01,2600.0,26/01/2021
+"Sawyers  Romaine Sawyers (West Bromwich Albion, Midfielder)",WBA,4.6,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,26/01/2021
+"Snodgrass  Robert Snodgrass (West Bromwich Albion, Midfielder)",WBA,5.6,0,0.04,-0.04,1475.0,0,0.0,0.0,inf,0.04,-0.04,1475.0,26/01/2021

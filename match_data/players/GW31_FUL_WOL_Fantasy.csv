@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Aina  Ola Aina (Fulham, Defender)",FUL,4.3,1,84,0,1,0,0,0,0,1,0,0,0,0,WOL,31,09/04/2021,DEF,True
+"Andersen  Joachim Andersen (Fulham, Defender)",FUL,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,31,09/04/2021,DEF,True
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,31,09/04/2021,GKP,True
+"Cavaleiro  Ivan Cavaleiro (Fulham, Midfielder)",FUL,5.3,0,6,1,0,0,0,0,0,0,1,0,0,0,WOL,31,09/04/2021,MID,True
+"DeCordova-Reid  Bobby DeCordova-Reid (Fulham, Forward)",FUL,5.3,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,31,09/04/2021,FWD,True
+"Kongolo  Terence Kongolo (Fulham, Defender)",FUL,4.3,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,31,09/04/2021,DEF,True
+"Lemina  Mario Lemina (Fulham, Midfielder)",FUL,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,31,09/04/2021,MID,True
+"Loftus-Cheek  Ruben Loftus-Cheek (Fulham, Midfielder)",FUL,5.5,1,63,0,1,0,0,0,0,1,0,0,0,0,WOL,31,09/04/2021,MID,True
+"Maja  Josh Maja (Fulham, Forward)",FUL,5.0,0,16,1,0,0,0,0,0,0,1,0,0,0,WOL,31,09/04/2021,FWD,True
+"Mitrovic  Aleksandar Mitrovic (Fulham, Forward)",FUL,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,31,09/04/2021,FWD,True
+"Reed  Harrison Reed (Fulham, Midfielder)",FUL,4.4,1,74,0,1,0,0,0,0,1,0,0,0,0,WOL,31,09/04/2021,MID,True
+"Robinson (Antonee)  Antonee Robinson (Fulham, Defender)",FUL,4.4,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,31,09/04/2021,DEF,True
+"Tete  Kenny Tete (Fulham, Defender)",FUL,4.3,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,31,09/04/2021,DEF,True
+"Zambo Anguissa  André-Frank Zambo Anguissa (Fulham, Midfielder)",FUL,4.4,0,27,1,0,0,0,0,0,0,1,0,0,0,WOL,31,09/04/2021,MID,True
+"Ait Nouri  Rayan Ait Nouri (Wolverhampton Wanderers, Defender)",WOL,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,31,09/04/2021,DEF,False
+"Coady  Conor Coady (Wolverhampton Wanderers, Defender)",WOL,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,31,09/04/2021,DEF,False
+"Willian José  Willian José Da Silva (Wolverhampton Wanderers, Forward)",WOL,6.8,1,78,0,1,0,0,0,0,1,0,0,0,0,FUL,31,09/04/2021,FWD,False
+"Dendoncker (Leander)  Leander Dendoncker (Wolverhampton Wanderers, Midfielder)",WOL,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,31,09/04/2021,MID,False
+"Gibbs-White  Morgan Gibbs-White (Wolverhampton Wanderers, Midfielder)",WOL,4.5,0,16,1,0,0,0,0,0,0,0,0,0,0,FUL,31,09/04/2021,MID,False
+"Moutinho  João Moutinho (Wolverhampton Wanderers, Midfielder)",WOL,5.0,0,58,1,0,0,0,0,0,0,0,0,0,0,FUL,31,09/04/2021,MID,False
+"Neto  Pedro Neto (Wolverhampton Wanderers, Midfielder)",WOL,6.5,1,32,0,1,0,0,0,0,0,0,0,0,0,FUL,31,09/04/2021,MID,False
+"Podence  Daniel Podence (Wolverhampton Wanderers, Midfielder)",WOL,5.5,1,74,0,1,0,0,0,0,1,0,0,0,0,FUL,31,09/04/2021,MID,False
+"Saiss  Romain Saiss (Wolverhampton Wanderers, Defender)",WOL,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,31,09/04/2021,DEF,False
+"Semedo  Nelson Semedo (Wolverhampton Wanderers, Defender)",WOL,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,31,09/04/2021,DEF,False
+"Fabio Silva  Fabio Daniel Soares Silva (Wolverhampton Wanderers, Forward)",WOL,6.0,0,12,1,0,0,1,0,1,0,0,0,0,0,FUL,31,09/04/2021,FWD,False
+"Traoré  Adama Traoré (Wolverhampton Wanderers, Midfielder)",WOL,6.0,1,90,0,0,1,0,0,0,1,0,0,0,0,FUL,31,09/04/2021,MID,False
+"Ruben Neves  Rúben Diogo da Silva Neves (Wolverhampton Wanderers, Midfielder)",WOL,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,31,09/04/2021,MID,False
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,31,09/04/2021,GKP,False

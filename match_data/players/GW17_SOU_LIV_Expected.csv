@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Thiago Alcántara  Thiago Alcántara do Nascimento (Liverpool, Midfielder)",LIV,5.5,0,0.04,-0.04,2250.0,0,0.11,-0.11,818.2,0.15,-0.15,600.0,04/01/2021
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,0,0.07,-0.07,1100.0,0,0.03,-0.03,2566.7,0.1,-0.1,770.0,04/01/2021
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,0,0.17,-0.17,529.4,0,0.17,-0.17,529.4,0.34,-0.34,264.7,04/01/2021
+"Henderson (Jordan)  Jordan Henderson (Liverpool, Midfielder)",LIV,5.0,0,0.02,-0.02,4500.0,0,0.04,-0.04,2250.0,0.06,-0.06,1500.0,04/01/2021
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,0,0.29,-0.29,310.3,0,0.65,-0.65,138.5,0.94,-0.94,95.7,04/01/2021
+"Milner  James Milner (Liverpool, Midfielder)",LIV,5.0,0,0.03,-0.03,433.3,0,0.0,0.0,inf,0.03,-0.03,433.3,04/01/2021
+"Oxlade-Chamberlain  Alex Oxlade-Chamberlain (Liverpool, Midfielder)",LIV,6.0,0,0.01,-0.01,5600.0,0,0.0,0.0,inf,0.01,-0.01,5600.0,04/01/2021
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,04/01/2021
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,0,0.47,-0.47,191.5,0,0.0,0.0,inf,0.47,-0.47,191.5,04/01/2021
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,0,0.19,-0.19,473.7,0,0.35,-0.35,257.1,0.54,-0.54,166.7,04/01/2021
+"Shaqiri  Xherdan Shaqiri (Liverpool, Midfielder)",LIV,6.0,0,0.05,-0.05,680.0,0,0.04,-0.04,850.0,0.09,-0.09,377.8,04/01/2021
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,04/01/2021
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,0,0.11,-0.11,818.2,0,0.14,-0.14,642.9,0.25,-0.25,360.0,04/01/2021
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,0,0.05,-0.05,1800.0,0,0.02,-0.02,4500.0,0.07,-0.07,1285.7,04/01/2021
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,04/01/2021
+"Bertrand  Ryan Bertrand (Southampton, Defender)",SOU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,04/01/2021
+"Diallo  Ibrahima Diallo (Southampton, Midfielder)",SOU,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,04/01/2021
+"Djenepo  Moussa Djenepo (Southampton, Midfielder)",SOU,5.5,0,0.0,0.0,inf,0,0.05,-0.05,640.0,0.05,-0.05,640.0,04/01/2021
+"Forster  Fraser Forster (Southampton, Goalkeeper)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,04/01/2021
+"Ings  Danny Ings (Southampton, Forward)",SOU,8.0,0,0.03,-0.03,2566.7,1,0.12,0.88,641.7,0.15,0.85,513.3,04/01/2021
+"N'Lundulu  Daniel N&#039;Lundulu (Southampton, Forward)",SOU,4.5,0,0.01,-0.01,1300.0,0,0.0,0.0,inf,0.01,-0.01,1300.0,04/01/2021
+"Stephens (Jack)  Jack Stephens (Southampton, Defender)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,04/01/2021
+"Tella  Nathan Tella (Southampton, Midfielder)",SOU,5.0,0,0.0,0.0,inf,0,0.04,-0.04,1450.0,0.04,-0.04,1450.0,04/01/2021
+"Valery  Yann Valery (Southampton, Defender)",SOU,4.7,0,0.0,0.0,inf,0,0.12,-0.12,66.7,0.12,-0.12,66.7,04/01/2021
+"Walcott  Theo Walcott (Southampton, Midfielder)",SOU,6.0,0,0.0,0.0,inf,0,0.02,-0.02,4100.0,0.02,-0.02,4100.0,04/01/2021
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,04/01/2021
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,1,0.02,0.98,4500.0,0,0.0,0.0,inf,0.02,0.98,4500.0,04/01/2021

@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Barkley  Ross Barkley (Aston Villa, Midfielder)",AVL,5.5,0,0.14,-0.14,192.9,0,0.0,0.0,inf,0.14,-0.14,192.9,21/04/2021
+"Cash  Matthew Cash (Aston Villa, Defender)",AVL,5.0,0,0.03,-0.03,1900.0,0,0.0,0.0,inf,0.03,-0.03,1900.0,21/04/2021
+"Davis (Keinan)  Keinan Davis (Aston Villa, Forward)",AVL,4.5,0,0.0,0.0,inf,0,0.1,-0.1,450.0,0.1,-0.1,450.0,21/04/2021
+"El Ghazi  Anwar El Ghazi (Aston Villa, Midfielder)",AVL,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/04/2021
+"Konsa Ngoyo  Ezri Konsa Ngoyo (Aston Villa, Defender)",AVL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/04/2021
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/04/2021
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,0,0.03,-0.03,3000.0,1,0.3,0.7,300.0,0.33,0.67,272.7,21/04/2021
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,21/04/2021
+"Nakamba  Marvelous Nakamba (Aston Villa, Midfielder)",AVL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/04/2021
+"Jacob Ramsey  Jacob Ramsey (Aston Villa, Midfielder)",AVL,4.5,0,0.06,-0.06,750.0,0,0.05,-0.05,900.0,0.11,-0.11,409.1,21/04/2021
+"Douglas Luiz  Douglas Luiz Soares de Paulo (Aston Villa, Midfielder)",AVL,4.5,0,0.02,-0.02,4500.0,0,0.18,-0.18,500.0,0.2,-0.2,450.0,21/04/2021
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,21/04/2021
+"Traore (Bertrand)  Bertrand Traore (Aston Villa, Midfielder)",AVL,6.0,0,0.07,-0.07,1071.4,0,0.04,-0.04,1875.0,0.11,-0.11,681.8,21/04/2021
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,1,0.07,0.93,1285.7,0,0.05,-0.05,1800.0,0.12,0.88,750.0,21/04/2021
+"Foden  Phil Foden (Manchester City, Midfielder)",MCI,8.0,0,0.17,-0.17,529.4,1,0.58,0.42,155.2,0.75,0.25,120.0,21/04/2021
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,0,0.01,-0.01,9000.0,0,0.07,-0.07,1285.7,0.08,-0.08,1125.0,21/04/2021
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,0,0.16,-0.16,562.5,0,0.1,-0.1,900.0,0.26,-0.26,346.2,21/04/2021
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,0,0.11,-0.11,818.2,1,0.16,0.84,562.5,0.27,0.73,333.3,21/04/2021
+"Laporte  Aymeric Laporte (Manchester City, Defender)",MCI,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/04/2021
+"Fernandinho  Fernando Luiz Rosa (Manchester City, Defender)",MCI,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/04/2021
+"Mahrez  Riyad Mahrez (Manchester City, Midfielder)",MCI,9.0,0,0.15,-0.15,593.3,0,0.2,-0.2,445.0,0.35,-0.35,254.3,21/04/2021
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/04/2021
+"Stones  John Stones (Manchester City, Defender)",MCI,5.5,0,0.01,-0.01,4400.0,0,0.0,0.0,inf,0.01,-0.01,4400.0,21/04/2021
+"Bernardo Silva  Bernardo Mota Veiga de Carvalho e Silva (Manchester City, Midfielder)",MCI,7.0,2,0.59,1.41,152.5,0,0.05,-0.05,1800.0,0.64,1.36,140.6,21/04/2021
+"Walker (Kyle)  Kyle Walker (Manchester City, Defender)",MCI,5.5,0,0.05,-0.05,1800.0,0,0.02,-0.02,4500.0,0.07,-0.07,1285.7,21/04/2021
+"Zinchenko  Oleksandr Zinchenko (Manchester City, Defender)",MCI,5.5,0,0.09,-0.09,1000.0,0,0.02,-0.02,4500.0,0.11,-0.11,818.2,21/04/2021
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,0,0.1,-0.1,450.0,0,0.0,0.0,inf,0.1,-0.1,450.0,21/04/2021

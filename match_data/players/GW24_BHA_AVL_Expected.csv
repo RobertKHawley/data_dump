@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Barkley  Ross Barkley (Aston Villa, Midfielder)",AVL,5.5,0,0.01,-0.01,7600.0,0,0.06,-0.06,1266.7,0.07,-0.07,1085.7,13/02/2021
+"Cash  Matthew Cash (Aston Villa, Defender)",AVL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Elmohamady  Ahmed Elmohamady (Aston Villa, Defender)",AVL,4.2,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Grealish  Jack Grealish (Aston Villa, Midfielder)",AVL,8.0,0,0.04,-0.04,2250.0,0,0.05,-0.05,1800.0,0.09,-0.09,1000.0,13/02/2021
+"Trezeguet  Mahmoud Hassan (Aston Villa, Midfielder)",AVL,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Konsa Ngoyo  Ezri Konsa Ngoyo (Aston Villa, Defender)",AVL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,13/02/2021
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,0,0.06,-0.06,1500.0,0,0.0,0.0,inf,0.06,-0.06,1500.0,13/02/2021
+"Sanson  Morgan Sanson (Aston Villa, Midfielder)",AVL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Douglas Luiz  Douglas Luiz Soares de Paulo (Aston Villa, Midfielder)",AVL,4.5,0,0.01,-0.01,9000.0,0,0.03,-0.03,3000.0,0.04,-0.04,2250.0,13/02/2021
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,13/02/2021
+"Traore (Bertrand)  Bertrand Traore (Aston Villa, Midfielder)",AVL,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,0,0.07,-0.07,1285.7,0,0.0,0.0,inf,0.07,-0.07,1285.7,13/02/2021
+"Alzate  Steven Alzate (Brighton and Hove Albion, Midfielder)",BHA,5.0,0,0.02,-0.02,3100.0,0,0.0,0.0,inf,0.02,-0.02,3100.0,13/02/2021
+"Bissouma  Yves Bissouma (Brighton and Hove Albion, Midfielder)",BHA,4.5,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,13/02/2021
+"Burn  Dan Burn (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.09,-0.09,1000.0,0,0.24,-0.24,375.0,0.33,-0.33,272.7,13/02/2021
+"Dunk  Lewis Dunk (Brighton and Hove Albion, Defender)",BHA,5.0,0,0.02,-0.02,4500.0,0,0.03,-0.03,3000.0,0.05,-0.05,1800.0,13/02/2021
+"Groß  Pascal Groß (Brighton and Hove Albion, Midfielder)",BHA,6.0,0,0.37,-0.37,243.2,0,0.16,-0.16,562.5,0.53,-0.53,169.8,13/02/2021
+"Lallana  Adam Lallana (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.61,-0.61,45.9,0,0.03,-0.03,933.3,0.64,-0.64,43.8,13/02/2021
+"Mac Allister  Alexis Mac Allister (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.08,-0.08,1125.0,0,0.51,-0.51,176.5,0.59,-0.59,152.5,13/02/2021
+"Maupay  Neal Maupay (Brighton and Hove Albion, Forward)",BHA,6.5,0,0.15,-0.15,533.3,0,0.28,-0.28,285.7,0.43,-0.43,186.0,13/02/2021
+"Sanchez  Robert Sanchez (Brighton and Hove Albion, Goalkeeper)",BHA,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Trossard  Leandro Trossard (Brighton and Hove Albion, Midfielder)",BHA,6.5,0,0.31,-0.31,290.3,0,0.29,-0.29,310.3,0.6,-0.6,150.0,13/02/2021
+"Veltman  Joël Veltman (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.37,-0.37,243.2,0,0.09,-0.09,1000.0,0.46,-0.46,195.7,13/02/2021
+"Welbeck  Danny Welbeck (Brighton and Hove Albion, Forward)",BHA,6.0,0,0.0,0.0,inf,0,0.62,-0.62,16.1,0.62,-0.62,16.1,13/02/2021
+"White (Ben)  Ben White (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021

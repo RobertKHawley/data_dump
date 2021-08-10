@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Alonso  Marcos Alonso (Chelsea, Defender)",CHE,5.5,1,90,0,0,1,0,0,0,0,1,0,0,0,MCI,35,08/05/2021,DEF,False
+"Azpilicueta  César Azpilicueta (Chelsea, Defender)",CHE,6.0,1,90,0,0,0,1,0,1,0,1,0,0,0,MCI,35,08/05/2021,DEF,False
+"Christensen  Andreas Christensen (Chelsea, Defender)",CHE,5.0,1,48,0,1,0,0,0,0,0,1,0,0,0,MCI,35,08/05/2021,DEF,False
+"Jorginho  Jorge Luiz Frello Filho (Chelsea, Midfielder)",CHE,6.0,0,22,1,0,0,0,0,0,0,0,0,0,0,MCI,35,08/05/2021,MID,False
+"Gilmour  Billy Gilmour (Chelsea, Midfielder)",CHE,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,35,08/05/2021,MID,False
+"Hudson-Odoi  Callum Hudson-Odoi (Chelsea, Midfielder)",CHE,5.5,0,14,1,0,0,0,0,0,0,0,0,0,0,MCI,35,08/05/2021,MID,False
+"James (Reece)  Reece James (Chelsea, Defender)",CHE,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,35,08/05/2021,DEF,False
+"Kanté  N&#039;Golo Kanté (Chelsea, Midfielder)",CHE,5.0,1,68,0,1,0,0,0,0,0,1,0,0,0,MCI,35,08/05/2021,MID,False
+"Mendy (Edouard)  Edouard Mendy (Chelsea, Goalkeeper)",CHE,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,35,08/05/2021,GKP,False
+"Pulisic  Christian Pulisic (Chelsea, Midfielder)",CHE,8.0,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,35,08/05/2021,MID,False
+"Rüdiger  Antonio Rüdiger (Chelsea, Defender)",CHE,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,35,08/05/2021,DEF,False
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,1,90,0,0,0,1,0,1,0,1,0,0,0,MCI,35,08/05/2021,FWD,False
+"Ziyech  Hakim Ziyech (Chelsea, Midfielder)",CHE,7.5,1,76,0,1,1,0,0,0,0,1,0,0,0,MCI,35,08/05/2021,MID,False
+"Zouma  Kurt Zouma (Chelsea, Defender)",CHE,5.5,0,42,1,0,0,0,0,0,0,0,0,0,0,MCI,35,08/05/2021,DEF,False
+"Aguero  Sergio Aguero (Manchester City, Forward)",MCI,10.3,1,70,0,1,0,1,0,1,0,1,0,0,0,CHE,35,08/05/2021,FWD,True
+"Aké  Nathan Aké (Manchester City, Defender)",MCI,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,CHE,35,08/05/2021,DEF,True
+"João Cancelo  João Pedro Cavaco Cancelo (Manchester City, Defender)",MCI,6.0,1,90,0,0,0,0,0,0,0,2,0,0,0,CHE,35,08/05/2021,DEF,True
+"Foden  Phil Foden (Manchester City, Midfielder)",MCI,8.0,0,20,1,0,0,0,0,0,0,1,0,0,0,CHE,35,08/05/2021,MID,True
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,1,90,0,0,0,0,0,0,0,2,0,0,0,CHE,35,08/05/2021,DEF,True
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,0,19,1,0,0,0,0,0,0,1,0,0,0,CHE,35,08/05/2021,MID,True
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,CHE,35,08/05/2021,MID,True
+"Laporte  Aymeric Laporte (Manchester City, Defender)",MCI,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,CHE,35,08/05/2021,DEF,True
+"Mendy (Benjamin)  Benjamin Mendy (Manchester City, Defender)",MCI,5.5,1,80,0,1,0,0,0,0,0,1,0,0,0,CHE,35,08/05/2021,DEF,True
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,1,90,0,0,0,0,0,0,0,2,0,0,0,CHE,35,08/05/2021,GKP,True
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,1,90,0,0,1,0,0,0,0,2,0,1,0,CHE,35,08/05/2021,MID,True
+"Torres  Ferran Torres (Manchester City, Midfielder)",MCI,7.0,1,71,0,1,0,0,0,0,0,1,0,0,0,CHE,35,08/05/2021,MID,True
+"Zinchenko  Oleksandr Zinchenko (Manchester City, Defender)",MCI,5.5,0,10,1,0,0,0,0,0,0,1,0,0,0,CHE,35,08/05/2021,DEF,True
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,1,90,0,0,0,0,0,0,0,2,0,1,0,CHE,35,08/05/2021,FWD,True

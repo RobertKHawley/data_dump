@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Alzate  Steven Alzate (Brighton and Hove Albion, Midfielder)",BHA,5.0,0,22,1,0,0,0,0,0,0,1,0,0,0,LEI,27,06/03/2021,MID,True
+"Bissouma  Yves Bissouma (Brighton and Hove Albion, Midfielder)",BHA,4.5,1,89,0,1,0,0,0,0,0,2,0,0,0,LEI,27,06/03/2021,MID,True
+"Burn  Dan Burn (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,27,06/03/2021,DEF,True
+"Dunk  Lewis Dunk (Brighton and Hove Albion, Defender)",BHA,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,27,06/03/2021,DEF,True
+"Groß  Pascal Groß (Brighton and Hove Albion, Midfielder)",BHA,6.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,27,06/03/2021,MID,True
+"Jahanbakhsh  Alireza Jahanbakhsh (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,1,1,0,0,0,0,0,0,0,0,0,0,LEI,27,06/03/2021,MID,True
+"Lallana  Adam Lallana (Brighton and Hove Albion, Midfielder)",BHA,5.5,1,90,0,0,1,0,0,0,0,2,0,0,0,LEI,27,06/03/2021,MID,True
+"Mac Allister  Alexis Mac Allister (Brighton and Hove Albion, Midfielder)",BHA,5.5,1,68,0,1,0,0,0,0,0,1,0,0,0,LEI,27,06/03/2021,MID,True
+"Maupay  Neal Maupay (Brighton and Hove Albion, Forward)",BHA,6.5,1,79,0,1,0,1,0,1,0,1,0,0,0,LEI,27,06/03/2021,FWD,True
+"Sanchez  Robert Sanchez (Brighton and Hove Albion, Goalkeeper)",BHA,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,27,06/03/2021,GKP,True
+"Trossard  Leandro Trossard (Brighton and Hove Albion, Midfielder)",BHA,6.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,27,06/03/2021,MID,True
+"Veltman  Joël Veltman (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,27,06/03/2021,DEF,True
+"Welbeck  Danny Welbeck (Brighton and Hove Albion, Forward)",BHA,6.0,0,11,1,0,0,0,0,0,0,1,0,0,0,LEI,27,06/03/2021,FWD,True
+"White (Ben)  Ben White (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,27,06/03/2021,DEF,True
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,0,18,1,0,0,1,0,1,0,0,0,0,0,BHA,27,06/03/2021,MID,False
+"Amartey  Daniel Amartey (Leicester City, Defender)",LEI,4.0,1,90,0,0,1,0,0,0,0,1,0,0,0,BHA,27,06/03/2021,DEF,False
+"Ricardo Pereira  Ricardo Domingos Barbosa Pereira (Leicester City, Defender)",LEI,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,27,06/03/2021,DEF,False
+"Castagne  Timothy Castagne (Leicester City, Defender)",LEI,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,27,06/03/2021,DEF,False
+"Choudhury  Hamza Choudhury (Leicester City, Midfielder)",LEI,4.5,0,1,1,0,0,0,0,0,0,0,0,0,0,BHA,27,06/03/2021,MID,False
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,27,06/03/2021,DEF,False
+"Iheanacho  Kelechi Iheanacho (Leicester City, Forward)",LEI,7.5,1,89,0,1,1,0,0,0,0,1,0,0,0,BHA,27,06/03/2021,FWD,False
+"Ndidi  Onyinye Wilfred Ndidi (Leicester City, Midfielder)",LEI,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,27,06/03/2021,MID,False
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,27,06/03/2021,GKP,False
+"Söyüncü  Caglar Söyüncü (Leicester City, Defender)",LEI,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,27,06/03/2021,DEF,False
+"Tavares (Sidnei)  Sidnei Tavares (Leicester City, Midfielder)",LEI,4.4,1,72,0,1,0,0,0,0,0,1,0,0,0,BHA,27,06/03/2021,MID,False
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,1,90,0,0,0,1,0,1,0,1,0,1,0,BHA,27,06/03/2021,MID,False
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,27,06/03/2021,FWD,False

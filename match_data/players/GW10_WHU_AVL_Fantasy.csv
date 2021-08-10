@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Cash  Matthew Cash (Aston Villa, Defender)",AVL,5.0,1,88,0,1,0,1,0,1,0,2,0,1,0,WHU,10,30/11/2020,DEF,False
+"El Ghazi  Anwar El Ghazi (Aston Villa, Midfielder)",AVL,6.0,0,17,1,0,0,0,0,0,0,0,0,0,0,WHU,10,30/11/2020,MID,False
+"Elmohamady  Ahmed Elmohamady (Aston Villa, Defender)",AVL,4.2,0,2,1,0,0,0,0,0,0,0,0,0,0,WHU,10,30/11/2020,DEF,False
+"Grealish  Jack Grealish (Aston Villa, Midfielder)",AVL,8.0,1,90,0,0,1,0,0,0,0,2,0,0,0,WHU,10,30/11/2020,MID,False
+"Trezeguet  Mahmoud Hassan (Aston Villa, Midfielder)",AVL,5.5,1,73,0,1,0,0,0,0,0,2,0,0,0,WHU,10,30/11/2020,MID,False
+"Hourihane  Conor Hourihane (Aston Villa, Midfielder)",AVL,5.0,1,74,0,1,0,0,0,0,0,2,0,0,0,WHU,10,30/11/2020,MID,False
+"Konsa Ngoyo  Ezri Konsa Ngoyo (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,WHU,10,30/11/2020,DEF,False
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,WHU,10,30/11/2020,GKP,False
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,1,90,0,0,0,0,0,0,0,2,0,0,0,WHU,10,30/11/2020,MID,False
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,WHU,10,30/11/2020,DEF,False
+"Douglas Luiz  Douglas Luiz Soares de Paulo (Aston Villa, Midfielder)",AVL,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,WHU,10,30/11/2020,MID,False
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,WHU,10,30/11/2020,DEF,False
+"Traore (Bertrand)  Bertrand Traore (Aston Villa, Midfielder)",AVL,6.0,0,16,1,0,0,0,0,0,0,0,0,0,0,WHU,10,30/11/2020,MID,False
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,1,90,0,0,0,0,0,0,0,2,0,0,0,WHU,10,30/11/2020,FWD,False
+"Antonio  Michail Antonio (West Ham United, Forward)",WHU,7.5,1,45,0,1,0,0,0,0,0,1,0,0,0,AVL,10,30/11/2020,FWD,True
+"Balbuena  Fabián Balbuena (West Ham United, Defender)",WHU,4.1,1,90,0,0,0,0,0,0,0,1,0,0,0,AVL,10,30/11/2020,DEF,True
+"Benrahma  Said Benrahma (West Ham United, Midfielder)",WHU,6.0,0,45,1,0,0,1,0,1,0,0,0,0,0,AVL,10,30/11/2020,MID,True
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,1,79,0,1,1,1,0,1,0,1,0,0,0,AVL,10,30/11/2020,MID,True
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,AVL,10,30/11/2020,DEF,True
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,AVL,10,30/11/2020,DEF,True
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,AVL,10,30/11/2020,GKP,True
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,1,90,0,0,0,0,0,0,0,1,0,1,0,AVL,10,30/11/2020,MID,True
+"Haller  Sébastien Haller (West Ham United, Forward)",WHU,6.1,0,45,1,0,0,0,0,0,0,0,0,0,0,AVL,10,30/11/2020,FWD,True
+"Masuaku  Arthur Masuaku (West Ham United, Defender)",WHU,4.5,1,45,0,1,0,0,0,0,0,1,0,0,0,AVL,10,30/11/2020,DEF,True
+"Noble  Mark Noble (West Ham United, Midfielder)",WHU,4.5,0,11,1,0,0,0,0,0,0,0,0,0,0,AVL,10,30/11/2020,MID,True
+"Ogbonna  Angelo Ogbonna (West Ham United, Defender)",WHU,5.0,1,90,0,0,1,0,0,0,0,1,0,0,0,AVL,10,30/11/2020,DEF,True
+"Rice  Declan Rice (West Ham United, Midfielder)",WHU,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,AVL,10,30/11/2020,MID,True
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,AVL,10,30/11/2020,MID,True

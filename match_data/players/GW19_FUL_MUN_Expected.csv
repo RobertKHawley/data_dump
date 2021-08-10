@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Tosin  Oluwatosin Adarabioyo (Fulham, Defender)",FUL,4.5,0,0.0,0.0,inf,0,0.03,-0.03,3000.0,0.03,-0.03,3000.0,20/01/2021
+"Aina  Ola Aina (Fulham, Defender)",FUL,4.3,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/01/2021
+"Andersen  Joachim Andersen (Fulham, Defender)",FUL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/01/2021
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/01/2021
+"Bryan (Joe)  Joe Bryan (Fulham, Defender)",FUL,4.5,0,0.0,0.0,inf,0,0.08,-0.08,1125.0,0.08,-0.08,1125.0,20/01/2021
+"Cavaleiro  Ivan Cavaleiro (Fulham, Midfielder)",FUL,5.3,0,0.01,-0.01,7100.0,0,0.0,0.0,inf,0.01,-0.01,7100.0,20/01/2021
+"Kamara  Aboubakar Kamara (Fulham, Midfielder)",FUL,4.8,0,0.06,-0.06,316.7,0,0.0,0.0,inf,0.06,-0.06,316.7,20/01/2021
+"Lemina  Mario Lemina (Fulham, Midfielder)",FUL,4.5,0,0.01,-0.01,1100.0,0,0.03,-0.03,366.7,0.04,-0.04,275.0,20/01/2021
+"Loftus-Cheek  Ruben Loftus-Cheek (Fulham, Midfielder)",FUL,5.5,0,0.04,-0.04,2250.0,0,0.16,-0.16,562.5,0.2,-0.2,450.0,20/01/2021
+"Lookman  Ademola Lookman (Fulham, Midfielder)",FUL,4.7,0,0.01,-0.01,9000.0,1,0.55,0.45,163.6,0.56,0.44,160.7,20/01/2021
+"Mitrovic  Aleksandar Mitrovic (Fulham, Forward)",FUL,5.5,0,0.01,-0.01,700.0,0,0.04,-0.04,175.0,0.05,-0.05,140.0,20/01/2021
+"Reed  Harrison Reed (Fulham, Midfielder)",FUL,4.4,0,0.02,-0.02,4500.0,0,0.03,-0.03,3000.0,0.05,-0.05,1800.0,20/01/2021
+"Tete  Kenny Tete (Fulham, Defender)",FUL,4.3,0,0.07,-0.07,1285.7,0,0.0,0.0,inf,0.07,-0.07,1285.7,20/01/2021
+"Zambo Anguissa  André-Frank Zambo Anguissa (Fulham, Midfielder)",FUL,4.4,1,0.18,0.82,438.9,0,0.0,0.0,inf,0.18,0.82,438.9,20/01/2021
+"Bailly  Eric Bailly (Manchester United, Defender)",MUN,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,20/01/2021
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,0,0.31,-0.31,287.1,0,0.17,-0.17,523.5,0.48,-0.48,185.4,20/01/2021
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,0,0.01,-0.01,9000.0,1,0.83,0.17,108.4,0.84,0.16,107.1,20/01/2021
+"De Gea  David De Gea (Manchester United, Goalkeeper)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/01/2021
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,0,0.03,-0.03,2833.3,0,0.08,-0.08,1062.5,0.11,-0.11,772.7,20/01/2021
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,0,0.04,-0.04,2250.0,0,0.12,-0.12,750.0,0.16,-0.16,562.5,20/01/2021
+"Martial  Anthony Martial (Manchester United, Forward)",MUN,8.0,0,0.04,-0.04,2125.0,0,0.41,-0.41,207.3,0.45,-0.45,188.9,20/01/2021
+"Matic  Nemanja Matic (Manchester United, Midfielder)",MUN,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/01/2021
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/01/2021
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,0,0.04,-0.04,2250.0,1,0.04,0.96,2250.0,0.08,0.92,1125.0,20/01/2021
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/01/2021
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,0,0.04,-0.04,2250.0,0,0.04,-0.04,2250.0,0.08,-0.08,1125.0,20/01/2021
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,0,0.31,-0.31,290.3,0,0.05,-0.05,1800.0,0.36,-0.36,250.0,20/01/2021
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,0,0.13,-0.13,692.3,0,0.0,0.0,inf,0.13,-0.13,692.3,20/01/2021

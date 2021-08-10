@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,1,0.21,0.79,428.6,1,0.99,0.01,90.9,1.2,0.8,75.0,17/10/2020
+"De Gea  David De Gea (Manchester United, Goalkeeper)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/10/2020
+"James (Daniel)  Daniel James (Manchester United, Midfielder)",MUN,6.0,0,0.1,-0.1,760.0,0,0.23,-0.23,330.4,0.33,-0.33,230.3,17/10/2020
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,0,0.0,0.0,inf,1,0.13,0.87,692.3,0.13,0.87,692.3,17/10/2020
+"Mata  Juan Mata (Manchester United, Midfielder)",MUN,5.0,1,0.27,0.73,329.6,0,0.05,-0.05,1780.0,0.32,0.68,278.1,17/10/2020
+"Matic  Nemanja Matic (Manchester United, Midfielder)",MUN,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/10/2020
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,0,0.05,-0.05,1800.0,0,0.06,-0.06,1500.0,0.11,-0.11,818.2,17/10/2020
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/10/2020
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,0,0.02,-0.02,1050.0,0,0.0,0.0,inf,0.02,-0.02,1050.0,17/10/2020
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,2,0.13,1.87,692.3,1,0.59,0.41,152.5,0.72,2.28,125.0,17/10/2020
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,0,0.05,-0.05,1380.0,0,0.09,-0.09,766.7,0.14,-0.14,492.9,17/10/2020
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,0,0.04,-0.04,2250.0,0,0.04,-0.04,2250.0,0.08,-0.08,1125.0,17/10/2020
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,0,0.04,-0.04,2250.0,1,0.11,0.89,818.2,0.15,0.85,600.0,17/10/2020
+"van de Beek  Donny van de Beek (Manchester United, Midfielder)",MUN,6.0,0,0.01,-0.01,1400.0,0,0.0,0.0,inf,0.01,-0.01,1400.0,17/10/2020
+"Almirón  Miguel Almirón (Newcastle United, Midfielder)",NEW,5.5,0,0.06,-0.06,33.3,0,0.0,0.0,inf,0.06,-0.06,33.3,17/10/2020
+"Joelinton  Joelinton Cássio Apolinário de Lira (Newcastle United, Forward)",NEW,6.0,0,0.01,-0.01,7300.0,0,0.0,0.0,inf,0.01,-0.01,7300.0,17/10/2020
+"Darlow  Karl Darlow (Newcastle United, Goalkeeper)",NEW,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/10/2020
+"Fernández  Federico Fernández (Newcastle United, Defender)",NEW,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/10/2020
+"Fraser  Ryan Fraser (Newcastle United, Midfielder)",NEW,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/10/2020
+"Hayden (Isaac)  Isaac Hayden (Newcastle United, Midfielder)",NEW,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/10/2020
+"Hendrick  Jeff Hendrick (Newcastle United, Midfielder)",NEW,5.0,0,0.0,0.0,inf,0,0.05,-0.05,1760.0,0.05,-0.05,1760.0,17/10/2020
+"Krafth  Emil Krafth (Newcastle United, Defender)",NEW,4.5,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,17/10/2020
+"Lascelles  Jamaal Lascelles (Newcastle United, Defender)",NEW,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/10/2020
+"Lewis (Jamal)  Jamal Lewis (Newcastle United, Defender)",NEW,4.5,0,0.22,-0.22,409.1,0,0.0,0.0,inf,0.22,-0.22,409.1,17/10/2020
+"Saint-Maximin  Allan Saint-Maximin (Newcastle United, Midfielder)",NEW,6.5,0,0.36,-0.36,250.0,0,0.02,-0.02,4500.0,0.38,-0.38,236.8,17/10/2020
+"Schär  Fabian Schär (Newcastle United, Defender)",NEW,4.5,0,0.06,-0.06,683.3,0,0.03,-0.03,1366.7,0.09,-0.09,455.6,17/10/2020
+"Shelvey  Jonjo Shelvey (Newcastle United, Midfielder)",NEW,5.5,0,0.02,-0.02,4500.0,0,0.1,-0.1,900.0,0.12,-0.12,750.0,17/10/2020
+"C Wilson  Callum Wilson (Newcastle United, Forward)",NEW,7.5,0,0.01,-0.01,9000.0,0,0.65,-0.65,138.5,0.66,-0.66,136.4,17/10/2020

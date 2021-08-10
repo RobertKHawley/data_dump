@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Alzate  Steven Alzate (Brighton and Hove Albion, Midfielder)",BHA,5.0,0,0.02,-0.02,2250.0,0,0.05,-0.05,900.0,0.07,-0.07,642.9,22/02/2021
+"Bissouma  Yves Bissouma (Brighton and Hove Albion, Midfielder)",BHA,4.5,0,0.02,-0.02,4500.0,0,0.02,-0.02,4500.0,0.04,-0.04,2250.0,22/02/2021
+"Burn  Dan Burn (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.36,-0.36,250.0,0,0.0,0.0,inf,0.36,-0.36,250.0,22/02/2021
+"Dunk  Lewis Dunk (Brighton and Hove Albion, Defender)",BHA,5.0,0,0.05,-0.05,1800.0,0,0.07,-0.07,1285.7,0.12,-0.12,750.0,22/02/2021
+"Groß  Pascal Groß (Brighton and Hove Albion, Midfielder)",BHA,6.0,0,0.14,-0.14,578.6,0,0.14,-0.14,578.6,0.28,-0.28,289.3,22/02/2021
+"Jahanbakhsh  Alireza Jahanbakhsh (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.0,0.0,inf,0,0.07,-0.07,128.6,0.07,-0.07,128.6,22/02/2021
+"Lallana  Adam Lallana (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.01,-0.01,2200.0,0,0.15,-0.15,146.7,0.16,-0.16,137.5,22/02/2021
+"Mac Allister  Alexis Mac Allister (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.05,-0.05,1360.0,0,0.1,-0.1,680.0,0.15,-0.15,453.3,22/02/2021
+"Maupay  Neal Maupay (Brighton and Hove Albion, Forward)",BHA,6.5,0,0.32,-0.32,281.3,0,0.11,-0.11,818.2,0.43,-0.43,209.3,22/02/2021
+"Sanchez  Robert Sanchez (Brighton and Hove Albion, Goalkeeper)",BHA,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,22/02/2021
+"Trossard  Leandro Trossard (Brighton and Hove Albion, Midfielder)",BHA,6.5,0,0.22,-0.22,409.1,0,0.67,-0.67,134.3,0.89,-0.89,101.1,22/02/2021
+"Veltman  Joël Veltman (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.1,-0.1,900.0,1,0.46,0.54,195.7,0.56,0.44,160.7,22/02/2021
+"Welbeck  Danny Welbeck (Brighton and Hove Albion, Forward)",BHA,6.0,0,0.04,-0.04,1125.0,0,0.78,-0.78,57.7,0.82,-0.82,54.9,22/02/2021
+"White (Ben)  Ben White (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.03,-0.03,3000.0,0,0.04,-0.04,2250.0,0.07,-0.07,1285.7,22/02/2021
+"Jordan Ayew  Jordan Ayew (Crystal Palace, Forward)",CRY,6.0,1,0.23,0.77,391.3,0,0.0,0.0,inf,0.23,0.77,391.3,22/02/2021
+"Benteke  Christian Benteke (Crystal Palace, Forward)",CRY,6.5,0,0.0,0.0,inf,1,0.07,0.93,214.3,0.07,0.93,214.3,22/02/2021
+"Cahill  Gary Cahill (Crystal Palace, Defender)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,22/02/2021
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,22/02/2021
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,22/02/2021
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,22/02/2021
+"Mateta  Jean-Philippe Mateta (Crystal Palace, Forward)",CRY,5.5,0,0.0,0.0,inf,1,0.16,0.84,468.8,0.16,0.84,468.8,22/02/2021
+"McCarthy (James)  James McCarthy (Crystal Palace, Midfielder)",CRY,4.3,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,22/02/2021
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,22/02/2021
+"Mitchell  Tyrick Mitchell (Crystal Palace, Defender)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,22/02/2021
+"Riedewald  Jairo Riedewald (Crystal Palace, Midfielder)",CRY,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,22/02/2021
+"Townsend (Andros)  Andros Townsend (Crystal Palace, Midfielder)",CRY,5.5,1,0.01,0.99,9000.0,0,0.0,0.0,inf,0.01,0.99,9000.0,22/02/2021
+"Ward (Joel)  Joel Ward (Crystal Palace, Defender)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,22/02/2021

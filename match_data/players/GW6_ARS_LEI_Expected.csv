@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Aubameyang  Pierre-Emerick Aubameyang (Arsenal, Midfielder)",ARS,10.0,0,0.03,-0.03,3000.0,0,0.09,-0.09,1000.0,0.12,-0.12,750.0,25/10/2020
+"Bellerín  Héctor Bellerín (Arsenal, Defender)",ARS,5.0,0,0.01,-0.01,9000.0,0,0.06,-0.06,1500.0,0.07,-0.07,1285.7,25/10/2020
+"Dani Ceballos  Daniel Ceballos Fernández (Arsenal, Midfielder)",ARS,4.7,0,0.12,-0.12,750.0,0,0.0,0.0,inf,0.12,-0.12,750.0,25/10/2020
+"Lacazette  Alexandre Lacazette (Arsenal, Forward)",ARS,8.5,0,0.02,-0.02,4500.0,0,0.16,-0.16,562.5,0.18,-0.18,500.0,25/10/2020
+"Leno  Bernd Leno (Arsenal, Goalkeeper)",ARS,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/10/2020
+"Luiz  David Luiz Moreira Marinho (Arsenal, Defender)",ARS,5.4,0,0.04,-0.04,1225.0,0,0.0,0.0,inf,0.04,-0.04,1225.0,25/10/2020
+"Mustafi  Shkodran Mustafi (Arsenal, Defender)",ARS,5.0,0,0.01,-0.01,4100.0,0,0.0,0.0,inf,0.01,-0.01,4100.0,25/10/2020
+"Eddie Nketiah  Edward Nketiah (Arsenal, Forward)",ARS,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/10/2020
+"Partey  Thomas Partey (Arsenal, Midfielder)",ARS,5.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,25/10/2020
+"Pepe  Nicolas Pepe (Arsenal, Midfielder)",ARS,7.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/10/2020
+"Saka  Bukayo Saka (Arsenal, Midfielder)",ARS,6.5,0,0.04,-0.04,1625.0,0,0.17,-0.17,382.4,0.21,-0.21,309.5,25/10/2020
+"Tierney  Kieran Tierney (Arsenal, Defender)",ARS,5.0,0,0.32,-0.32,253.1,0,0.0,0.0,inf,0.32,-0.32,253.1,25/10/2020
+"Xhaka  Granit Xhaka (Arsenal, Midfielder)",ARS,5.0,0,0.02,-0.02,4500.0,0,0.07,-0.07,1285.7,0.09,-0.09,1000.0,25/10/2020
+"Gabriel Magalhães  Gabriel dos Santos Magalhães (Arsenal, Defender)",ARS,5.0,0,0.02,-0.02,4500.0,0,0.17,-0.17,529.4,0.19,-0.19,473.7,25/10/2020
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,0,0.01,-0.01,500.0,0,0.0,0.0,inf,0.01,-0.01,500.0,25/10/2020
+"Barnes (Harvey)  Harvey Barnes (Leicester City, Midfielder)",LEI,7.0,0,0.01,-0.01,7500.0,0,0.0,0.0,inf,0.01,-0.01,7500.0,25/10/2020
+"Castagne  Timothy Castagne (Leicester City, Defender)",LEI,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,25/10/2020
+"Evans  Jonny Evans (Leicester City, Defender)",LEI,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/10/2020
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/10/2020
+"Fuchs  Christian Fuchs (Leicester City, Defender)",LEI,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,25/10/2020
+"Justin  James Justin (Leicester City, Defender)",LEI,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,25/10/2020
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,0,0.03,-0.03,2833.3,0,0.11,-0.11,772.7,0.14,-0.14,607.1,25/10/2020
+"Mendy (Nampalys)  Nampalys Mendy (Leicester City, Midfielder)",LEI,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,25/10/2020
+"Praet  Dennis Praet (Leicester City, Midfielder)",LEI,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/10/2020
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/10/2020
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,0,0.17,-0.17,529.4,0,0.0,0.0,inf,0.17,-0.17,529.4,25/10/2020
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,0,0.02,-0.02,1500.0,1,0.61,0.39,49.2,0.63,0.37,47.6,25/10/2020
+"Ünder  Cengiz Ünder (Leicester City, Midfielder)",LEI,5.7,1,0.33,0.67,45.5,0,0.0,0.0,inf,0.33,0.67,45.5,25/10/2020

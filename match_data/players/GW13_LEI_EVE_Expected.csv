@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Calvert-Lewin  Dominic Calvert-Lewin (Everton, Forward)",EVE,8.0,0,0.0,0.0,inf,0,0.82,-0.82,108.5,0.82,-0.82,108.5,16/12/2020
+"Doucouré  Abdoulaye Doucouré (Everton, Midfielder)",EVE,5.5,0,0.05,-0.05,1800.0,0,0.02,-0.02,4500.0,0.07,-0.07,1285.7,16/12/2020
+"Godfrey  Ben Godfrey (Everton, Defender)",EVE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Gordon (Anthony)  Anthony Gordon (Everton, Midfielder)",EVE,4.3,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Holgate  Mason Holgate (Everton, Defender)",EVE,4.5,0,0.06,-0.06,1500.0,1,0.68,0.32,132.4,0.74,0.26,121.6,16/12/2020
+"Iwobi  Alex Iwobi (Everton, Midfielder)",EVE,6.0,1,0.14,0.86,635.7,0,0.05,-0.05,1780.0,0.19,0.81,468.4,16/12/2020
+"Keane  Michael Keane (Everton, Defender)",EVE,5.0,0,0.0,0.0,inf,0,0.12,-0.12,750.0,0.12,-0.12,750.0,16/12/2020
+"Kenny  Jonjoe Kenny (Everton, Defender)",EVE,4.3,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Allan  Allan Marques Loureiro (Everton, Midfielder)",EVE,4.5,0,0.05,-0.05,820.0,0,0.0,0.0,inf,0.05,-0.05,820.0,16/12/2020
+"Mina  Yerry Mina (Everton, Defender)",EVE,5.0,0,0.0,0.0,inf,0,0.11,-0.11,818.2,0.11,-0.11,818.2,16/12/2020
+"Olsen  Robin Olsen (Everton, Goalkeeper)",EVE,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Sigurdsson  Gylfi Sigurdsson (Everton, Midfielder)",EVE,7.0,0,0.16,-0.16,562.5,0,0.07,-0.07,1285.7,0.23,-0.23,391.3,16/12/2020
+"André Gomes  André Filipe Tavares Gomes (Everton, Midfielder)",EVE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Richarlison  Richarlison de Andrade (Everton, Forward)",EVE,7.5,0,0.01,-0.01,9000.0,1,0.03,0.97,3000.0,0.04,0.96,2250.0,16/12/2020
+"Barnes (Harvey)  Harvey Barnes (Leicester City, Midfielder)",LEI,7.0,0,0.08,-0.08,1125.0,0,0.0,0.0,inf,0.08,-0.08,1125.0,16/12/2020
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,0,0.01,-0.01,9000.0,0,0.06,-0.06,1500.0,0.07,-0.07,1285.7,16/12/2020
+"Fuchs  Christian Fuchs (Leicester City, Defender)",LEI,4.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,16/12/2020
+"Iheanacho  Kelechi Iheanacho (Leicester City, Forward)",LEI,7.5,0,0.05,-0.05,340.0,0,0.03,-0.03,566.7,0.08,-0.08,212.5,16/12/2020
+"Justin  James Justin (Leicester City, Defender)",LEI,5.0,0,0.14,-0.14,642.9,0,0.0,0.0,inf,0.14,-0.14,642.9,16/12/2020
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,0,0.12,-0.12,750.0,0,0.07,-0.07,1285.7,0.19,-0.19,473.7,16/12/2020
+"Mendy (Nampalys)  Nampalys Mendy (Leicester City, Midfielder)",LEI,4.5,0,0.01,-0.01,7300.0,0,0.0,0.0,inf,0.01,-0.01,7300.0,16/12/2020
+"Ndidi  Onyinye Wilfred Ndidi (Leicester City, Midfielder)",LEI,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Ayoze Pérez  Ayoze Pérez Gutiérrez (Leicester City, Midfielder)",LEI,6.0,0,0.11,-0.11,263.6,0,0.09,-0.09,322.2,0.2,-0.2,145.0,16/12/2020
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,0,0.04,-0.04,2250.0,0,0.08,-0.08,1125.0,0.12,-0.12,750.0,16/12/2020
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,0,0.01,-0.01,9000.0,0,0.43,-0.43,209.3,0.44,-0.44,204.5,16/12/2020
+"Ünder  Cengiz Ünder (Leicester City, Midfielder)",LEI,5.7,0,0.02,-0.02,3050.0,0,0.09,-0.09,677.8,0.11,-0.11,554.5,16/12/2020

@@ -1,0 +1,27 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Benson  Josh Benson (Burnley, Midfielder)",BUR,4.5,0,9,1,0,0,0,0,0,0,0,0,0,0,MCI,22,03/02/2021,MID,True
+"Gudmundsson  Johann Berg Gudmundsson (Burnley, Midfielder)",BUR,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,MCI,22,03/02/2021,MID,True
+"Cork  Jack Cork (Burnley, Midfielder)",BUR,4.5,1,71,0,1,0,0,0,0,0,2,0,0,0,MCI,22,03/02/2021,MID,True
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,MCI,22,03/02/2021,DEF,True
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,1,90,0,0,0,0,0,0,0,2,0,0,0,MCI,22,03/02/2021,MID,True
+"Mee  Ben Mee (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,MCI,22,03/02/2021,DEF,True
+"Mumbongo  Joel Mumbongo (Burnley, Forward)",BUR,4.5,0,13,1,0,0,0,0,0,0,0,0,1,0,MCI,22,03/02/2021,FWD,True
+"Pieters  Erik Pieters (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,MCI,22,03/02/2021,DEF,True
+"Pope  Nick Pope (Burnley, Goalkeeper)",BUR,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,MCI,22,03/02/2021,GKP,True
+"Rodriguez  Jay Rodriguez (Burnley, Forward)",BUR,5.5,1,77,0,1,0,0,0,0,0,2,0,0,0,MCI,22,03/02/2021,FWD,True
+"Stephens (Dale)  Dale Stephens (Burnley, Midfielder)",BUR,4.5,0,19,1,0,0,0,0,0,0,0,0,1,0,MCI,22,03/02/2021,MID,True
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,MCI,22,03/02/2021,DEF,True
+"Vydra  Matej Vydra (Burnley, Forward)",BUR,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,MCI,22,03/02/2021,FWD,True
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,1,81,0,1,0,0,0,0,0,2,0,0,0,MCI,22,03/02/2021,MID,True
+"João Cancelo  João Pedro Cavaco Cancelo (Manchester City, Defender)",MCI,6.0,1,64,0,1,0,0,0,0,1,0,0,0,0,BUR,22,03/02/2021,DEF,False
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,22,03/02/2021,DEF,False
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,1,90,0,0,0,1,0,1,1,0,0,0,0,BUR,22,03/02/2021,MID,False
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,22,03/02/2021,MID,False
+"Laporte  Aymeric Laporte (Manchester City, Defender)",MCI,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,22,03/02/2021,DEF,False
+"Mahrez  Riyad Mahrez (Manchester City, Midfielder)",MCI,9.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,22,03/02/2021,MID,False
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,1,90,0,0,0,0,0,0,1,0,0,1,0,BUR,22,03/02/2021,GKP,False
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,1,90,0,0,1,0,0,0,1,0,0,0,0,BUR,22,03/02/2021,MID,False
+"Stones  John Stones (Manchester City, Defender)",MCI,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,22,03/02/2021,DEF,False
+"Bernardo Silva  Bernardo Mota Veiga de Carvalho e Silva (Manchester City, Midfielder)",MCI,7.0,1,90,0,0,0,0,1,1,1,0,0,0,0,BUR,22,03/02/2021,MID,False
+"Zinchenko  Oleksandr Zinchenko (Manchester City, Defender)",MCI,5.5,0,26,1,0,0,0,0,0,0,0,0,0,0,BUR,22,03/02/2021,DEF,False
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,1,90,0,0,1,0,0,0,1,0,0,0,0,BUR,22,03/02/2021,FWD,False

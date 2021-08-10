@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Tosin  Oluwatosin Adarabioyo (Fulham, Defender)",FUL,4.5,0,0.02,-0.02,4500.0,0,0.07,-0.07,1285.7,0.09,-0.09,1000.0,13/12/2020
+"Aina  Ola Aina (Fulham, Defender)",FUL,4.3,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/12/2020
+"Andersen  Joachim Andersen (Fulham, Defender)",FUL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/12/2020
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/12/2020
+"Bryan (Joe)  Joe Bryan (Fulham, Defender)",FUL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/12/2020
+"Cavaleiro  Ivan Cavaleiro (Fulham, Midfielder)",FUL,5.3,0,0.1,-0.1,900.0,0,1.27,-1.27,70.9,1.37,-1.37,65.7,13/12/2020
+"DeCordova-Reid  Bobby DeCordova-Reid (Fulham, Forward)",FUL,5.3,0,0.04,-0.04,2250.0,1,0.06,0.94,1500.0,0.1,0.9,900.0,13/12/2020
+"Kamara  Aboubakar Kamara (Fulham, Midfielder)",FUL,4.8,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/12/2020
+"Lemina  Mario Lemina (Fulham, Midfielder)",FUL,4.5,0,0.0,0.0,inf,0,0.05,-0.05,1600.0,0.05,-0.05,1600.0,13/12/2020
+"Loftus-Cheek  Ruben Loftus-Cheek (Fulham, Midfielder)",FUL,5.5,0,0.05,-0.05,1480.0,0,0.0,0.0,inf,0.05,-0.05,1480.0,13/12/2020
+"Lookman  Ademola Lookman (Fulham, Midfielder)",FUL,4.7,1,0.16,0.84,550.0,0,0.04,-0.04,2200.0,0.2,0.8,440.0,13/12/2020
+"Reed  Harrison Reed (Fulham, Midfielder)",FUL,4.4,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/12/2020
+"Robinson (Antonee)  Antonee Robinson (Fulham, Defender)",FUL,4.4,0,0.08,-0.08,1125.0,0,0.0,0.0,inf,0.08,-0.08,1125.0,13/12/2020
+"Zambo Anguissa  André-Frank Zambo Anguissa (Fulham, Midfielder)",FUL,4.4,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,13/12/2020
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,0,0.1,-0.1,680.0,0,0.0,0.0,inf,0.1,-0.1,680.0,13/12/2020
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,0,0.13,-0.13,692.3,0,0.05,-0.05,1800.0,0.18,-0.18,500.0,13/12/2020
+"Henderson (Jordan)  Jordan Henderson (Liverpool, Midfielder)",LIV,5.0,0,0.09,-0.09,1000.0,0,0.29,-0.29,310.3,0.38,-0.38,236.8,13/12/2020
+"Jones (Curtis)  Curtis Jones (Liverpool, Midfielder)",LIV,5.0,0,0.26,-0.26,346.2,0,0.17,-0.17,529.4,0.43,-0.43,209.3,13/12/2020
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,0,0.01,-0.01,9000.0,0,0.28,-0.28,321.4,0.29,-0.29,310.3,13/12/2020
+"Matip  Joel Matip (Liverpool, Defender)",LIV,5.0,0,0.01,-0.01,4500.0,0,0.0,0.0,inf,0.01,-0.01,4500.0,13/12/2020
+"Minamino  Takumi Minamino (Liverpool, Midfielder)",LIV,5.5,0,0.07,-0.07,642.9,0,0.0,0.0,inf,0.07,-0.07,642.9,13/12/2020
+"Origi  Divock Origi (Liverpool, Forward)",LIV,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/12/2020
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/12/2020
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,0,0.07,-0.07,1285.7,0,0.0,0.0,inf,0.07,-0.07,1285.7,13/12/2020
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,0,0.12,-0.12,700.0,1,0.9,0.1,93.3,1.02,-0.02,82.4,13/12/2020
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,13/12/2020
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,0,0.02,-0.02,4500.0,0,0.09,-0.09,1000.0,0.11,-0.11,818.2,13/12/2020
+"Williams (Neco)  Neco Williams (Liverpool, Defender)",LIV,4.0,0,0.01,-0.01,2200.0,0,0.05,-0.05,440.0,0.06,-0.06,366.7,13/12/2020

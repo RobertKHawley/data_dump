@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Jordan Ayew  Jordan Ayew (Crystal Palace, Forward)",CRY,6.0,0,0.01,-0.01,7200.0,0,0.05,-0.05,1440.0,0.06,-0.06,1200.0,11/05/2021
+"Batshuayi  Michy Batshuayi (Crystal Palace, Forward)",CRY,5.5,0,0.01,-0.01,1800.0,0,0.0,0.0,inf,0.01,-0.01,1800.0,11/05/2021
+"Benteke  Christian Benteke (Crystal Palace, Forward)",CRY,6.5,0,0.06,-0.06,1300.0,1,0.43,0.57,181.4,0.49,0.51,159.2,11/05/2021
+"Dann  Scott Dann (Crystal Palace, Defender)",CRY,4.2,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,11/05/2021
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,0,0.08,-0.08,1125.0,0,0.0,0.0,inf,0.08,-0.08,1125.0,11/05/2021
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,11/05/2021
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,11/05/2021
+"Mateta  Jean-Philippe Mateta (Crystal Palace, Forward)",CRY,5.5,0,0.01,-0.01,1200.0,0,0.0,0.0,inf,0.01,-0.01,1200.0,11/05/2021
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,0,0.03,-0.03,2166.7,0,0.89,-0.89,73.0,0.92,-0.92,70.7,11/05/2021
+"Mitchell  Tyrick Mitchell (Crystal Palace, Defender)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,11/05/2021
+"Riedewald  Jairo Riedewald (Crystal Palace, Midfielder)",CRY,5.0,0,0.06,-0.06,1500.0,0,0.0,0.0,inf,0.06,-0.06,1500.0,11/05/2021
+"Schlupp  Jeffrey Schlupp (Crystal Palace, Midfielder)",CRY,5.5,0,0.02,-0.02,1250.0,0,0.0,0.0,inf,0.02,-0.02,1250.0,11/05/2021
+"Ward (Joel)  Joel Ward (Crystal Palace, Defender)",CRY,4.5,0,0.05,-0.05,1800.0,0,0.03,-0.03,3000.0,0.08,-0.08,1125.0,11/05/2021
+"Zaha  Wilfried Zaha (Crystal Palace, Midfielder)",CRY,7.0,0,0.03,-0.03,3000.0,0,0.08,-0.08,1125.0,0.11,-0.11,818.2,11/05/2021
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,1,0.4,0.6,225.0,1,0.29,0.71,310.3,0.69,1.31,130.4,11/05/2021
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,1,0.03,0.97,3000.0,0,0.04,-0.04,2250.0,0.07,0.93,1285.7,11/05/2021
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,11/05/2021
+"Forster  Fraser Forster (Southampton, Goalkeeper)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,11/05/2021
+"Ings  Danny Ings (Southampton, Forward)",SOU,8.0,0,0.0,0.0,inf,2,0.53,1.47,143.4,0.53,1.47,143.4,11/05/2021
+"Minamino  Takumi Minamino (Southampton, Midfielder)",SOU,5.5,0,0.05,-0.05,1800.0,0,0.06,-0.06,1500.0,0.11,-0.11,818.2,11/05/2021
+"Obafemi  Michael Obafemi (Southampton, Forward)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,11/05/2021
+"Redmond  Nathan Redmond (Southampton, Midfielder)",SOU,6.0,1,0.09,0.91,1000.0,0,0.12,-0.12,750.0,0.21,0.79,428.6,11/05/2021
+"Salisu  Mohammed Salisu (Southampton, Defender)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,11/05/2021
+"Stephens (Jack)  Jack Stephens (Southampton, Defender)",SOU,4.5,0,0.01,-0.01,9000.0,0,0.04,-0.04,2250.0,0.05,-0.05,1800.0,11/05/2021
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,11/05/2021
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,0,0.01,-0.01,9000.0,0,0.05,-0.05,1800.0,0.06,-0.06,1500.0,11/05/2021
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,0,0.05,-0.05,1800.0,0,0.12,-0.12,750.0,0.17,-0.17,529.4,11/05/2021

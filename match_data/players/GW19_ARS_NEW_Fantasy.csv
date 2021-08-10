@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Cedric  Cedric Ricardo Alves Soares (Arsenal, Defender)",ARS,4.5,1,90,0,0,0,1,0,1,1,0,0,0,0,NEW,19,18/01/2021,DEF,True
+"Aubameyang  Pierre-Emerick Aubameyang (Arsenal, Midfielder)",ARS,10.0,1,79,0,1,2,0,0,0,1,0,0,0,0,NEW,19,18/01/2021,MID,True
+"Willian  Willian Borges Da Silva (Arsenal, Midfielder)",ARS,6.5,0,11,1,0,0,0,0,0,0,0,0,0,0,NEW,19,18/01/2021,MID,True
+"Elneny  Mohamed Elneny (Arsenal, Midfielder)",ARS,4.5,0,23,1,0,0,0,0,0,0,0,0,0,0,NEW,19,18/01/2021,MID,True
+"Holding  Rob Holding (Arsenal, Defender)",ARS,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,19,18/01/2021,DEF,True
+"Lacazette  Alexandre Lacazette (Arsenal, Forward)",ARS,8.5,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,19,18/01/2021,FWD,True
+"Leno  Bernd Leno (Arsenal, Goalkeeper)",ARS,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,19,18/01/2021,GKP,True
+"Luiz  David Luiz Moreira Marinho (Arsenal, Defender)",ARS,5.4,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,19,18/01/2021,DEF,True
+"Gabriel Martinelli  Gabriel Teodoro Martinelli Silva (Arsenal, Midfielder)",ARS,5.5,0,9,1,0,0,0,0,0,0,0,0,0,0,NEW,19,18/01/2021,MID,True
+"Partey  Thomas Partey (Arsenal, Midfielder)",ARS,5.0,1,67,0,1,0,1,0,1,1,0,0,0,0,NEW,19,18/01/2021,MID,True
+"Saka  Bukayo Saka (Arsenal, Midfielder)",ARS,6.5,1,90,0,0,1,0,0,0,1,0,0,0,0,NEW,19,18/01/2021,MID,True
+"Smith-Rowe  Emile Smith-Rowe (Arsenal, Midfielder)",ARS,5.5,1,81,0,1,0,1,0,1,1,0,0,0,0,NEW,19,18/01/2021,MID,True
+"Tierney  Kieran Tierney (Arsenal, Defender)",ARS,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,19,18/01/2021,DEF,True
+"Xhaka  Granit Xhaka (Arsenal, Midfielder)",ARS,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,19,18/01/2021,MID,True
+"Almirón  Miguel Almirón (Newcastle United, Midfielder)",NEW,5.5,1,87,0,1,0,0,0,0,0,3,0,0,0,ARS,19,18/01/2021,MID,False
+"Anderson  Elliot Anderson (Newcastle United, Midfielder)",NEW,4.5,0,3,1,0,0,0,0,0,0,0,0,0,0,ARS,19,18/01/2021,MID,False
+"Joelinton  Joelinton Cássio Apolinário de Lira (Newcastle United, Forward)",NEW,6.0,1,90,0,0,0,0,0,0,0,3,0,0,0,ARS,19,18/01/2021,FWD,False
+"Carroll  Andy Carroll (Newcastle United, Forward)",NEW,5.1,1,69,0,1,0,0,0,0,0,2,0,0,0,ARS,19,18/01/2021,FWD,False
+"Clark  Ciaran Clark (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,ARS,19,18/01/2021,DEF,False
+"Darlow  Karl Darlow (Newcastle United, Goalkeeper)",NEW,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,ARS,19,18/01/2021,GKP,False
+"Hendrick  Jeff Hendrick (Newcastle United, Midfielder)",NEW,5.0,0,12,1,0,0,0,0,0,0,0,0,0,0,ARS,19,18/01/2021,MID,False
+"Krafth  Emil Krafth (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,ARS,19,18/01/2021,DEF,False
+"Lascelles  Jamaal Lascelles (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,ARS,19,18/01/2021,DEF,False
+"Lewis (Jamal)  Jamal Lewis (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,ARS,19,18/01/2021,DEF,False
+"Longstaff (Matthew)  Matthew Longstaff (Newcastle United, Midfielder)",NEW,4.5,1,78,0,1,0,0,0,0,0,3,0,0,0,ARS,19,18/01/2021,MID,False
+"Jacob Murphy  Jacob Murphy (Newcastle United, Midfielder)",NEW,5.0,0,21,1,0,0,0,0,0,0,1,0,0,0,ARS,19,18/01/2021,MID,False
+"Shelvey  Jonjo Shelvey (Newcastle United, Midfielder)",NEW,5.5,1,90,0,0,0,0,0,0,0,3,0,0,0,ARS,19,18/01/2021,MID,False
+"C Wilson  Callum Wilson (Newcastle United, Forward)",NEW,7.5,1,90,0,0,0,0,0,0,0,3,0,0,0,ARS,19,18/01/2021,FWD,False

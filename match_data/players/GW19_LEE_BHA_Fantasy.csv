@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Bissouma  Yves Bissouma (Brighton and Hove Albion, Midfielder)",BHA,4.5,0,27,1,0,0,0,0,0,0,0,0,0,0,LEE,19,16/01/2021,MID,False
+"Burn  Dan Burn (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,LEE,19,16/01/2021,DEF,False
+"Dunk  Lewis Dunk (Brighton and Hove Albion, Defender)",BHA,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LEE,19,16/01/2021,DEF,False
+"Groß  Pascal Groß (Brighton and Hove Albion, Midfielder)",BHA,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LEE,19,16/01/2021,MID,False
+"Mac Allister  Alexis Mac Allister (Brighton and Hove Albion, Midfielder)",BHA,5.5,1,63,0,1,0,1,0,1,1,0,0,0,0,LEE,19,16/01/2021,MID,False
+"March  Solomon March (Brighton and Hove Albion, Midfielder)",BHA,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,LEE,19,16/01/2021,MID,False
+"Maupay  Neal Maupay (Brighton and Hove Albion, Forward)",BHA,6.5,1,81,0,1,1,0,0,0,1,0,0,0,0,LEE,19,16/01/2021,FWD,False
+"Pröpper  Davy Pröpper (Brighton and Hove Albion, Midfielder)",BHA,4.5,0,9,1,0,0,0,0,0,0,0,0,0,0,LEE,19,16/01/2021,MID,False
+"Sanchez  Robert Sanchez (Brighton and Hove Albion, Goalkeeper)",BHA,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,LEE,19,16/01/2021,GKP,False
+"Tau  Percy Tau (Brighton and Hove Albion, Forward)",BHA,4.9,0,17,1,0,0,0,0,0,0,0,0,0,0,LEE,19,16/01/2021,FWD,False
+"Trossard  Leandro Trossard (Brighton and Hove Albion, Midfielder)",BHA,6.5,1,73,0,1,0,0,0,0,1,0,0,0,0,LEE,19,16/01/2021,MID,False
+"Veltman  Joël Veltman (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,LEE,19,16/01/2021,DEF,False
+"Webster  Adam Webster (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,1,0,0,1,0,LEE,19,16/01/2021,DEF,False
+"White (Ben)  Ben White (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,LEE,19,16/01/2021,DEF,False
+"Alioski  Ezgjan Alioski (Leeds United, Defender)",LEE,4.4,1,67,0,1,0,0,0,0,0,1,0,0,0,BHA,19,16/01/2021,DEF,True
+"Ayling  Luke Ayling (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,0,1,0,1,0,BHA,19,16/01/2021,DEF,True
+"Bamford  Patrick Bamford (Leeds United, Forward)",LEE,8.0,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,19,16/01/2021,FWD,True
+"Kiko Casilla  Francisco Casilla Cortés (Leeds United, Goalkeeper)",LEE,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,19,16/01/2021,GKP,True
+"Cooper  Liam Cooper (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,19,16/01/2021,DEF,True
+"Dallas  Stuart Dallas (Leeds United, Defender)",LEE,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,19,16/01/2021,DEF,True
+"Raphinha  Raphael Dias Belloli (Leeds United, Midfielder)",LEE,6.5,1,75,0,1,0,0,0,0,0,1,0,0,0,BHA,19,16/01/2021,MID,True
+"Harrison  Jack Harrison (Leeds United, Midfielder)",LEE,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,19,16/01/2021,MID,True
+"Hernández  Pablo Hernández (Leeds United, Midfielder)",LEE,5.5,0,23,1,0,0,0,0,0,0,0,0,0,0,BHA,19,16/01/2021,MID,True
+"Klich  Mateusz Klich (Leeds United, Midfielder)",LEE,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,19,16/01/2021,MID,True
+"Rodrigo  Rodrigo Moreno Machado (Leeds United, Forward)",LEE,6.5,1,62,0,1,0,0,0,0,0,1,0,0,0,BHA,19,16/01/2021,FWD,True
+"Poveda-Ocampo  Ian Carlo Poveda-Ocampo (Leeds United, Midfielder)",LEE,4.5,0,15,1,0,0,0,0,0,0,0,0,0,0,BHA,19,16/01/2021,MID,True
+"Roberts (Tyler)  Tyler Roberts (Leeds United, Midfielder)",LEE,5.0,0,28,1,0,0,0,0,0,0,0,0,0,0,BHA,19,16/01/2021,MID,True
+"Struijk  Pascal Struijk (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,19,16/01/2021,DEF,True

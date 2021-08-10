@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Ampadu  Ethan Ampadu (Sheffield United, Defender)",SHU,4.5,1,90,0,0,0,0,0,0,0,3,0,1,0,TOT,19,17/01/2021,DEF,True
+"Basham  Chris Basham (Sheffield United, Defender)",SHU,4.6,1,74,0,1,0,0,0,0,0,3,0,0,0,TOT,19,17/01/2021,DEF,True
+"Bogle  Jayden Bogle (Sheffield United, Defender)",SHU,4.3,1,90,0,0,0,0,0,0,0,3,0,0,0,TOT,19,17/01/2021,DEF,True
+"Brewster  Rhian Brewster (Sheffield United, Forward)",SHU,4.2,0,19,1,0,0,0,0,0,0,0,0,0,0,TOT,19,17/01/2021,FWD,True
+"Bryan (Kean)  Kean Bryan (Sheffield United, Defender)",SHU,3.9,0,23,1,0,0,0,0,0,0,0,0,0,0,TOT,19,17/01/2021,DEF,True
+"Oliver Burke  Oliver Burke (Sheffield United, Midfielder)",SHU,4.1,1,71,0,1,0,0,0,0,0,3,0,0,0,TOT,19,17/01/2021,MID,True
+"Egan  John Egan (Sheffield United, Defender)",SHU,4.7,1,90,0,0,0,0,0,0,0,3,0,1,0,TOT,19,17/01/2021,DEF,True
+"Fleck  John Fleck (Sheffield United, Midfielder)",SHU,5.6,1,90,0,0,0,1,0,1,0,3,0,0,0,TOT,19,17/01/2021,MID,True
+"Lundstram  John Lundstram (Sheffield United, Midfielder)",SHU,4.8,1,90,0,0,0,0,0,0,0,3,0,1,0,TOT,19,17/01/2021,MID,True
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,1,90,0,0,1,0,0,0,0,3,0,0,0,TOT,19,17/01/2021,FWD,True
+"Norwood  Oliver Norwood (Sheffield United, Midfielder)",SHU,4.5,1,67,0,1,0,0,0,0,0,3,0,1,0,TOT,19,17/01/2021,MID,True
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,1,90,0,0,0,0,0,0,0,3,0,0,0,TOT,19,17/01/2021,GKP,True
+"Sharp  Billy Sharp (Sheffield United, Forward)",SHU,5.5,0,16,1,0,0,0,0,0,0,0,0,0,0,TOT,19,17/01/2021,FWD,True
+"Stevens (Enda)  Enda Stevens (Sheffield United, Defender)",SHU,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,TOT,19,17/01/2021,DEF,True
+"Carlos Vinicius  Carlos Vinicius Alves Morais (Tottenham Hotspur, Forward)",TOT,6.9,0,1,1,0,0,0,0,0,0,0,0,0,0,SHU,19,17/01/2021,FWD,False
+"Aurier  Serge Aurier (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,1,0,0,0,0,1,0,0,0,SHU,19,17/01/2021,DEF,False
+"Bergwijn  Steven Bergwijn (Tottenham Hotspur, Midfielder)",TOT,6.0,1,87,0,1,0,1,0,1,0,1,0,0,0,SHU,19,17/01/2021,MID,False
+"Davies (Ben)  Ben Davies (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,19,17/01/2021,DEF,False
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,19,17/01/2021,DEF,False
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,1,90,0,0,0,1,0,1,0,1,0,0,0,SHU,19,17/01/2021,MID,False
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,1,90,0,0,1,0,0,0,0,1,0,0,0,SHU,19,17/01/2021,FWD,False
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,19,17/01/2021,GKP,False
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,1,90,0,0,1,0,0,0,0,1,0,0,0,SHU,19,17/01/2021,MID,False
+"Reguilón  Sergio Reguilón (Tottenham Hotspur, Defender)",TOT,5.0,1,89,0,1,0,0,0,0,0,1,0,0,0,SHU,19,17/01/2021,DEF,False
+"Rodon  Joe Rodon (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,19,17/01/2021,DEF,False
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,0,3,1,0,0,0,0,0,0,0,0,0,0,SHU,19,17/01/2021,MID,False
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,1,89,0,1,0,1,0,1,0,1,0,0,0,SHU,19,17/01/2021,MID,False
+"DSanchez  Davinson Sánchez (Tottenham Hotspur, Defender)",TOT,4.5,0,1,1,0,0,0,0,0,0,0,0,0,0,SHU,19,17/01/2021,DEF,False

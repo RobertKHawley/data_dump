@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Abraham  Tammy Abraham (Chelsea, Forward)",CHE,6.5,0,0.01,-0.01,7900.0,0,0.39,-0.39,202.6,0.4,-0.4,197.5,29/11/2020
+"Chilwell  Benjamin Chilwell (Chelsea, Defender)",CHE,6.0,0,0.05,-0.05,1800.0,0,0.15,-0.15,600.0,0.2,-0.2,450.0,29/11/2020
+"Giroud  Olivier Giroud (Chelsea, Forward)",CHE,6.5,0,0.0,0.0,inf,0,0.05,-0.05,220.0,0.05,-0.05,220.0,29/11/2020
+"Havertz  Kai Havertz (Chelsea, Midfielder)",CHE,8.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,29/11/2020
+"James (Reece)  Reece James (Chelsea, Defender)",CHE,5.5,0,0.27,-0.27,333.3,0,0.0,0.0,inf,0.27,-0.27,333.3,29/11/2020
+"Kanté  N&#039;Golo Kanté (Chelsea, Midfielder)",CHE,5.0,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,29/11/2020
+"Kovacic  Mateo Kovacic (Chelsea, Midfielder)",CHE,5.0,0,0.03,-0.03,3000.0,0,0.02,-0.02,4500.0,0.05,-0.05,1800.0,29/11/2020
+"Mendy (Edouard)  Edouard Mendy (Chelsea, Goalkeeper)",CHE,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,29/11/2020
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,0,0.05,-0.05,1800.0,0,0.08,-0.08,1125.0,0.13,-0.13,692.3,29/11/2020
+"Pulisic  Christian Pulisic (Chelsea, Midfielder)",CHE,8.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,29/11/2020
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,0,0.17,-0.17,435.3,0,0.05,-0.05,1480.0,0.22,-0.22,336.4,29/11/2020
+"Ziyech  Hakim Ziyech (Chelsea, Midfielder)",CHE,7.5,0,0.24,-0.24,345.8,0,0.08,-0.08,1037.5,0.32,-0.32,259.4,29/11/2020
+"Zouma  Kurt Zouma (Chelsea, Defender)",CHE,5.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,29/11/2020
+"Thiago Silva  Thiago Emiliano da Silva (Chelsea, Defender)",CHE,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,29/11/2020
+"Aurier  Serge Aurier (Tottenham Hotspur, Defender)",TOT,5.0,0,0.04,-0.04,2250.0,0,0.03,-0.03,3000.0,0.07,-0.07,1285.7,29/11/2020
+"Bergwijn  Steven Bergwijn (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.02,-0.02,4450.0,0,0.1,-0.1,890.0,0.12,-0.12,741.7,29/11/2020
+"Davies (Ben)  Ben Davies (Tottenham Hotspur, Defender)",TOT,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,29/11/2020
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,29/11/2020
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,29/11/2020
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,0,0.06,-0.06,1500.0,0,0.06,-0.06,1500.0,0.12,-0.12,750.0,29/11/2020
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,29/11/2020
+"Lo Celso  Giovani Lo Celso (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.03,-0.03,833.3,0,0.0,0.0,inf,0.03,-0.03,833.3,29/11/2020
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.01,-0.01,6500.0,0,0.0,0.0,inf,0.01,-0.01,6500.0,29/11/2020
+"Reguilón  Sergio Reguilón (Tottenham Hotspur, Defender)",TOT,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,29/11/2020
+"Rodon  Joe Rodon (Tottenham Hotspur, Defender)",TOT,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,29/11/2020
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,0,0.02,-0.02,50.0,0,0.0,0.0,inf,0.02,-0.02,50.0,29/11/2020
+"Sissoko  Moussa Sissoko (Tottenham Hotspur, Midfielder)",TOT,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,29/11/2020
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,0,0.1,-0.1,890.0,0,0.0,0.0,inf,0.1,-0.1,890.0,29/11/2020

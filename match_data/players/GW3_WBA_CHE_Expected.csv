@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Abraham  Tammy Abraham (Chelsea, Forward)",CHE,6.5,0,0.01,-0.01,9000.0,1,0.92,0.08,97.8,0.93,0.07,96.8,26/09/2020
+"Alonso  Marcos Alonso (Chelsea, Defender)",CHE,5.5,0,0.01,-0.01,4500.0,0,0.09,-0.09,500.0,0.1,-0.1,450.0,26/09/2020
+"Azpilicueta  César Azpilicueta (Chelsea, Defender)",CHE,6.0,1,0.02,0.98,2250.0,0,0.03,-0.03,1500.0,0.05,0.95,900.0,26/09/2020
+"Caballero  Willy Caballero (Chelsea, Goalkeeper)",CHE,4.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/09/2020
+"Christensen  Andreas Christensen (Chelsea, Defender)",CHE,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,26/09/2020
+"Giroud  Olivier Giroud (Chelsea, Forward)",CHE,6.5,0,0.01,-0.01,1700.0,0,0.0,0.0,inf,0.01,-0.01,1700.0,26/09/2020
+"Havertz  Kai Havertz (Chelsea, Midfielder)",CHE,8.5,1,0.12,0.88,750.0,0,0.09,-0.09,1000.0,0.21,0.79,428.6,26/09/2020
+"Hudson-Odoi  Callum Hudson-Odoi (Chelsea, Midfielder)",CHE,5.5,0,0.17,-0.17,264.7,1,0.11,0.89,409.1,0.28,0.72,160.7,26/09/2020
+"James (Reece)  Reece James (Chelsea, Defender)",CHE,5.5,0,0.42,-0.42,214.3,0,0.0,0.0,inf,0.42,-0.42,214.3,26/09/2020
+"Kanté  N&#039;Golo Kanté (Chelsea, Midfielder)",CHE,5.0,0,0.1,-0.1,900.0,0,0.0,0.0,inf,0.1,-0.1,900.0,26/09/2020
+"Kovacic  Mateo Kovacic (Chelsea, Midfielder)",CHE,5.0,0,0.02,-0.02,2250.0,0,0.03,-0.03,1500.0,0.05,-0.05,900.0,26/09/2020
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,0,0.29,-0.29,310.3,1,0.32,0.68,281.3,0.61,0.39,147.5,26/09/2020
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,0,0.11,-0.11,818.2,0,0.48,-0.48,187.5,0.59,-0.59,152.5,26/09/2020
+"Thiago Silva  Thiago Emiliano da Silva (Chelsea, Defender)",CHE,5.5,0,0.03,-0.03,2433.3,0,0.0,0.0,inf,0.03,-0.03,2433.3,26/09/2020
+"Ajayi  Semi Ajayi (West Bromwich Albion, Defender)",WBA,4.8,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/09/2020
+"Bartley  Kyle Bartley (West Bromwich Albion, Defender)",WBA,4.4,0,0.0,0.0,inf,1,0.26,0.74,346.2,0.26,0.74,346.2,26/09/2020
+"Matheus Pereira  Matheus Fellipe Costa Pereira (West Bromwich Albion, Midfielder)",WBA,5.4,1,0.05,0.95,1780.0,0,0.0,0.0,inf,0.05,0.95,1780.0,26/09/2020
+"Diangana  Grady Diangana (West Bromwich Albion, Midfielder)",WBA,5.0,0,0.02,-0.02,3700.0,0,0.11,-0.11,672.7,0.13,-0.13,569.2,26/09/2020
+"Field  Sam Field (West Bromwich Albion, Midfielder)",WBA,4.8,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/09/2020
+"Furlong  Darnell Furlong (West Bromwich Albion, Defender)",WBA,4.5,1,0.34,0.66,264.7,0,0.0,0.0,inf,0.34,0.66,264.7,26/09/2020
+"Johnstone  Sam Johnstone (West Bromwich Albion, Goalkeeper)",WBA,4.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/09/2020
+"Livermore  Jake Livermore (West Bromwich Albion, Midfielder)",WBA,4.7,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/09/2020
+"O'Shea  Dara O&#039;Shea (West Bromwich Albion, Defender)",WBA,4.2,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/09/2020
+"Phillips (Matthew)  Matthew Phillips (West Bromwich Albion, Midfielder)",WBA,5.1,0,0.0,0.0,inf,0,0.02,-0.02,800.0,0.02,-0.02,800.0,26/09/2020
+"Robinson (Callum)  Callum Robinson (West Bromwich Albion, Forward)",WBA,5.2,0,0.0,0.0,inf,2,0.12,1.88,550.0,0.12,1.88,550.0,26/09/2020
+"Robson-Kanu  Hal Robson-Kanu (West Bromwich Albion, Forward)",WBA,5.2,0,0.01,-0.01,2400.0,0,0.04,-0.04,600.0,0.05,-0.05,480.0,26/09/2020
+"Sawyers  Romaine Sawyers (West Bromwich Albion, Midfielder)",WBA,4.6,0,0.03,-0.03,3000.0,0,0.03,-0.03,3000.0,0.06,-0.06,1500.0,26/09/2020
+"Townsend (Conor)  Conor Townsend (West Bromwich Albion, Defender)",WBA,4.4,0,0.01,-0.01,9000.0,0,0.05,-0.05,1800.0,0.06,-0.06,1500.0,26/09/2020

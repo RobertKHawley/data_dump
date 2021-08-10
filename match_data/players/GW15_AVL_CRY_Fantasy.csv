@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Cash  Matthew Cash (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,15,26/12/2020,DEF,True
+"El Ghazi  Anwar El Ghazi (Aston Villa, Midfielder)",AVL,6.0,1,86,0,1,1,0,0,0,1,0,0,0,0,CRY,15,26/12/2020,MID,True
+"Elmohamady  Ahmed Elmohamady (Aston Villa, Defender)",AVL,4.2,0,4,1,0,0,0,0,0,0,0,0,0,0,CRY,15,26/12/2020,DEF,True
+"Grealish  Jack Grealish (Aston Villa, Midfielder)",AVL,8.0,1,90,0,0,0,0,0,0,1,0,0,1,0,CRY,15,26/12/2020,MID,True
+"Hause  Kortney Hause (Aston Villa, Defender)",AVL,4.5,1,90,0,0,1,0,0,0,1,0,0,0,0,CRY,15,26/12/2020,DEF,True
+"Konsa Ngoyo  Ezri Konsa Ngoyo (Aston Villa, Defender)",AVL,5.0,0,42,1,0,0,0,0,0,0,0,0,0,0,CRY,15,26/12/2020,DEF,True
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,15,26/12/2020,GKP,True
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,15,26/12/2020,MID,True
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,1,45,0,0,0,0,0,0,0,0,0,0,1,CRY,15,26/12/2020,DEF,True
+"Jacob Ramsey  Jacob Ramsey (Aston Villa, Midfielder)",AVL,4.5,0,1,1,0,0,0,0,0,0,0,0,0,0,CRY,15,26/12/2020,MID,True
+"Douglas Luiz  Douglas Luiz Soares de Paulo (Aston Villa, Midfielder)",AVL,4.5,1,89,0,1,0,0,0,0,1,0,0,0,0,CRY,15,26/12/2020,MID,True
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,15,26/12/2020,DEF,True
+"Traore (Bertrand)  Bertrand Traore (Aston Villa, Midfielder)",AVL,6.0,1,48,0,1,1,0,0,0,0,0,0,0,0,CRY,15,26/12/2020,MID,True
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,1,90,0,0,0,1,2,3,1,0,0,0,0,CRY,15,26/12/2020,FWD,True
+"Batshuayi  Michy Batshuayi (Crystal Palace, Forward)",CRY,5.5,0,15,1,0,0,0,0,0,0,1,0,0,0,AVL,15,26/12/2020,FWD,False
+"Benteke  Christian Benteke (Crystal Palace, Forward)",CRY,6.5,1,90,0,0,0,0,0,0,0,3,0,0,0,AVL,15,26/12/2020,FWD,False
+"Dann  Scott Dann (Crystal Palace, Defender)",CRY,4.2,1,90,0,0,0,0,0,0,0,3,0,0,0,AVL,15,26/12/2020,DEF,False
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,1,90,0,0,0,0,0,0,0,3,0,1,0,AVL,15,26/12/2020,MID,False
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,AVL,15,26/12/2020,GKP,False
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,AVL,15,26/12/2020,MID,False
+"McArthur  James McArthur (Crystal Palace, Midfielder)",CRY,4.5,1,75,0,1,0,0,0,0,0,2,0,0,0,AVL,15,26/12/2020,MID,False
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,1,69,0,1,0,0,0,0,0,2,0,1,0,AVL,15,26/12/2020,MID,False
+"Riedewald  Jairo Riedewald (Crystal Palace, Midfielder)",CRY,5.0,0,21,1,0,0,0,0,0,0,1,0,0,0,AVL,15,26/12/2020,MID,False
+"Schlupp  Jeffrey Schlupp (Crystal Palace, Midfielder)",CRY,5.5,1,82,0,1,0,0,0,0,0,3,0,0,0,AVL,15,26/12/2020,MID,False
+"Townsend (Andros)  Andros Townsend (Crystal Palace, Midfielder)",CRY,5.5,0,8,1,0,0,0,0,0,0,0,0,0,0,AVL,15,26/12/2020,MID,False
+"Van Aanholt  Patrick Van Aanholt (Crystal Palace, Defender)",CRY,5.4,1,90,0,0,0,0,0,0,0,3,0,0,0,AVL,15,26/12/2020,DEF,False
+"Ward (Joel)  Joel Ward (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,0,0,0,3,0,1,0,AVL,15,26/12/2020,DEF,False
+"Zaha  Wilfried Zaha (Crystal Palace, Midfielder)",CRY,7.0,1,90,0,0,0,0,0,0,0,3,0,1,0,AVL,15,26/12/2020,MID,False

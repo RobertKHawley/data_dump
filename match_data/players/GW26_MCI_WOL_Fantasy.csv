@@ -1,0 +1,26 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"João Cancelo  João Pedro Cavaco Cancelo (Manchester City, Defender)",MCI,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,26,02/03/2021,DEF,True
+"De Bruyne  Kevin De Bruyne (Manchester City, Midfielder)",MCI,12.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,26,02/03/2021,MID,True
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,26,02/03/2021,DEF,True
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,0,8,1,0,0,0,1,1,0,0,0,0,0,WOL,26,02/03/2021,MID,True
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,26,02/03/2021,MID,True
+"Laporte  Aymeric Laporte (Manchester City, Defender)",MCI,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,26,02/03/2021,DEF,True
+"Mahrez  Riyad Mahrez (Manchester City, Midfielder)",MCI,9.0,1,90,0,0,1,0,1,1,0,1,0,0,0,WOL,26,02/03/2021,MID,True
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,26,02/03/2021,GKP,True
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,26,02/03/2021,MID,True
+"Bernardo Silva  Bernardo Mota Veiga de Carvalho e Silva (Manchester City, Midfielder)",MCI,7.0,1,82,0,1,0,0,0,0,0,1,0,0,0,WOL,26,02/03/2021,MID,True
+"Walker (Kyle)  Kyle Walker (Manchester City, Defender)",MCI,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,26,02/03/2021,DEF,True
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,1,90,0,0,2,0,0,0,0,1,0,0,0,WOL,26,02/03/2021,FWD,True
+"Jonny  Jonathan Castro Otto (Wolverhampton Wanderers, Defender)",WOL,4.5,1,56,0,1,0,0,0,0,0,1,0,0,0,MCI,26,02/03/2021,DEF,False
+"Coady  Conor Coady (Wolverhampton Wanderers, Defender)",WOL,4.5,1,90,0,0,1,0,0,0,0,4,0,0,0,MCI,26,02/03/2021,DEF,False
+"Dendoncker (Leander)  Leander Dendoncker (Wolverhampton Wanderers, Midfielder)",WOL,5.0,1,90,0,0,0,0,0,0,0,4,1,0,0,MCI,26,02/03/2021,MID,False
+"Hoever  Ki-Jana Hoever (Wolverhampton Wanderers, Defender)",WOL,4.0,1,90,0,0,0,0,0,0,0,4,0,0,0,MCI,26,02/03/2021,DEF,False
+"Moutinho  João Moutinho (Wolverhampton Wanderers, Midfielder)",WOL,5.0,1,90,0,0,0,1,0,1,0,4,0,0,0,MCI,26,02/03/2021,MID,False
+"Neto  Pedro Neto (Wolverhampton Wanderers, Midfielder)",WOL,6.5,1,90,0,0,0,0,0,0,0,4,0,1,0,MCI,26,02/03/2021,MID,False
+"Otasowie  Owen Otasowie (Wolverhampton Wanderers, Midfielder)",WOL,4.5,0,1,1,0,0,0,0,0,0,2,0,0,0,MCI,26,02/03/2021,MID,False
+"Saiss  Romain Saiss (Wolverhampton Wanderers, Defender)",WOL,5.0,1,90,0,0,0,0,0,0,0,4,0,0,0,MCI,26,02/03/2021,DEF,False
+"Semedo  Nelson Semedo (Wolverhampton Wanderers, Defender)",WOL,5.0,1,90,0,0,0,0,0,0,0,4,0,0,0,MCI,26,02/03/2021,DEF,False
+"Fabio Silva  Fabio Daniel Soares Silva (Wolverhampton Wanderers, Forward)",WOL,6.0,0,34,1,0,0,0,0,0,0,3,0,0,0,MCI,26,02/03/2021,FWD,False
+"Traoré  Adama Traoré (Wolverhampton Wanderers, Midfielder)",WOL,6.0,1,90,0,0,0,0,0,0,0,4,0,0,0,MCI,26,02/03/2021,MID,False
+"Ruben Neves  Rúben Diogo da Silva Neves (Wolverhampton Wanderers, Midfielder)",WOL,5.5,1,89,0,1,0,0,0,0,0,2,0,0,0,MCI,26,02/03/2021,MID,False
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,1,90,0,0,0,0,0,0,0,4,0,0,0,MCI,26,02/03/2021,GKP,False

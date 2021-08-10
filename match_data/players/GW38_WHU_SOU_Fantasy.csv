@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,1,90,0,0,0,0,0,0,0,3,0,0,0,WHU,38,23/05/2021,MID,False
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,0,3,0,1,0,WHU,38,23/05/2021,DEF,False
+"Diallo  Ibrahima Diallo (Southampton, Midfielder)",SOU,4.5,1,90,0,0,0,0,0,0,0,3,0,1,0,WHU,38,23/05/2021,MID,False
+"Ings  Danny Ings (Southampton, Forward)",SOU,8.0,1,84,0,1,0,0,0,0,0,2,0,0,0,WHU,38,23/05/2021,FWD,False
+"McCarthy (Alex)  Alex McCarthy (Southampton, Goalkeeper)",SOU,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,WHU,38,23/05/2021,GKP,False
+"Minamino  Takumi Minamino (Southampton, Midfielder)",SOU,5.5,1,62,0,1,0,0,0,0,0,2,0,0,0,WHU,38,23/05/2021,MID,False
+"Obafemi  Michael Obafemi (Southampton, Forward)",SOU,4.5,0,6,1,0,0,0,0,0,0,1,0,0,0,WHU,38,23/05/2021,FWD,False
+"Redmond  Nathan Redmond (Southampton, Midfielder)",SOU,6.0,1,90,0,0,0,0,0,0,0,3,0,0,0,WHU,38,23/05/2021,MID,False
+"Romeu  Oriol Romeu (Southampton, Midfielder)",SOU,4.5,0,30,1,0,0,0,0,0,0,1,0,0,0,WHU,38,23/05/2021,MID,False
+"Salisu  Mohammed Salisu (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,0,3,0,1,0,WHU,38,23/05/2021,DEF,False
+"Tella  Nathan Tella (Southampton, Midfielder)",SOU,5.0,0,28,1,0,0,0,0,0,0,1,0,0,0,WHU,38,23/05/2021,MID,False
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,WHU,38,23/05/2021,DEF,False
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,1,60,0,1,0,0,0,0,0,2,0,0,0,WHU,38,23/05/2021,DEF,False
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,1,90,0,0,0,0,0,0,0,3,0,0,0,WHU,38,23/05/2021,MID,False
+"Antonio  Michail Antonio (West Ham United, Forward)",WHU,7.5,1,69,0,1,0,0,0,0,1,0,0,0,0,SOU,38,23/05/2021,FWD,True
+"Benrahma  Said Benrahma (West Ham United, Midfielder)",WHU,6.0,0,21,1,0,0,0,0,0,0,0,0,0,0,SOU,38,23/05/2021,MID,True
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,1,84,0,1,0,0,1,1,1,0,0,0,0,SOU,38,23/05/2021,MID,True
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,1,90,0,0,0,1,0,1,1,0,0,0,0,SOU,38,23/05/2021,DEF,True
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,38,23/05/2021,DEF,True
+"Dawson  Craig Dawson (West Ham United, Defender)",WHU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,38,23/05/2021,DEF,True
+"Diop  Issa Diop (West Ham United, Defender)",WHU,4.5,0,1,1,0,0,0,0,0,0,0,0,0,0,SOU,38,23/05/2021,DEF,True
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,38,23/05/2021,GKP,True
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,1,90,0,0,2,1,0,1,1,0,0,0,0,SOU,38,23/05/2021,MID,True
+"Lingard  Jesse Lingard (West Ham United, Midfielder)",WHU,7.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,38,23/05/2021,MID,True
+"Noble  Mark Noble (West Ham United, Midfielder)",WHU,4.5,0,6,1,0,0,0,0,0,0,0,0,0,0,SOU,38,23/05/2021,MID,True
+"Ogbonna  Angelo Ogbonna (West Ham United, Defender)",WHU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,38,23/05/2021,DEF,True
+"Rice  Declan Rice (West Ham United, Midfielder)",WHU,5.0,1,89,0,1,1,0,0,0,1,0,0,0,0,SOU,38,23/05/2021,MID,True
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,38,23/05/2021,MID,True

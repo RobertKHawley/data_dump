@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Batshuayi  Michy Batshuayi (Crystal Palace, Forward)",CRY,5.5,1,0.56,0.44,160.7,0,0.25,-0.25,360.0,0.81,0.19,111.1,24/10/2020
+"Clyne  Nathaniel Clyne (Crystal Palace, Defender)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,24/10/2020
+"Dann  Scott Dann (Crystal Palace, Defender)",CRY,4.2,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,24/10/2020
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,0,0.02,-0.02,700.0,0,0.71,-0.71,19.7,0.73,-0.73,19.2,24/10/2020
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,24/10/2020
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,24/10/2020
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,0,0.01,-0.01,9000.0,0,0.08,-0.08,1125.0,0.09,-0.09,1000.0,24/10/2020
+"Mitchell  Tyrick Mitchell (Crystal Palace, Defender)",CRY,4.5,0,0.01,-0.01,9000.0,0,0.06,-0.06,1500.0,0.07,-0.07,1285.7,24/10/2020
+"Riedewald  Jairo Riedewald (Crystal Palace, Midfielder)",CRY,5.0,0,0.06,-0.06,1416.7,1,0.32,0.68,265.6,0.38,0.62,223.7,24/10/2020
+"Sakho  Mamadou Sakho (Crystal Palace, Defender)",CRY,4.4,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,24/10/2020
+"Schlupp  Jeffrey Schlupp (Crystal Palace, Midfielder)",CRY,5.5,0,0.03,-0.03,2533.3,0,0.05,-0.05,1520.0,0.08,-0.08,950.0,24/10/2020
+"Townsend (Andros)  Andros Townsend (Crystal Palace, Midfielder)",CRY,5.5,0,0.12,-0.12,750.0,0,0.0,0.0,inf,0.12,-0.12,750.0,24/10/2020
+"Van Aanholt  Patrick Van Aanholt (Crystal Palace, Defender)",CRY,5.4,0,0.0,0.0,inf,0,0.05,-0.05,360.0,0.05,-0.05,360.0,24/10/2020
+"Zaha  Wilfried Zaha (Crystal Palace, Midfielder)",CRY,7.0,1,1.09,-0.09,82.6,1,1.11,-0.11,81.1,2.2,-0.2,40.9,24/10/2020
+"Tosin  Oluwatosin Adarabioyo (Fulham, Defender)",FUL,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,24/10/2020
+"Aina  Ola Aina (Fulham, Defender)",FUL,4.3,0,0.11,-0.11,818.2,0,0.0,0.0,inf,0.11,-0.11,818.2,24/10/2020
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,24/10/2020
+"Cairney  Tom Cairney (Fulham, Midfielder)",FUL,5.2,0,0.15,-0.15,600.0,1,0.13,0.87,692.3,0.28,0.72,321.4,24/10/2020
+"DeCordova-Reid  Bobby DeCordova-Reid (Fulham, Forward)",FUL,5.3,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,24/10/2020
+"Kamara  Aboubakar Kamara (Fulham, Midfielder)",FUL,4.8,0,0.02,-0.02,1100.0,0,0.0,0.0,inf,0.02,-0.02,1100.0,24/10/2020
+"Lemina  Mario Lemina (Fulham, Midfielder)",FUL,4.5,0,0.03,-0.03,2633.3,0,0.0,0.0,inf,0.03,-0.03,2633.3,24/10/2020
+"Loftus-Cheek  Ruben Loftus-Cheek (Fulham, Midfielder)",FUL,5.5,0,0.06,-0.06,1233.3,0,0.0,0.0,inf,0.06,-0.06,1233.3,24/10/2020
+"Lookman  Ademola Lookman (Fulham, Midfielder)",FUL,4.7,0,0.04,-0.04,2250.0,0,0.23,-0.23,391.3,0.27,-0.27,333.3,24/10/2020
+"Mitrovic  Aleksandar Mitrovic (Fulham, Forward)",FUL,5.5,0,0.05,-0.05,1800.0,0,0.63,-0.63,142.9,0.68,-0.68,132.4,24/10/2020
+"Ream  Tim Ream (Fulham, Defender)",FUL,4.2,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,24/10/2020
+"Reed  Harrison Reed (Fulham, Midfielder)",FUL,4.4,1,0.0,1.0,inf,0,0.0,0.0,inf,0.0,1.0,inf,24/10/2020
+"Robinson (Antonee)  Antonee Robinson (Fulham, Defender)",FUL,4.4,0,0.13,-0.13,692.3,0,0.0,0.0,inf,0.13,-0.13,692.3,24/10/2020
+"Zambo Anguissa  André-Frank Zambo Anguissa (Fulham, Midfielder)",FUL,4.4,0,0.06,-0.06,1100.0,0,0.11,-0.11,600.0,0.17,-0.17,388.2,24/10/2020

@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/04/2021
+"Amartey  Daniel Amartey (Leicester City, Defender)",LEI,4.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/04/2021
+"Ricardo Pereira  Ricardo Domingos Barbosa Pereira (Leicester City, Defender)",LEI,5.5,0,0.08,-0.08,237.5,0,0.0,0.0,inf,0.08,-0.08,237.5,03/04/2021
+"Castagne  Timothy Castagne (Leicester City, Defender)",LEI,5.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,03/04/2021
+"Evans  Jonny Evans (Leicester City, Defender)",LEI,5.5,0,0.0,0.0,inf,0,0.04,-0.04,2250.0,0.04,-0.04,2250.0,03/04/2021
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/04/2021
+"Iheanacho  Kelechi Iheanacho (Leicester City, Forward)",LEI,7.5,0,0.05,-0.05,1440.0,0,0.0,0.0,inf,0.05,-0.05,1440.0,03/04/2021
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,0,0.03,-0.03,600.0,0,0.11,-0.11,163.6,0.14,-0.14,128.6,03/04/2021
+"Mendy (Nampalys)  Nampalys Mendy (Leicester City, Midfielder)",LEI,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/04/2021
+"Ndidi  Onyinye Wilfred Ndidi (Leicester City, Midfielder)",LEI,5.0,0,0.01,-0.01,8300.0,0,0.0,0.0,inf,0.01,-0.01,8300.0,03/04/2021
+"Ayoze Pérez  Ayoze Pérez Gutiérrez (Leicester City, Midfielder)",LEI,6.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,03/04/2021
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/04/2021
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,0,0.02,-0.02,4500.0,0,0.14,-0.14,642.9,0.16,-0.16,562.5,03/04/2021
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/04/2021
+"Aguero  Sergio Aguero (Manchester City, Forward)",MCI,10.3,0,0.04,-0.04,1575.0,0,0.12,-0.12,525.0,0.16,-0.16,393.8,03/04/2021
+"De Bruyne  Kevin De Bruyne (Manchester City, Midfielder)",MCI,12.0,0,0.33,-0.33,266.7,0,0.11,-0.11,800.0,0.44,-0.44,200.0,03/04/2021
+"Foden  Phil Foden (Manchester City, Midfielder)",MCI,8.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/04/2021
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,03/04/2021
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,0,0.04,-0.04,2250.0,0,0.09,-0.09,1000.0,0.13,-0.13,692.3,03/04/2021
+"Laporte  Aymeric Laporte (Manchester City, Defender)",MCI,5.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,03/04/2021
+"Fernandinho  Fernando Luiz Rosa (Manchester City, Defender)",MCI,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,03/04/2021
+"Mahrez  Riyad Mahrez (Manchester City, Midfielder)",MCI,9.0,0,0.07,-0.07,1128.6,0,0.45,-0.45,175.6,0.52,-0.52,151.9,03/04/2021
+"Mendy (Benjamin)  Benjamin Mendy (Manchester City, Defender)",MCI,5.5,0,0.03,-0.03,3000.0,1,0.07,0.93,1285.7,0.1,0.9,900.0,03/04/2021
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/04/2021
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,1,0.38,0.62,71.1,0,0.0,0.0,inf,0.38,0.62,71.1,03/04/2021
+"Torres  Ferran Torres (Manchester City, Midfielder)",MCI,7.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/04/2021
+"Walker (Kyle)  Kyle Walker (Manchester City, Defender)",MCI,5.5,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,03/04/2021
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,0,0.2,-0.2,450.0,1,0.61,0.39,147.5,0.81,0.19,111.1,03/04/2021

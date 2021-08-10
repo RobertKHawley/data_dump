@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,1,89,0,1,0,0,0,0,0,1,0,0,0,TOT,31,11/04/2021,MID,False
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,1,90,0,0,1,0,1,1,0,1,0,1,0,TOT,31,11/04/2021,FWD,False
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,0,18,1,0,1,1,0,1,0,0,0,0,0,TOT,31,11/04/2021,MID,False
+"Henderson (Dean)  Dean Henderson (Manchester United, Goalkeeper)",MUN,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,31,11/04/2021,GKP,False
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,0,1,0,1,0,TOT,31,11/04/2021,DEF,False
+"Matic  Nemanja Matic (Manchester United, Midfielder)",MUN,4.5,0,1,1,0,0,0,0,0,0,0,0,0,0,TOT,31,11/04/2021,MID,False
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,1,90,0,0,0,0,0,0,0,1,0,1,0,TOT,31,11/04/2021,MID,False
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,31,11/04/2021,DEF,False
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,1,90,0,0,0,1,0,1,0,1,0,0,0,TOT,31,11/04/2021,MID,False
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,1,72,0,1,0,0,0,0,0,1,0,0,0,TOT,31,11/04/2021,MID,False
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,1,90,0,0,1,0,0,0,0,1,0,1,0,TOT,31,11/04/2021,MID,False
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,0,1,0,1,0,TOT,31,11/04/2021,DEF,False
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,31,11/04/2021,DEF,False
+"Aurier  Serge Aurier (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,31,11/04/2021,DEF,True
+"Bale  Gareth Bale (Tottenham Hotspur, Midfielder)",TOT,9.2,0,8,1,0,0,0,0,0,0,1,0,0,0,MUN,31,11/04/2021,MID,True
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,31,11/04/2021,DEF,True
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,31,11/04/2021,MID,True
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,31,11/04/2021,FWD,True
+"Lamela  Erik Lamela (Tottenham Hotspur, Midfielder)",TOT,6.0,0,12,1,0,0,0,0,0,0,2,0,0,0,MUN,31,11/04/2021,MID,True
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,31,11/04/2021,GKP,True
+"Lo Celso  Giovani Lo Celso (Tottenham Hotspur, Midfielder)",TOT,6.0,1,61,0,1,0,0,0,0,0,1,0,0,0,MUN,31,11/04/2021,MID,True
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,1,78,0,1,0,0,0,0,0,1,0,0,0,MUN,31,11/04/2021,MID,True
+"Reguilón  Sergio Reguilón (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,31,11/04/2021,DEF,True
+"Rodon  Joe Rodon (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,31,11/04/2021,DEF,True
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,1,82,0,1,0,1,0,1,0,2,0,0,0,MUN,31,11/04/2021,MID,True
+"Sissoko  Moussa Sissoko (Tottenham Hotspur, Midfielder)",TOT,4.5,0,29,1,0,0,0,0,0,0,2,0,1,0,MUN,31,11/04/2021,MID,True
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,1,90,0,0,1,0,0,0,0,3,0,0,0,MUN,31,11/04/2021,MID,True

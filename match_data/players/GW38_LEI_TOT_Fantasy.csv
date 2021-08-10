@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,1,80,0,1,0,0,0,0,0,2,0,0,0,TOT,38,23/05/2021,MID,True
+"Ricardo Pereira  Ricardo Domingos Barbosa Pereira (Leicester City, Defender)",LEI,5.5,0,28,1,0,0,0,0,0,0,3,0,0,0,TOT,38,23/05/2021,DEF,True
+"Castagne  Timothy Castagne (Leicester City, Defender)",LEI,5.5,1,90,0,0,0,0,0,0,0,4,0,0,0,TOT,38,23/05/2021,DEF,True
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,1,21,0,1,0,0,0,0,0,0,0,0,0,TOT,38,23/05/2021,DEF,True
+"Iheanacho  Kelechi Iheanacho (Leicester City, Forward)",LEI,7.5,1,90,0,0,0,0,0,0,0,4,0,0,0,TOT,38,23/05/2021,FWD,True
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,1,62,0,1,0,0,0,0,0,1,0,0,0,TOT,38,23/05/2021,MID,True
+"Mendy (Nampalys)  Nampalys Mendy (Leicester City, Midfielder)",LEI,4.5,0,69,1,0,0,0,0,0,0,4,0,0,0,TOT,38,23/05/2021,MID,True
+"Ndidi  Onyinye Wilfred Ndidi (Leicester City, Midfielder)",LEI,5.0,1,90,0,0,0,0,0,0,0,4,0,0,0,TOT,38,23/05/2021,MID,True
+"Ayoze Pérez  Ayoze Pérez Gutiérrez (Leicester City, Midfielder)",LEI,6.0,0,10,1,0,0,0,0,0,0,2,0,0,0,TOT,38,23/05/2021,MID,True
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,1,90,0,0,0,0,0,0,0,4,1,0,0,TOT,38,23/05/2021,GKP,True
+"Söyüncü  Caglar Söyüncü (Leicester City, Defender)",LEI,5.0,1,90,0,0,0,0,0,0,0,4,0,0,0,TOT,38,23/05/2021,DEF,True
+"Thomas (Luke)  Luke Thomas (Leicester City, Defender)",LEI,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,TOT,38,23/05/2021,DEF,True
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,1,90,0,0,0,0,0,0,0,4,0,0,0,TOT,38,23/05/2021,MID,True
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,1,90,0,0,2,0,0,0,0,4,0,0,0,TOT,38,23/05/2021,FWD,True
+"Alderweireld  Toby Alderweireld (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,38,23/05/2021,DEF,False
+"Alli  Bamidele Alli (Tottenham Hotspur, Midfielder)",TOT,6.5,1,68,0,1,0,0,0,0,0,2,0,0,0,LEI,38,23/05/2021,MID,False
+"Bale  Gareth Bale (Tottenham Hotspur, Midfielder)",TOT,9.2,0,22,1,0,2,0,0,0,0,0,0,0,0,LEI,38,23/05/2021,MID,False
+"Bergwijn  Steven Bergwijn (Tottenham Hotspur, Midfielder)",TOT,6.0,1,68,0,1,0,0,0,0,0,2,0,1,0,LEI,38,23/05/2021,MID,False
+"Doherty  Matt Doherty (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,38,23/05/2021,DEF,False
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,38,23/05/2021,MID,False
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,1,90,0,0,1,1,0,1,0,2,0,0,0,LEI,38,23/05/2021,FWD,False
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,38,23/05/2021,GKP,False
+"Reguilón  Sergio Reguilón (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,38,23/05/2021,DEF,False
+"Rodon  Joe Rodon (Tottenham Hotspur, Defender)",TOT,4.5,0,1,1,0,0,0,0,0,0,0,0,0,0,LEI,38,23/05/2021,DEF,False
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,0,22,1,0,0,0,0,0,0,0,0,0,0,LEI,38,23/05/2021,MID,False
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,1,89,0,1,0,0,1,1,0,2,0,0,0,LEI,38,23/05/2021,MID,False
+"DSanchez  Davinson Sánchez (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,38,23/05/2021,DEF,False
+"Winks  Harry Winks (Tottenham Hotspur, Midfielder)",TOT,4.5,1,90,0,0,0,0,0,0,0,2,0,1,0,LEI,38,23/05/2021,MID,False

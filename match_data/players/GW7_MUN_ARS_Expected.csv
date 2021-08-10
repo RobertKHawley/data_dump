@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Aubameyang  Pierre-Emerick Aubameyang (Arsenal, Midfielder)",ARS,10.0,0,0.07,-0.07,1242.9,1,0.84,0.16,103.6,0.91,0.09,95.6,01/11/2020
+"Bellerín  Héctor Bellerín (Arsenal, Defender)",ARS,5.0,0,0.09,-0.09,1000.0,0,0.0,0.0,inf,0.09,-0.09,1000.0,01/11/2020
+"Willian  Willian Borges Da Silva (Arsenal, Midfielder)",ARS,6.5,0,0.08,-0.08,1075.0,0,0.06,-0.06,1433.3,0.14,-0.14,614.3,01/11/2020
+"Elneny  Mohamed Elneny (Arsenal, Midfielder)",ARS,4.5,0,0.03,-0.03,3000.0,0,0.03,-0.03,3000.0,0.06,-0.06,1500.0,01/11/2020
+"Holding  Rob Holding (Arsenal, Defender)",ARS,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,01/11/2020
+"Lacazette  Alexandre Lacazette (Arsenal, Forward)",ARS,8.5,0,0.03,-0.03,2533.3,0,0.0,0.0,inf,0.03,-0.03,2533.3,01/11/2020
+"Leno  Bernd Leno (Arsenal, Goalkeeper)",ARS,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,01/11/2020
+"Maitland-Niles  Ainsley Maitland-Niles (Arsenal, Defender)",ARS,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,01/11/2020
+"Mustafi  Shkodran Mustafi (Arsenal, Defender)",ARS,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,01/11/2020
+"Eddie Nketiah  Edward Nketiah (Arsenal, Forward)",ARS,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,01/11/2020
+"Partey  Thomas Partey (Arsenal, Midfielder)",ARS,5.0,0,0.08,-0.08,1125.0,0,0.04,-0.04,2250.0,0.12,-0.12,750.0,01/11/2020
+"Saka  Bukayo Saka (Arsenal, Midfielder)",ARS,6.5,0,0.01,-0.01,9000.0,0,0.06,-0.06,1500.0,0.07,-0.07,1285.7,01/11/2020
+"Tierney  Kieran Tierney (Arsenal, Defender)",ARS,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,01/11/2020
+"Gabriel Magalhães  Gabriel dos Santos Magalhães (Arsenal, Defender)",ARS,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,01/11/2020
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,0,0.07,-0.07,1071.4,0,0.02,-0.02,3750.0,0.09,-0.09,833.3,01/11/2020
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,01/11/2020
+"De Gea  David De Gea (Manchester United, Goalkeeper)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,01/11/2020
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,0,0.03,-0.03,2500.0,0,0.07,-0.07,1071.4,0.1,-0.1,750.0,01/11/2020
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,0,0.01,-0.01,9000.0,0,0.24,-0.24,375.0,0.25,-0.25,360.0,01/11/2020
+"Matic  Nemanja Matic (Manchester United, Midfielder)",MUN,4.5,0,0.11,-0.11,254.5,0,0.03,-0.03,933.3,0.14,-0.14,200.0,01/11/2020
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,01/11/2020
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,01/11/2020
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,0,0.09,-0.09,1000.0,0,0.0,0.0,inf,0.09,-0.09,1000.0,01/11/2020
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,0,0.07,-0.07,1285.7,0,0.03,-0.03,3000.0,0.1,-0.1,900.0,01/11/2020
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,0,0.01,-0.01,6200.0,0,0.0,0.0,inf,0.01,-0.01,6200.0,01/11/2020
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,0,0.18,-0.18,500.0,0,0.0,0.0,inf,0.18,-0.18,500.0,01/11/2020
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,01/11/2020
+"van de Beek  Donny van de Beek (Manchester United, Midfielder)",MUN,6.0,0,0.08,-0.08,187.5,0,0.0,0.0,inf,0.08,-0.08,187.5,01/11/2020

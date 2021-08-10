@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Abraham  Tammy Abraham (Chelsea, Forward)",CHE,6.5,1,79,0,1,0,0,0,0,1,0,0,0,0,TOT,10,29/11/2020,FWD,True
+"Chilwell  Benjamin Chilwell (Chelsea, Defender)",CHE,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,TOT,10,29/11/2020,DEF,True
+"Giroud  Olivier Giroud (Chelsea, Forward)",CHE,6.5,0,11,1,0,0,0,0,0,0,0,0,0,0,TOT,10,29/11/2020,FWD,True
+"Havertz  Kai Havertz (Chelsea, Midfielder)",CHE,8.5,0,7,1,0,0,0,0,0,0,0,0,0,0,TOT,10,29/11/2020,MID,True
+"James (Reece)  Reece James (Chelsea, Defender)",CHE,5.5,1,90,0,0,0,0,0,0,1,0,0,1,0,TOT,10,29/11/2020,DEF,True
+"Kanté  N&#039;Golo Kanté (Chelsea, Midfielder)",CHE,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,TOT,10,29/11/2020,MID,True
+"Kovacic  Mateo Kovacic (Chelsea, Midfielder)",CHE,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,TOT,10,29/11/2020,MID,True
+"Mendy (Edouard)  Edouard Mendy (Chelsea, Goalkeeper)",CHE,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,TOT,10,29/11/2020,GKP,True
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,1,90,0,0,0,0,0,0,1,0,0,1,0,TOT,10,29/11/2020,MID,True
+"Pulisic  Christian Pulisic (Chelsea, Midfielder)",CHE,8.0,0,16,1,0,0,0,0,0,0,0,0,0,0,TOT,10,29/11/2020,MID,True
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,1,74,0,1,0,0,0,0,1,0,0,0,0,TOT,10,29/11/2020,FWD,True
+"Ziyech  Hakim Ziyech (Chelsea, Midfielder)",CHE,7.5,1,83,0,1,0,0,0,0,1,0,0,1,0,TOT,10,29/11/2020,MID,True
+"Zouma  Kurt Zouma (Chelsea, Defender)",CHE,5.5,1,90,0,0,0,0,0,0,1,0,0,1,0,TOT,10,29/11/2020,DEF,True
+"Thiago Silva  Thiago Emiliano da Silva (Chelsea, Defender)",CHE,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,TOT,10,29/11/2020,DEF,True
+"Aurier  Serge Aurier (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,CHE,10,29/11/2020,DEF,False
+"Bergwijn  Steven Bergwijn (Tottenham Hotspur, Midfielder)",TOT,6.0,1,89,0,1,0,0,0,0,1,0,0,1,0,CHE,10,29/11/2020,MID,False
+"Davies (Ben)  Ben Davies (Tottenham Hotspur, Defender)",TOT,4.5,0,1,1,0,0,0,0,0,0,0,0,0,0,CHE,10,29/11/2020,DEF,False
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,CHE,10,29/11/2020,DEF,False
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,CHE,10,29/11/2020,MID,False
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,1,90,0,0,0,0,0,0,1,0,0,0,0,CHE,10,29/11/2020,FWD,False
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,CHE,10,29/11/2020,GKP,False
+"Lo Celso  Giovani Lo Celso (Tottenham Hotspur, Midfielder)",TOT,6.0,0,25,1,0,0,0,0,0,0,0,0,0,0,CHE,10,29/11/2020,MID,False
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,1,65,0,1,0,0,0,0,1,0,0,0,0,CHE,10,29/11/2020,MID,False
+"Reguilón  Sergio Reguilón (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,0,0,1,0,0,1,0,CHE,10,29/11/2020,DEF,False
+"Rodon  Joe Rodon (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,CHE,10,29/11/2020,DEF,False
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,0,1,1,0,0,0,0,0,0,0,0,0,0,CHE,10,29/11/2020,MID,False
+"Sissoko  Moussa Sissoko (Tottenham Hotspur, Midfielder)",TOT,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,CHE,10,29/11/2020,MID,False
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,1,89,0,1,0,0,0,0,1,0,0,0,0,CHE,10,29/11/2020,MID,False

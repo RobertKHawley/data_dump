@@ -1,0 +1,27 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,0,45,1,0,0,1,0,1,0,0,0,0,0,SHU,28,14/03/2021,MID,True
+"Ricardo Pereira  Ricardo Domingos Barbosa Pereira (Leicester City, Defender)",LEI,5.5,1,45,0,1,0,0,0,0,0,0,0,0,0,SHU,28,14/03/2021,DEF,True
+"Castagne  Timothy Castagne (Leicester City, Defender)",LEI,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,28,14/03/2021,DEF,True
+"Evans  Jonny Evans (Leicester City, Defender)",LEI,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,28,14/03/2021,DEF,True
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,28,14/03/2021,DEF,True
+"Iheanacho  Kelechi Iheanacho (Leicester City, Forward)",LEI,7.5,1,90,0,0,3,0,0,0,1,0,0,0,0,SHU,28,14/03/2021,FWD,True
+"Leshabela  Thakgalo Leshabela (Leicester City, Midfielder)",LEI,4.4,0,9,1,0,0,0,0,0,0,0,0,0,0,SHU,28,14/03/2021,MID,True
+"Ndidi  Onyinye Wilfred Ndidi (Leicester City, Midfielder)",LEI,5.0,1,90,0,0,0,1,0,1,1,0,0,0,0,SHU,28,14/03/2021,MID,True
+"Ayoze Pérez  Ayoze Pérez Gutiérrez (Leicester City, Midfielder)",LEI,6.0,1,81,0,1,1,0,0,0,1,0,0,0,0,SHU,28,14/03/2021,MID,True
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,28,14/03/2021,GKP,True
+"Söyüncü  Caglar Söyüncü (Leicester City, Defender)",LEI,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,28,14/03/2021,DEF,True
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,28,14/03/2021,MID,True
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,1,90,0,0,0,2,1,3,1,0,0,0,0,SHU,28,14/03/2021,FWD,True
+"Ampadu  Ethan Ampadu (Sheffield United, Defender)",SHU,4.5,1,90,0,0,0,0,0,0,0,5,1,0,0,LEI,28,14/03/2021,DEF,False
+"Baldock  George Baldock (Sheffield United, Defender)",SHU,4.9,1,90,0,0,0,0,0,0,0,5,0,0,0,LEI,28,14/03/2021,DEF,False
+"Basham  Chris Basham (Sheffield United, Defender)",SHU,4.6,1,90,0,0,0,0,0,0,0,5,0,0,0,LEI,28,14/03/2021,DEF,False
+"Bryan (Kean)  Kean Bryan (Sheffield United, Defender)",SHU,3.9,1,90,0,0,0,0,0,0,0,5,0,1,0,LEI,28,14/03/2021,DEF,False
+"Oliver Burke  Oliver Burke (Sheffield United, Midfielder)",SHU,4.1,1,63,0,1,0,0,0,0,0,1,0,0,0,LEI,28,14/03/2021,MID,False
+"Fleck  John Fleck (Sheffield United, Midfielder)",SHU,5.6,1,90,0,0,0,0,0,0,0,5,0,0,0,LEI,28,14/03/2021,MID,False
+"Lundstram  John Lundstram (Sheffield United, Midfielder)",SHU,4.8,1,90,0,0,0,0,0,0,0,5,0,1,0,LEI,28,14/03/2021,MID,False
+"Mousset  Lys Mousset (Sheffield United, Forward)",SHU,5.8,0,27,1,0,0,0,0,0,0,4,0,0,0,LEI,28,14/03/2021,FWD,False
+"Ndiaye  Iliman Ndiaye (Sheffield United, Midfielder)",SHU,4.5,0,11,1,0,0,0,0,0,0,1,0,0,0,LEI,28,14/03/2021,MID,False
+"Norwood  Oliver Norwood (Sheffield United, Midfielder)",SHU,4.5,1,79,0,1,0,0,0,0,0,4,0,0,0,LEI,28,14/03/2021,MID,False
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,1,90,0,0,0,0,0,0,0,5,0,0,0,LEI,28,14/03/2021,GKP,False
+"Sharp  Billy Sharp (Sheffield United, Forward)",SHU,5.5,1,90,0,0,0,0,0,0,0,5,0,0,0,LEI,28,14/03/2021,FWD,False
+"Stevens (Enda)  Enda Stevens (Sheffield United, Defender)",SHU,5.0,1,90,0,0,0,0,0,0,0,5,0,0,0,LEI,28,14/03/2021,DEF,False

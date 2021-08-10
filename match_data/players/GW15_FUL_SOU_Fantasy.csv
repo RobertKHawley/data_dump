@@ -1,0 +1,27 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Tosin  Oluwatosin Adarabioyo (Fulham, Defender)",FUL,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,15,26/12/2020,DEF,True
+"Aina  Ola Aina (Fulham, Defender)",FUL,4.3,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,15,26/12/2020,DEF,True
+"Andersen  Joachim Andersen (Fulham, Defender)",FUL,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,15,26/12/2020,DEF,True
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,15,26/12/2020,GKP,True
+"Cavaleiro  Ivan Cavaleiro (Fulham, Midfielder)",FUL,5.3,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,15,26/12/2020,MID,True
+"DeCordova-Reid  Bobby DeCordova-Reid (Fulham, Forward)",FUL,5.3,1,83,0,1,0,0,0,0,1,0,0,1,0,SOU,15,26/12/2020,FWD,True
+"Kebano  Neeskens Kebano (Fulham, Midfielder)",FUL,4.7,0,1,1,0,0,0,0,0,0,0,0,0,0,SOU,15,26/12/2020,MID,True
+"Loftus-Cheek  Ruben Loftus-Cheek (Fulham, Midfielder)",FUL,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,15,26/12/2020,MID,True
+"Lookman  Ademola Lookman (Fulham, Midfielder)",FUL,4.7,1,89,0,1,0,0,0,0,1,0,0,0,0,SOU,15,26/12/2020,MID,True
+"Mitrovic  Aleksandar Mitrovic (Fulham, Forward)",FUL,5.5,0,7,1,0,0,0,0,0,0,0,0,0,0,SOU,15,26/12/2020,FWD,True
+"Reed  Harrison Reed (Fulham, Midfielder)",FUL,4.4,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,15,26/12/2020,MID,True
+"Robinson (Antonee)  Antonee Robinson (Fulham, Defender)",FUL,4.4,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,15,26/12/2020,DEF,True
+"Zambo Anguissa  André-Frank Zambo Anguissa (Fulham, Midfielder)",FUL,4.4,1,90,0,0,0,0,0,0,1,0,0,1,0,SOU,15,26/12/2020,MID,True
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,15,26/12/2020,FWD,False
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,1,89,0,1,0,0,0,0,1,0,0,0,0,FUL,15,26/12/2020,MID,False
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,15,26/12/2020,DEF,False
+"Bertrand  Ryan Bertrand (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,15,26/12/2020,DEF,False
+"Diallo  Ibrahima Diallo (Southampton, Midfielder)",SOU,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,15,26/12/2020,MID,False
+"Djenepo  Moussa Djenepo (Southampton, Midfielder)",SOU,5.5,0,1,1,0,0,0,0,0,0,0,0,0,0,FUL,15,26/12/2020,MID,False
+"Long (Shane)  Shane Long (Southampton, Forward)",SOU,5.1,1,89,0,1,0,0,0,0,1,0,0,0,0,FUL,15,26/12/2020,FWD,False
+"McCarthy (Alex)  Alex McCarthy (Southampton, Goalkeeper)",SOU,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,15,26/12/2020,GKP,False
+"N'Lundulu  Daniel N&#039;Lundulu (Southampton, Forward)",SOU,4.5,0,1,1,0,0,0,0,0,0,0,0,0,0,FUL,15,26/12/2020,FWD,False
+"Stephens (Jack)  Jack Stephens (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,15,26/12/2020,DEF,False
+"Walcott  Theo Walcott (Southampton, Midfielder)",SOU,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,15,26/12/2020,MID,False
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,15,26/12/2020,DEF,False
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,15,26/12/2020,MID,False

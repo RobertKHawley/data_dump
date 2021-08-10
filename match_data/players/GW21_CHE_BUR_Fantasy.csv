@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Gudmundsson  Johann Berg Gudmundsson (Burnley, Midfielder)",BUR,5.5,0,28,1,0,0,0,0,0,0,1,0,0,0,CHE,21,31/01/2021,MID,False
+"Brady  Robert Brady (Burnley, Midfielder)",BUR,5.0,1,76,0,1,0,0,0,0,0,1,0,0,0,CHE,21,31/01/2021,MID,False
+"Cork  Jack Cork (Burnley, Midfielder)",BUR,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,CHE,21,31/01/2021,MID,False
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,CHE,21,31/01/2021,DEF,False
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,1,90,0,0,0,0,0,0,0,2,0,0,0,CHE,21,31/01/2021,MID,False
+"Mee  Ben Mee (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,CHE,21,31/01/2021,DEF,False
+"Mumbongo  Joel Mumbongo (Burnley, Forward)",BUR,4.5,0,14,1,0,0,0,0,0,0,1,0,0,0,CHE,21,31/01/2021,FWD,False
+"Pieters  Erik Pieters (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,CHE,21,31/01/2021,DEF,False
+"Pope  Nick Pope (Burnley, Goalkeeper)",BUR,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,CHE,21,31/01/2021,GKP,False
+"Rodriguez  Jay Rodriguez (Burnley, Forward)",BUR,5.5,0,33,1,0,0,0,0,0,0,1,0,0,0,CHE,21,31/01/2021,FWD,False
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,CHE,21,31/01/2021,DEF,False
+"Vydra  Matej Vydra (Burnley, Forward)",BUR,5.5,1,57,0,1,0,0,0,0,0,1,0,0,0,CHE,21,31/01/2021,FWD,False
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,1,90,0,0,0,0,0,0,0,2,0,1,0,CHE,21,31/01/2021,MID,False
+"Wood  Chris Wood (Burnley, Forward)",BUR,7.0,1,62,0,1,0,0,0,0,0,1,0,0,0,CHE,21,31/01/2021,FWD,False
+"Abraham  Tammy Abraham (Chelsea, Forward)",CHE,6.5,1,45,0,1,0,0,0,0,0,0,0,0,0,BUR,21,31/01/2021,FWD,True
+"Alonso  Marcos Alonso (Chelsea, Defender)",CHE,5.5,1,90,0,0,1,0,0,0,1,0,0,0,0,BUR,21,31/01/2021,DEF,True
+"Azpilicueta  César Azpilicueta (Chelsea, Defender)",CHE,6.0,1,90,0,0,1,0,0,0,1,0,0,0,0,BUR,21,31/01/2021,DEF,True
+"Jorginho  Jorge Luiz Frello Filho (Chelsea, Midfielder)",CHE,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,21,31/01/2021,MID,True
+"Havertz  Kai Havertz (Chelsea, Midfielder)",CHE,8.5,0,10,1,0,0,0,0,0,0,0,0,0,0,BUR,21,31/01/2021,MID,True
+"Hudson-Odoi  Callum Hudson-Odoi (Chelsea, Midfielder)",CHE,5.5,1,73,0,1,0,1,0,1,1,0,0,0,0,BUR,21,31/01/2021,MID,True
+"James (Reece)  Reece James (Chelsea, Defender)",CHE,5.5,0,17,1,0,0,0,0,0,0,0,0,0,0,BUR,21,31/01/2021,DEF,True
+"Kovacic  Mateo Kovacic (Chelsea, Midfielder)",CHE,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,21,31/01/2021,MID,True
+"Mendy (Edouard)  Edouard Mendy (Chelsea, Goalkeeper)",CHE,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,21,31/01/2021,GKP,True
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,1,80,0,1,0,0,0,0,1,0,0,0,0,BUR,21,31/01/2021,MID,True
+"Pulisic  Christian Pulisic (Chelsea, Midfielder)",CHE,8.0,0,45,1,0,0,1,0,1,0,0,0,0,0,BUR,21,31/01/2021,MID,True
+"Rüdiger  Antonio Rüdiger (Chelsea, Defender)",CHE,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,21,31/01/2021,DEF,True
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,21,31/01/2021,FWD,True
+"Thiago Silva  Thiago Emiliano da Silva (Chelsea, Defender)",CHE,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,21,31/01/2021,DEF,True

@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,1,90,0,0,0,0,0,0,1,0,0,1,0,SOU,19,16/01/2021,MID,True
+"Barnes (Harvey)  Harvey Barnes (Leicester City, Midfielder)",LEI,7.0,1,90,0,0,1,0,0,0,1,0,0,0,0,SOU,19,16/01/2021,MID,True
+"Castagne  Timothy Castagne (Leicester City, Defender)",LEI,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,19,16/01/2021,DEF,True
+"Evans  Jonny Evans (Leicester City, Defender)",LEI,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,19,16/01/2021,DEF,True
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,1,53,0,1,0,0,0,0,0,0,0,1,0,SOU,19,16/01/2021,DEF,True
+"Iheanacho  Kelechi Iheanacho (Leicester City, Forward)",LEI,7.5,0,1,1,0,0,0,0,0,0,0,0,0,0,SOU,19,16/01/2021,FWD,True
+"Justin  James Justin (Leicester City, Defender)",LEI,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,19,16/01/2021,DEF,True
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,1,77,0,1,1,0,0,0,1,0,0,0,0,SOU,19,16/01/2021,MID,True
+"Ndidi  Onyinye Wilfred Ndidi (Leicester City, Midfielder)",LEI,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,19,16/01/2021,MID,True
+"Ayoze Pérez  Ayoze Pérez Gutiérrez (Leicester City, Midfielder)",LEI,6.0,0,13,1,0,0,0,0,0,0,0,0,0,0,SOU,19,16/01/2021,MID,True
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,19,16/01/2021,GKP,True
+"Söyüncü  Caglar Söyüncü (Leicester City, Defender)",LEI,5.0,0,37,1,0,0,0,0,0,0,0,0,0,0,SOU,19,16/01/2021,DEF,True
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,1,90,0,0,0,2,0,2,1,0,0,0,0,SOU,19,16/01/2021,MID,True
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,1,89,0,1,0,0,0,0,1,0,0,0,0,SOU,19,16/01/2021,FWD,True
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,1,72,0,1,0,0,0,0,0,1,0,0,0,LEI,19,16/01/2021,FWD,False
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,19,16/01/2021,MID,False
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,19,16/01/2021,DEF,False
+"Bertrand  Ryan Bertrand (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,2,0,1,0,LEI,19,16/01/2021,DEF,False
+"Diallo  Ibrahima Diallo (Southampton, Midfielder)",SOU,4.5,1,87,0,1,0,0,0,0,0,1,0,1,0,LEI,19,16/01/2021,MID,False
+"Long (Shane)  Shane Long (Southampton, Forward)",SOU,5.1,0,18,1,0,0,0,0,0,0,1,0,0,0,LEI,19,16/01/2021,FWD,False
+"McCarthy (Alex)  Alex McCarthy (Southampton, Goalkeeper)",SOU,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,19,16/01/2021,GKP,False
+"N'Lundulu  Daniel N&#039;Lundulu (Southampton, Forward)",SOU,4.5,0,29,1,0,0,0,0,0,0,1,0,0,0,LEI,19,16/01/2021,FWD,False
+"Smallbone  William Smallbone (Southampton, Midfielder)",SOU,4.5,1,61,0,1,0,0,0,0,0,1,0,0,0,LEI,19,16/01/2021,MID,False
+"Stephens (Jack)  Jack Stephens (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,19,16/01/2021,DEF,False
+"Valery  Yann Valery (Southampton, Defender)",SOU,4.7,0,3,1,0,0,0,0,0,0,1,0,0,0,LEI,19,16/01/2021,DEF,False
+"Walcott  Theo Walcott (Southampton, Midfielder)",SOU,6.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,19,16/01/2021,MID,False
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,19,16/01/2021,DEF,False
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,19,16/01/2021,MID,False

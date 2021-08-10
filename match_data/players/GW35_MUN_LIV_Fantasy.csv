@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Thiago Alcántara  Thiago Alcántara do Nascimento (Liverpool, Midfielder)",LIV,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,MUN,35,13/05/2021,MID,False
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,1,90,0,0,0,1,1,2,0,2,0,0,0,MUN,35,13/05/2021,DEF,False
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,1,90,0,0,2,0,0,0,0,2,0,0,0,MUN,35,13/05/2021,FWD,False
+"Jones (Curtis)  Curtis Jones (Liverpool, Midfielder)",LIV,5.0,0,16,1,0,0,1,0,1,0,0,0,0,0,MUN,35,13/05/2021,MID,False
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,0,16,1,0,0,0,0,0,0,0,0,0,0,MUN,35,13/05/2021,MID,False
+"Phillips (Nathaniel)  Nathaniel Phillips (Liverpool, Defender)",LIV,4.5,1,90,0,0,0,1,0,1,0,2,0,0,0,MUN,35,13/05/2021,DEF,False
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,1,90,0,0,0,0,0,0,0,2,0,0,0,MUN,35,13/05/2021,GKP,False
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,1,90,0,0,0,0,0,0,0,2,0,0,0,MUN,35,13/05/2021,DEF,False
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,1,89,0,1,1,0,0,0,0,2,0,0,0,MUN,35,13/05/2021,MID,False
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,MUN,35,13/05/2021,MID,False
+"Diogo Jota  Diogo José Teixeira da Silva (Liverpool, Midfielder)",LIV,7.5,1,74,0,1,1,0,0,0,0,2,0,0,0,MUN,35,13/05/2021,MID,False
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,1,74,0,1,0,0,0,0,0,2,0,0,0,MUN,35,13/05/2021,MID,False
+"Williams (Neco)  Neco Williams (Liverpool, Defender)",LIV,4.0,0,1,1,0,0,0,0,0,0,0,0,0,0,MUN,35,13/05/2021,DEF,False
+"Rhys Williams  Rhys Williams (Liverpool, Defender)",LIV,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,MUN,35,13/05/2021,DEF,False
+"Bailly  Eric Bailly (Manchester United, Defender)",MUN,5.0,1,86,0,1,0,0,0,0,0,3,0,1,0,LIV,35,13/05/2021,DEF,True
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,1,90,0,0,1,0,0,0,0,4,0,0,0,LIV,35,13/05/2021,MID,True
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,1,90,0,0,0,1,0,1,0,4,0,1,0,LIV,35,13/05/2021,FWD,True
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,0,27,1,0,0,0,0,0,0,1,0,0,0,LIV,35,13/05/2021,MID,True
+"Henderson (Dean)  Dean Henderson (Manchester United, Goalkeeper)",MUN,5.0,1,90,0,0,0,0,0,0,0,4,0,0,0,LIV,35,13/05/2021,GKP,True
+"Matic  Nemanja Matic (Manchester United, Midfielder)",MUN,4.5,0,4,1,0,0,0,0,0,0,1,0,0,0,LIV,35,13/05/2021,MID,True
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,1,90,0,0,0,0,0,0,0,4,0,1,0,LIV,35,13/05/2021,MID,True
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,1,90,0,0,0,0,0,0,0,4,0,0,0,LIV,35,13/05/2021,DEF,True
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,1,90,0,0,0,0,0,0,0,4,0,0,0,LIV,35,13/05/2021,MID,True
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,1,90,0,0,1,0,0,0,0,4,0,0,0,LIV,35,13/05/2021,MID,True
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,1,63,0,1,0,0,0,0,0,3,0,0,0,LIV,35,13/05/2021,MID,True
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,0,4,0,0,0,LIV,35,13/05/2021,DEF,True
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,1,0,1,0,4,0,0,0,LIV,35,13/05/2021,DEF,True

@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Ampadu  Ethan Ampadu (Sheffield United, Defender)",SHU,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,SOU,12,13/12/2020,DEF,False
+"Baldock  George Baldock (Sheffield United, Defender)",SHU,4.9,1,90,0,0,0,0,0,0,0,3,0,0,0,SOU,12,13/12/2020,DEF,False
+"Basham  Chris Basham (Sheffield United, Defender)",SHU,4.6,1,70,0,1,0,0,0,0,0,2,0,0,0,SOU,12,13/12/2020,DEF,False
+"Berge  Sander Berge (Sheffield United, Midfielder)",SHU,4.9,1,90,0,0,0,0,0,0,0,3,0,0,0,SOU,12,13/12/2020,MID,False
+"Brewster  Rhian Brewster (Sheffield United, Forward)",SHU,4.2,0,30,1,0,0,0,0,0,0,2,0,0,0,SOU,12,13/12/2020,FWD,False
+"Egan  John Egan (Sheffield United, Defender)",SHU,4.7,1,90,0,0,0,0,0,0,0,3,0,0,0,SOU,12,13/12/2020,DEF,False
+"Fleck  John Fleck (Sheffield United, Midfielder)",SHU,5.6,1,90,0,0,0,0,0,0,0,3,0,0,0,SOU,12,13/12/2020,MID,False
+"Jagielka  Phil Jagielka (Sheffield United, Defender)",SHU,3.9,1,90,0,0,0,0,0,0,0,3,0,0,0,SOU,12,13/12/2020,DEF,False
+"McBurnie  Oliver McBurnie (Sheffield United, Forward)",SHU,5.6,1,48,0,1,0,0,0,0,0,1,0,0,0,SOU,12,13/12/2020,FWD,False
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,0,42,1,0,0,0,0,0,0,2,0,0,0,SOU,12,13/12/2020,FWD,False
+"Mousset  Lys Mousset (Sheffield United, Forward)",SHU,5.8,0,20,1,0,0,0,0,0,0,1,0,0,0,SOU,12,13/12/2020,FWD,False
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,1,90,0,0,0,0,0,0,0,3,0,0,0,SOU,12,13/12/2020,GKP,False
+"Sharp  Billy Sharp (Sheffield United, Forward)",SHU,5.5,1,60,0,1,0,0,0,0,0,1,0,0,0,SOU,12,13/12/2020,FWD,False
+"Stevens (Enda)  Enda Stevens (Sheffield United, Defender)",SHU,5.0,1,90,0,0,0,0,0,0,0,3,0,1,0,SOU,12,13/12/2020,DEF,False
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,1,84,0,1,1,0,0,0,1,0,0,0,0,SHU,12,13/12/2020,FWD,True
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,1,90,0,0,1,0,0,0,1,0,0,0,0,SHU,12,13/12/2020,MID,True
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,1,90,0,0,0,1,0,1,1,0,0,0,0,SHU,12,13/12/2020,DEF,True
+"Bertrand  Ryan Bertrand (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,12,13/12/2020,DEF,True
+"Diallo  Ibrahima Diallo (Southampton, Midfielder)",SOU,4.5,0,4,1,0,0,0,0,0,0,0,0,0,0,SHU,12,13/12/2020,MID,True
+"Ings  Danny Ings (Southampton, Forward)",SOU,8.0,1,90,0,0,0,1,0,1,1,0,0,0,0,SHU,12,13/12/2020,FWD,True
+"McCarthy (Alex)  Alex McCarthy (Southampton, Goalkeeper)",SOU,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,12,13/12/2020,GKP,True
+"N'Lundulu  Daniel N&#039;Lundulu (Southampton, Forward)",SOU,4.5,0,6,1,0,0,0,0,0,0,0,0,0,0,SHU,12,13/12/2020,FWD,True
+"Redmond  Nathan Redmond (Southampton, Midfielder)",SOU,6.0,0,10,1,0,1,0,0,0,0,0,0,0,0,SHU,12,13/12/2020,MID,True
+"Romeu  Oriol Romeu (Southampton, Midfielder)",SOU,4.5,1,86,0,1,0,1,0,1,1,0,0,0,0,SHU,12,13/12/2020,MID,True
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,12,13/12/2020,DEF,True
+"Walcott  Theo Walcott (Southampton, Midfielder)",SOU,6.0,1,80,0,1,0,0,0,0,1,0,0,0,0,SHU,12,13/12/2020,MID,True
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,12,13/12/2020,DEF,True
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,12,13/12/2020,MID,True

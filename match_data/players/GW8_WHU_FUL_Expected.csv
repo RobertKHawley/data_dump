@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Tosin  Oluwatosin Adarabioyo (Fulham, Defender)",FUL,4.5,0,0.01,-0.01,9000.0,0,0.05,-0.05,1800.0,0.06,-0.06,1500.0,07/11/2020
+"Aina  Ola Aina (Fulham, Defender)",FUL,4.3,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,07/11/2020
+"Andersen  Joachim Andersen (Fulham, Defender)",FUL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/11/2020
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/11/2020
+"Cairney  Tom Cairney (Fulham, Midfielder)",FUL,5.2,0,0.26,-0.26,346.2,0,0.03,-0.03,3000.0,0.29,-0.29,310.3,07/11/2020
+"Cavaleiro  Ivan Cavaleiro (Fulham, Midfielder)",FUL,5.3,0,0.0,0.0,inf,0,0.03,-0.03,33.3,0.03,-0.03,33.3,07/11/2020
+"DeCordova-Reid  Bobby DeCordova-Reid (Fulham, Forward)",FUL,5.3,0,0.07,-0.07,1185.7,0,0.1,-0.1,830.0,0.17,-0.17,488.2,07/11/2020
+"Loftus-Cheek  Ruben Loftus-Cheek (Fulham, Midfielder)",FUL,5.5,0,0.0,0.0,inf,0,0.06,-0.06,116.7,0.06,-0.06,116.7,07/11/2020
+"Lookman  Ademola Lookman (Fulham, Midfielder)",FUL,4.7,0,0.05,-0.05,1800.0,0,0.88,-0.88,102.3,0.93,-0.93,96.8,07/11/2020
+"Mitrovic  Aleksandar Mitrovic (Fulham, Forward)",FUL,5.5,0,0.05,-0.05,1800.0,0,0.57,-0.57,157.9,0.62,-0.62,145.2,07/11/2020
+"Reed  Harrison Reed (Fulham, Midfielder)",FUL,4.4,0,0.43,-0.43,209.3,0,0.0,0.0,inf,0.43,-0.43,209.3,07/11/2020
+"Robinson (Antonee)  Antonee Robinson (Fulham, Defender)",FUL,4.4,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,07/11/2020
+"Zambo Anguissa  André-Frank Zambo Anguissa (Fulham, Midfielder)",FUL,4.4,0,0.02,-0.02,4450.0,0,0.05,-0.05,1780.0,0.07,-0.07,1271.4,07/11/2020
+"Balbuena  Fabián Balbuena (West Ham United, Defender)",WHU,4.1,0,0.01,-0.01,9000.0,0,0.06,-0.06,1500.0,0.07,-0.07,1285.7,07/11/2020
+"Benrahma  Said Benrahma (West Ham United, Midfielder)",WHU,6.0,1,0.11,0.89,163.6,0,0.18,-0.18,100.0,0.29,0.71,62.1,07/11/2020
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,0,0.19,-0.19,378.9,0,0.11,-0.11,654.5,0.3,-0.3,240.0,07/11/2020
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,0,0.19,-0.19,473.7,0,0.0,0.0,inf,0.19,-0.19,473.7,07/11/2020
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,0,0.48,-0.48,187.5,0,0.18,-0.18,500.0,0.66,-0.66,136.4,07/11/2020
+"Diop  Issa Diop (West Ham United, Defender)",WHU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/11/2020
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/11/2020
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,0,0.35,-0.35,205.7,0,0.03,-0.03,2400.0,0.38,-0.38,189.5,07/11/2020
+"Haller  Sébastien Haller (West Ham United, Forward)",WHU,6.1,0,0.0,0.0,inf,0,0.31,-0.31,290.3,0.31,-0.31,290.3,07/11/2020
+"Lanzini  Manuel Lanzini (West Ham United, Midfielder)",WHU,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/11/2020
+"Masuaku  Arthur Masuaku (West Ham United, Defender)",WHU,4.5,0,0.03,-0.03,3000.0,0,0.32,-0.32,281.3,0.35,-0.35,257.1,07/11/2020
+"Ogbonna  Angelo Ogbonna (West Ham United, Defender)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/11/2020
+"Rice  Declan Rice (West Ham United, Midfielder)",WHU,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,07/11/2020
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,0,0.03,-0.03,3000.0,1,0.13,0.87,692.3,0.16,0.84,562.5,07/11/2020

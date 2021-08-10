@@ -1,0 +1,27 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Cash  Matthew Cash (Aston Villa, Defender)",AVL,5.0,1,0.13,0.87,692.3,0,0.07,-0.07,1285.7,0.2,0.8,450.0,28/12/2020
+"Davis (Keinan)  Keinan Davis (Aston Villa, Forward)",AVL,4.5,0,0.02,-0.02,150.0,0,0.0,0.0,inf,0.02,-0.02,150.0,28/12/2020
+"El Ghazi  Anwar El Ghazi (Aston Villa, Midfielder)",AVL,6.0,0,0.01,-0.01,8100.0,1,0.34,0.66,238.2,0.35,0.65,231.4,28/12/2020
+"Grealish  Jack Grealish (Aston Villa, Midfielder)",AVL,8.0,0,0.09,-0.09,1000.0,0,0.04,-0.04,2250.0,0.13,-0.13,692.3,28/12/2020
+"Hause  Kortney Hause (Aston Villa, Defender)",AVL,4.5,0,0.0,0.0,inf,0,0.07,-0.07,1285.7,0.07,-0.07,1285.7,28/12/2020
+"Konsa Ngoyo  Ezri Konsa Ngoyo (Aston Villa, Defender)",AVL,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,28/12/2020
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/12/2020
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,0,0.04,-0.04,2250.0,0,0.03,-0.03,3000.0,0.07,-0.07,1285.7,28/12/2020
+"Jacob Ramsey  Jacob Ramsey (Aston Villa, Midfielder)",AVL,4.5,0,0.0,0.0,inf,0,0.1,-0.1,90.0,0.1,-0.1,90.0,28/12/2020
+"Douglas Luiz  Douglas Luiz Soares de Paulo (Aston Villa, Midfielder)",AVL,4.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,28/12/2020
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,28/12/2020
+"Traore (Bertrand)  Bertrand Traore (Aston Villa, Midfielder)",AVL,6.0,0,0.01,-0.01,8700.0,0,0.04,-0.04,2175.0,0.05,-0.05,1740.0,28/12/2020
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,0,0.09,-0.09,1000.0,0,0.03,-0.03,3000.0,0.12,-0.12,750.0,28/12/2020
+"Azpilicueta  César Azpilicueta (Chelsea, Defender)",CHE,6.0,0,0.18,-0.18,500.0,0,0.0,0.0,inf,0.18,-0.18,500.0,28/12/2020
+"Chilwell  Benjamin Chilwell (Chelsea, Defender)",CHE,6.0,1,0.21,0.79,428.6,0,0.08,-0.08,1125.0,0.29,0.71,310.3,28/12/2020
+"Christensen  Andreas Christensen (Chelsea, Defender)",CHE,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,28/12/2020
+"Jorginho  Jorge Luiz Frello Filho (Chelsea, Midfielder)",CHE,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/12/2020
+"Giroud  Olivier Giroud (Chelsea, Forward)",CHE,6.5,0,0.01,-0.01,7200.0,1,0.2,0.8,360.0,0.21,0.79,342.9,28/12/2020
+"Havertz  Kai Havertz (Chelsea, Midfielder)",CHE,8.5,0,0.01,-0.01,1800.0,0,0.0,0.0,inf,0.01,-0.01,1800.0,28/12/2020
+"Hudson-Odoi  Callum Hudson-Odoi (Chelsea, Midfielder)",CHE,5.5,0,0.1,-0.1,900.0,0,0.05,-0.05,1800.0,0.15,-0.15,600.0,28/12/2020
+"Kanté  N&#039;Golo Kanté (Chelsea, Midfielder)",CHE,5.0,0,0.04,-0.04,2250.0,0,0.09,-0.09,1000.0,0.13,-0.13,692.3,28/12/2020
+"Mendy (Edouard)  Edouard Mendy (Chelsea, Goalkeeper)",CHE,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/12/2020
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,0,0.23,-0.23,391.3,0,0.09,-0.09,1000.0,0.32,-0.32,281.3,28/12/2020
+"Pulisic  Christian Pulisic (Chelsea, Midfielder)",CHE,8.0,0,0.06,-0.06,1500.0,0,1.06,-1.06,84.9,1.12,-1.12,80.4,28/12/2020
+"Rüdiger  Antonio Rüdiger (Chelsea, Defender)",CHE,5.5,0,0.0,0.0,inf,0,0.17,-0.17,529.4,0.17,-0.17,529.4,28/12/2020
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,0,0.0,0.0,inf,0,0.05,-0.05,360.0,0.05,-0.05,360.0,28/12/2020

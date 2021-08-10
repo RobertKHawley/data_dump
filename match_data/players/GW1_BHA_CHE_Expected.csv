@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Alzate  Steven Alzate (Brighton and Hove Albion, Midfielder)",BHA,5.0,0,0.04,-0.04,1975.0,0,0.09,-0.09,877.8,0.13,-0.13,607.7,14/09/2020
+"Bissouma  Yves Bissouma (Brighton and Hove Albion, Midfielder)",BHA,4.5,0,0.02,-0.02,4500.0,0,0.05,-0.05,1800.0,0.07,-0.07,1285.7,14/09/2020
+"Connolly  Aaron Connolly (Brighton and Hove Albion, Forward)",BHA,5.5,0,0.01,-0.01,4500.0,0,0.2,-0.2,225.0,0.21,-0.21,214.3,14/09/2020
+"Dunk  Lewis Dunk (Brighton and Hove Albion, Defender)",BHA,5.0,0,0.01,-0.01,9000.0,0,0.19,-0.19,473.7,0.2,-0.2,450.0,14/09/2020
+"Groß  Pascal Groß (Brighton and Hove Albion, Midfielder)",BHA,6.0,0,0.01,-0.01,1100.0,0,0.0,0.0,inf,0.01,-0.01,1100.0,14/09/2020
+"Jahanbakhsh  Alireza Jahanbakhsh (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,14/09/2020
+"Lallana  Adam Lallana (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.21,-0.21,214.3,0,0.0,0.0,inf,0.21,-0.21,214.3,14/09/2020
+"Lamptey  Tariq Lamptey (Brighton and Hove Albion, Defender)",BHA,4.5,1,0.17,0.83,529.4,0,0.05,-0.05,1800.0,0.22,0.78,409.1,14/09/2020
+"March  Solomon March (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.14,-0.14,642.9,0,0.04,-0.04,2250.0,0.18,-0.18,500.0,14/09/2020
+"Maupay  Neal Maupay (Brighton and Hove Albion, Forward)",BHA,6.5,0,0.0,0.0,inf,0,0.39,-0.39,230.8,0.39,-0.39,230.8,14/09/2020
+"Mat Ryan  Mathew Ryan (Brighton and Hove Albion, Goalkeeper)",BHA,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,14/09/2020
+"Trossard  Leandro Trossard (Brighton and Hove Albion, Midfielder)",BHA,6.5,0,0.32,-0.32,281.3,1,0.03,0.97,3000.0,0.35,0.65,257.1,14/09/2020
+"Webster  Adam Webster (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.01,-0.01,9000.0,0,0.02,-0.02,4500.0,0.03,-0.03,3000.0,14/09/2020
+"White (Ben)  Ben White (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,14/09/2020
+"Alonso  Marcos Alonso (Chelsea, Defender)",CHE,5.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,14/09/2020
+"Kepa  Kepa Arrizabalaga Revuelta (Chelsea, Goalkeeper)",CHE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,14/09/2020
+"Azpilicueta  César Azpilicueta (Chelsea, Defender)",CHE,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,14/09/2020
+"Barkley  Ross Barkley (Chelsea, Midfielder)",CHE,5.5,0,0.03,-0.03,966.7,0,0.02,-0.02,1450.0,0.05,-0.05,580.0,14/09/2020
+"Christensen  Andreas Christensen (Chelsea, Defender)",CHE,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,14/09/2020
+"Jorginho  Jorge Luiz Frello Filho (Chelsea, Midfielder)",CHE,6.0,1,0.08,0.92,1062.5,1,0.79,0.21,107.6,0.87,1.13,97.7,14/09/2020
+"Havertz  Kai Havertz (Chelsea, Midfielder)",CHE,8.5,0,0.18,-0.18,444.4,0,0.0,0.0,inf,0.18,-0.18,444.4,14/09/2020
+"Hudson-Odoi  Callum Hudson-Odoi (Chelsea, Midfielder)",CHE,5.5,0,0.01,-0.01,1000.0,0,0.0,0.0,inf,0.01,-0.01,1000.0,14/09/2020
+"James (Reece)  Reece James (Chelsea, Defender)",CHE,5.5,1,0.09,0.91,1000.0,1,0.03,0.97,3000.0,0.12,1.88,750.0,14/09/2020
+"Kanté  N&#039;Golo Kanté (Chelsea, Midfielder)",CHE,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,14/09/2020
+"Loftus-Cheek  Ruben Loftus-Cheek (Chelsea, Midfielder)",CHE,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,14/09/2020
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,0,0.03,-0.03,3000.0,0,0.02,-0.02,4500.0,0.05,-0.05,1800.0,14/09/2020
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,0,0.01,-0.01,9000.0,0,0.32,-0.32,281.3,0.33,-0.33,272.7,14/09/2020
+"Zouma  Kurt Zouma (Chelsea, Defender)",CHE,5.5,0,0.0,0.0,inf,1,0.05,0.95,1800.0,0.05,0.95,1800.0,14/09/2020

@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Abraham  Tammy Abraham (Chelsea, Forward)",CHE,6.5,0,0.0,0.0,inf,0,0.05,-0.05,220.0,0.05,-0.05,220.0,05/12/2020
+"Chilwell  Benjamin Chilwell (Chelsea, Defender)",CHE,6.0,0,0.02,-0.02,4500.0,0,0.05,-0.05,1800.0,0.07,-0.07,1285.7,05/12/2020
+"Giroud  Olivier Giroud (Chelsea, Forward)",CHE,6.5,0,0.03,-0.03,2633.3,1,1.26,-0.26,62.7,1.29,-0.29,61.2,05/12/2020
+"Havertz  Kai Havertz (Chelsea, Midfielder)",CHE,8.5,0,0.01,-0.01,6700.0,0,0.36,-0.36,186.1,0.37,-0.37,181.1,05/12/2020
+"James (Reece)  Reece James (Chelsea, Defender)",CHE,5.5,1,0.36,0.64,250.0,0,0.04,-0.04,2250.0,0.4,0.6,225.0,05/12/2020
+"Kanté  N&#039;Golo Kanté (Chelsea, Midfielder)",CHE,5.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,05/12/2020
+"Kovacic  Mateo Kovacic (Chelsea, Midfielder)",CHE,5.0,0,0.01,-0.01,2300.0,0,0.0,0.0,inf,0.01,-0.01,2300.0,05/12/2020
+"Mendy (Edouard)  Edouard Mendy (Chelsea, Goalkeeper)",CHE,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/12/2020
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,1,0.45,0.55,200.0,0,0.23,-0.23,391.3,0.68,0.32,132.4,05/12/2020
+"Pulisic  Christian Pulisic (Chelsea, Midfielder)",CHE,8.0,0,0.04,-0.04,1500.0,1,0.79,0.21,75.9,0.83,0.17,72.3,05/12/2020
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,1,0.52,0.48,173.1,0,1.41,-1.41,63.8,1.93,-0.93,46.6,05/12/2020
+"Ziyech  Hakim Ziyech (Chelsea, Midfielder)",CHE,7.5,0,0.01,-0.01,3000.0,0,0.05,-0.05,600.0,0.06,-0.06,500.0,05/12/2020
+"Zouma  Kurt Zouma (Chelsea, Defender)",CHE,5.5,0,0.01,-0.01,9000.0,1,0.08,0.92,1125.0,0.09,0.91,1000.0,05/12/2020
+"Thiago Silva  Thiago Emiliano da Silva (Chelsea, Defender)",CHE,5.5,0,0.07,-0.07,1285.7,0,0.0,0.0,inf,0.07,-0.07,1285.7,05/12/2020
+"Alioski  Ezgjan Alioski (Leeds United, Defender)",LEE,4.4,0,0.01,-0.01,6900.0,0,0.0,0.0,inf,0.01,-0.01,6900.0,05/12/2020
+"Ayling  Luke Ayling (Leeds United, Defender)",LEE,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,05/12/2020
+"Bamford  Patrick Bamford (Leeds United, Forward)",LEE,8.0,0,0.0,0.0,inf,1,0.47,0.53,191.5,0.47,0.53,191.5,05/12/2020
+"Cooper  Liam Cooper (Leeds United, Defender)",LEE,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/12/2020
+"Dallas  Stuart Dallas (Leeds United, Defender)",LEE,5.5,0,0.01,-0.01,9000.0,0,0.05,-0.05,1800.0,0.06,-0.06,1500.0,05/12/2020
+"Raphinha  Raphael Dias Belloli (Leeds United, Midfielder)",LEE,6.5,0,0.26,-0.26,346.2,0,0.1,-0.1,900.0,0.36,-0.36,250.0,05/12/2020
+"Harrison  Jack Harrison (Leeds United, Midfielder)",LEE,6.0,0,0.01,-0.01,5700.0,0,0.13,-0.13,438.5,0.14,-0.14,407.1,05/12/2020
+"Klich  Mateusz Klich (Leeds United, Midfielder)",LEE,5.5,0,0.19,-0.19,473.7,0,0.0,0.0,inf,0.19,-0.19,473.7,05/12/2020
+"Koch  Robin Koch (Leeds United, Defender)",LEE,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/12/2020
+"Diego Llorente  Diego Javier Llorente Ríos (Leeds United, Defender)",LEE,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/12/2020
+"Meslier  Illan Meslier (Leeds United, Goalkeeper)",LEE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/12/2020
+"Rodrigo  Rodrigo Moreno Machado (Leeds United, Forward)",LEE,6.5,0,0.2,-0.2,105.0,0,0.0,0.0,inf,0.2,-0.2,105.0,05/12/2020
+"Phillips (Kalvin)  Kalvin Phillips (Leeds United, Midfielder)",LEE,5.0,1,0.16,0.84,562.5,0,0.0,0.0,inf,0.16,0.84,562.5,05/12/2020
+"Poveda-Ocampo  Ian Carlo Poveda-Ocampo (Leeds United, Midfielder)",LEE,4.5,0,0.0,0.0,inf,0,0.04,-0.04,825.0,0.04,-0.04,825.0,05/12/2020

@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Jordan Ayew  Jordan Ayew (Crystal Palace, Forward)",CRY,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"Cahill  Gary Cahill (Crystal Palace, Defender)",CRY,4.5,0,0.0,0.0,inf,0,0.16,-0.16,562.5,0.16,-0.16,562.5,23/05/2021
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"Kelly  Martin Kelly (Crystal Palace, Defender)",CRY,4.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,0,0.01,-0.01,8900.0,0,0.0,0.0,inf,0.01,-0.01,8900.0,23/05/2021
+"McCarthy (James)  James McCarthy (Crystal Palace, Midfielder)",CRY,4.3,0,0.01,-0.01,8800.0,0,0.0,0.0,inf,0.01,-0.01,8800.0,23/05/2021
+"Mitchell  Tyrick Mitchell (Crystal Palace, Defender)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"Riedewald  Jairo Riedewald (Crystal Palace, Midfielder)",CRY,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,23/05/2021
+"Schlupp  Jeffrey Schlupp (Crystal Palace, Midfielder)",CRY,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"Tomkins  James Tomkins (Crystal Palace, Defender)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"Townsend (Andros)  Andros Townsend (Crystal Palace, Midfielder)",CRY,5.5,0,0.09,-0.09,1000.0,0,0.37,-0.37,243.2,0.46,-0.46,195.7,23/05/2021
+"Van Aanholt  Patrick Van Aanholt (Crystal Palace, Defender)",CRY,5.4,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"Ward (Joel)  Joel Ward (Crystal Palace, Defender)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"Zaha  Wilfried Zaha (Crystal Palace, Midfielder)",CRY,7.0,0,0.0,0.0,inf,0,0.07,-0.07,1285.7,0.07,-0.07,1285.7,23/05/2021
+"Thiago Alcántara  Thiago Alcántara do Nascimento (Liverpool, Midfielder)",LIV,5.5,0,0.13,-0.13,692.3,0,0.0,0.0,inf,0.13,-0.13,692.3,23/05/2021
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,0,0.14,-0.14,642.9,0,0.05,-0.05,1800.0,0.19,-0.19,473.7,23/05/2021
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,1,0.74,0.26,120.3,0,0.09,-0.09,988.9,0.83,0.17,107.2,23/05/2021
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,0,0.37,-0.37,243.2,2,0.56,1.44,160.7,0.93,1.07,96.8,23/05/2021
+"Milner  James Milner (Liverpool, Midfielder)",LIV,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"Oxlade-Chamberlain  Alex Oxlade-Chamberlain (Liverpool, Midfielder)",LIV,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"Phillips (Nathaniel)  Nathaniel Phillips (Liverpool, Defender)",LIV,4.5,0,0.0,0.0,inf,0,0.06,-0.06,1500.0,0.06,-0.06,1500.0,23/05/2021
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,0,0.24,-0.24,370.8,0,0.03,-0.03,2966.7,0.27,-0.27,329.6,23/05/2021
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,1,0.18,0.82,500.0,0,0.53,-0.53,169.8,0.71,0.29,126.8,23/05/2021
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,0,0.09,-0.09,1000.0,0,0.0,0.0,inf,0.09,-0.09,1000.0,23/05/2021
+"Diogo Jota  Diogo José Teixeira da Silva (Liverpool, Midfielder)",LIV,7.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,0,0.08,-0.08,975.0,0,0.05,-0.05,1560.0,0.13,-0.13,600.0,23/05/2021
+"Rhys Williams  Rhys Williams (Liverpool, Defender)",LIV,4.5,0,0.0,0.0,inf,0,0.25,-0.25,360.0,0.25,-0.25,360.0,23/05/2021

@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Ajayi  Semi Ajayi (West Bromwich Albion, Defender)",WBA,4.8,1,90,0,0,0,0,0,0,0,3,0,0,0,WHU,37,19/05/2021,DEF,True
+"Bartley  Kyle Bartley (West Bromwich Albion, Defender)",WBA,4.4,1,90,0,0,0,0,0,0,0,3,0,0,0,WHU,37,19/05/2021,DEF,True
+"Matheus Pereira  Matheus Fellipe Costa Pereira (West Bromwich Albion, Midfielder)",WBA,5.4,1,90,0,0,1,0,0,0,0,3,0,0,0,WHU,37,19/05/2021,MID,True
+"Diagne  Mbaye Diagne (West Bromwich Albion, Forward)",WBA,6.0,0,1,1,0,0,0,0,0,0,0,0,0,0,WHU,37,19/05/2021,FWD,True
+"Diangana  Grady Diangana (West Bromwich Albion, Midfielder)",WBA,5.0,0,21,1,0,0,0,0,0,0,2,0,0,0,WHU,37,19/05/2021,MID,True
+"Furlong  Darnell Furlong (West Bromwich Albion, Defender)",WBA,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,WHU,37,19/05/2021,DEF,True
+"Gallagher  Conor Gallagher (West Bromwich Albion, Midfielder)",WBA,5.5,1,90,0,0,0,0,0,0,0,3,0,0,0,WHU,37,19/05/2021,MID,True
+"Grant (Karlan)  Karlan Grant (West Bromwich Albion, Forward)",WBA,5.6,0,5,1,0,0,0,0,0,0,1,0,0,0,WHU,37,19/05/2021,FWD,True
+"Johnstone  Sam Johnstone (West Bromwich Albion, Goalkeeper)",WBA,4.6,1,90,0,0,0,0,0,0,0,3,0,1,0,WHU,37,19/05/2021,GKP,True
+"Maitland-Niles  Ainsley Maitland-Niles (West Bromwich Albion, Defender)",WBA,5.5,1,69,0,1,0,0,0,0,0,1,0,0,0,WHU,37,19/05/2021,DEF,True
+"Phillips (Matthew)  Matthew Phillips (West Bromwich Albion, Midfielder)",WBA,5.1,1,90,0,0,0,0,0,0,0,3,0,0,0,WHU,37,19/05/2021,MID,True
+"Robson-Kanu  Hal Robson-Kanu (West Bromwich Albion, Forward)",WBA,5.2,1,89,0,1,0,0,0,0,0,3,0,0,0,WHU,37,19/05/2021,FWD,True
+"Townsend (Conor)  Conor Townsend (West Bromwich Albion, Defender)",WBA,4.4,1,90,0,0,0,0,0,0,0,3,0,0,0,WHU,37,19/05/2021,DEF,True
+"Yokuslu  Okay Yokuslu (West Bromwich Albion, Midfielder)",WBA,4.5,1,85,0,1,0,0,0,0,0,2,0,1,0,WHU,37,19/05/2021,MID,True
+"Antonio  Michail Antonio (West Ham United, Forward)",WHU,7.5,1,90,0,0,1,0,0,0,0,1,0,0,0,WBA,37,19/05/2021,FWD,False
+"Benrahma  Said Benrahma (West Ham United, Midfielder)",WHU,6.0,1,72,0,1,0,1,0,1,0,1,0,0,0,WBA,37,19/05/2021,MID,False
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,0,18,1,0,0,0,0,0,0,0,0,0,0,WBA,37,19/05/2021,MID,False
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,37,19/05/2021,DEF,False
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,1,90,0,0,0,1,0,1,0,1,0,0,0,WBA,37,19/05/2021,DEF,False
+"Dawson  Craig Dawson (West Ham United, Defender)",WHU,5.0,1,90,0,0,0,0,0,0,0,1,0,1,0,WBA,37,19/05/2021,DEF,False
+"Diop  Issa Diop (West Ham United, Defender)",WHU,4.5,0,1,1,0,0,0,0,0,0,0,0,0,0,WBA,37,19/05/2021,DEF,False
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,1,89,0,1,0,0,0,0,0,1,0,0,0,WBA,37,19/05/2021,MID,False
+"Lingard  Jesse Lingard (West Ham United, Midfielder)",WHU,7.0,1,90,0,0,0,1,0,1,0,1,0,0,0,WBA,37,19/05/2021,MID,False
+"Ogbonna  Angelo Ogbonna (West Ham United, Defender)",WHU,5.0,1,90,0,0,1,0,0,0,0,1,0,1,0,WBA,37,19/05/2021,DEF,False
+"Randolph  Darren Randolph (West Ham United, Goalkeeper)",WHU,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,37,19/05/2021,GKP,False
+"Rice  Declan Rice (West Ham United, Midfielder)",WHU,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,37,19/05/2021,MID,False
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,1,90,0,0,1,0,0,0,0,1,0,0,0,WBA,37,19/05/2021,MID,False

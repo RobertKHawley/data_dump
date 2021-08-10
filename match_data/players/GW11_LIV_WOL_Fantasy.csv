@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,0,22,1,0,0,0,0,0,0,0,0,0,0,WOL,11,06/12/2020,DEF,True
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,1,73,0,1,0,0,0,0,1,0,0,0,0,WOL,11,06/12/2020,FWD,True
+"Henderson (Jordan)  Jordan Henderson (Liverpool, Midfielder)",LIV,5.0,1,81,0,1,0,1,1,2,1,0,0,0,0,WOL,11,06/12/2020,MID,True
+"Jones (Curtis)  Curtis Jones (Liverpool, Midfielder)",LIV,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,WOL,11,06/12/2020,MID,True
+"Keita  Naby Keita (Liverpool, Midfielder)",LIV,5.0,0,9,1,0,0,0,0,0,0,0,0,0,0,WOL,11,06/12/2020,MID,True
+"Kelleher  Caoimhin Kelleher (Liverpool, Goalkeeper)",LIV,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,WOL,11,06/12/2020,GKP,True
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,1,90,0,0,0,0,1,1,1,0,0,0,0,WOL,11,06/12/2020,MID,True
+"Matip  Joel Matip (Liverpool, Defender)",LIV,5.0,1,90,0,0,1,0,0,0,1,0,0,0,0,WOL,11,06/12/2020,DEF,True
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,1,90,0,0,0,0,0,0,1,0,0,0,0,WOL,11,06/12/2020,DEF,True
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,1,90,0,0,1,1,0,1,1,0,0,0,0,WOL,11,06/12/2020,MID,True
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,WOL,11,06/12/2020,MID,True
+"Diogo Jota  Diogo José Teixeira da Silva (Liverpool, Midfielder)",LIV,7.5,0,17,1,0,0,0,0,0,0,0,0,0,0,WOL,11,06/12/2020,MID,True
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,1,90,0,0,1,0,0,0,1,0,0,0,0,WOL,11,06/12/2020,MID,True
+"Williams (Neco)  Neco Williams (Liverpool, Defender)",LIV,4.0,1,68,0,1,0,0,0,0,1,0,0,1,0,WOL,11,06/12/2020,DEF,True
+"Ait Nouri  Rayan Ait Nouri (Wolverhampton Wanderers, Defender)",WOL,4.5,0,19,1,0,0,0,0,0,0,1,0,0,0,LIV,11,06/12/2020,DEF,False
+"Boly  Willy Boly (Wolverhampton Wanderers, Defender)",WOL,5.0,1,90,0,0,0,0,0,0,0,4,0,0,0,LIV,11,06/12/2020,DEF,False
+"Coady  Conor Coady (Wolverhampton Wanderers, Defender)",WOL,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,LIV,11,06/12/2020,DEF,False
+"Dendoncker (Leander)  Leander Dendoncker (Wolverhampton Wanderers, Midfielder)",WOL,5.0,1,90,0,0,0,0,0,0,0,4,0,0,0,LIV,11,06/12/2020,MID,False
+"Vitor Ferreira  Vitor Machado Ferreira (Wolverhampton Wanderers, Midfielder)",WOL,4.7,0,11,1,0,0,0,0,0,0,0,0,0,0,LIV,11,06/12/2020,MID,False
+"Marçal  Fernando Marçal de Oliveira (Wolverhampton Wanderers, Defender)",WOL,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,LIV,11,06/12/2020,DEF,False
+"Moutinho  João Moutinho (Wolverhampton Wanderers, Midfielder)",WOL,5.0,1,90,0,0,0,0,0,0,0,4,0,1,0,LIV,11,06/12/2020,MID,False
+"Neto  Pedro Neto (Wolverhampton Wanderers, Midfielder)",WOL,6.5,1,79,0,1,0,0,0,0,0,4,0,0,0,LIV,11,06/12/2020,MID,False
+"Podence  Daniel Podence (Wolverhampton Wanderers, Midfielder)",WOL,5.5,1,71,0,1,0,0,0,0,0,3,0,0,0,LIV,11,06/12/2020,MID,False
+"Semedo  Nelson Semedo (Wolverhampton Wanderers, Defender)",WOL,5.0,1,90,0,0,0,0,0,0,0,4,1,0,0,LIV,11,06/12/2020,DEF,False
+"Fabio Silva  Fabio Daniel Soares Silva (Wolverhampton Wanderers, Forward)",WOL,6.0,0,28,1,0,0,0,0,0,0,2,0,0,0,LIV,11,06/12/2020,FWD,False
+"Traoré  Adama Traoré (Wolverhampton Wanderers, Midfielder)",WOL,6.0,1,90,0,0,0,0,0,0,0,4,0,0,0,LIV,11,06/12/2020,MID,False
+"Ruben Neves  Rúben Diogo da Silva Neves (Wolverhampton Wanderers, Midfielder)",WOL,5.5,1,62,0,1,0,0,0,0,0,2,0,0,0,LIV,11,06/12/2020,MID,False
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,1,90,0,0,0,0,0,0,0,4,0,0,0,LIV,11,06/12/2020,GKP,False

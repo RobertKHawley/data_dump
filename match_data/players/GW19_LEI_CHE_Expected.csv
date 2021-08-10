@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Abraham  Tammy Abraham (Chelsea, Forward)",CHE,6.5,0,0.0,0.0,inf,0,0.09,-0.09,1000.0,0.09,-0.09,1000.0,19/01/2021
+"Chilwell  Benjamin Chilwell (Chelsea, Defender)",CHE,6.0,0,0.06,-0.06,1500.0,0,0.0,0.0,inf,0.06,-0.06,1500.0,19/01/2021
+"Havertz  Kai Havertz (Chelsea, Midfielder)",CHE,8.5,0,0.03,-0.03,2233.3,0,0.0,0.0,inf,0.03,-0.03,2233.3,19/01/2021
+"Hudson-Odoi  Callum Hudson-Odoi (Chelsea, Midfielder)",CHE,5.5,0,0.06,-0.06,1133.3,0,0.05,-0.05,1360.0,0.11,-0.11,618.2,19/01/2021
+"James (Reece)  Reece James (Chelsea, Defender)",CHE,5.5,0,0.09,-0.09,1000.0,0,0.26,-0.26,346.2,0.35,-0.35,257.1,19/01/2021
+"Kovacic  Mateo Kovacic (Chelsea, Midfielder)",CHE,5.0,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,19/01/2021
+"Mendy (Edouard)  Edouard Mendy (Chelsea, Goalkeeper)",CHE,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/01/2021
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,0,0.27,-0.27,333.3,0,0.15,-0.15,600.0,0.42,-0.42,214.3,19/01/2021
+"Pulisic  Christian Pulisic (Chelsea, Midfielder)",CHE,8.0,0,0.03,-0.03,3000.0,0,0.06,-0.06,1500.0,0.09,-0.09,1000.0,19/01/2021
+"Rüdiger  Antonio Rüdiger (Chelsea, Defender)",CHE,5.5,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,19/01/2021
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/01/2021
+"Ziyech  Hakim Ziyech (Chelsea, Midfielder)",CHE,7.5,0,0.0,0.0,inf,0,0.07,-0.07,328.6,0.07,-0.07,328.6,19/01/2021
+"Thiago Silva  Thiago Emiliano da Silva (Chelsea, Defender)",CHE,5.5,0,0.01,-0.01,9000.0,0,0.06,-0.06,1500.0,0.07,-0.07,1285.7,19/01/2021
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,1,0.38,0.62,200.0,0,0.03,-0.03,2533.3,0.41,0.59,185.4,19/01/2021
+"Ricardo Pereira  Ricardo Domingos Barbosa Pereira (Leicester City, Defender)",LEI,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/01/2021
+"Barnes (Harvey)  Harvey Barnes (Leicester City, Midfielder)",LEI,7.0,1,0.05,0.95,1800.0,0,0.0,0.0,inf,0.05,0.95,1800.0,19/01/2021
+"Castagne  Timothy Castagne (Leicester City, Defender)",LEI,5.5,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,19/01/2021
+"Evans  Jonny Evans (Leicester City, Defender)",LEI,5.5,0,0.01,-0.01,9000.0,0,0.07,-0.07,1285.7,0.08,-0.08,1125.0,19/01/2021
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/01/2021
+"Iheanacho  Kelechi Iheanacho (Leicester City, Forward)",LEI,7.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/01/2021
+"Justin  James Justin (Leicester City, Defender)",LEI,5.0,0,0.08,-0.08,1125.0,0,0.27,-0.27,333.3,0.35,-0.35,257.1,19/01/2021
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,0,0.08,-0.08,950.0,1,0.31,0.69,245.2,0.39,0.61,194.9,19/01/2021
+"Ndidi  Onyinye Wilfred Ndidi (Leicester City, Midfielder)",LEI,5.0,0,0.02,-0.02,4500.0,1,0.03,0.97,3000.0,0.05,0.95,1800.0,19/01/2021
+"Ayoze Pérez  Ayoze Pérez Gutiérrez (Leicester City, Midfielder)",LEI,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/01/2021
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/01/2021
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,0,0.03,-0.03,3000.0,0,0.35,-0.35,257.1,0.38,-0.38,236.8,19/01/2021
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,0,0.02,-0.02,4400.0,0,0.32,-0.32,275.0,0.34,-0.34,258.8,19/01/2021

@@ -1,0 +1,27 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Gudmundsson  Johann Berg Gudmundsson (Burnley, Midfielder)",BUR,5.5,1,88,0,1,0,0,0,0,0,2,0,0,0,MUN,32,18/04/2021,MID,False
+"Brownhill  Josh Brownhill (Burnley, Midfielder)",BUR,4.5,1,88,0,1,0,0,0,0,0,2,0,0,0,MUN,32,18/04/2021,MID,False
+"Cork  Jack Cork (Burnley, Midfielder)",BUR,4.5,1,90,0,0,0,0,0,0,0,3,0,1,0,MUN,32,18/04/2021,MID,False
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,32,18/04/2021,DEF,False
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,32,18/04/2021,MID,False
+"Mee  Ben Mee (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,32,18/04/2021,DEF,False
+"Peacock-Farrell  Bailey Peacock-Farrell (Burnley, Goalkeeper)",BUR,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,32,18/04/2021,GKP,False
+"Rodriguez  Jay Rodriguez (Burnley, Forward)",BUR,5.5,0,2,1,0,0,0,0,0,0,1,0,0,0,MUN,32,18/04/2021,FWD,False
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,1,90,0,0,1,0,0,0,0,3,0,1,0,MUN,32,18/04/2021,DEF,False
+"Taylor (Charlie)  Charlie Taylor (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,32,18/04/2021,DEF,False
+"Vydra  Matej Vydra (Burnley, Forward)",BUR,5.5,0,2,1,0,0,0,0,0,0,1,0,0,0,MUN,32,18/04/2021,FWD,False
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,1,90,0,0,0,1,0,1,0,3,0,0,0,MUN,32,18/04/2021,MID,False
+"Wood  Chris Wood (Burnley, Forward)",BUR,7.0,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,32,18/04/2021,FWD,False
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,32,18/04/2021,MID,True
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,0,45,1,0,1,0,0,0,0,1,0,0,0,BUR,32,18/04/2021,FWD,True
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,1,90,0,0,2,0,0,0,0,1,0,0,0,BUR,32,18/04/2021,MID,True
+"Henderson (Dean)  Dean Henderson (Manchester United, Goalkeeper)",MUN,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,32,18/04/2021,GKP,True
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,32,18/04/2021,DEF,True
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,32,18/04/2021,MID,True
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,32,18/04/2021,DEF,True
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,1,90,0,0,0,1,0,1,0,1,0,0,0,BUR,32,18/04/2021,MID,True
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,1,84,0,1,0,1,0,1,0,1,0,0,0,BUR,32,18/04/2021,MID,True
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,1,45,0,1,0,0,0,0,0,0,0,0,0,BUR,32,18/04/2021,MID,True
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,32,18/04/2021,DEF,True
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,0,1,0,1,0,BUR,32,18/04/2021,DEF,True
+"van de Beek  Donny van de Beek (Manchester United, Midfielder)",MUN,6.0,0,6,1,0,0,1,0,1,0,0,0,0,0,BUR,32,18/04/2021,MID,True

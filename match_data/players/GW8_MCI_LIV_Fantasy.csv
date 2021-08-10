@@ -1,0 +1,26 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,1,63,0,1,0,0,0,0,0,1,0,0,0,MCI,8,08/11/2020,DEF,False
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,1,59,0,1,0,0,0,0,0,1,0,0,0,MCI,8,08/11/2020,FWD,False
+"Gomez  Joseph Gomez (Liverpool, Defender)",LIV,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,8,08/11/2020,DEF,False
+"Henderson (Jordan)  Jordan Henderson (Liverpool, Midfielder)",LIV,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,8,08/11/2020,MID,False
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,1,90,0,0,0,0,1,1,0,1,0,0,0,MCI,8,08/11/2020,MID,False
+"Matip  Joel Matip (Liverpool, Defender)",LIV,5.0,1,90,0,0,0,0,0,0,0,1,0,1,0,MCI,8,08/11/2020,DEF,False
+"Milner  James Milner (Liverpool, Midfielder)",LIV,5.0,0,27,1,0,0,0,0,0,0,0,0,0,0,MCI,8,08/11/2020,MID,False
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,8,08/11/2020,GKP,False
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,8,08/11/2020,DEF,False
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,1,90,0,0,1,0,0,0,0,1,0,0,0,MCI,8,08/11/2020,MID,False
+"Shaqiri  Xherdan Shaqiri (Liverpool, Midfielder)",LIV,6.0,0,31,1,0,0,0,0,0,0,0,0,0,0,MCI,8,08/11/2020,MID,False
+"Diogo Jota  Diogo José Teixeira da Silva (Liverpool, Midfielder)",LIV,7.5,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,8,08/11/2020,MID,False
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,8,08/11/2020,MID,False
+"João Cancelo  João Pedro Cavaco Cancelo (Manchester City, Defender)",MCI,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,LIV,8,08/11/2020,DEF,True
+"De Bruyne  Kevin De Bruyne (Manchester City, Midfielder)",MCI,12.0,1,90,0,0,0,1,0,1,0,1,0,0,0,LIV,8,08/11/2020,MID,True
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,LIV,8,08/11/2020,DEF,True
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,1,90,0,0,0,0,0,0,0,1,0,0,0,LIV,8,08/11/2020,MID,True
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,LIV,8,08/11/2020,MID,True
+"Laporte  Aymeric Laporte (Manchester City, Defender)",MCI,5.5,1,90,0,0,0,0,0,0,0,1,0,1,0,LIV,8,08/11/2020,DEF,True
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,LIV,8,08/11/2020,GKP,True
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,1,90,0,0,0,0,0,0,0,1,0,1,0,LIV,8,08/11/2020,MID,True
+"Torres  Ferran Torres (Manchester City, Midfielder)",MCI,7.0,1,61,0,1,0,0,0,0,0,1,0,0,0,LIV,8,08/11/2020,MID,True
+"Bernardo Silva  Bernardo Mota Veiga de Carvalho e Silva (Manchester City, Midfielder)",MCI,7.0,0,29,1,0,0,0,0,0,0,0,0,0,0,LIV,8,08/11/2020,MID,True
+"Walker (Kyle)  Kyle Walker (Manchester City, Defender)",MCI,5.5,1,90,0,0,0,0,0,0,0,1,0,1,0,LIV,8,08/11/2020,DEF,True
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,1,90,0,0,1,0,0,0,0,1,0,0,0,LIV,8,08/11/2020,FWD,True

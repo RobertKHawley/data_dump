@@ -1,0 +1,27 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,1,90,0,0,0,1,0,1,0,1,0,0,0,WOL,9,23/11/2020,FWD,False
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,1,89,0,1,0,0,0,0,0,1,0,0,0,WOL,9,23/11/2020,MID,False
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,9,23/11/2020,DEF,False
+"Bertrand  Ryan Bertrand (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,9,23/11/2020,DEF,False
+"Diallo  Ibrahima Diallo (Southampton, Midfielder)",SOU,4.5,0,1,1,0,0,0,0,0,0,0,0,0,0,WOL,9,23/11/2020,MID,False
+"Djenepo  Moussa Djenepo (Southampton, Midfielder)",SOU,5.5,1,79,0,1,0,0,0,0,0,1,0,0,0,WOL,9,23/11/2020,MID,False
+"Long (Shane)  Shane Long (Southampton, Forward)",SOU,5.1,0,11,1,0,0,0,0,0,0,0,0,0,0,WOL,9,23/11/2020,FWD,False
+"McCarthy (Alex)  Alex McCarthy (Southampton, Goalkeeper)",SOU,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,9,23/11/2020,GKP,False
+"Romeu  Oriol Romeu (Southampton, Midfielder)",SOU,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,9,23/11/2020,MID,False
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,9,23/11/2020,DEF,False
+"Walcott  Theo Walcott (Southampton, Midfielder)",SOU,6.0,1,90,0,0,1,0,0,0,0,1,0,0,0,WOL,9,23/11/2020,MID,False
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,9,23/11/2020,DEF,False
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,9,23/11/2020,MID,False
+"Ait Nouri  Rayan Ait Nouri (Wolverhampton Wanderers, Defender)",WOL,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,9,23/11/2020,DEF,True
+"Boly  Willy Boly (Wolverhampton Wanderers, Defender)",WOL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,9,23/11/2020,DEF,True
+"Dendoncker (Leander)  Leander Dendoncker (Wolverhampton Wanderers, Midfielder)",WOL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,9,23/11/2020,MID,True
+"Raúl Jiménez  Raul Alonso Jimenez Rodriguez (Wolverhampton Wanderers, Forward)",WOL,7.5,1,90,0,0,0,0,1,1,0,1,0,0,0,SOU,9,23/11/2020,FWD,True
+"Kilman  Max Kilman (Wolverhampton Wanderers, Defender)",WOL,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,9,23/11/2020,DEF,True
+"Vitor Ferreira  Vitor Machado Ferreira (Wolverhampton Wanderers, Midfielder)",WOL,4.7,0,5,1,0,0,0,0,0,0,0,0,0,0,SOU,9,23/11/2020,MID,True
+"Moutinho  João Moutinho (Wolverhampton Wanderers, Midfielder)",WOL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,9,23/11/2020,MID,True
+"Neto  Pedro Neto (Wolverhampton Wanderers, Midfielder)",WOL,6.5,0,20,1,0,1,0,0,0,0,0,0,0,0,SOU,9,23/11/2020,MID,True
+"Podence  Daniel Podence (Wolverhampton Wanderers, Midfielder)",WOL,5.5,1,85,0,1,0,0,0,0,0,1,0,0,0,SOU,9,23/11/2020,MID,True
+"Semedo  Nelson Semedo (Wolverhampton Wanderers, Defender)",WOL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,9,23/11/2020,DEF,True
+"Traoré  Adama Traoré (Wolverhampton Wanderers, Midfielder)",WOL,6.0,1,90,0,0,0,0,0,0,0,1,0,1,0,SOU,9,23/11/2020,MID,True
+"Ruben Neves  Rúben Diogo da Silva Neves (Wolverhampton Wanderers, Midfielder)",WOL,5.5,1,70,0,1,0,0,0,0,0,1,0,1,0,SOU,9,23/11/2020,MID,True
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,9,23/11/2020,GKP,True

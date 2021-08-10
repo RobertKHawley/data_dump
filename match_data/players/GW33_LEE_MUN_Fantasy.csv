@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Alioski  Ezgjan Alioski (Leeds United, Defender)",LEE,4.4,1,90,0,0,0,0,0,0,1,0,0,1,0,MUN,33,25/04/2021,DEF,True
+"Ayling  Luke Ayling (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,1,0,0,1,0,MUN,33,25/04/2021,DEF,True
+"Bamford  Patrick Bamford (Leeds United, Forward)",LEE,8.0,1,90,0,0,0,0,0,0,1,0,0,1,0,MUN,33,25/04/2021,FWD,True
+"Hélder Costa  Helder Costa (Leeds United, Midfielder)",LEE,5.5,1,72,0,1,0,0,0,0,1,0,0,0,0,MUN,33,25/04/2021,MID,True
+"Dallas  Stuart Dallas (Leeds United, Defender)",LEE,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,MUN,33,25/04/2021,DEF,True
+"Harrison  Jack Harrison (Leeds United, Midfielder)",LEE,6.0,1,68,0,1,0,0,0,0,1,0,0,0,0,MUN,33,25/04/2021,MID,True
+"Klich  Mateusz Klich (Leeds United, Midfielder)",LEE,5.5,0,18,1,0,0,0,0,0,0,0,0,0,0,MUN,33,25/04/2021,MID,True
+"Koch  Robin Koch (Leeds United, Defender)",LEE,4.5,0,13,1,0,0,0,0,0,0,0,0,0,0,MUN,33,25/04/2021,DEF,True
+"Diego Llorente  Diego Javier Llorente Ríos (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,MUN,33,25/04/2021,DEF,True
+"Meslier  Illan Meslier (Leeds United, Goalkeeper)",LEE,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,MUN,33,25/04/2021,GKP,True
+"Phillips (Kalvin)  Kalvin Phillips (Leeds United, Midfielder)",LEE,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,MUN,33,25/04/2021,MID,True
+"Poveda-Ocampo  Ian Carlo Poveda-Ocampo (Leeds United, Midfielder)",LEE,4.5,0,22,1,0,0,0,0,0,0,0,0,0,0,MUN,33,25/04/2021,MID,True
+"Roberts (Tyler)  Tyler Roberts (Leeds United, Midfielder)",LEE,5.0,1,77,0,1,0,0,0,0,1,0,0,1,0,MUN,33,25/04/2021,MID,True
+"Struijk  Pascal Struijk (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,MUN,33,25/04/2021,DEF,True
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LEE,33,25/04/2021,MID,False
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,0,4,1,0,0,0,0,0,0,0,0,0,0,LEE,33,25/04/2021,FWD,False
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,1,90,0,0,0,0,0,0,1,0,0,0,0,LEE,33,25/04/2021,MID,False
+"Henderson (Dean)  Dean Henderson (Manchester United, Goalkeeper)",MUN,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LEE,33,25/04/2021,GKP,False
+"James (Daniel)  Daniel James (Manchester United, Midfielder)",MUN,6.0,1,76,0,1,0,0,0,0,1,0,0,0,0,LEE,33,25/04/2021,MID,False
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,1,0,0,1,0,LEE,33,25/04/2021,DEF,False
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,LEE,33,25/04/2021,MID,False
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LEE,33,25/04/2021,DEF,False
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,0,14,1,0,0,0,0,0,0,0,0,0,0,LEE,33,25/04/2021,MID,False
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,1,86,0,1,0,0,0,0,1,0,0,0,0,LEE,33,25/04/2021,MID,False
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,1,89,0,1,0,0,0,0,1,0,0,0,0,LEE,33,25/04/2021,MID,False
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,LEE,33,25/04/2021,DEF,False
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,LEE,33,25/04/2021,DEF,False
+"van de Beek  Donny van de Beek (Manchester United, Midfielder)",MUN,6.0,0,1,1,0,0,0,0,0,0,0,0,0,0,LEE,33,25/04/2021,MID,False

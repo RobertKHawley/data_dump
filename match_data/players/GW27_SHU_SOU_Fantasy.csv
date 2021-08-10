@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Ampadu  Ethan Ampadu (Sheffield United, Defender)",SHU,4.5,1,90,0,0,0,0,0,0,0,2,0,1,0,SOU,27,06/03/2021,DEF,True
+"Baldock  George Baldock (Sheffield United, Defender)",SHU,4.9,1,90,0,0,0,0,0,0,0,2,0,0,0,SOU,27,06/03/2021,DEF,True
+"Bogle  Jayden Bogle (Sheffield United, Defender)",SHU,4.3,1,90,0,0,0,0,0,0,0,2,0,1,0,SOU,27,06/03/2021,DEF,True
+"Brewster  Rhian Brewster (Sheffield United, Forward)",SHU,4.2,1,68,0,1,0,0,0,0,0,2,0,0,0,SOU,27,06/03/2021,FWD,True
+"Bryan (Kean)  Kean Bryan (Sheffield United, Defender)",SHU,3.9,1,90,0,0,0,0,0,0,0,2,0,0,0,SOU,27,06/03/2021,DEF,True
+"Fleck  John Fleck (Sheffield United, Midfielder)",SHU,5.6,1,90,0,0,0,0,0,0,0,2,0,1,0,SOU,27,06/03/2021,MID,True
+"Lundstram  John Lundstram (Sheffield United, Midfielder)",SHU,4.8,1,90,0,0,0,0,0,0,0,2,0,0,0,SOU,27,06/03/2021,MID,True
+"McBurnie  Oliver McBurnie (Sheffield United, Forward)",SHU,5.6,0,45,1,0,0,0,0,0,0,1,0,1,0,SOU,27,06/03/2021,FWD,True
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,1,58,0,1,0,0,0,0,0,2,0,0,0,SOU,27,06/03/2021,FWD,True
+"Mousset  Lys Mousset (Sheffield United, Forward)",SHU,5.8,0,32,1,0,0,0,0,0,0,0,0,0,0,SOU,27,06/03/2021,FWD,True
+"Norwood  Oliver Norwood (Sheffield United, Midfielder)",SHU,4.5,1,45,0,1,0,0,0,0,0,1,0,0,0,SOU,27,06/03/2021,MID,True
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,1,90,0,0,0,0,0,0,0,2,0,0,0,SOU,27,06/03/2021,GKP,True
+"Sharp  Billy Sharp (Sheffield United, Forward)",SHU,5.5,0,22,1,0,0,0,0,0,0,0,0,0,0,SOU,27,06/03/2021,FWD,True
+"Stevens (Enda)  Enda Stevens (Sheffield United, Defender)",SHU,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,SOU,27,06/03/2021,DEF,True
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,0,77,1,0,1,0,0,0,1,0,0,0,0,SHU,27,06/03/2021,FWD,False
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,1,90,0,0,0,1,0,1,1,0,0,1,0,SHU,27,06/03/2021,MID,False
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,27,06/03/2021,DEF,False
+"Bertrand  Ryan Bertrand (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,27,06/03/2021,DEF,False
+"Diallo  Ibrahima Diallo (Southampton, Midfielder)",SOU,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,27,06/03/2021,MID,False
+"Djenepo  Moussa Djenepo (Southampton, Midfielder)",SOU,5.5,0,2,1,0,0,0,0,0,0,0,0,0,0,SHU,27,06/03/2021,MID,False
+"Forster  Fraser Forster (Southampton, Goalkeeper)",SOU,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,27,06/03/2021,GKP,False
+"Ings  Danny Ings (Southampton, Forward)",SOU,8.0,1,13,0,1,0,0,0,0,0,0,0,0,0,SHU,27,06/03/2021,FWD,False
+"Minamino  Takumi Minamino (Southampton, Midfielder)",SOU,5.5,1,88,0,1,0,0,0,0,1,0,0,0,0,SHU,27,06/03/2021,MID,False
+"Redmond  Nathan Redmond (Southampton, Midfielder)",SOU,6.0,0,13,1,0,0,0,0,0,0,0,0,0,0,SHU,27,06/03/2021,MID,False
+"Tella  Nathan Tella (Southampton, Midfielder)",SOU,5.0,1,77,0,1,0,0,1,1,1,0,0,1,0,SHU,27,06/03/2021,MID,False
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,1,0,0,1,0,SHU,27,06/03/2021,DEF,False
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,27,06/03/2021,DEF,False
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,1,90,0,0,1,0,0,0,1,0,0,0,0,SHU,27,06/03/2021,MID,False

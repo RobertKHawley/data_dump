@@ -1,0 +1,27 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Abraham  Tammy Abraham (Chelsea, Forward)",CHE,6.5,0,0.02,-0.02,4500.0,1,0.33,0.67,272.7,0.35,0.65,257.1,07/11/2020
+"Chilwell  Benjamin Chilwell (Chelsea, Defender)",CHE,6.0,0,0.11,-0.11,818.2,1,0.41,0.59,219.5,0.52,0.48,173.1,07/11/2020
+"Jorginho  Jorge Luiz Frello Filho (Chelsea, Midfielder)",CHE,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/11/2020
+"Giroud  Olivier Giroud (Chelsea, Forward)",CHE,6.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/11/2020
+"James (Reece)  Reece James (Chelsea, Defender)",CHE,5.5,0,0.11,-0.11,818.2,0,0.09,-0.09,1000.0,0.2,-0.2,450.0,07/11/2020
+"Kanté  N&#039;Golo Kanté (Chelsea, Midfielder)",CHE,5.0,1,0.05,0.95,1800.0,0,0.0,0.0,inf,0.05,0.95,1800.0,07/11/2020
+"Kovacic  Mateo Kovacic (Chelsea, Midfielder)",CHE,5.0,1,0.12,0.88,591.7,0,0.03,-0.03,2366.7,0.15,0.85,473.3,07/11/2020
+"Mendy (Edouard)  Edouard Mendy (Chelsea, Goalkeeper)",CHE,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/11/2020
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,0,0.05,-0.05,1800.0,0,0.14,-0.14,642.9,0.19,-0.19,473.7,07/11/2020
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,0,0.11,-0.11,790.9,1,0.84,0.16,103.6,0.95,0.05,91.6,07/11/2020
+"Ziyech  Hakim Ziyech (Chelsea, Midfielder)",CHE,7.5,2,0.99,1.01,90.9,0,0.09,-0.09,1000.0,1.08,0.92,83.3,07/11/2020
+"Zouma  Kurt Zouma (Chelsea, Defender)",CHE,5.5,0,0.08,-0.08,1125.0,0,0.0,0.0,inf,0.08,-0.08,1125.0,07/11/2020
+"Thiago Silva  Thiago Emiliano da Silva (Chelsea, Defender)",CHE,5.5,0,0.01,-0.01,9000.0,1,0.29,0.71,310.3,0.3,0.7,300.0,07/11/2020
+"Baldock  George Baldock (Sheffield United, Defender)",SHU,4.9,0,0.05,-0.05,1800.0,0,0.1,-0.1,900.0,0.15,-0.15,600.0,07/11/2020
+"Basham  Chris Basham (Sheffield United, Defender)",SHU,4.6,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,07/11/2020
+"Berge  Sander Berge (Sheffield United, Midfielder)",SHU,4.9,1,0.01,0.99,9000.0,0,0.04,-0.04,2250.0,0.05,0.95,1800.0,07/11/2020
+"Brewster  Rhian Brewster (Sheffield United, Forward)",SHU,4.2,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/11/2020
+"Egan  John Egan (Sheffield United, Defender)",SHU,4.7,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/11/2020
+"Lowe  Max Lowe (Sheffield United, Defender)",SHU,4.2,0,0.02,-0.02,4500.0,0,0.03,-0.03,3000.0,0.05,-0.05,1800.0,07/11/2020
+"Lundstram  John Lundstram (Sheffield United, Midfielder)",SHU,4.8,0,0.02,-0.02,4500.0,0,0.03,-0.03,3000.0,0.05,-0.05,1800.0,07/11/2020
+"McBurnie  Oliver McBurnie (Sheffield United, Forward)",SHU,5.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/11/2020
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,0,0.0,0.0,inf,1,0.24,0.76,375.0,0.24,0.76,375.0,07/11/2020
+"Norwood  Oliver Norwood (Sheffield United, Midfielder)",SHU,4.5,0,0.02,-0.02,3100.0,0,0.0,0.0,inf,0.02,-0.02,3100.0,07/11/2020
+"Osborn  Ben Osborn (Sheffield United, Midfielder)",SHU,4.7,0,0.02,-0.02,1400.0,0,0.0,0.0,inf,0.02,-0.02,1400.0,07/11/2020
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/11/2020
+"Stevens (Enda)  Enda Stevens (Sheffield United, Defender)",SHU,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,07/11/2020

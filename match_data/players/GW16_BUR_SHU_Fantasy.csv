@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Barnes (Ashley)  Ashley Barnes (Burnley, Forward)",BUR,5.5,1,79,0,1,0,0,0,0,1,0,0,0,0,SHU,16,29/12/2020,FWD,True
+"Benson  Josh Benson (Burnley, Midfielder)",BUR,4.5,0,81,1,0,0,0,0,0,1,0,0,0,0,SHU,16,29/12/2020,MID,True
+"Brady  Robert Brady (Burnley, Midfielder)",BUR,5.0,1,90,0,0,0,1,0,1,1,0,0,0,0,SHU,16,29/12/2020,MID,True
+"Brownhill  Josh Brownhill (Burnley, Midfielder)",BUR,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,16,29/12/2020,MID,True
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,1,0,0,1,0,SHU,16,29/12/2020,DEF,True
+"Mee  Ben Mee (Burnley, Defender)",BUR,5.0,1,90,0,0,1,0,0,0,1,0,0,0,0,SHU,16,29/12/2020,DEF,True
+"Pieters  Erik Pieters (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,16,29/12/2020,DEF,True
+"Pope  Nick Pope (Burnley, Goalkeeper)",BUR,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,16,29/12/2020,GKP,True
+"Stephens (Dale)  Dale Stephens (Burnley, Midfielder)",BUR,4.5,0,11,1,0,0,0,0,0,0,0,0,0,0,SHU,16,29/12/2020,MID,True
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,16,29/12/2020,DEF,True
+"Taylor (Charlie)  Charlie Taylor (Burnley, Defender)",BUR,4.5,1,9,0,1,0,0,0,0,0,0,0,0,0,SHU,16,29/12/2020,DEF,True
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,16,29/12/2020,MID,True
+"Wood  Chris Wood (Burnley, Forward)",BUR,7.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,16,29/12/2020,FWD,True
+"Ampadu  Ethan Ampadu (Sheffield United, Defender)",SHU,4.5,1,66,0,1,0,0,0,0,0,1,0,0,0,BUR,16,29/12/2020,DEF,False
+"Baldock  George Baldock (Sheffield United, Defender)",SHU,4.9,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,16,29/12/2020,DEF,False
+"Basham  Chris Basham (Sheffield United, Defender)",SHU,4.6,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,16,29/12/2020,DEF,False
+"Brewster  Rhian Brewster (Sheffield United, Forward)",SHU,4.2,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,16,29/12/2020,FWD,False
+"Oliver Burke  Oliver Burke (Sheffield United, Midfielder)",SHU,4.1,0,27,1,0,0,0,0,0,0,0,0,1,0,BUR,16,29/12/2020,MID,False
+"Egan  John Egan (Sheffield United, Defender)",SHU,4.7,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,16,29/12/2020,DEF,False
+"Fleck  John Fleck (Sheffield United, Midfielder)",SHU,5.6,0,34,1,0,0,0,0,0,0,0,0,0,0,BUR,16,29/12/2020,MID,False
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,16,29/12/2020,FWD,False
+"Mousset  Lys Mousset (Sheffield United, Forward)",SHU,5.8,1,63,0,1,0,0,0,0,0,1,0,0,0,BUR,16,29/12/2020,FWD,False
+"Norwood  Oliver Norwood (Sheffield United, Midfielder)",SHU,4.5,0,24,1,0,0,0,0,0,0,0,0,0,0,BUR,16,29/12/2020,MID,False
+"Osborn  Ben Osborn (Sheffield United, Midfielder)",SHU,4.7,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,16,29/12/2020,MID,False
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,16,29/12/2020,GKP,False
+"Robinson (Jack)  Jack Robinson (Sheffield United, Defender)",SHU,4.2,1,56,0,1,0,0,0,0,0,1,0,0,0,BUR,16,29/12/2020,DEF,False
+"Stevens (Enda)  Enda Stevens (Sheffield United, Defender)",SHU,5.0,1,90,0,0,0,0,0,0,0,1,0,1,0,BUR,16,29/12/2020,DEF,False

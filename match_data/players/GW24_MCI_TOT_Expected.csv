@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"João Cancelo  João Pedro Cavaco Cancelo (Manchester City, Defender)",MCI,6.0,0,0.16,-0.16,562.5,0,0.03,-0.03,3000.0,0.19,-0.19,473.7,13/02/2021
+"Foden  Phil Foden (Manchester City, Midfielder)",MCI,8.0,0,0.36,-0.36,250.0,0,0.03,-0.03,3000.0,0.39,-0.39,230.8,13/02/2021
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,0,0.13,-0.13,530.8,2,0.87,1.13,79.3,1.0,1.0,69.0,13/02/2021
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,0,0.03,-0.03,3000.0,1,0.86,0.14,104.7,0.89,0.11,101.1,13/02/2021
+"Laporte  Aymeric Laporte (Manchester City, Defender)",MCI,5.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,13/02/2021
+"Mahrez  Riyad Mahrez (Manchester City, Midfielder)",MCI,9.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,1,0.03,0.97,3000.0,0,0.0,0.0,inf,0.03,0.97,3000.0,13/02/2021
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,1,0.31,0.69,290.3,0,0.13,-0.13,692.3,0.44,0.56,204.5,13/02/2021
+"Stones  John Stones (Manchester City, Defender)",MCI,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,13/02/2021
+"Torres  Ferran Torres (Manchester City, Midfielder)",MCI,7.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Bernardo Silva  Bernardo Mota Veiga de Carvalho e Silva (Manchester City, Midfielder)",MCI,7.0,0,0.03,-0.03,3000.0,0,0.09,-0.09,1000.0,0.12,-0.12,750.0,13/02/2021
+"Zinchenko  Oleksandr Zinchenko (Manchester City, Defender)",MCI,5.5,0,0.03,-0.03,3000.0,0,0.03,-0.03,3000.0,0.06,-0.06,1500.0,13/02/2021
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,0,0.04,-0.04,1975.0,0,0.22,-0.22,359.1,0.26,-0.26,303.8,13/02/2021
+"Alli  Bamidele Alli (Tottenham Hotspur, Midfielder)",TOT,6.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Bale  Gareth Bale (Tottenham Hotspur, Midfielder)",TOT,9.2,0,0.0,0.0,inf,0,0.08,-0.08,225.0,0.08,-0.08,225.0,13/02/2021
+"Davies (Ben)  Ben Davies (Tottenham Hotspur, Defender)",TOT,4.5,0,0.01,-0.01,9000.0,0,0.05,-0.05,1800.0,0.06,-0.06,1500.0,13/02/2021
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,13/02/2021
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,0,0.02,-0.02,4500.0,0,0.09,-0.09,1000.0,0.11,-0.11,818.2,13/02/2021
+"Lamela  Erik Lamela (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.01,-0.01,7200.0,0,0.0,0.0,inf,0.01,-0.01,7200.0,13/02/2021
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.0,0.0,inf,0,0.12,-0.12,533.3,0.12,-0.12,533.3,13/02/2021
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Sissoko  Moussa Sissoko (Tottenham Hotspur, Midfielder)",TOT,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,13/02/2021
+"DSanchez  Davinson Sánchez (Tottenham Hotspur, Defender)",TOT,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Tanganga  Japhet Tanganga (Tottenham Hotspur, Defender)",TOT,4.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,13/02/2021

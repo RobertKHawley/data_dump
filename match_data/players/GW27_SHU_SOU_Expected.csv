@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Ampadu  Ethan Ampadu (Sheffield United, Defender)",SHU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,06/03/2021
+"Baldock  George Baldock (Sheffield United, Defender)",SHU,4.9,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,06/03/2021
+"Bogle  Jayden Bogle (Sheffield United, Defender)",SHU,4.3,0,0.01,-0.01,9000.0,0,0.08,-0.08,1125.0,0.09,-0.09,1000.0,06/03/2021
+"Brewster  Rhian Brewster (Sheffield United, Forward)",SHU,4.2,0,0.21,-0.21,323.8,0,0.0,0.0,inf,0.21,-0.21,323.8,06/03/2021
+"Bryan (Kean)  Kean Bryan (Sheffield United, Defender)",SHU,3.9,0,0.01,-0.01,9000.0,0,0.15,-0.15,600.0,0.16,-0.16,562.5,06/03/2021
+"Fleck  John Fleck (Sheffield United, Midfielder)",SHU,5.6,0,0.32,-0.32,281.3,0,0.03,-0.03,3000.0,0.35,-0.35,257.1,06/03/2021
+"Lundstram  John Lundstram (Sheffield United, Midfielder)",SHU,4.8,0,0.09,-0.09,1000.0,0,0.03,-0.03,3000.0,0.12,-0.12,750.0,06/03/2021
+"McBurnie  Oliver McBurnie (Sheffield United, Forward)",SHU,5.6,0,0.02,-0.02,2250.0,0,0.07,-0.07,642.9,0.09,-0.09,500.0,06/03/2021
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,0,0.02,-0.02,2900.0,0,0.29,-0.29,200.0,0.31,-0.31,187.1,06/03/2021
+"Mousset  Lys Mousset (Sheffield United, Forward)",SHU,5.8,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,06/03/2021
+"Norwood  Oliver Norwood (Sheffield United, Midfielder)",SHU,4.5,0,0.03,-0.03,1500.0,0,0.0,0.0,inf,0.03,-0.03,1500.0,06/03/2021
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,06/03/2021
+"Sharp  Billy Sharp (Sheffield United, Forward)",SHU,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,06/03/2021
+"Stevens (Enda)  Enda Stevens (Sheffield United, Defender)",SHU,5.0,0,0.08,-0.08,1125.0,0,0.07,-0.07,1285.7,0.15,-0.15,600.0,06/03/2021
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,0,0.06,-0.06,1283.3,1,0.4,0.6,192.5,0.46,0.54,167.4,06/03/2021
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,1,0.11,0.89,818.2,0,0.07,-0.07,1285.7,0.18,0.82,500.0,06/03/2021
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,06/03/2021
+"Bertrand  Ryan Bertrand (Southampton, Defender)",SOU,5.0,0,0.16,-0.16,562.5,0,0.0,0.0,inf,0.16,-0.16,562.5,06/03/2021
+"Diallo  Ibrahima Diallo (Southampton, Midfielder)",SOU,4.5,0,0.07,-0.07,1285.7,0,0.0,0.0,inf,0.07,-0.07,1285.7,06/03/2021
+"Djenepo  Moussa Djenepo (Southampton, Midfielder)",SOU,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,06/03/2021
+"Forster  Fraser Forster (Southampton, Goalkeeper)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,06/03/2021
+"Ings  Danny Ings (Southampton, Forward)",SOU,8.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,06/03/2021
+"Minamino  Takumi Minamino (Southampton, Midfielder)",SOU,5.5,0,0.01,-0.01,8800.0,0,0.39,-0.39,225.6,0.4,-0.4,220.0,06/03/2021
+"Redmond  Nathan Redmond (Southampton, Midfielder)",SOU,6.0,0,0.0,0.0,inf,0,0.07,-0.07,185.7,0.07,-0.07,185.7,06/03/2021
+"Tella  Nathan Tella (Southampton, Midfielder)",SOU,5.0,0,0.0,0.0,inf,0,0.19,-0.19,405.3,0.19,-0.19,405.3,06/03/2021
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,06/03/2021
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,06/03/2021
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,0,0.01,-0.01,9000.0,1,0.79,0.21,113.9,0.8,0.2,112.5,06/03/2021

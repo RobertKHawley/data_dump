@@ -1,0 +1,30 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Thiago Alcántara  Thiago Alcántara do Nascimento (Liverpool, Midfielder)",LIV,5.5,0,0.11,-0.11,609.1,0,0.0,0.0,inf,0.11,-0.11,609.1,15/03/2021
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,0,0.49,-0.49,183.7,0,0.0,0.0,inf,0.49,-0.49,183.7,15/03/2021
+"Kabak  Ozan Kabak (Liverpool, Defender)",LIV,5.0,0,0.0,0.0,inf,0,0.14,-0.14,642.9,0.14,-0.14,642.9,15/03/2021
+"Keita  Naby Keita (Liverpool, Midfielder)",LIV,5.0,0,0.01,-0.01,2300.0,0,0.0,0.0,inf,0.01,-0.01,2300.0,15/03/2021
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,1,0.08,0.92,1125.0,0,0.39,-0.39,230.8,0.47,0.53,191.5,15/03/2021
+"Milner  James Milner (Liverpool, Midfielder)",LIV,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,15/03/2021
+"Oxlade-Chamberlain  Alex Oxlade-Chamberlain (Liverpool, Midfielder)",LIV,6.0,0,0.01,-0.01,800.0,0,0.04,-0.04,200.0,0.05,-0.05,160.0,15/03/2021
+"Phillips (Nathaniel)  Nathaniel Phillips (Liverpool, Defender)",LIV,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,15/03/2021
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,15/03/2021
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,15/03/2021
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,0,0.11,-0.11,818.2,0,0.16,-0.16,562.5,0.27,-0.27,333.3,15/03/2021
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,15/03/2021
+"Diogo Jota  Diogo José Teixeira da Silva (Liverpool, Midfielder)",LIV,7.5,0,0.04,-0.04,2050.0,1,0.13,0.87,630.8,0.17,0.83,482.4,15/03/2021
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,0,0.36,-0.36,186.1,0,0.0,0.0,inf,0.36,-0.36,186.1,15/03/2021
+"Boly  Willy Boly (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.01,-0.01,9000.0,0,0.05,-0.05,1800.0,0.06,-0.06,1500.0,15/03/2021
+"Jonny  Jonathan Castro Otto (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,15/03/2021
+"Coady  Conor Coady (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.01,-0.01,9000.0,0,0.06,-0.06,1500.0,0.07,-0.07,1285.7,15/03/2021
+"Willian José  Willian José Da Silva (Wolverhampton Wanderers, Forward)",WOL,6.8,0,0.04,-0.04,1750.0,0,0.0,0.0,inf,0.04,-0.04,1750.0,15/03/2021
+"Dendoncker (Leander)  Leander Dendoncker (Wolverhampton Wanderers, Midfielder)",WOL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,15/03/2021
+"Gibbs-White  Morgan Gibbs-White (Wolverhampton Wanderers, Midfielder)",WOL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,15/03/2021
+"Moutinho  João Moutinho (Wolverhampton Wanderers, Midfielder)",WOL,5.0,0,0.05,-0.05,1800.0,0,0.06,-0.06,1500.0,0.11,-0.11,818.2,15/03/2021
+"Neto  Pedro Neto (Wolverhampton Wanderers, Midfielder)",WOL,6.5,0,0.11,-0.11,818.2,0,0.0,0.0,inf,0.11,-0.11,818.2,15/03/2021
+"Ruddy  John Ruddy (Wolverhampton Wanderers, Goalkeeper)",WOL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,15/03/2021
+"Saiss  Romain Saiss (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.07,-0.07,1285.7,0,0.0,0.0,inf,0.07,-0.07,1285.7,15/03/2021
+"Semedo  Nelson Semedo (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.05,-0.05,1680.0,0,0.13,-0.13,646.2,0.18,-0.18,466.7,15/03/2021
+"Fabio Silva  Fabio Daniel Soares Silva (Wolverhampton Wanderers, Forward)",WOL,6.0,0,0.0,0.0,inf,0,0.62,-0.62,32.3,0.62,-0.62,32.3,15/03/2021
+"Traoré  Adama Traoré (Wolverhampton Wanderers, Midfielder)",WOL,6.0,0,0.07,-0.07,1285.7,0,0.03,-0.03,3000.0,0.1,-0.1,900.0,15/03/2021
+"Ruben Neves  Rúben Diogo da Silva Neves (Wolverhampton Wanderers, Midfielder)",WOL,5.5,0,0.01,-0.01,7600.0,0,0.13,-0.13,584.6,0.14,-0.14,542.9,15/03/2021
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,15/03/2021

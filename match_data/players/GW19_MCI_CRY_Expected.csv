@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Jordan Ayew  Jordan Ayew (Crystal Palace, Forward)",CRY,6.0,0,0.0,0.0,inf,0,0.05,-0.05,1800.0,0.05,-0.05,1800.0,17/01/2021
+"Batshuayi  Michy Batshuayi (Crystal Palace, Forward)",CRY,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/01/2021
+"Cahill  Gary Cahill (Crystal Palace, Defender)",CRY,4.5,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,17/01/2021
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,0,0.0,0.0,inf,0,0.02,-0.02,4500.0,0.02,-0.02,4500.0,17/01/2021
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/01/2021
+"McArthur  James McArthur (Crystal Palace, Midfielder)",CRY,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,17/01/2021
+"McCarthy (James)  James McCarthy (Crystal Palace, Midfielder)",CRY,4.3,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,17/01/2021
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,0,0.05,-0.05,1360.0,0,0.0,0.0,inf,0.05,-0.05,1360.0,17/01/2021
+"Mitchell  Tyrick Mitchell (Crystal Palace, Defender)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/01/2021
+"Riedewald  Jairo Riedewald (Crystal Palace, Midfielder)",CRY,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/01/2021
+"Tomkins  James Tomkins (Crystal Palace, Defender)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/01/2021
+"Townsend (Andros)  Andros Townsend (Crystal Palace, Midfielder)",CRY,5.5,0,0.01,-0.01,7900.0,0,0.0,0.0,inf,0.01,-0.01,7900.0,17/01/2021
+"Ward (Joel)  Joel Ward (Crystal Palace, Defender)",CRY,4.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,17/01/2021
+"João Cancelo  João Pedro Cavaco Cancelo (Manchester City, Defender)",MCI,6.0,0,0.01,-0.01,1900.0,0,0.0,0.0,inf,0.01,-0.01,1900.0,17/01/2021
+"De Bruyne  Kevin De Bruyne (Manchester City, Midfielder)",MCI,12.0,1,0.26,0.74,273.1,0,0.1,-0.1,710.0,0.36,0.64,197.2,17/01/2021
+"Foden  Phil Foden (Manchester City, Midfielder)",MCI,8.0,0,0.03,-0.03,1000.0,0,0.0,0.0,inf,0.03,-0.03,1000.0,17/01/2021
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,0,0.04,-0.04,2250.0,0,0.08,-0.08,1125.0,0.12,-0.12,750.0,17/01/2021
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,0,0.07,-0.07,1014.3,1,0.14,0.86,507.1,0.21,0.79,338.1,17/01/2021
+"Fernandinho  Fernando Luiz Rosa (Manchester City, Defender)",MCI,5.0,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,17/01/2021
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/01/2021
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,0,0.03,-0.03,3000.0,1,0.13,0.87,692.3,0.16,0.84,562.5,17/01/2021
+"Stones  John Stones (Manchester City, Defender)",MCI,5.5,0,0.03,-0.03,3000.0,2,0.18,1.82,500.0,0.21,1.79,428.6,17/01/2021
+"Torres  Ferran Torres (Manchester City, Midfielder)",MCI,7.0,0,0.01,-0.01,1900.0,0,0.0,0.0,inf,0.01,-0.01,1900.0,17/01/2021
+"Bernardo Silva  Bernardo Mota Veiga de Carvalho e Silva (Manchester City, Midfielder)",MCI,7.0,0,0.06,-0.06,1000.0,0,0.0,0.0,inf,0.06,-0.06,1000.0,17/01/2021
+"Walker (Kyle)  Kyle Walker (Manchester City, Defender)",MCI,5.5,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,17/01/2021
+"Zinchenko  Oleksandr Zinchenko (Manchester City, Defender)",MCI,5.5,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,17/01/2021
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,0,0.05,-0.05,1800.0,0,0.06,-0.06,1500.0,0.11,-0.11,818.2,17/01/2021

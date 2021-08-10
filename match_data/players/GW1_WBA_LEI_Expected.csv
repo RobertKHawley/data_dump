@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,0,0.01,-0.01,2300.0,0,0.0,0.0,inf,0.01,-0.01,2300.0,13/09/2020
+"Barnes (Harvey)  Harvey Barnes (Leicester City, Midfielder)",LEI,7.0,0,0.24,-0.24,375.0,0,0.54,-0.54,166.7,0.78,-0.78,115.4,13/09/2020
+"Castagne  Timothy Castagne (Leicester City, Defender)",LEI,5.5,0,0.02,-0.02,4500.0,1,0.46,0.54,195.7,0.48,0.52,187.5,13/09/2020
+"Justin  James Justin (Leicester City, Defender)",LEI,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,13/09/2020
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,0,0.01,-0.01,1500.0,0,0.0,0.0,inf,0.01,-0.01,1500.0,13/09/2020
+"Mendy (Nampalys)  Nampalys Mendy (Leicester City, Midfielder)",LEI,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,13/09/2020
+"Ndidi  Onyinye Wilfred Ndidi (Leicester City, Midfielder)",LEI,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,13/09/2020
+"Praet  Dennis Praet (Leicester City, Midfielder)",LEI,5.0,1,0.35,0.65,214.3,0,0.1,-0.1,750.0,0.45,0.55,166.7,13/09/2020
+"Ayoze Pérez  Ayoze Pérez Gutiérrez (Leicester City, Midfielder)",LEI,6.0,0,0.02,-0.02,3350.0,0,0.08,-0.08,837.5,0.1,-0.1,670.0,13/09/2020
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/09/2020
+"Söyüncü  Caglar Söyüncü (Leicester City, Defender)",LEI,5.0,0,0.01,-0.01,9000.0,0,0.05,-0.05,1800.0,0.06,-0.06,1500.0,13/09/2020
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,0,0.03,-0.03,3000.0,0,0.05,-0.05,1800.0,0.08,-0.08,1125.0,13/09/2020
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,0,0.01,-0.01,9000.0,2,1.58,0.42,57.0,1.59,0.41,56.6,13/09/2020
+"Ajayi  Semi Ajayi (West Bromwich Albion, Defender)",WBA,4.8,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/09/2020
+"Bartley  Kyle Bartley (West Bromwich Albion, Defender)",WBA,4.4,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/09/2020
+"Matheus Pereira  Matheus Fellipe Costa Pereira (West Bromwich Albion, Midfielder)",WBA,5.4,0,0.05,-0.05,1800.0,0,0.16,-0.16,562.5,0.21,-0.21,428.6,13/09/2020
+"Diangana  Grady Diangana (West Bromwich Albion, Midfielder)",WBA,5.0,0,0.02,-0.02,4500.0,0,0.12,-0.12,750.0,0.14,-0.14,642.9,13/09/2020
+"Kyle Edwards  Kyle Edwards (West Bromwich Albion, Midfielder)",WBA,4.6,0,0.01,-0.01,2200.0,0,0.07,-0.07,314.3,0.08,-0.08,275.0,13/09/2020
+"Furlong  Darnell Furlong (West Bromwich Albion, Defender)",WBA,4.5,0,0.21,-0.21,328.6,0,0.03,-0.03,2300.0,0.24,-0.24,287.5,13/09/2020
+"Gibbs  Kieran Gibbs (West Bromwich Albion, Defender)",WBA,4.3,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,13/09/2020
+"Harper  Rekeem Harper (West Bromwich Albion, Midfielder)",WBA,4.3,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/09/2020
+"Johnstone  Sam Johnstone (West Bromwich Albion, Goalkeeper)",WBA,4.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/09/2020
+"Livermore  Jake Livermore (West Bromwich Albion, Midfielder)",WBA,4.7,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,13/09/2020
+"O'Shea  Dara O&#039;Shea (West Bromwich Albion, Defender)",WBA,4.2,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,13/09/2020
+"Robinson (Callum)  Callum Robinson (West Bromwich Albion, Forward)",WBA,5.2,0,0.02,-0.02,3000.0,0,0.0,0.0,inf,0.02,-0.02,3000.0,13/09/2020
+"Robson-Kanu  Hal Robson-Kanu (West Bromwich Albion, Forward)",WBA,5.2,0,0.0,0.0,inf,0,0.03,-0.03,1000.0,0.03,-0.03,1000.0,13/09/2020
+"Sawyers  Romaine Sawyers (West Bromwich Albion, Midfielder)",WBA,4.6,0,0.01,-0.01,6800.0,0,0.0,0.0,inf,0.01,-0.01,6800.0,13/09/2020

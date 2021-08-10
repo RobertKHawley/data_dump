@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Jordan Ayew  Jordan Ayew (Crystal Palace, Forward)",CRY,6.0,0,0.01,-0.01,9000.0,0,0.13,-0.13,692.3,0.14,-0.14,642.9,19/12/2020
+"Batshuayi  Michy Batshuayi (Crystal Palace, Forward)",CRY,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/12/2020
+"Cahill  Gary Cahill (Crystal Palace, Defender)",CRY,4.5,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,19/12/2020
+"Clyne  Nathaniel Clyne (Crystal Palace, Defender)",CRY,4.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,19/12/2020
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,0,0.06,-0.06,1150.0,0,0.0,0.0,inf,0.06,-0.06,1150.0,19/12/2020
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/12/2020
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/12/2020
+"McArthur  James McArthur (Crystal Palace, Midfielder)",CRY,4.5,0,0.01,-0.01,7500.0,0,0.0,0.0,inf,0.01,-0.01,7500.0,19/12/2020
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,0,0.16,-0.16,562.5,0,0.01,-0.01,9000.0,0.17,-0.17,529.4,19/12/2020
+"Riedewald  Jairo Riedewald (Crystal Palace, Midfielder)",CRY,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/12/2020
+"Schlupp  Jeffrey Schlupp (Crystal Palace, Midfielder)",CRY,5.5,0,0.01,-0.01,9000.0,0,0.06,-0.06,1500.0,0.07,-0.07,1285.7,19/12/2020
+"Tomkins  James Tomkins (Crystal Palace, Defender)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/12/2020
+"Van Aanholt  Patrick Van Aanholt (Crystal Palace, Defender)",CRY,5.4,0,0.01,-0.01,9000.0,0,0.06,-0.06,1500.0,0.07,-0.07,1285.7,19/12/2020
+"Zaha  Wilfried Zaha (Crystal Palace, Midfielder)",CRY,7.0,0,0.02,-0.02,4500.0,0,0.05,-0.05,1800.0,0.07,-0.07,1285.7,19/12/2020
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,1,0.14,0.86,642.9,0,0.15,-0.15,600.0,0.29,0.71,310.3,19/12/2020
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,1,0.01,0.99,7500.0,2,0.84,1.16,89.3,0.85,2.15,88.2,19/12/2020
+"Henderson (Jordan)  Jordan Henderson (Liverpool, Midfielder)",LIV,5.0,0,0.02,-0.02,4500.0,1,0.04,0.96,2250.0,0.06,0.94,1500.0,19/12/2020
+"Jones (Curtis)  Curtis Jones (Liverpool, Midfielder)",LIV,5.0,0,0.01,-0.01,2100.0,0,0.0,0.0,inf,0.01,-0.01,2100.0,19/12/2020
+"Keita  Naby Keita (Liverpool, Midfielder)",LIV,5.0,0,0.28,-0.28,321.4,0,0.0,0.0,inf,0.28,-0.28,321.4,19/12/2020
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,1,0.25,0.75,228.0,1,0.18,0.82,316.7,0.43,1.57,132.6,19/12/2020
+"Matip  Joel Matip (Liverpool, Defender)",LIV,5.0,1,0.0,1.0,inf,0,0.26,-0.26,346.2,0.26,0.74,346.2,19/12/2020
+"Minamino  Takumi Minamino (Liverpool, Midfielder)",LIV,5.5,0,0.01,-0.01,9000.0,1,0.96,0.04,93.8,0.97,0.03,92.8,19/12/2020
+"Oxlade-Chamberlain  Alex Oxlade-Chamberlain (Liverpool, Midfielder)",LIV,6.0,1,0.01,0.99,1500.0,0,0.0,0.0,inf,0.01,0.99,1500.0,19/12/2020
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/12/2020
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,1,0.32,0.68,281.3,0,0.0,0.0,inf,0.32,0.68,281.3,19/12/2020
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,1,0.03,0.97,1100.0,2,0.13,1.87,253.8,0.16,2.84,206.3,19/12/2020
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,19/12/2020
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,0,0.01,-0.01,6900.0,0,0.0,0.0,inf,0.01,-0.01,6900.0,19/12/2020

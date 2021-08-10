@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Aguero  Sergio Aguero (Manchester City, Forward)",MCI,10.3,0,0.0,0.0,inf,0,0.14,-0.14,100.0,0.14,-0.14,100.0,15/12/2020
+"Aké  Nathan Aké (Manchester City, Defender)",MCI,5.0,0,0.02,-0.02,4500.0,0,0.04,-0.04,2250.0,0.06,-0.06,1500.0,15/12/2020
+"João Cancelo  João Pedro Cavaco Cancelo (Manchester City, Defender)",MCI,6.0,0,0.11,-0.11,818.2,0,0.12,-0.12,750.0,0.23,-0.23,391.3,15/12/2020
+"De Bruyne  Kevin De Bruyne (Manchester City, Midfielder)",MCI,12.0,0,0.69,-0.69,130.4,0,0.22,-0.22,409.1,0.91,-0.91,98.9,15/12/2020
+"Foden  Phil Foden (Manchester City, Midfielder)",MCI,8.0,0,0.12,-0.12,633.3,0,0.11,-0.11,690.9,0.23,-0.23,330.4,15/12/2020
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,0,0.03,-0.03,3000.0,0,0.05,-0.05,1800.0,0.08,-0.08,1125.0,15/12/2020
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,0,0.11,-0.11,818.2,1,0.75,0.25,120.0,0.86,0.14,104.7,15/12/2020
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,0,0.22,-0.22,409.1,0,0.15,-0.15,600.0,0.37,-0.37,243.2,15/12/2020
+"Mendy (Benjamin)  Benjamin Mendy (Manchester City, Defender)",MCI,5.5,0,0.03,-0.03,2500.0,0,0.03,-0.03,2500.0,0.06,-0.06,1250.0,15/12/2020
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,15/12/2020
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,1,0.3,0.7,300.0,0,0.55,-0.55,163.6,0.85,0.15,105.9,15/12/2020
+"Walker (Kyle)  Kyle Walker (Manchester City, Defender)",MCI,5.5,0,0.02,-0.02,750.0,0,0.02,-0.02,750.0,0.04,-0.04,375.0,15/12/2020
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,0,0.01,-0.01,9000.0,0,0.11,-0.11,818.2,0.12,-0.12,750.0,15/12/2020
+"Ajayi  Semi Ajayi (West Bromwich Albion, Defender)",WBA,4.8,0,0.0,0.0,inf,0,0.06,-0.06,1500.0,0.06,-0.06,1500.0,15/12/2020
+"Austin (Charlie)  Charlie Austin (West Bromwich Albion, Forward)",WBA,5.1,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,15/12/2020
+"Diangana  Grady Diangana (West Bromwich Albion, Midfielder)",WBA,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,15/12/2020
+"Furlong  Darnell Furlong (West Bromwich Albion, Defender)",WBA,4.5,0,0.0,0.0,inf,0,0.06,-0.06,1500.0,0.06,-0.06,1500.0,15/12/2020
+"Gallagher  Conor Gallagher (West Bromwich Albion, Midfielder)",WBA,5.5,0,0.0,0.0,inf,0,0.03,-0.03,3000.0,0.03,-0.03,3000.0,15/12/2020
+"Gibbs  Kieran Gibbs (West Bromwich Albion, Defender)",WBA,4.3,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,15/12/2020
+"Grant (Karlan)  Karlan Grant (West Bromwich Albion, Forward)",WBA,5.6,0,0.0,0.0,inf,0,0.3,-0.3,233.3,0.3,-0.3,233.3,15/12/2020
+"Johnstone  Sam Johnstone (West Bromwich Albion, Goalkeeper)",WBA,4.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,15/12/2020
+"Krovinovic  Filip Krovinovic (West Bromwich Albion, Midfielder)",WBA,4.9,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,15/12/2020
+"Livermore  Jake Livermore (West Bromwich Albion, Midfielder)",WBA,4.7,0,0.01,-0.01,8000.0,0,0.0,0.0,inf,0.01,-0.01,8000.0,15/12/2020
+"O'Shea  Dara O&#039;Shea (West Bromwich Albion, Defender)",WBA,4.2,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,15/12/2020
+"Peltier  Lee Peltier (West Bromwich Albion, Defender)",WBA,3.9,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,15/12/2020
+"Phillips (Matthew)  Matthew Phillips (West Bromwich Albion, Midfielder)",WBA,5.1,0,0.16,-0.16,543.8,0,0.02,-0.02,4350.0,0.18,-0.18,483.3,15/12/2020
+"Sawyers  Romaine Sawyers (West Bromwich Albion, Midfielder)",WBA,4.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,15/12/2020

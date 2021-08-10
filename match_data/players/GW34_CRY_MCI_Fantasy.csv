@@ -1,0 +1,27 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Jordan Ayew  Jordan Ayew (Crystal Palace, Forward)",CRY,6.0,0,8,1,0,0,0,0,0,0,0,0,0,0,MCI,34,01/05/2021,FWD,True
+"Benteke  Christian Benteke (Crystal Palace, Forward)",CRY,6.5,1,68,0,1,0,0,0,0,0,2,0,0,0,MCI,34,01/05/2021,FWD,True
+"Dann  Scott Dann (Crystal Palace, Defender)",CRY,4.2,1,90,0,0,0,0,0,0,0,2,0,0,0,MCI,34,01/05/2021,DEF,True
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,1,90,0,0,0,0,0,0,0,2,0,0,0,MCI,34,01/05/2021,MID,True
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,MCI,34,01/05/2021,GKP,True
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,1,90,0,0,0,0,0,0,0,2,0,1,0,MCI,34,01/05/2021,MID,True
+"Mateta  Jean-Philippe Mateta (Crystal Palace, Forward)",CRY,5.5,0,22,1,0,0,0,0,0,0,0,0,0,0,MCI,34,01/05/2021,FWD,True
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,1,90,0,0,0,0,0,0,0,2,0,1,0,MCI,34,01/05/2021,MID,True
+"Mitchell  Tyrick Mitchell (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,MCI,34,01/05/2021,DEF,True
+"Riedewald  Jairo Riedewald (Crystal Palace, Midfielder)",CRY,5.0,1,60,0,1,0,0,0,0,0,2,0,0,0,MCI,34,01/05/2021,MID,True
+"Schlupp  Jeffrey Schlupp (Crystal Palace, Midfielder)",CRY,5.5,0,30,1,0,0,0,0,0,0,0,0,0,0,MCI,34,01/05/2021,MID,True
+"Townsend (Andros)  Andros Townsend (Crystal Palace, Midfielder)",CRY,5.5,1,82,0,1,0,0,0,0,0,2,0,0,0,MCI,34,01/05/2021,MID,True
+"Ward (Joel)  Joel Ward (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,MCI,34,01/05/2021,DEF,True
+"Zaha  Wilfried Zaha (Crystal Palace, Midfielder)",CRY,7.0,1,90,0,0,0,0,0,0,0,2,0,0,0,MCI,34,01/05/2021,MID,True
+"Aguero  Sergio Aguero (Manchester City, Forward)",MCI,10.3,1,90,0,0,1,0,0,0,1,0,0,0,0,CRY,34,01/05/2021,FWD,False
+"Aké  Nathan Aké (Manchester City, Defender)",MCI,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,34,01/05/2021,DEF,False
+"João Cancelo  João Pedro Cavaco Cancelo (Manchester City, Defender)",MCI,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,34,01/05/2021,DEF,False
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,34,01/05/2021,MID,False
+"Laporte  Aymeric Laporte (Manchester City, Defender)",MCI,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,34,01/05/2021,DEF,False
+"Fernandinho  Fernando Luiz Rosa (Manchester City, Defender)",MCI,5.0,1,67,0,1,0,0,0,0,1,0,0,0,0,CRY,34,01/05/2021,DEF,False
+"Mendy (Benjamin)  Benjamin Mendy (Manchester City, Defender)",MCI,5.5,1,90,0,0,0,1,0,1,1,0,0,0,0,CRY,34,01/05/2021,DEF,False
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,34,01/05/2021,GKP,False
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,34,01/05/2021,MID,False
+"Torres  Ferran Torres (Manchester City, Midfielder)",MCI,7.0,1,90,0,0,1,0,0,0,1,0,0,0,0,CRY,34,01/05/2021,MID,False
+"Zinchenko  Oleksandr Zinchenko (Manchester City, Defender)",MCI,5.5,0,23,1,0,0,0,0,0,0,0,0,0,0,CRY,34,01/05/2021,DEF,False
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,34,01/05/2021,FWD,False

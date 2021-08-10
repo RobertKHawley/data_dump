@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Almirón  Miguel Almirón (Newcastle United, Midfielder)",NEW,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,SOU,8,06/11/2020,MID,False
+"Joelinton  Joelinton Cássio Apolinário de Lira (Newcastle United, Forward)",NEW,6.0,0,11,1,0,0,0,0,0,0,1,0,0,0,SOU,8,06/11/2020,FWD,False
+"Carroll  Andy Carroll (Newcastle United, Forward)",NEW,5.1,0,12,1,0,0,0,0,0,0,1,0,0,0,SOU,8,06/11/2020,FWD,False
+"Darlow  Karl Darlow (Newcastle United, Goalkeeper)",NEW,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,SOU,8,06/11/2020,GKP,False
+"Fernández  Federico Fernández (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,2,0,1,0,SOU,8,06/11/2020,DEF,False
+"Hendrick  Jeff Hendrick (Newcastle United, Midfielder)",NEW,5.0,1,61,0,1,0,0,0,0,0,1,0,0,0,SOU,8,06/11/2020,MID,False
+"Lascelles  Jamaal Lascelles (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,SOU,8,06/11/2020,DEF,False
+"Lewis (Jamal)  Jamal Lewis (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,SOU,8,06/11/2020,DEF,False
+"Longstaff (Sean)  Sean Longstaff (Newcastle United, Midfielder)",NEW,4.5,1,90,0,0,0,0,0,0,0,2,0,1,0,SOU,8,06/11/2020,MID,False
+"Longstaff (Matthew)  Matthew Longstaff (Newcastle United, Midfielder)",NEW,4.5,0,29,1,0,0,0,0,0,0,1,0,0,0,SOU,8,06/11/2020,MID,False
+"Jacob Murphy  Jacob Murphy (Newcastle United, Midfielder)",NEW,5.0,1,79,0,1,0,0,0,0,0,1,0,0,0,SOU,8,06/11/2020,MID,False
+"Saint-Maximin  Allan Saint-Maximin (Newcastle United, Midfielder)",NEW,6.5,1,90,0,0,0,0,0,0,0,2,0,0,0,SOU,8,06/11/2020,MID,False
+"Schär  Fabian Schär (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,SOU,8,06/11/2020,DEF,False
+"C Wilson  Callum Wilson (Newcastle United, Forward)",NEW,7.5,1,78,0,1,0,0,0,0,0,1,0,0,0,SOU,8,06/11/2020,FWD,False
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,1,90,0,0,1,0,0,0,1,0,0,0,0,NEW,8,06/11/2020,FWD,True
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,1,90,0,0,1,0,0,0,1,0,0,0,0,NEW,8,06/11/2020,MID,True
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,8,06/11/2020,DEF,True
+"Djenepo  Moussa Djenepo (Southampton, Midfielder)",SOU,5.5,1,74,0,1,0,0,0,0,1,0,0,0,0,NEW,8,06/11/2020,MID,True
+"Long (Shane)  Shane Long (Southampton, Forward)",SOU,5.1,0,2,1,0,0,0,0,0,0,0,0,0,0,NEW,8,06/11/2020,FWD,True
+"McCarthy (Alex)  Alex McCarthy (Southampton, Goalkeeper)",SOU,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,8,06/11/2020,GKP,True
+"Redmond  Nathan Redmond (Southampton, Midfielder)",SOU,6.0,0,16,1,0,0,0,0,0,0,0,0,0,0,NEW,8,06/11/2020,MID,True
+"Romeu  Oriol Romeu (Southampton, Midfielder)",SOU,4.5,1,90,0,0,0,0,0,0,1,0,0,1,0,NEW,8,06/11/2020,MID,True
+"Stephens (Jack)  Jack Stephens (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,8,06/11/2020,DEF,True
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,8,06/11/2020,DEF,True
+"Walcott  Theo Walcott (Southampton, Midfielder)",SOU,6.0,1,88,0,1,0,1,0,1,1,0,0,0,0,NEW,8,06/11/2020,MID,True
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,8,06/11/2020,DEF,True
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,8,06/11/2020,MID,True

@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Tosin  Oluwatosin Adarabioyo (Fulham, Defender)",FUL,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,22,03/02/2021,DEF,True
+"Aina  Ola Aina (Fulham, Defender)",FUL,4.3,1,90,0,0,0,0,0,0,0,2,0,1,0,LEI,22,03/02/2021,DEF,True
+"Andersen  Joachim Andersen (Fulham, Defender)",FUL,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,22,03/02/2021,DEF,True
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,22,03/02/2021,GKP,True
+"Cavaleiro  Ivan Cavaleiro (Fulham, Midfielder)",FUL,5.3,0,45,1,0,0,0,0,0,0,0,0,1,0,LEI,22,03/02/2021,MID,True
+"DeCordova-Reid  Bobby DeCordova-Reid (Fulham, Forward)",FUL,5.3,0,19,1,0,0,0,0,0,0,0,0,0,0,LEI,22,03/02/2021,FWD,True
+"Lemina  Mario Lemina (Fulham, Midfielder)",FUL,4.5,0,45,1,0,0,0,0,0,0,0,0,0,0,LEI,22,03/02/2021,MID,True
+"Loftus-Cheek  Ruben Loftus-Cheek (Fulham, Midfielder)",FUL,5.5,1,71,0,1,0,0,0,0,0,2,0,0,0,LEI,22,03/02/2021,MID,True
+"Lookman  Ademola Lookman (Fulham, Midfielder)",FUL,4.7,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,22,03/02/2021,MID,True
+"Mitrovic  Aleksandar Mitrovic (Fulham, Forward)",FUL,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,22,03/02/2021,FWD,True
+"Reed  Harrison Reed (Fulham, Midfielder)",FUL,4.4,1,90,0,0,0,0,0,0,0,2,0,1,0,LEI,22,03/02/2021,MID,True
+"Robinson (Antonee)  Antonee Robinson (Fulham, Defender)",FUL,4.4,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,22,03/02/2021,DEF,True
+"Tete  Kenny Tete (Fulham, Defender)",FUL,4.3,1,45,0,1,0,0,0,0,0,2,0,0,0,LEI,22,03/02/2021,DEF,True
+"Zambo Anguissa  André-Frank Zambo Anguissa (Fulham, Midfielder)",FUL,4.4,1,45,0,1,0,0,0,0,0,2,0,0,0,LEI,22,03/02/2021,MID,True
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,0,29,1,0,0,0,0,0,0,0,0,0,0,FUL,22,03/02/2021,MID,False
+"Amartey  Daniel Amartey (Leicester City, Defender)",LEI,4.0,0,14,1,0,0,0,0,0,0,0,0,0,0,FUL,22,03/02/2021,DEF,False
+"Ricardo Pereira  Ricardo Domingos Barbosa Pereira (Leicester City, Defender)",LEI,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,22,03/02/2021,DEF,False
+"Barnes (Harvey)  Harvey Barnes (Leicester City, Midfielder)",LEI,7.0,1,76,0,1,0,0,0,0,1,0,0,0,0,FUL,22,03/02/2021,MID,False
+"Choudhury  Hamza Choudhury (Leicester City, Midfielder)",LEI,4.5,1,61,0,1,0,0,0,0,1,0,0,0,0,FUL,22,03/02/2021,MID,False
+"Evans  Jonny Evans (Leicester City, Defender)",LEI,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,22,03/02/2021,DEF,False
+"Iheanacho  Kelechi Iheanacho (Leicester City, Forward)",LEI,7.5,1,90,0,0,1,0,0,0,1,0,0,0,0,FUL,22,03/02/2021,FWD,False
+"Justin  James Justin (Leicester City, Defender)",LEI,5.0,1,90,0,0,1,0,0,0,1,0,0,0,0,FUL,22,03/02/2021,DEF,False
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,1,90,0,0,0,2,0,2,1,0,0,0,0,FUL,22,03/02/2021,MID,False
+"Mendy (Nampalys)  Nampalys Mendy (Leicester City, Midfielder)",LEI,4.5,0,29,1,0,0,0,0,0,0,0,0,1,0,FUL,22,03/02/2021,MID,False
+"Ayoze Pérez  Ayoze Pérez Gutiérrez (Leicester City, Midfielder)",LEI,6.0,1,61,0,1,0,0,0,0,1,0,0,0,0,FUL,22,03/02/2021,MID,False
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,22,03/02/2021,GKP,False
+"Söyüncü  Caglar Söyüncü (Leicester City, Defender)",LEI,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,22,03/02/2021,DEF,False
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,22,03/02/2021,MID,False

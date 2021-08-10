@@ -1,0 +1,26 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Cash  Matthew Cash (Aston Villa, Defender)",AVL,5.0,0,0.07,-0.07,1285.7,0,0.0,0.0,inf,0.07,-0.07,1285.7,20/12/2020
+"El Ghazi  Anwar El Ghazi (Aston Villa, Midfielder)",AVL,6.0,0,0.07,-0.07,1285.7,2,1.56,0.44,57.7,1.63,0.37,55.2,20/12/2020
+"Grealish  Jack Grealish (Aston Villa, Midfielder)",AVL,8.0,1,0.39,0.61,230.8,0,0.04,-0.04,2250.0,0.43,0.57,209.3,20/12/2020
+"Hause  Kortney Hause (Aston Villa, Defender)",AVL,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,20/12/2020
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/12/2020
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,0,0.1,-0.1,900.0,0,0.43,-0.43,209.3,0.53,-0.53,169.8,20/12/2020
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,20/12/2020
+"Douglas Luiz  Douglas Luiz Soares de Paulo (Aston Villa, Midfielder)",AVL,4.5,0,0.07,-0.07,1285.7,0,0.02,-0.02,4500.0,0.09,-0.09,1000.0,20/12/2020
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,0,0.06,-0.06,1500.0,0,0.0,0.0,inf,0.06,-0.06,1500.0,20/12/2020
+"Traore (Bertrand)  Bertrand Traore (Aston Villa, Midfielder)",AVL,6.0,1,0.58,0.42,155.2,1,0.2,0.8,450.0,0.78,1.22,115.4,20/12/2020
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,0,0.03,-0.03,3000.0,0,0.1,-0.1,900.0,0.13,-0.13,692.3,20/12/2020
+"Ajayi  Semi Ajayi (West Bromwich Albion, Defender)",WBA,4.8,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/12/2020
+"Austin (Charlie)  Charlie Austin (West Bromwich Albion, Forward)",WBA,5.1,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/12/2020
+"Diangana  Grady Diangana (West Bromwich Albion, Midfielder)",WBA,5.0,0,0.01,-0.01,7800.0,0,0.0,0.0,inf,0.01,-0.01,7800.0,20/12/2020
+"Furlong  Darnell Furlong (West Bromwich Albion, Defender)",WBA,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/12/2020
+"Gallagher  Conor Gallagher (West Bromwich Albion, Midfielder)",WBA,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/12/2020
+"Gibbs  Kieran Gibbs (West Bromwich Albion, Defender)",WBA,4.3,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/12/2020
+"Grant (Karlan)  Karlan Grant (West Bromwich Albion, Forward)",WBA,5.6,0,0.01,-0.01,8300.0,0,0.0,0.0,inf,0.01,-0.01,8300.0,20/12/2020
+"Ivanovic  Branislav Ivanovic (West Bromwich Albion, Defender)",WBA,4.4,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/12/2020
+"Johnstone  Sam Johnstone (West Bromwich Albion, Goalkeeper)",WBA,4.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/12/2020
+"Livermore  Jake Livermore (West Bromwich Albion, Midfielder)",WBA,4.7,0,0.02,-0.02,1850.0,0,0.0,0.0,inf,0.02,-0.02,1850.0,20/12/2020
+"O'Shea  Dara O&#039;Shea (West Bromwich Albion, Defender)",WBA,4.2,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/12/2020
+"Phillips (Matthew)  Matthew Phillips (West Bromwich Albion, Midfielder)",WBA,5.1,0,0.01,-0.01,7800.0,0,0.05,-0.05,1560.0,0.06,-0.06,1300.0,20/12/2020
+"Robinson (Callum)  Callum Robinson (West Bromwich Albion, Forward)",WBA,5.2,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/12/2020
+"Sawyers  Romaine Sawyers (West Bromwich Albion, Midfielder)",WBA,4.6,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,20/12/2020

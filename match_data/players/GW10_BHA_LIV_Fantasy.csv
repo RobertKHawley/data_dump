@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Bissouma  Yves Bissouma (Brighton and Hove Albion, Midfielder)",BHA,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,LIV,10,28/11/2020,MID,True
+"Connolly  Aaron Connolly (Brighton and Hove Albion, Forward)",BHA,5.5,1,63,0,1,0,0,0,0,0,1,0,0,0,LIV,10,28/11/2020,FWD,True
+"Dunk  Lewis Dunk (Brighton and Hove Albion, Defender)",BHA,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,LIV,10,28/11/2020,DEF,True
+"Groß  Pascal Groß (Brighton and Hove Albion, Midfielder)",BHA,6.0,1,90,0,0,1,0,0,0,0,1,0,0,0,LIV,10,28/11/2020,MID,True
+"Jahanbakhsh  Alireza Jahanbakhsh (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,19,1,0,0,0,0,0,0,0,0,0,0,LIV,10,28/11/2020,MID,True
+"Lallana  Adam Lallana (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,8,1,1,0,0,0,0,0,0,0,0,0,LIV,10,28/11/2020,MID,True
+"March  Solomon March (Brighton and Hove Albion, Midfielder)",BHA,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,LIV,10,28/11/2020,MID,True
+"Maupay  Neal Maupay (Brighton and Hove Albion, Forward)",BHA,6.5,1,25,0,1,0,0,0,0,0,0,0,0,0,LIV,10,28/11/2020,FWD,True
+"Mat Ryan  Mathew Ryan (Brighton and Hove Albion, Goalkeeper)",BHA,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,LIV,10,28/11/2020,GKP,True
+"Trossard  Leandro Trossard (Brighton and Hove Albion, Midfielder)",BHA,6.5,0,65,1,0,0,0,0,0,0,1,0,0,0,LIV,10,28/11/2020,MID,True
+"Veltman  Joël Veltman (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,0,1,0,1,0,LIV,10,28/11/2020,DEF,True
+"Webster  Adam Webster (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,LIV,10,28/11/2020,DEF,True
+"Welbeck  Danny Welbeck (Brighton and Hove Albion, Forward)",BHA,6.0,1,90,0,0,0,0,1,1,0,1,0,0,0,LIV,10,28/11/2020,FWD,True
+"White (Ben)  Ben White (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,0,1,0,1,0,LIV,10,28/11/2020,DEF,True
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,10,28/11/2020,FWD,False
+"Henderson (Jordan)  Jordan Henderson (Liverpool, Midfielder)",LIV,5.0,0,45,1,0,0,0,0,0,0,1,0,0,0,BHA,10,28/11/2020,MID,False
+"Jones (Curtis)  Curtis Jones (Liverpool, Midfielder)",LIV,5.0,0,16,1,0,0,0,0,0,0,1,0,0,0,BHA,10,28/11/2020,MID,False
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,0,26,1,0,0,0,0,0,0,1,0,0,0,BHA,10,28/11/2020,MID,False
+"Milner  James Milner (Liverpool, Midfielder)",LIV,5.0,1,74,0,1,0,0,0,0,1,0,0,0,0,BHA,10,28/11/2020,MID,False
+"Minamino  Takumi Minamino (Liverpool, Midfielder)",LIV,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,10,28/11/2020,MID,False
+"Phillips (Nathaniel)  Nathaniel Phillips (Liverpool, Defender)",LIV,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,10,28/11/2020,DEF,False
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,1,90,0,0,0,0,0,0,0,1,0,1,0,BHA,10,28/11/2020,GKP,False
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,10,28/11/2020,DEF,False
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,1,64,0,1,0,1,0,1,1,0,0,0,0,BHA,10,28/11/2020,MID,False
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,10,28/11/2020,MID,False
+"Diogo Jota  Diogo José Teixeira da Silva (Liverpool, Midfielder)",LIV,7.5,1,90,0,0,1,0,0,0,0,1,0,0,0,BHA,10,28/11/2020,MID,False
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,10,28/11/2020,MID,False
+"Williams (Neco)  Neco Williams (Liverpool, Defender)",LIV,4.0,1,45,0,1,0,0,0,0,0,0,0,0,0,BHA,10,28/11/2020,DEF,False

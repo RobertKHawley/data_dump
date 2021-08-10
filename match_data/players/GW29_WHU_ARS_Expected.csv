@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Aubameyang  Pierre-Emerick Aubameyang (Arsenal, Midfielder)",ARS,10.0,0,0.02,-0.02,4050.0,0,0.0,0.0,inf,0.02,-0.02,4050.0,21/03/2021
+"Chambers  Calum Chambers (Arsenal, Defender)",ARS,4.5,0,0.32,-0.32,281.3,0,0.05,-0.05,1800.0,0.37,-0.37,243.2,21/03/2021
+"Lacazette  Alexandre Lacazette (Arsenal, Forward)",ARS,8.5,0,0.3,-0.3,300.0,1,0.71,0.29,126.8,1.01,-0.01,89.1,21/03/2021
+"Leno  Bernd Leno (Arsenal, Goalkeeper)",ARS,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/03/2021
+"Luiz  David Luiz Moreira Marinho (Arsenal, Defender)",ARS,5.4,0,0.01,-0.01,9000.0,0,0.03,-0.03,3000.0,0.04,-0.04,2250.0,21/03/2021
+"Gabriel Martinelli  Gabriel Teodoro Martinelli Silva (Arsenal, Midfielder)",ARS,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/03/2021
+"Marí  Pablo Marí (Arsenal, Defender)",ARS,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,21/03/2021
+"Odegaard  Martin Odegaard (Arsenal, Midfielder)",ARS,5.6,0,0.42,-0.42,214.3,0,0.16,-0.16,562.5,0.58,-0.58,155.2,21/03/2021
+"Partey  Thomas Partey (Arsenal, Midfielder)",ARS,5.0,0,0.05,-0.05,1800.0,0,0.04,-0.04,2250.0,0.09,-0.09,1000.0,21/03/2021
+"Pepe  Nicolas Pepe (Arsenal, Midfielder)",ARS,7.5,1,0.36,0.64,44.4,0,0.15,-0.15,106.7,0.51,0.49,31.4,21/03/2021
+"Saka  Bukayo Saka (Arsenal, Midfielder)",ARS,6.5,0,0.04,-0.04,1850.0,0,0.18,-0.18,411.1,0.22,-0.22,336.4,21/03/2021
+"Smith-Rowe  Emile Smith-Rowe (Arsenal, Midfielder)",ARS,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/03/2021
+"Tierney  Kieran Tierney (Arsenal, Defender)",ARS,5.0,0,0.07,-0.07,1285.7,0,0.04,-0.04,2250.0,0.11,-0.11,818.2,21/03/2021
+"Xhaka  Granit Xhaka (Arsenal, Midfielder)",ARS,5.0,0,0.04,-0.04,1850.0,0,0.0,0.0,inf,0.04,-0.04,1850.0,21/03/2021
+"Antonio  Michail Antonio (West Ham United, Forward)",WHU,7.5,2,0.28,1.72,321.4,0,1.17,-1.17,76.9,1.45,0.55,62.1,21/03/2021
+"Benrahma  Said Benrahma (West Ham United, Midfielder)",WHU,6.0,0,0.62,-0.62,127.4,0,0.0,0.0,inf,0.62,-0.62,127.4,21/03/2021
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,0,0.02,-0.02,3700.0,1,0.13,0.87,569.2,0.15,0.85,493.3,21/03/2021
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,0,0.05,-0.05,1800.0,0,0.04,-0.04,2250.0,0.09,-0.09,1000.0,21/03/2021
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,21/03/2021
+"Dawson  Craig Dawson (West Ham United, Defender)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/03/2021
+"Diop  Issa Diop (West Ham United, Defender)",WHU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/03/2021
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/03/2021
+"Fredericks  Ryan Fredericks (West Ham United, Defender)",WHU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/03/2021
+"Lingard  Jesse Lingard (West Ham United, Midfielder)",WHU,7.0,1,0.04,0.96,2250.0,1,0.12,0.88,750.0,0.16,1.84,562.5,21/03/2021
+"Noble  Mark Noble (West Ham United, Midfielder)",WHU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/03/2021
+"Rice  Declan Rice (West Ham United, Midfielder)",WHU,5.0,0,0.01,-0.01,9000.0,0,0.06,-0.06,1500.0,0.07,-0.07,1285.7,21/03/2021
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,0,0.01,-0.01,9000.0,1,0.91,0.09,98.9,0.92,0.08,97.8,21/03/2021

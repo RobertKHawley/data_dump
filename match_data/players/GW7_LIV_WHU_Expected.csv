@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,0,0.2,-0.2,450.0,0,0.09,-0.09,1000.0,0.29,-0.29,310.3,31/10/2020
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,0,0.03,-0.03,2333.3,0,0.0,0.0,inf,0.03,-0.03,2333.3,31/10/2020
+"Gomez  Joseph Gomez (Liverpool, Defender)",LIV,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,31/10/2020
+"Henderson (Jordan)  Jordan Henderson (Liverpool, Midfielder)",LIV,5.0,0,0.07,-0.07,1285.7,0,0.05,-0.05,1800.0,0.12,-0.12,750.0,31/10/2020
+"Jones (Curtis)  Curtis Jones (Liverpool, Midfielder)",LIV,5.0,0,0.06,-0.06,1166.7,0,0.03,-0.03,2333.3,0.09,-0.09,777.8,31/10/2020
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,0,0.13,-0.13,692.3,0,0.07,-0.07,1285.7,0.2,-0.2,450.0,31/10/2020
+"Milner  James Milner (Liverpool, Midfielder)",LIV,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/10/2020
+"Phillips (Nathaniel)  Nathaniel Phillips (Liverpool, Defender)",LIV,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,31/10/2020
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/10/2020
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,0,0.03,-0.03,3000.0,0,0.06,-0.06,1500.0,0.09,-0.09,1000.0,31/10/2020
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,0,0.11,-0.11,809.1,1,0.96,0.04,92.7,1.07,-0.07,83.2,31/10/2020
+"Shaqiri  Xherdan Shaqiri (Liverpool, Midfielder)",LIV,6.0,1,0.36,0.64,55.6,0,0.0,0.0,inf,0.36,0.64,55.6,31/10/2020
+"Diogo Jota  Diogo José Teixeira da Silva (Liverpool, Midfielder)",LIV,7.5,0,0.0,0.0,inf,1,0.4,0.6,50.0,0.4,0.6,50.0,31/10/2020
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,31/10/2020
+"Balbuena  Fabián Balbuena (West Ham United, Defender)",WHU,4.1,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/10/2020
+"Benrahma  Said Benrahma (West Ham United, Midfielder)",WHU,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/10/2020
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,0,0.02,-0.02,4450.0,0,0.0,0.0,inf,0.02,-0.02,4450.0,31/10/2020
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,31/10/2020
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,31/10/2020
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/10/2020
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,0,0.01,-0.01,9000.0,1,0.2,0.8,450.0,0.21,0.79,428.6,31/10/2020
+"Haller  Sébastien Haller (West Ham United, Forward)",WHU,6.1,0,0.01,-0.01,7400.0,0,0.08,-0.08,925.0,0.09,-0.09,822.2,31/10/2020
+"Lanzini  Manuel Lanzini (West Ham United, Midfielder)",WHU,6.0,0,0.03,-0.03,66.7,0,0.0,0.0,inf,0.03,-0.03,66.7,31/10/2020
+"Masuaku  Arthur Masuaku (West Ham United, Defender)",WHU,4.5,0,0.01,-0.01,8800.0,0,0.0,0.0,inf,0.01,-0.01,8800.0,31/10/2020
+"Ogbonna  Angelo Ogbonna (West Ham United, Defender)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/10/2020
+"Rice  Declan Rice (West Ham United, Midfielder)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/10/2020
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,0,0.01,-0.01,9000.0,0,0.05,-0.05,1800.0,0.06,-0.06,1500.0,31/10/2020
+"Yarmolenko  Andriy Yarmolenko (West Ham United, Midfielder)",WHU,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/10/2020

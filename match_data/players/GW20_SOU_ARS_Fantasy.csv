@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Cedric  Cedric Ricardo Alves Soares (Arsenal, Defender)",ARS,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,20,26/01/2021,DEF,False
+"Bellerín  Héctor Bellerín (Arsenal, Defender)",ARS,5.0,1,90,0,0,0,0,0,0,0,1,0,1,0,SOU,20,26/01/2021,DEF,False
+"Willian  Willian Borges Da Silva (Arsenal, Midfielder)",ARS,6.5,0,18,1,0,0,0,0,0,0,0,0,0,0,SOU,20,26/01/2021,MID,False
+"Elneny  Mohamed Elneny (Arsenal, Midfielder)",ARS,4.5,0,12,1,0,0,0,0,0,0,0,0,0,0,SOU,20,26/01/2021,MID,False
+"Holding  Rob Holding (Arsenal, Defender)",ARS,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,20,26/01/2021,DEF,False
+"Lacazette  Alexandre Lacazette (Arsenal, Forward)",ARS,8.5,1,90,0,0,1,1,0,1,0,1,0,0,0,SOU,20,26/01/2021,FWD,False
+"Leno  Bernd Leno (Arsenal, Goalkeeper)",ARS,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,20,26/01/2021,GKP,False
+"Luiz  David Luiz Moreira Marinho (Arsenal, Defender)",ARS,5.4,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,20,26/01/2021,DEF,False
+"Partey  Thomas Partey (Arsenal, Midfielder)",ARS,5.0,1,78,0,1,0,0,0,0,0,1,0,0,0,SOU,20,26/01/2021,MID,False
+"Pepe  Nicolas Pepe (Arsenal, Midfielder)",ARS,7.5,1,89,0,1,1,0,0,0,0,1,0,1,0,SOU,20,26/01/2021,MID,False
+"Saka  Bukayo Saka (Arsenal, Midfielder)",ARS,6.5,1,90,0,0,1,1,0,1,0,1,0,0,0,SOU,20,26/01/2021,MID,False
+"Smith-Rowe  Emile Smith-Rowe (Arsenal, Midfielder)",ARS,5.5,1,72,0,1,0,0,0,0,0,1,0,0,0,SOU,20,26/01/2021,MID,False
+"Willock  Joseph Willock (Arsenal, Midfielder)",ARS,6.0,0,1,1,0,0,0,0,0,0,0,0,0,0,SOU,20,26/01/2021,MID,False
+"Xhaka  Granit Xhaka (Arsenal, Midfielder)",ARS,5.0,1,90,0,0,0,1,0,1,0,1,0,0,0,SOU,20,26/01/2021,MID,False
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,1,90,0,0,0,0,0,0,0,3,0,0,0,ARS,20,26/01/2021,FWD,True
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,1,90,0,0,1,0,0,0,0,3,0,0,0,ARS,20,26/01/2021,MID,True
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,ARS,20,26/01/2021,DEF,True
+"Diallo  Ibrahima Diallo (Southampton, Midfielder)",SOU,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,ARS,20,26/01/2021,MID,True
+"Ings  Danny Ings (Southampton, Forward)",SOU,8.0,1,74,0,1,0,0,0,0,0,3,0,0,0,ARS,20,26/01/2021,FWD,True
+"McCarthy (Alex)  Alex McCarthy (Southampton, Goalkeeper)",SOU,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,ARS,20,26/01/2021,GKP,True
+"N'Lundulu  Daniel N&#039;Lundulu (Southampton, Forward)",SOU,4.5,0,16,1,0,0,0,0,0,0,0,0,0,0,ARS,20,26/01/2021,FWD,True
+"Redmond  Nathan Redmond (Southampton, Midfielder)",SOU,6.0,0,24,1,0,0,0,0,0,0,1,0,0,0,ARS,20,26/01/2021,MID,True
+"Stephens (Jack)  Jack Stephens (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,ARS,20,26/01/2021,DEF,True
+"Valery  Yann Valery (Southampton, Defender)",SOU,4.7,1,90,0,0,0,0,0,0,0,3,0,0,0,ARS,20,26/01/2021,DEF,True
+"Vokins  Jake Vokins (Southampton, Defender)",SOU,3.9,1,66,0,1,0,0,0,0,0,2,0,0,0,ARS,20,26/01/2021,DEF,True
+"Walcott  Theo Walcott (Southampton, Midfielder)",SOU,6.0,1,74,0,1,0,0,0,0,0,3,0,0,0,ARS,20,26/01/2021,MID,True
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,1,90,0,0,0,1,0,1,0,3,0,0,0,ARS,20,26/01/2021,MID,True
+"Watts  Caleb Watts (Southampton, Midfielder)",SOU,4.5,0,16,1,0,0,0,0,0,0,0,0,1,0,ARS,20,26/01/2021,MID,True

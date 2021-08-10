@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Antonio  Michail Antonio (West Ham United, Forward)",WHU,7.5,0,0.0,0.0,inf,0,0.21,-0.21,171.4,0.21,-0.21,171.4,05/04/2021
+"Benrahma  Said Benrahma (West Ham United, Midfielder)",WHU,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/04/2021
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,0,0.0,0.0,inf,1,0.43,0.57,125.6,0.43,0.57,125.6,05/04/2021
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,1,0.19,0.81,473.7,0,0.0,0.0,inf,0.19,0.81,473.7,05/04/2021
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,0,0.1,-0.1,900.0,0,0.0,0.0,inf,0.1,-0.1,900.0,05/04/2021
+"Dawson  Craig Dawson (West Ham United, Defender)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/04/2021
+"Diop  Issa Diop (West Ham United, Defender)",WHU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/04/2021
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/04/2021
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,0,0.06,-0.06,1300.0,1,0.15,0.85,520.0,0.21,0.79,371.4,05/04/2021
+"Johnson (Ben)  Ben Johnson (West Ham United, Defender)",WHU,4.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/04/2021
+"Lingard  Jesse Lingard (West Ham United, Midfielder)",WHU,7.0,1,0.02,0.98,4500.0,1,0.48,0.52,187.5,0.5,1.5,180.0,05/04/2021
+"Masuaku  Arthur Masuaku (West Ham United, Defender)",WHU,4.5,1,0.1,0.9,670.0,0,0.0,0.0,inf,0.1,0.9,670.0,05/04/2021
+"Noble  Mark Noble (West Ham United, Midfielder)",WHU,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,05/04/2021
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,0,0.08,-0.08,1125.0,0,0.0,0.0,inf,0.08,-0.08,1125.0,05/04/2021
+"Ait Nouri  Rayan Ait Nouri (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.02,-0.02,4450.0,0,0.04,-0.04,2225.0,0.06,-0.06,1483.3,05/04/2021
+"Coady  Conor Coady (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.0,0.0,inf,0,0.08,-0.08,1125.0,0.08,-0.08,1125.0,05/04/2021
+"Willian José  Willian José Da Silva (Wolverhampton Wanderers, Forward)",WOL,6.8,0,0.23,-0.23,313.0,0,0.59,-0.59,122.0,0.82,-0.82,87.8,05/04/2021
+"Dendoncker (Leander)  Leander Dendoncker (Wolverhampton Wanderers, Midfielder)",WOL,5.0,0,0.01,-0.01,9000.0,1,0.33,0.67,272.7,0.34,0.66,264.7,05/04/2021
+"Hoever  Ki-Jana Hoever (Wolverhampton Wanderers, Defender)",WOL,4.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/04/2021
+"Vitor Ferreira  Vitor Machado Ferreira (Wolverhampton Wanderers, Midfielder)",WOL,4.7,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/04/2021
+"Neto  Pedro Neto (Wolverhampton Wanderers, Midfielder)",WOL,6.5,1,0.26,0.74,346.2,0,0.74,-0.74,121.6,1.0,0.0,90.0,05/04/2021
+"Podence  Daniel Podence (Wolverhampton Wanderers, Midfielder)",WOL,5.5,0,0.25,-0.25,180.0,0,0.2,-0.2,225.0,0.45,-0.45,100.0,05/04/2021
+"Saiss  Romain Saiss (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,05/04/2021
+"Semedo  Nelson Semedo (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.08,-0.08,1125.0,0,0.0,0.0,inf,0.08,-0.08,1125.0,05/04/2021
+"Fabio Silva  Fabio Daniel Soares Silva (Wolverhampton Wanderers, Forward)",WOL,6.0,0,0.0,0.0,inf,1,0.28,0.72,160.7,0.28,0.72,160.7,05/04/2021
+"Traoré  Adama Traoré (Wolverhampton Wanderers, Midfielder)",WOL,6.0,1,0.1,0.9,900.0,0,0.08,-0.08,1125.0,0.18,0.82,500.0,05/04/2021
+"Ruben Neves  Rúben Diogo da Silva Neves (Wolverhampton Wanderers, Midfielder)",WOL,5.5,0,0.2,-0.2,450.0,0,0.03,-0.03,3000.0,0.23,-0.23,391.3,05/04/2021
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/04/2021

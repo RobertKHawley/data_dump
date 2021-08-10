@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Bernard  Bernard Anício Caldeira Duarte (Everton, Midfielder)",EVE,5.5,0,30,1,0,0,0,0,0,0,1,0,0,0,NEW,7,01/11/2020,MID,False
+"Calvert-Lewin  Dominic Calvert-Lewin (Everton, Forward)",EVE,8.0,1,90,0,0,1,0,0,0,0,2,0,0,0,NEW,7,01/11/2020,FWD,False
+"Delph  Fabian Delph (Everton, Midfielder)",EVE,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,7,01/11/2020,MID,False
+"Doucouré  Abdoulaye Doucouré (Everton, Midfielder)",EVE,5.5,1,90,0,0,0,0,0,0,0,2,0,1,0,NEW,7,01/11/2020,MID,False
+"Iwobi  Alex Iwobi (Everton, Midfielder)",EVE,6.0,0,14,1,0,0,0,1,1,0,1,0,0,0,NEW,7,01/11/2020,MID,False
+"Keane  Michael Keane (Everton, Defender)",EVE,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,7,01/11/2020,DEF,False
+"Kenny  Jonjoe Kenny (Everton, Defender)",EVE,4.3,1,76,0,1,0,0,0,0,0,1,0,0,0,NEW,7,01/11/2020,DEF,False
+"Allan  Allan Marques Loureiro (Everton, Midfielder)",EVE,4.5,1,90,0,0,0,0,0,0,0,2,0,1,0,NEW,7,01/11/2020,MID,False
+"Mina  Yerry Mina (Everton, Defender)",EVE,5.0,1,90,0,0,0,0,0,0,0,2,0,1,0,NEW,7,01/11/2020,DEF,False
+"Nkounkou  Niels Nkounkou (Everton, Defender)",EVE,4.0,1,69,0,1,0,0,0,0,0,1,0,1,0,NEW,7,01/11/2020,DEF,False
+"Olsen  Robin Olsen (Everton, Goalkeeper)",EVE,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,7,01/11/2020,GKP,False
+"Sigurdsson  Gylfi Sigurdsson (Everton, Midfielder)",EVE,7.0,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,7,01/11/2020,MID,False
+"André Gomes  André Filipe Tavares Gomes (Everton, Midfielder)",EVE,5.0,1,60,0,1,0,0,0,0,0,1,0,0,0,NEW,7,01/11/2020,MID,False
+"Tosun  Cenk Tosun (Everton, Forward)",EVE,6.0,0,21,1,0,0,0,0,0,0,1,0,0,0,NEW,7,01/11/2020,FWD,False
+"Almirón  Miguel Almirón (Newcastle United, Midfielder)",NEW,5.5,1,83,0,1,0,0,0,0,1,0,0,0,0,EVE,7,01/11/2020,MID,True
+"Carroll  Andy Carroll (Newcastle United, Forward)",NEW,5.1,0,3,1,0,0,0,0,0,0,1,0,0,0,EVE,7,01/11/2020,FWD,True
+"Darlow  Karl Darlow (Newcastle United, Goalkeeper)",NEW,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,7,01/11/2020,GKP,True
+"Fernández  Federico Fernández (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,7,01/11/2020,DEF,True
+"Fraser  Ryan Fraser (Newcastle United, Midfielder)",NEW,5.5,0,16,1,0,0,0,1,1,0,1,0,0,0,EVE,7,01/11/2020,MID,True
+"Hayden (Isaac)  Isaac Hayden (Newcastle United, Midfielder)",NEW,4.5,0,7,1,0,0,0,0,0,0,1,0,0,0,EVE,7,01/11/2020,MID,True
+"Hendrick  Jeff Hendrick (Newcastle United, Midfielder)",NEW,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,7,01/11/2020,MID,True
+"Lascelles  Jamaal Lascelles (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,7,01/11/2020,DEF,True
+"Lewis (Jamal)  Jamal Lewis (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,7,01/11/2020,DEF,True
+"Longstaff (Sean)  Sean Longstaff (Newcastle United, Midfielder)",NEW,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,7,01/11/2020,MID,True
+"Jacob Murphy  Jacob Murphy (Newcastle United, Midfielder)",NEW,5.0,1,90,0,0,0,0,0,0,0,1,0,1,0,EVE,7,01/11/2020,MID,True
+"Saint-Maximin  Allan Saint-Maximin (Newcastle United, Midfielder)",NEW,6.5,1,74,0,1,0,0,0,0,1,0,0,0,0,EVE,7,01/11/2020,MID,True
+"Schär  Fabian Schär (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,7,01/11/2020,DEF,True
+"C Wilson  Callum Wilson (Newcastle United, Forward)",NEW,7.5,1,87,0,1,2,0,0,0,1,0,0,1,0,EVE,7,01/11/2020,FWD,True

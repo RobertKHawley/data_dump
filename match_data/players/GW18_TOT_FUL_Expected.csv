@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Tosin  Oluwatosin Adarabioyo (Fulham, Defender)",FUL,4.5,0,0.01,-0.01,9000.0,0,0.09,-0.09,1000.0,0.1,-0.1,900.0,13/01/2021
+"Aina  Ola Aina (Fulham, Defender)",FUL,4.3,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/01/2021
+"Andersen  Joachim Andersen (Fulham, Defender)",FUL,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,13/01/2021
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/01/2021
+"Cavaleiro  Ivan Cavaleiro (Fulham, Midfielder)",FUL,5.3,0,0.06,-0.06,1433.3,1,0.1,0.9,860.0,0.16,0.84,537.5,13/01/2021
+"DeCordova-Reid  Bobby DeCordova-Reid (Fulham, Forward)",FUL,5.3,0,0.06,-0.06,1500.0,0,0.11,-0.11,818.2,0.17,-0.17,529.4,13/01/2021
+"Kamara  Aboubakar Kamara (Fulham, Midfielder)",FUL,4.8,0,0.01,-0.01,400.0,0,0.0,0.0,inf,0.01,-0.01,400.0,13/01/2021
+"Loftus-Cheek  Ruben Loftus-Cheek (Fulham, Midfielder)",FUL,5.5,0,0.04,-0.04,2225.0,0,0.59,-0.59,150.8,0.63,-0.63,141.3,13/01/2021
+"Lookman  Ademola Lookman (Fulham, Midfielder)",FUL,4.7,1,0.14,0.86,164.3,0,0.07,-0.07,328.6,0.21,0.79,109.5,13/01/2021
+"Onomah  Josh Onomah (Fulham, Midfielder)",FUL,4.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/01/2021
+"Reed  Harrison Reed (Fulham, Midfielder)",FUL,4.4,0,0.06,-0.06,1500.0,0,0.0,0.0,inf,0.06,-0.06,1500.0,13/01/2021
+"Robinson (Antonee)  Antonee Robinson (Fulham, Defender)",FUL,4.4,0,0.01,-0.01,9000.0,0,0.08,-0.08,1125.0,0.09,-0.09,1000.0,13/01/2021
+"Tete  Kenny Tete (Fulham, Defender)",FUL,4.3,0,0.05,-0.05,1340.0,0,0.06,-0.06,1116.7,0.11,-0.11,609.1,13/01/2021
+"Zambo Anguissa  André-Frank Zambo Anguissa (Fulham, Midfielder)",FUL,4.4,0,0.01,-0.01,9000.0,0,0.05,-0.05,1800.0,0.06,-0.06,1500.0,13/01/2021
+"Carlos Vinicius  Carlos Vinicius Alves Morais (Tottenham Hotspur, Forward)",TOT,6.9,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/01/2021
+"Aurier  Serge Aurier (Tottenham Hotspur, Defender)",TOT,5.0,0,0.62,-0.62,145.2,0,0.0,0.0,inf,0.62,-0.62,145.2,13/01/2021
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,0,0.01,-0.01,9000.0,0,0.09,-0.09,1000.0,0.1,-0.1,900.0,13/01/2021
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,0,0.04,-0.04,2250.0,0,0.18,-0.18,500.0,0.22,-0.22,409.1,13/01/2021
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,0,0.03,-0.03,3000.0,1,0.62,0.38,145.2,0.65,0.35,138.5,13/01/2021
+"Lamela  Erik Lamela (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/01/2021
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/01/2021
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.19,-0.19,426.3,0,0.02,-0.02,4050.0,0.21,-0.21,385.7,13/01/2021
+"Reguilón  Sergio Reguilón (Tottenham Hotspur, Defender)",TOT,5.0,1,0.19,0.81,473.7,0,0.19,-0.19,473.7,0.38,0.62,236.8,13/01/2021
+"Sissoko  Moussa Sissoko (Tottenham Hotspur, Midfielder)",TOT,4.5,0,0.02,-0.02,4500.0,0,0.19,-0.19,473.7,0.21,-0.21,428.6,13/01/2021
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,0,0.03,-0.03,3000.0,0,1.26,-1.26,71.4,1.29,-1.29,69.8,13/01/2021
+"DSanchez  Davinson Sánchez (Tottenham Hotspur, Defender)",TOT,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/01/2021
+"Winks  Harry Winks (Tottenham Hotspur, Midfielder)",TOT,4.5,0,0.13,-0.13,576.9,0,0.03,-0.03,2500.0,0.16,-0.16,468.8,13/01/2021

@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Almirón  Miguel Almirón (Newcastle United, Midfielder)",NEW,5.5,1,45,0,1,0,0,0,0,0,0,0,0,0,WOL,26,27/02/2021,MID,True
+"Joelinton  Joelinton Cássio Apolinário de Lira (Newcastle United, Forward)",NEW,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,26,27/02/2021,FWD,True
+"Clark  Ciaran Clark (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,1,0,1,0,WOL,26,27/02/2021,DEF,True
+"Dubravka  Martin Dubravka (Newcastle United, Goalkeeper)",NEW,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,26,27/02/2021,GKP,True
+"Fraser  Ryan Fraser (Newcastle United, Midfielder)",NEW,5.5,0,45,1,0,0,1,0,1,0,1,0,0,0,WOL,26,27/02/2021,MID,True
+"Hayden (Isaac)  Isaac Hayden (Newcastle United, Midfielder)",NEW,4.5,1,90,0,0,0,0,0,0,0,1,0,1,0,WOL,26,27/02/2021,MID,True
+"Krafth  Emil Krafth (Newcastle United, Defender)",NEW,4.5,1,72,0,1,0,0,0,0,1,0,0,0,0,WOL,26,27/02/2021,DEF,True
+"Lascelles  Jamaal Lascelles (Newcastle United, Defender)",NEW,4.5,1,90,0,0,1,0,0,0,0,1,0,0,0,WOL,26,27/02/2021,DEF,True
+"Lewis (Jamal)  Jamal Lewis (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,26,27/02/2021,DEF,True
+"Jacob Murphy  Jacob Murphy (Newcastle United, Midfielder)",NEW,5.0,0,27,1,0,0,0,0,0,0,1,0,0,0,WOL,26,27/02/2021,MID,True
+"Ritchie  Matt Ritchie (Newcastle United, Midfielder)",NEW,5.0,0,18,1,0,0,0,0,0,0,1,0,0,0,WOL,26,27/02/2021,MID,True
+"Saint-Maximin  Allan Saint-Maximin (Newcastle United, Midfielder)",NEW,6.5,1,63,0,1,0,0,0,0,1,0,0,0,0,WOL,26,27/02/2021,MID,True
+"Shelvey  Jonjo Shelvey (Newcastle United, Midfielder)",NEW,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,26,27/02/2021,MID,True
+"Willock  Joseph Willock (Newcastle United, Midfielder)",NEW,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,26,27/02/2021,MID,True
+"Ait Nouri  Rayan Ait Nouri (Wolverhampton Wanderers, Defender)",WOL,4.5,0,1,1,0,0,0,0,0,0,0,0,0,0,NEW,26,27/02/2021,DEF,False
+"Jonny  Jonathan Castro Otto (Wolverhampton Wanderers, Defender)",WOL,4.5,1,89,0,1,0,0,0,0,0,1,0,0,0,NEW,26,27/02/2021,DEF,False
+"Coady  Conor Coady (Wolverhampton Wanderers, Defender)",WOL,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,26,27/02/2021,DEF,False
+"Willian José  Willian José Da Silva (Wolverhampton Wanderers, Forward)",WOL,6.8,1,82,0,1,0,0,0,0,0,1,0,0,0,NEW,26,27/02/2021,FWD,False
+"Dendoncker (Leander)  Leander Dendoncker (Wolverhampton Wanderers, Midfielder)",WOL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,26,27/02/2021,MID,False
+"Hoever  Ki-Jana Hoever (Wolverhampton Wanderers, Defender)",WOL,4.0,0,5,1,0,0,0,0,0,0,0,0,0,0,NEW,26,27/02/2021,DEF,False
+"Moutinho  João Moutinho (Wolverhampton Wanderers, Midfielder)",WOL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,26,27/02/2021,MID,False
+"Neto  Pedro Neto (Wolverhampton Wanderers, Midfielder)",WOL,6.5,1,90,0,0,0,1,0,1,0,1,0,0,0,NEW,26,27/02/2021,MID,False
+"Saiss  Romain Saiss (Wolverhampton Wanderers, Defender)",WOL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,26,27/02/2021,DEF,False
+"Semedo  Nelson Semedo (Wolverhampton Wanderers, Defender)",WOL,5.0,1,85,0,1,0,0,0,0,0,1,0,0,0,NEW,26,27/02/2021,DEF,False
+"Fabio Silva  Fabio Daniel Soares Silva (Wolverhampton Wanderers, Forward)",WOL,6.0,0,8,1,0,0,0,0,0,0,0,0,0,0,NEW,26,27/02/2021,FWD,False
+"Traoré  Adama Traoré (Wolverhampton Wanderers, Midfielder)",WOL,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,26,27/02/2021,MID,False
+"Ruben Neves  Rúben Diogo da Silva Neves (Wolverhampton Wanderers, Midfielder)",WOL,5.5,1,90,0,0,1,0,0,0,0,1,0,0,0,NEW,26,27/02/2021,MID,False
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,26,27/02/2021,GKP,False

@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Bissouma  Yves Bissouma (Brighton and Hove Albion, Midfielder)",BHA,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,MUN,30,04/04/2021,MID,False
+"Dunk  Lewis Dunk (Brighton and Hove Albion, Defender)",BHA,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,MUN,30,04/04/2021,DEF,False
+"Groß  Pascal Groß (Brighton and Hove Albion, Midfielder)",BHA,6.0,1,90,0,0,0,0,0,0,0,2,0,1,0,MUN,30,04/04/2021,MID,False
+"Jahanbakhsh  Alireza Jahanbakhsh (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,3,1,0,0,0,0,0,0,0,0,0,0,MUN,30,04/04/2021,MID,False
+"Lallana  Adam Lallana (Brighton and Hove Albion, Midfielder)",BHA,5.5,1,87,0,1,0,0,0,0,0,2,0,0,0,MUN,30,04/04/2021,MID,False
+"Mac Allister  Alexis Mac Allister (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,27,1,0,0,0,0,0,0,1,0,0,0,MUN,30,04/04/2021,MID,False
+"Maupay  Neal Maupay (Brighton and Hove Albion, Forward)",BHA,6.5,1,90,0,0,0,0,0,0,0,2,0,0,0,MUN,30,04/04/2021,FWD,False
+"Moder  Jakub Moder (Brighton and Hove Albion, Midfielder)",BHA,4.5,1,87,0,1,0,0,0,0,0,2,0,0,0,MUN,30,04/04/2021,MID,False
+"Sanchez  Robert Sanchez (Brighton and Hove Albion, Goalkeeper)",BHA,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,MUN,30,04/04/2021,GKP,False
+"Trossard  Leandro Trossard (Brighton and Hove Albion, Midfielder)",BHA,6.5,1,63,0,1,0,0,0,0,0,1,0,0,0,MUN,30,04/04/2021,MID,False
+"Veltman  Joël Veltman (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,MUN,30,04/04/2021,DEF,False
+"Welbeck  Danny Welbeck (Brighton and Hove Albion, Forward)",BHA,6.0,1,90,0,0,1,0,0,0,0,2,0,0,0,MUN,30,04/04/2021,FWD,False
+"White (Ben)  Ben White (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,0,2,0,1,0,MUN,30,04/04/2021,DEF,False
+"Zeqiri  Andi Zeqiri (Brighton and Hove Albion, Forward)",BHA,5.0,0,3,1,0,0,0,0,0,0,0,0,0,0,MUN,30,04/04/2021,FWD,False
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,1,90,0,0,0,1,0,1,0,1,0,0,0,BHA,30,04/04/2021,MID,True
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,1,82,0,1,0,0,0,0,0,1,0,1,0,BHA,30,04/04/2021,FWD,True
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,1,90,0,0,1,0,0,0,0,1,0,1,0,BHA,30,04/04/2021,MID,True
+"Henderson (Dean)  Dean Henderson (Manchester United, Goalkeeper)",MUN,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,30,04/04/2021,GKP,True
+"James (Daniel)  Daniel James (Manchester United, Midfielder)",MUN,6.0,0,18,1,0,0,0,0,0,0,0,0,0,0,BHA,30,04/04/2021,MID,True
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,30,04/04/2021,DEF,True
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,0,6,1,0,0,0,0,0,0,0,0,0,0,BHA,30,04/04/2021,MID,True
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,30,04/04/2021,DEF,True
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,1,84,0,1,0,1,0,1,0,1,0,0,0,BHA,30,04/04/2021,MID,True
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,1,72,0,1,1,0,0,0,0,1,0,0,0,BHA,30,04/04/2021,MID,True
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,30,04/04/2021,MID,True
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,30,04/04/2021,DEF,True
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,30,04/04/2021,DEF,True
+"van de Beek  Donny van de Beek (Manchester United, Midfielder)",MUN,6.0,0,8,1,0,0,0,0,0,0,0,0,0,0,BHA,30,04/04/2021,MID,True

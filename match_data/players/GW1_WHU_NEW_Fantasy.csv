@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Almirón  Miguel Almirón (Newcastle United, Midfielder)",NEW,5.5,0,5,1,0,0,1,0,1,0,0,0,0,0,WHU,1,12/09/2020,MID,False
+"Joelinton  Joelinton Cássio Apolinário de Lira (Newcastle United, Forward)",NEW,6.0,0,15,1,0,0,0,0,0,0,0,0,0,0,WHU,1,12/09/2020,FWD,False
+"Carroll  Andy Carroll (Newcastle United, Forward)",NEW,5.1,1,88,0,1,0,0,0,0,1,0,0,0,0,WHU,1,12/09/2020,FWD,False
+"Darlow  Karl Darlow (Newcastle United, Goalkeeper)",NEW,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,WHU,1,12/09/2020,GKP,False
+"Fernández  Federico Fernández (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,WHU,1,12/09/2020,DEF,False
+"Hayden (Isaac)  Isaac Hayden (Newcastle United, Midfielder)",NEW,4.5,1,90,0,0,0,0,0,0,1,0,0,1,0,WHU,1,12/09/2020,MID,False
+"Hendrick  Jeff Hendrick (Newcastle United, Midfielder)",NEW,5.0,1,90,0,0,1,1,0,1,1,0,0,0,0,WHU,1,12/09/2020,MID,False
+"Lascelles  Jamaal Lascelles (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,WHU,1,12/09/2020,DEF,False
+"Lewis (Jamal)  Jamal Lewis (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,WHU,1,12/09/2020,DEF,False
+"Longstaff (Sean)  Sean Longstaff (Newcastle United, Midfielder)",NEW,4.5,0,2,1,0,0,0,0,0,0,0,0,0,0,WHU,1,12/09/2020,MID,False
+"Manquillo  Javier Manquillo (Newcastle United, Defender)",NEW,4.0,1,90,0,0,0,0,0,0,1,0,0,1,0,WHU,1,12/09/2020,DEF,False
+"Saint-Maximin  Allan Saint-Maximin (Newcastle United, Midfielder)",NEW,6.5,1,75,0,1,0,0,0,0,1,0,0,0,0,WHU,1,12/09/2020,MID,False
+"Shelvey  Jonjo Shelvey (Newcastle United, Midfielder)",NEW,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,WHU,1,12/09/2020,MID,False
+"C Wilson  Callum Wilson (Newcastle United, Forward)",NEW,7.5,1,85,0,1,1,0,0,0,1,0,0,0,0,WHU,1,12/09/2020,FWD,False
+"Antonio  Michail Antonio (West Ham United, Forward)",WHU,7.5,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,1,12/09/2020,FWD,True
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,1,89,0,1,0,0,0,0,0,2,0,0,0,NEW,1,12/09/2020,MID,True
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,1,12/09/2020,DEF,True
+"Diop  Issa Diop (West Ham United, Defender)",WHU,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,1,12/09/2020,DEF,True
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,1,12/09/2020,GKP,True
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,1,67,0,1,0,0,0,0,0,1,0,0,0,NEW,1,12/09/2020,MID,True
+"Fredericks  Ryan Fredericks (West Ham United, Defender)",WHU,4.5,1,90,0,0,0,0,0,0,0,2,0,1,0,NEW,1,12/09/2020,DEF,True
+"Haller  Sébastien Haller (West Ham United, Forward)",WHU,6.1,0,23,1,0,0,0,0,0,0,1,0,0,0,NEW,1,12/09/2020,FWD,True
+"Noble  Mark Noble (West Ham United, Midfielder)",WHU,4.5,1,67,0,1,0,0,0,0,0,1,0,0,0,NEW,1,12/09/2020,MID,True
+"Ogbonna  Angelo Ogbonna (West Ham United, Defender)",WHU,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,1,12/09/2020,DEF,True
+"Felipe Anderson  Felipe Anderson Pereira Gomes (West Ham United, Midfielder)",WHU,6.1,0,1,1,0,0,0,0,0,0,0,0,0,0,NEW,1,12/09/2020,MID,True
+"Rice  Declan Rice (West Ham United, Midfielder)",WHU,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,1,12/09/2020,MID,True
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,1,12/09/2020,MID,True
+"Yarmolenko  Andriy Yarmolenko (West Ham United, Midfielder)",WHU,5.5,0,23,1,0,0,0,0,0,0,1,0,1,0,NEW,1,12/09/2020,MID,True

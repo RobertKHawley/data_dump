@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,0,0.07,-0.07,442.9,0,0.06,-0.06,516.7,0.13,-0.13,238.5,11/04/2021
+"Amartey  Daniel Amartey (Leicester City, Defender)",LEI,4.0,0,0.01,-0.01,4500.0,0,0.0,0.0,inf,0.01,-0.01,4500.0,11/04/2021
+"Ricardo Pereira  Ricardo Domingos Barbosa Pereira (Leicester City, Defender)",LEI,5.5,1,0.09,0.91,1000.0,0,0.0,0.0,inf,0.09,0.91,1000.0,11/04/2021
+"Castagne  Timothy Castagne (Leicester City, Defender)",LEI,5.5,0,0.02,-0.02,4500.0,0,0.07,-0.07,1285.7,0.09,-0.09,1000.0,11/04/2021
+"Evans  Jonny Evans (Leicester City, Defender)",LEI,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,11/04/2021
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,0,0.01,-0.01,9000.0,0,0.11,-0.11,818.2,0.12,-0.12,750.0,11/04/2021
+"Iheanacho  Kelechi Iheanacho (Leicester City, Forward)",LEI,7.5,0,0.04,-0.04,2250.0,2,0.44,1.56,204.5,0.48,1.52,187.5,11/04/2021
+"Ndidi  Onyinye Wilfred Ndidi (Leicester City, Midfielder)",LEI,5.0,0,0.04,-0.04,2250.0,0,0.09,-0.09,1000.0,0.13,-0.13,692.3,11/04/2021
+"Praet  Dennis Praet (Leicester City, Midfielder)",LEI,5.0,0,0.02,-0.02,2950.0,0,0.0,0.0,inf,0.02,-0.02,2950.0,11/04/2021
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,11/04/2021
+"Thomas (Luke)  Luke Thomas (Leicester City, Defender)",LEI,4.5,0,0.01,-0.01,4500.0,0,0.0,0.0,inf,0.01,-0.01,4500.0,11/04/2021
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,0,0.6,-0.6,150.0,0,0.06,-0.06,1500.0,0.66,-0.66,136.4,11/04/2021
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,0,0.2,-0.2,450.0,0,0.08,-0.08,1125.0,0.28,-0.28,321.4,11/04/2021
+"Balbuena  Fabián Balbuena (West Ham United, Defender)",WHU,4.1,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,11/04/2021
+"Benrahma  Said Benrahma (West Ham United, Midfielder)",WHU,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,11/04/2021
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,1,0.06,0.94,1400.0,1,0.41,0.59,204.9,0.47,1.53,178.7,11/04/2021
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,1,0.05,0.95,1800.0,0,0.0,0.0,inf,0.05,0.95,1800.0,11/04/2021
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,11/04/2021
+"Dawson  Craig Dawson (West Ham United, Defender)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,11/04/2021
+"Diop  Issa Diop (West Ham United, Defender)",WHU,4.5,0,0.0,0.0,inf,0,0.33,-0.33,272.7,0.33,-0.33,272.7,11/04/2021
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,11/04/2021
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,11/04/2021
+"Johnson (Ben)  Ben Johnson (West Ham United, Defender)",WHU,4.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,11/04/2021
+"Lingard  Jesse Lingard (West Ham United, Midfielder)",WHU,7.0,0,0.01,-0.01,9000.0,2,0.42,1.58,214.3,0.43,1.57,209.3,11/04/2021
+"Masuaku  Arthur Masuaku (West Ham United, Defender)",WHU,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,11/04/2021
+"Noble  Mark Noble (West Ham United, Midfielder)",WHU,4.5,0,0.01,-0.01,8200.0,0,0.0,0.0,inf,0.01,-0.01,8200.0,11/04/2021
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,1,0.12,0.88,750.0,0,0.0,0.0,inf,0.12,0.88,750.0,11/04/2021

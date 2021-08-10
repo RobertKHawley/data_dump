@@ -1,0 +1,27 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Jordan Ayew  Jordan Ayew (Crystal Palace, Forward)",CRY,6.0,0,0.09,-0.09,1000.0,0,0.05,-0.05,1800.0,0.14,-0.14,642.9,03/03/2021
+"Benteke  Christian Benteke (Crystal Palace, Forward)",CRY,6.5,0,0.02,-0.02,4500.0,0,0.17,-0.17,529.4,0.19,-0.19,473.7,03/03/2021
+"Cahill  Gary Cahill (Crystal Palace, Defender)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/03/2021
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,0,0.01,-0.01,8400.0,0,0.0,0.0,inf,0.01,-0.01,8400.0,03/03/2021
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/03/2021
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/03/2021
+"McCarthy (James)  James McCarthy (Crystal Palace, Midfielder)",CRY,4.3,0,0.08,-0.08,775.0,0,0.0,0.0,inf,0.08,-0.08,775.0,03/03/2021
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,0,0.1,-0.1,900.0,0,0.08,-0.08,1125.0,0.18,-0.18,500.0,03/03/2021
+"Riedewald  Jairo Riedewald (Crystal Palace, Midfielder)",CRY,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/03/2021
+"Schlupp  Jeffrey Schlupp (Crystal Palace, Midfielder)",CRY,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/03/2021
+"Townsend (Andros)  Andros Townsend (Crystal Palace, Midfielder)",CRY,5.5,0,0.05,-0.05,1800.0,0,0.13,-0.13,692.3,0.18,-0.18,500.0,03/03/2021
+"Van Aanholt  Patrick Van Aanholt (Crystal Palace, Defender)",CRY,5.4,0,0.0,0.0,inf,0,0.45,-0.45,200.0,0.45,-0.45,200.0,03/03/2021
+"Ward (Joel)  Joel Ward (Crystal Palace, Defender)",CRY,4.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,03/03/2021
+"Bailly  Eric Bailly (Manchester United, Defender)",MUN,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,03/03/2021
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,0,0.27,-0.27,333.3,0,0.0,0.0,inf,0.27,-0.27,333.3,03/03/2021
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,0,0.04,-0.04,1900.0,0,0.51,-0.51,149.0,0.55,-0.55,138.2,03/03/2021
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,0,0.03,-0.03,3000.0,0,0.1,-0.1,900.0,0.13,-0.13,692.3,03/03/2021
+"Henderson (Dean)  Dean Henderson (Manchester United, Goalkeeper)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/03/2021
+"James (Daniel)  Daniel James (Manchester United, Midfielder)",MUN,6.0,0,0.02,-0.02,700.0,0,0.05,-0.05,280.0,0.07,-0.07,200.0,03/03/2021
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,0,0.01,-0.01,9000.0,0,0.05,-0.05,1800.0,0.06,-0.06,1500.0,03/03/2021
+"Matic  Nemanja Matic (Manchester United, Midfielder)",MUN,4.5,0,0.06,-0.06,1500.0,0,0.07,-0.07,1285.7,0.13,-0.13,692.3,03/03/2021
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/03/2021
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,0,0.07,-0.07,1285.7,0,0.07,-0.07,1285.7,0.14,-0.14,642.9,03/03/2021
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,0,0.05,-0.05,1480.0,0,0.03,-0.03,2466.7,0.08,-0.08,925.0,03/03/2021
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,0,0.22,-0.22,409.1,0,0.06,-0.06,1500.0,0.28,-0.28,321.4,03/03/2021
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,03/03/2021

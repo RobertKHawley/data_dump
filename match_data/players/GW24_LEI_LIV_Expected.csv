@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Amartey  Daniel Amartey (Leicester City, Defender)",LEI,4.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Ricardo Pereira  Ricardo Domingos Barbosa Pereira (Leicester City, Defender)",LEI,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Barnes (Harvey)  Harvey Barnes (Leicester City, Midfielder)",LEI,7.0,0,0.15,-0.15,600.0,1,0.45,0.55,200.0,0.6,0.4,150.0,13/02/2021
+"Choudhury  Hamza Choudhury (Leicester City, Midfielder)",LEI,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Evans  Jonny Evans (Leicester City, Defender)",LEI,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,0,0.05,-0.05,1800.0,1,0.1,0.9,900.0,0.15,0.85,600.0,13/02/2021
+"Mendy (Nampalys)  Nampalys Mendy (Leicester City, Midfielder)",LEI,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Ndidi  Onyinye Wilfred Ndidi (Leicester City, Midfielder)",LEI,5.0,1,0.01,0.99,9000.0,0,0.05,-0.05,1800.0,0.06,0.94,1500.0,13/02/2021
+"Ayoze Pérez  Ayoze Pérez Gutiérrez (Leicester City, Midfielder)",LEI,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Söyüncü  Caglar Söyüncü (Leicester City, Defender)",LEI,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,0,0.01,-0.01,8700.0,0,0.0,0.0,inf,0.01,-0.01,8700.0,13/02/2021
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,0,0.0,0.0,inf,1,1.27,-0.27,70.9,1.27,-0.27,70.9,13/02/2021
+"Thiago Alcántara  Thiago Alcántara do Nascimento (Liverpool, Midfielder)",LIV,5.5,0,0.05,-0.05,1460.0,0,0.0,0.0,inf,0.05,-0.05,1460.0,13/02/2021
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,0,0.67,-0.67,134.3,0,0.17,-0.17,529.4,0.84,-0.84,107.1,13/02/2021
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,1,0.1,0.9,900.0,0,0.74,-0.74,121.6,0.84,0.16,107.1,13/02/2021
+"Henderson (Jordan)  Jordan Henderson (Liverpool, Midfielder)",LIV,5.0,0,0.54,-0.54,166.7,0,0.0,0.0,inf,0.54,-0.54,166.7,13/02/2021
+"Jones (Curtis)  Curtis Jones (Liverpool, Midfielder)",LIV,5.0,0,0.03,-0.03,2500.0,0,0.04,-0.04,1875.0,0.07,-0.07,1071.4,13/02/2021
+"Kabak  Ozan Kabak (Liverpool, Defender)",LIV,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,0,0.08,-0.08,1125.0,0,0.48,-0.48,187.5,0.56,-0.56,160.7,13/02/2021
+"Milner  James Milner (Liverpool, Midfielder)",LIV,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Oxlade-Chamberlain  Alex Oxlade-Chamberlain (Liverpool, Midfielder)",LIV,6.0,0,0.02,-0.02,750.0,0,0.0,0.0,inf,0.02,-0.02,750.0,13/02/2021
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/02/2021
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,0,0.03,-0.03,3000.0,0,0.08,-0.08,1125.0,0.11,-0.11,818.2,13/02/2021
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,0,0.1,-0.1,900.0,1,0.43,0.57,209.3,0.53,0.47,169.8,13/02/2021
+"Shaqiri  Xherdan Shaqiri (Liverpool, Midfielder)",LIV,6.0,0,0.01,-0.01,300.0,0,0.0,0.0,inf,0.01,-0.01,300.0,13/02/2021
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,0,0.02,-0.02,4350.0,0,0.0,0.0,inf,0.02,-0.02,4350.0,13/02/2021

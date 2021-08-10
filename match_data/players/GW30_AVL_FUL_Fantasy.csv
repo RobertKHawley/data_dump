@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Cash  Matthew Cash (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,30,04/04/2021,DEF,True
+"Davis (Keinan)  Keinan Davis (Aston Villa, Forward)",AVL,4.5,0,23,1,0,0,1,0,1,0,0,0,0,0,FUL,30,04/04/2021,FWD,True
+"El Ghazi  Anwar El Ghazi (Aston Villa, Midfielder)",AVL,6.0,1,62,0,1,0,0,0,0,0,1,0,0,0,FUL,30,04/04/2021,MID,True
+"Trezeguet  Mahmoud Hassan (Aston Villa, Midfielder)",AVL,5.5,0,28,1,0,2,0,0,0,0,0,0,0,0,FUL,30,04/04/2021,MID,True
+"Konsa Ngoyo  Ezri Konsa Ngoyo (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,30,04/04/2021,DEF,True
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,30,04/04/2021,GKP,True
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,30,04/04/2021,MID,True
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,1,0,1,0,1,0,0,0,FUL,30,04/04/2021,DEF,True
+"Jacob Ramsey  Jacob Ramsey (Aston Villa, Midfielder)",AVL,4.5,0,16,1,0,0,0,0,0,0,0,0,0,0,FUL,30,04/04/2021,MID,True
+"Sanson  Morgan Sanson (Aston Villa, Midfielder)",AVL,5.0,1,67,0,1,0,0,0,0,0,1,0,0,0,FUL,30,04/04/2021,MID,True
+"Douglas Luiz  Douglas Luiz Soares de Paulo (Aston Villa, Midfielder)",AVL,4.5,1,74,0,1,0,0,0,0,0,1,0,1,0,FUL,30,04/04/2021,MID,True
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,30,04/04/2021,DEF,True
+"Traore (Bertrand)  Bertrand Traore (Aston Villa, Midfielder)",AVL,6.0,1,90,0,0,0,1,0,1,0,1,0,0,0,FUL,30,04/04/2021,MID,True
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,1,90,0,0,1,0,0,0,0,1,0,0,0,FUL,30,04/04/2021,FWD,True
+"Tosin  Oluwatosin Adarabioyo (Fulham, Defender)",FUL,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,AVL,30,04/04/2021,DEF,False
+"Aina  Ola Aina (Fulham, Defender)",FUL,4.3,1,90,0,0,0,0,0,0,0,3,0,0,0,AVL,30,04/04/2021,DEF,False
+"Andersen  Joachim Andersen (Fulham, Defender)",FUL,4.5,1,90,0,0,0,0,0,0,0,3,0,1,0,AVL,30,04/04/2021,DEF,False
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,AVL,30,04/04/2021,GKP,False
+"Cavaleiro  Ivan Cavaleiro (Fulham, Midfielder)",FUL,5.3,0,43,1,0,0,0,0,0,0,3,0,0,0,AVL,30,04/04/2021,MID,False
+"DeCordova-Reid  Bobby DeCordova-Reid (Fulham, Forward)",FUL,5.3,1,90,0,0,0,0,0,0,0,3,0,1,0,AVL,30,04/04/2021,FWD,False
+"Lemina  Mario Lemina (Fulham, Midfielder)",FUL,4.5,1,83,0,1,0,0,0,0,0,2,0,0,0,AVL,30,04/04/2021,MID,False
+"Loftus-Cheek  Ruben Loftus-Cheek (Fulham, Midfielder)",FUL,5.5,1,83,0,1,0,0,0,0,0,2,0,0,0,AVL,30,04/04/2021,MID,False
+"Lookman  Ademola Lookman (Fulham, Midfielder)",FUL,4.7,1,47,0,1,0,0,0,0,0,0,0,0,0,AVL,30,04/04/2021,MID,False
+"Maja  Josh Maja (Fulham, Forward)",FUL,5.0,0,7,1,0,0,0,0,0,0,1,0,0,0,AVL,30,04/04/2021,FWD,False
+"Mitrovic  Aleksandar Mitrovic (Fulham, Forward)",FUL,5.5,1,90,0,0,1,0,0,0,0,3,0,0,0,AVL,30,04/04/2021,FWD,False
+"Onomah  Josh Onomah (Fulham, Midfielder)",FUL,4.6,0,7,1,0,0,0,0,0,0,1,0,0,0,AVL,30,04/04/2021,MID,False
+"Reed  Harrison Reed (Fulham, Midfielder)",FUL,4.4,1,90,0,0,0,0,0,0,0,3,0,0,0,AVL,30,04/04/2021,MID,False
+"Tete  Kenny Tete (Fulham, Defender)",FUL,4.3,1,90,0,0,0,0,0,0,0,3,0,0,0,AVL,30,04/04/2021,DEF,False

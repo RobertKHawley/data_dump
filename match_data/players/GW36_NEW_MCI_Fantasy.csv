@@ -1,0 +1,27 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Aké  Nathan Aké (Manchester City, Defender)",MCI,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,NEW,36,14/05/2021,DEF,False
+"Carson  Scott Carson (Manchester City, Goalkeeper)",MCI,3.9,1,90,0,0,0,0,0,0,0,3,0,0,0,NEW,36,14/05/2021,GKP,False
+"João Cancelo  João Pedro Cavaco Cancelo (Manchester City, Defender)",MCI,6.0,1,74,0,1,1,0,1,1,0,3,0,1,0,NEW,36,14/05/2021,DEF,False
+"Garcia  Eric Garcia (Manchester City, Defender)",MCI,4.7,1,90,0,0,0,0,0,0,0,3,0,0,0,NEW,36,14/05/2021,DEF,False
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,1,90,0,0,0,1,0,1,0,3,0,0,0,NEW,36,14/05/2021,MID,False
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,1,90,0,0,0,1,0,1,0,3,0,1,0,NEW,36,14/05/2021,MID,False
+"Mendy (Benjamin)  Benjamin Mendy (Manchester City, Defender)",MCI,5.5,0,16,1,0,0,0,0,0,0,0,0,0,0,NEW,36,14/05/2021,DEF,False
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,1,90,0,0,0,0,0,0,0,3,0,0,0,NEW,36,14/05/2021,MID,False
+"Torres  Ferran Torres (Manchester City, Midfielder)",MCI,7.0,1,90,0,0,3,0,0,0,0,3,0,0,0,NEW,36,14/05/2021,MID,False
+"Bernardo Silva  Bernardo Mota Veiga de Carvalho e Silva (Manchester City, Midfielder)",MCI,7.0,1,90,0,0,0,0,0,0,0,3,0,0,0,NEW,36,14/05/2021,MID,False
+"Walker (Kyle)  Kyle Walker (Manchester City, Defender)",MCI,5.5,1,90,0,0,0,0,0,0,0,3,0,0,0,NEW,36,14/05/2021,DEF,False
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,1,90,0,0,0,1,0,1,0,3,0,0,0,NEW,36,14/05/2021,FWD,False
+"Almirón  Miguel Almirón (Newcastle United, Midfielder)",NEW,5.5,1,90,0,0,0,0,0,0,0,4,0,0,0,MCI,36,14/05/2021,MID,True
+"Joelinton  Joelinton Cássio Apolinário de Lira (Newcastle United, Forward)",NEW,6.0,1,84,0,1,1,0,0,0,0,4,0,0,0,MCI,36,14/05/2021,FWD,True
+"Dubravka  Martin Dubravka (Newcastle United, Goalkeeper)",NEW,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,MCI,36,14/05/2021,GKP,True
+"Dummett  Paul Dummett (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,MCI,36,14/05/2021,DEF,True
+"Fernández  Federico Fernández (Newcastle United, Defender)",NEW,4.5,1,88,0,1,0,0,0,0,0,4,0,0,0,MCI,36,14/05/2021,DEF,True
+"Gayle  Dwight Gayle (Newcastle United, Forward)",NEW,5.5,0,2,1,0,0,0,0,0,0,0,0,0,0,MCI,36,14/05/2021,FWD,True
+"Krafth  Emil Krafth (Newcastle United, Defender)",NEW,4.5,1,90,0,0,1,0,0,0,0,4,0,0,0,MCI,36,14/05/2021,DEF,True
+"Lewis (Jamal)  Jamal Lewis (Newcastle United, Defender)",NEW,4.5,0,6,1,0,0,0,0,0,0,0,0,0,0,MCI,36,14/05/2021,DEF,True
+"Longstaff (Sean)  Sean Longstaff (Newcastle United, Midfielder)",NEW,4.5,0,6,1,0,0,0,0,0,0,0,0,0,0,MCI,36,14/05/2021,MID,True
+"Jacob Murphy  Jacob Murphy (Newcastle United, Midfielder)",NEW,5.0,1,90,0,0,0,0,0,0,0,4,0,0,0,MCI,36,14/05/2021,MID,True
+"Ritchie  Matt Ritchie (Newcastle United, Midfielder)",NEW,5.0,1,84,0,1,0,0,0,0,0,4,0,1,0,MCI,36,14/05/2021,MID,True
+"Saint-Maximin  Allan Saint-Maximin (Newcastle United, Midfielder)",NEW,6.5,1,90,0,0,0,0,0,0,0,4,0,0,0,MCI,36,14/05/2021,MID,True
+"Shelvey  Jonjo Shelvey (Newcastle United, Midfielder)",NEW,5.5,1,90,0,0,0,1,0,1,0,4,0,1,0,MCI,36,14/05/2021,MID,True
+"Willock  Joseph Willock (Newcastle United, Midfielder)",NEW,6.0,1,90,0,0,1,0,0,0,0,4,0,0,0,MCI,36,14/05/2021,MID,True

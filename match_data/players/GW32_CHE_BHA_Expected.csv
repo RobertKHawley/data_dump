@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Bissouma  Yves Bissouma (Brighton and Hove Albion, Midfielder)",BHA,4.5,0,0.02,-0.02,4500.0,0,0.15,-0.15,600.0,0.17,-0.17,529.4,20/04/2021
+"Burn  Dan Burn (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,20/04/2021
+"Dunk  Lewis Dunk (Brighton and Hove Albion, Defender)",BHA,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/04/2021
+"Groß  Pascal Groß (Brighton and Hove Albion, Midfielder)",BHA,6.0,0,0.1,-0.1,900.0,0,0.0,0.0,inf,0.1,-0.1,900.0,20/04/2021
+"Lallana  Adam Lallana (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.01,-0.01,3000.0,0,0.13,-0.13,230.8,0.14,-0.14,214.3,20/04/2021
+"Mac Allister  Alexis Mac Allister (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.03,-0.03,2466.7,0,0.03,-0.03,2466.7,0.06,-0.06,1233.3,20/04/2021
+"Maupay  Neal Maupay (Brighton and Hove Albion, Forward)",BHA,6.5,0,0.01,-0.01,1600.0,0,0.05,-0.05,320.0,0.06,-0.06,266.7,20/04/2021
+"Moder  Jakub Moder (Brighton and Hove Albion, Midfielder)",BHA,4.5,0,0.02,-0.02,200.0,0,0.0,0.0,inf,0.02,-0.02,200.0,20/04/2021
+"Sanchez  Robert Sanchez (Brighton and Hove Albion, Goalkeeper)",BHA,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/04/2021
+"Trossard  Leandro Trossard (Brighton and Hove Albion, Midfielder)",BHA,6.5,0,0.0,0.0,inf,0,0.03,-0.03,2000.0,0.03,-0.03,2000.0,20/04/2021
+"Veltman  Joël Veltman (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,20/04/2021
+"Webster  Adam Webster (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,20/04/2021
+"Welbeck  Danny Welbeck (Brighton and Hove Albion, Forward)",BHA,6.0,0,0.01,-0.01,8600.0,0,0.08,-0.08,1075.0,0.09,-0.09,955.6,20/04/2021
+"White (Ben)  Ben White (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.01,-0.01,8900.0,0,0.0,0.0,inf,0.01,-0.01,8900.0,20/04/2021
+"Alonso  Marcos Alonso (Chelsea, Defender)",CHE,5.5,0,0.01,-0.01,6700.0,0,0.0,0.0,inf,0.01,-0.01,6700.0,20/04/2021
+"Kepa  Kepa Arrizabalaga Revuelta (Chelsea, Goalkeeper)",CHE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/04/2021
+"Christensen  Andreas Christensen (Chelsea, Defender)",CHE,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,20/04/2021
+"Jorginho  Jorge Luiz Frello Filho (Chelsea, Midfielder)",CHE,6.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,20/04/2021
+"Giroud  Olivier Giroud (Chelsea, Forward)",CHE,6.5,0,0.0,0.0,inf,0,0.15,-0.15,86.7,0.15,-0.15,86.7,20/04/2021
+"Havertz  Kai Havertz (Chelsea, Midfielder)",CHE,8.5,0,0.02,-0.02,3350.0,0,0.37,-0.37,181.1,0.39,-0.39,171.8,20/04/2021
+"Hudson-Odoi  Callum Hudson-Odoi (Chelsea, Midfielder)",CHE,5.5,0,0.05,-0.05,460.0,0,0.0,0.0,inf,0.05,-0.05,460.0,20/04/2021
+"James (Reece)  Reece James (Chelsea, Defender)",CHE,5.5,0,0.13,-0.13,692.3,0,0.0,0.0,inf,0.13,-0.13,692.3,20/04/2021
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,20/04/2021
+"Pulisic  Christian Pulisic (Chelsea, Midfielder)",CHE,8.0,0,0.01,-0.01,9000.0,0,0.18,-0.18,500.0,0.19,-0.19,473.7,20/04/2021
+"Rüdiger  Antonio Rüdiger (Chelsea, Defender)",CHE,5.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,20/04/2021
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/04/2021
+"Ziyech  Hakim Ziyech (Chelsea, Midfielder)",CHE,7.5,0,0.06,-0.06,1283.3,0,0.0,0.0,inf,0.06,-0.06,1283.3,20/04/2021
+"Zouma  Kurt Zouma (Chelsea, Defender)",CHE,5.5,0,0.01,-0.01,9000.0,0,0.02,-0.02,4500.0,0.03,-0.03,3000.0,20/04/2021

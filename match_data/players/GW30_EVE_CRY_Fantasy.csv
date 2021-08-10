@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Jordan Ayew  Jordan Ayew (Crystal Palace, Forward)",CRY,6.0,1,84,0,1,0,0,0,0,0,1,0,0,0,EVE,30,05/04/2021,FWD,False
+"Batshuayi  Michy Batshuayi (Crystal Palace, Forward)",CRY,5.5,0,6,1,0,1,0,0,0,0,0,0,0,0,EVE,30,05/04/2021,FWD,False
+"Benteke  Christian Benteke (Crystal Palace, Forward)",CRY,6.5,1,77,0,1,0,0,0,0,0,1,0,0,0,EVE,30,05/04/2021,FWD,False
+"Cahill  Gary Cahill (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,30,05/04/2021,DEF,False
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,30,05/04/2021,MID,False
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,30,05/04/2021,GKP,False
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,30,05/04/2021,MID,False
+"Mateta  Jean-Philippe Mateta (Crystal Palace, Forward)",CRY,5.5,0,13,1,0,0,0,0,0,0,0,0,0,0,EVE,30,05/04/2021,FWD,False
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,30,05/04/2021,MID,False
+"Riedewald  Jairo Riedewald (Crystal Palace, Midfielder)",CRY,5.0,1,68,0,1,0,0,0,0,0,1,0,0,0,EVE,30,05/04/2021,MID,False
+"Schlupp  Jeffrey Schlupp (Crystal Palace, Midfielder)",CRY,5.5,0,22,1,0,0,1,0,1,0,0,0,0,0,EVE,30,05/04/2021,MID,False
+"Van Aanholt  Patrick Van Aanholt (Crystal Palace, Defender)",CRY,5.4,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,30,05/04/2021,DEF,False
+"Ward (Joel)  Joel Ward (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,30,05/04/2021,DEF,False
+"Zaha  Wilfried Zaha (Crystal Palace, Midfielder)",CRY,7.0,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,30,05/04/2021,MID,False
+"Calvert-Lewin  Dominic Calvert-Lewin (Everton, Forward)",EVE,8.0,1,90,0,0,0,0,0,0,0,1,0,0,0,CRY,30,05/04/2021,FWD,True
+"Coleman  Seamus Coleman (Everton, Defender)",EVE,5.0,1,76,0,1,0,1,0,1,1,0,0,0,0,CRY,30,05/04/2021,DEF,True
+"Davies (Tom)  Tom Davies (Everton, Midfielder)",EVE,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,CRY,30,05/04/2021,MID,True
+"Digne  Lucas Digne (Everton, Defender)",EVE,5.5,1,90,0,0,0,0,0,0,0,1,0,1,0,CRY,30,05/04/2021,DEF,True
+"Gbamin  Jean-Philippe Gbamin (Everton, Midfielder)",EVE,5.0,0,11,1,0,0,0,0,0,0,1,0,0,0,CRY,30,05/04/2021,MID,True
+"Godfrey  Ben Godfrey (Everton, Defender)",EVE,5.0,0,14,1,0,0,0,0,0,0,1,0,0,0,CRY,30,05/04/2021,DEF,True
+"Holgate  Mason Holgate (Everton, Defender)",EVE,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,CRY,30,05/04/2021,DEF,True
+"Keane  Michael Keane (Everton, Defender)",EVE,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,CRY,30,05/04/2021,DEF,True
+"Mina  Yerry Mina (Everton, Defender)",EVE,5.0,1,90,0,0,0,0,0,0,0,1,0,1,0,CRY,30,05/04/2021,DEF,True
+"Olsen  Robin Olsen (Everton, Goalkeeper)",EVE,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,CRY,30,05/04/2021,GKP,True
+"Rodríguez  James Rodríguez (Everton, Midfielder)",EVE,7.0,1,79,0,1,1,0,0,0,1,0,0,0,0,CRY,30,05/04/2021,MID,True
+"Sigurdsson  Gylfi Sigurdsson (Everton, Midfielder)",EVE,7.0,0,59,1,0,0,0,0,0,0,1,0,0,0,CRY,30,05/04/2021,MID,True
+"André Gomes  André Filipe Tavares Gomes (Everton, Midfielder)",EVE,5.0,1,31,0,1,0,0,0,0,0,0,0,0,0,CRY,30,05/04/2021,MID,True
+"Richarlison  Richarlison de Andrade (Everton, Forward)",EVE,7.5,1,90,0,0,0,0,0,0,0,1,0,0,0,CRY,30,05/04/2021,FWD,True

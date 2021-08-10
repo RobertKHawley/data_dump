@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Alioski  Ezgjan Alioski (Leeds United, Defender)",LEE,4.4,0,31,1,0,0,0,0,0,0,0,0,0,0,SOU,25,23/02/2021,DEF,True
+"Ayling  Luke Ayling (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,25,23/02/2021,DEF,True
+"Bamford  Patrick Bamford (Leeds United, Forward)",LEE,8.0,1,90,0,0,1,0,0,0,1,0,0,0,0,SOU,25,23/02/2021,FWD,True
+"Cooper  Liam Cooper (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,25,23/02/2021,DEF,True
+"Hélder Costa  Helder Costa (Leeds United, Midfielder)",LEE,5.5,0,45,1,0,0,1,1,2,0,0,0,0,0,SOU,25,23/02/2021,MID,True
+"Dallas  Stuart Dallas (Leeds United, Defender)",LEE,5.5,1,90,0,0,1,0,0,0,1,0,0,0,0,SOU,25,23/02/2021,DEF,True
+"Raphinha  Raphael Dias Belloli (Leeds United, Midfielder)",LEE,6.5,1,90,0,0,1,0,0,0,1,0,0,1,0,SOU,25,23/02/2021,MID,True
+"Harrison  Jack Harrison (Leeds United, Midfielder)",LEE,6.0,1,45,0,1,0,0,0,0,0,0,0,0,0,SOU,25,23/02/2021,MID,True
+"Hernández  Pablo Hernández (Leeds United, Midfielder)",LEE,5.5,0,15,1,0,0,0,0,0,0,0,0,0,0,SOU,25,23/02/2021,MID,True
+"Klich  Mateusz Klich (Leeds United, Midfielder)",LEE,5.5,1,59,0,1,0,0,0,0,0,0,0,0,0,SOU,25,23/02/2021,MID,True
+"Diego Llorente  Diego Javier Llorente Ríos (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,25,23/02/2021,DEF,True
+"Meslier  Illan Meslier (Leeds United, Goalkeeper)",LEE,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,25,23/02/2021,GKP,True
+"Roberts (Tyler)  Tyler Roberts (Leeds United, Midfielder)",LEE,5.0,1,75,0,1,0,1,0,1,1,0,0,0,0,SOU,25,23/02/2021,MID,True
+"Struijk  Pascal Struijk (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,25,23/02/2021,DEF,True
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,1,90,0,0,0,0,0,0,0,3,0,0,0,LEE,25,23/02/2021,FWD,False
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,1,90,0,0,0,0,0,0,0,3,0,0,0,LEE,25,23/02/2021,MID,False
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,LEE,25,23/02/2021,DEF,False
+"Bertrand  Ryan Bertrand (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,LEE,25,23/02/2021,DEF,False
+"Djenepo  Moussa Djenepo (Southampton, Midfielder)",SOU,5.5,0,20,1,0,0,0,0,0,0,2,0,1,0,LEE,25,23/02/2021,MID,False
+"Ings  Danny Ings (Southampton, Forward)",SOU,8.0,0,32,1,0,0,0,0,0,0,2,0,0,0,LEE,25,23/02/2021,FWD,False
+"McCarthy (Alex)  Alex McCarthy (Southampton, Goalkeeper)",SOU,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,LEE,25,23/02/2021,GKP,False
+"Minamino  Takumi Minamino (Southampton, Midfielder)",SOU,5.5,0,32,1,0,0,0,0,0,0,2,0,0,0,LEE,25,23/02/2021,MID,False
+"Redmond  Nathan Redmond (Southampton, Midfielder)",SOU,6.0,1,58,0,1,0,0,0,0,0,1,0,0,0,LEE,25,23/02/2021,MID,False
+"Romeu  Oriol Romeu (Southampton, Midfielder)",SOU,4.5,1,70,0,1,0,0,0,0,0,1,0,0,0,LEE,25,23/02/2021,MID,False
+"Salisu  Mohammed Salisu (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,LEE,25,23/02/2021,DEF,False
+"Tella  Nathan Tella (Southampton, Midfielder)",SOU,5.0,1,58,0,1,0,0,0,0,0,1,0,0,0,LEE,25,23/02/2021,MID,False
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,3,0,1,0,LEE,25,23/02/2021,DEF,False
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,1,90,0,0,0,0,0,0,0,3,0,0,0,LEE,25,23/02/2021,MID,False

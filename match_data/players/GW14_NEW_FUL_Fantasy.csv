@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Tosin  Oluwatosin Adarabioyo (Fulham, Defender)",FUL,4.5,1,90,0,0,0,0,1,1,0,1,0,0,0,NEW,14,19/12/2020,DEF,False
+"Aina  Ola Aina (Fulham, Defender)",FUL,4.3,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,14,19/12/2020,DEF,False
+"Andersen  Joachim Andersen (Fulham, Defender)",FUL,4.5,1,62,0,0,0,0,0,0,1,0,0,1,1,NEW,14,19/12/2020,DEF,False
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,14,19/12/2020,GKP,False
+"Bryan (Joe)  Joe Bryan (Fulham, Defender)",FUL,4.5,0,1,1,0,0,0,0,0,0,0,0,0,0,NEW,14,19/12/2020,DEF,False
+"Cairney  Tom Cairney (Fulham, Midfielder)",FUL,5.2,1,64,0,1,0,0,0,0,0,1,0,0,0,NEW,14,19/12/2020,MID,False
+"DeCordova-Reid  Bobby DeCordova-Reid (Fulham, Forward)",FUL,5.3,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,14,19/12/2020,FWD,False
+"Hector  Michael Hector (Fulham, Defender)",FUL,4.1,0,26,1,0,0,0,0,0,0,0,0,1,0,NEW,14,19/12/2020,DEF,False
+"Lemina  Mario Lemina (Fulham, Midfielder)",FUL,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,14,19/12/2020,MID,False
+"Loftus-Cheek  Ruben Loftus-Cheek (Fulham, Midfielder)",FUL,5.5,0,14,1,0,0,0,0,0,0,0,0,0,0,NEW,14,19/12/2020,MID,False
+"Lookman  Ademola Lookman (Fulham, Midfielder)",FUL,4.7,1,89,0,1,0,0,0,0,0,1,0,0,0,NEW,14,19/12/2020,MID,False
+"Mitrovic  Aleksandar Mitrovic (Fulham, Forward)",FUL,5.5,1,76,0,1,0,0,0,0,0,1,0,0,0,NEW,14,19/12/2020,FWD,False
+"Robinson (Antonee)  Antonee Robinson (Fulham, Defender)",FUL,4.4,1,90,0,0,0,0,0,0,0,1,0,1,0,NEW,14,19/12/2020,DEF,False
+"Zambo Anguissa  André-Frank Zambo Anguissa (Fulham, Midfielder)",FUL,4.4,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,14,19/12/2020,MID,False
+"Almirón  Miguel Almirón (Newcastle United, Midfielder)",NEW,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,14,19/12/2020,MID,True
+"Joelinton  Joelinton Cássio Apolinário de Lira (Newcastle United, Forward)",NEW,6.0,1,75,0,1,0,0,0,0,0,1,0,0,0,FUL,14,19/12/2020,FWD,True
+"Clark  Ciaran Clark (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,1,0,1,0,FUL,14,19/12/2020,DEF,True
+"Darlow  Karl Darlow (Newcastle United, Goalkeeper)",NEW,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,14,19/12/2020,GKP,True
+"Dummett  Paul Dummett (Newcastle United, Defender)",NEW,4.5,1,79,0,1,0,0,0,0,0,1,0,0,0,FUL,14,19/12/2020,DEF,True
+"Fernández  Federico Fernández (Newcastle United, Defender)",NEW,4.5,1,45,0,1,0,0,0,0,0,1,0,0,0,FUL,14,19/12/2020,DEF,True
+"Fraser  Ryan Fraser (Newcastle United, Midfielder)",NEW,5.5,0,11,1,0,0,0,0,0,0,0,0,0,0,FUL,14,19/12/2020,MID,True
+"Gayle  Dwight Gayle (Newcastle United, Forward)",NEW,5.5,0,15,1,0,0,0,0,0,0,0,0,0,0,FUL,14,19/12/2020,FWD,True
+"Hayden (Isaac)  Isaac Hayden (Newcastle United, Midfielder)",NEW,4.5,0,45,1,0,0,0,0,0,0,0,0,0,0,FUL,14,19/12/2020,MID,True
+"Longstaff (Sean)  Sean Longstaff (Newcastle United, Midfielder)",NEW,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,14,19/12/2020,MID,True
+"Ritchie  Matt Ritchie (Newcastle United, Midfielder)",NEW,5.0,1,90,0,0,0,0,0,0,0,1,1,0,0,FUL,14,19/12/2020,MID,True
+"Shelvey  Jonjo Shelvey (Newcastle United, Midfielder)",NEW,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,14,19/12/2020,MID,True
+"C Wilson  Callum Wilson (Newcastle United, Forward)",NEW,7.5,1,90,0,0,1,0,0,0,0,1,0,0,0,FUL,14,19/12/2020,FWD,True
+"Yedlin  DeAndre Yedlin (Newcastle United, Defender)",NEW,4.3,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,14,19/12/2020,DEF,True

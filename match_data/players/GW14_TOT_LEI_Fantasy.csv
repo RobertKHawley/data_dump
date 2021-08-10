@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,1,90,0,0,0,0,0,0,1,0,0,1,0,TOT,14,20/12/2020,MID,False
+"Amartey  Daniel Amartey (Leicester City, Defender)",LEI,4.0,0,30,1,0,0,0,0,0,0,0,0,0,0,TOT,14,20/12/2020,DEF,False
+"Barnes (Harvey)  Harvey Barnes (Leicester City, Midfielder)",LEI,7.0,1,84,0,1,0,0,0,0,1,0,0,0,0,TOT,14,20/12/2020,MID,False
+"Castagne  Timothy Castagne (Leicester City, Defender)",LEI,5.5,1,60,0,1,0,0,0,0,1,0,0,0,0,TOT,14,20/12/2020,DEF,False
+"Evans  Jonny Evans (Leicester City, Defender)",LEI,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,TOT,14,20/12/2020,DEF,False
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,1,90,0,0,0,0,1,1,1,0,0,0,0,TOT,14,20/12/2020,DEF,False
+"Iheanacho  Kelechi Iheanacho (Leicester City, Forward)",LEI,7.5,0,2,1,0,0,0,0,0,0,0,0,0,0,TOT,14,20/12/2020,FWD,False
+"Justin  James Justin (Leicester City, Defender)",LEI,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,TOT,14,20/12/2020,DEF,False
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,1,90,0,0,0,0,0,0,1,0,0,0,0,TOT,14,20/12/2020,MID,False
+"Ndidi  Onyinye Wilfred Ndidi (Leicester City, Midfielder)",LEI,5.0,1,90,0,0,0,0,0,0,1,0,0,1,0,TOT,14,20/12/2020,MID,False
+"Praet  Dennis Praet (Leicester City, Midfielder)",LEI,5.0,0,6,1,0,0,0,0,0,0,0,0,0,0,TOT,14,20/12/2020,MID,False
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,TOT,14,20/12/2020,GKP,False
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,1,90,0,0,0,0,0,0,1,0,0,0,0,TOT,14,20/12/2020,MID,False
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,1,88,0,1,1,0,1,1,1,0,0,0,0,TOT,14,20/12/2020,FWD,False
+"Alderweireld  Toby Alderweireld (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,0,0,0,2,1,0,0,LEI,14,20/12/2020,DEF,True
+"Aurier  Serge Aurier (Tottenham Hotspur, Defender)",TOT,5.0,1,64,0,1,0,0,0,0,0,2,0,0,0,LEI,14,20/12/2020,DEF,True
+"Bale  Gareth Bale (Tottenham Hotspur, Midfielder)",TOT,9.2,0,45,1,0,0,0,0,0,0,2,0,0,0,LEI,14,20/12/2020,MID,True
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,0,2,0,1,0,LEI,14,20/12/2020,DEF,True
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,14,20/12/2020,MID,True
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,14,20/12/2020,FWD,True
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,14,20/12/2020,GKP,True
+"Lo Celso  Giovani Lo Celso (Tottenham Hotspur, Midfielder)",TOT,6.0,1,49,0,1,0,0,0,0,0,1,0,0,0,LEI,14,20/12/2020,MID,True
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,1,45,0,1,0,0,0,0,0,0,0,0,0,LEI,14,20/12/2020,MID,True
+"Reguilón  Sergio Reguilón (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,14,20/12/2020,DEF,True
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,0,41,1,0,0,0,0,0,0,1,0,0,0,LEI,14,20/12/2020,MID,True
+"Sissoko  Moussa Sissoko (Tottenham Hotspur, Midfielder)",TOT,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,14,20/12/2020,MID,True
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,14,20/12/2020,MID,True
+"Winks  Harry Winks (Tottenham Hotspur, Midfielder)",TOT,4.5,0,26,1,0,0,0,0,0,0,0,0,1,0,LEI,14,20/12/2020,MID,True

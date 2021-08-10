@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Abraham  Tammy Abraham (Chelsea, Forward)",CHE,6.5,0,0.0,0.0,inf,0,0.05,-0.05,220.0,0.05,-0.05,220.0,20/09/2020
+"Alonso  Marcos Alonso (Chelsea, Defender)",CHE,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,20/09/2020
+"Kepa  Kepa Arrizabalaga Revuelta (Chelsea, Goalkeeper)",CHE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/09/2020
+"Barkley  Ross Barkley (Chelsea, Midfielder)",CHE,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/09/2020
+"Christensen  Andreas Christensen (Chelsea, Defender)",CHE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/09/2020
+"Jorginho  Jorge Luiz Frello Filho (Chelsea, Midfielder)",CHE,6.0,0,0.0,0.0,inf,0,0.79,-0.79,100.0,0.79,-0.79,100.0,20/09/2020
+"Havertz  Kai Havertz (Chelsea, Midfielder)",CHE,8.5,0,0.01,-0.01,4500.0,0,0.0,0.0,inf,0.01,-0.01,4500.0,20/09/2020
+"James (Reece)  Reece James (Chelsea, Defender)",CHE,5.5,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,20/09/2020
+"Kanté  N&#039;Golo Kanté (Chelsea, Midfielder)",CHE,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,20/09/2020
+"Kovacic  Mateo Kovacic (Chelsea, Midfielder)",CHE,5.0,0,0.01,-0.01,7900.0,0,0.0,0.0,inf,0.01,-0.01,7900.0,20/09/2020
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,0,0.06,-0.06,1500.0,0,0.03,-0.03,3000.0,0.09,-0.09,1000.0,20/09/2020
+"Tomori  Fikayo Tomori (Chelsea, Defender)",CHE,4.7,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/09/2020
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,0,0.02,-0.02,4500.0,0,0.04,-0.04,2250.0,0.06,-0.06,1500.0,20/09/2020
+"Zouma  Kurt Zouma (Chelsea, Defender)",CHE,5.5,0,0.0,0.0,inf,0,0.03,-0.03,3000.0,0.03,-0.03,3000.0,20/09/2020
+"Thiago Alcántara  Thiago Alcántara do Nascimento (Liverpool, Midfielder)",LIV,5.5,0,0.08,-0.08,562.5,0,0.02,-0.02,2250.0,0.1,-0.1,450.0,20/09/2020
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,0,0.21,-0.21,428.6,0,0.11,-0.11,818.2,0.32,-0.32,281.3,20/09/2020
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,1,0.38,0.62,226.3,0,0.12,-0.12,716.7,0.5,0.5,172.0,20/09/2020
+"Henderson (Jordan)  Jordan Henderson (Liverpool, Midfielder)",LIV,5.0,0,0.03,-0.03,1500.0,0,0.0,0.0,inf,0.03,-0.03,1500.0,20/09/2020
+"Keita  Naby Keita (Liverpool, Midfielder)",LIV,5.0,0,0.02,-0.02,3200.0,0,0.0,0.0,inf,0.02,-0.02,3200.0,20/09/2020
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,0,0.09,-0.09,1000.0,2,0.76,1.24,118.4,0.85,1.15,105.9,20/09/2020
+"Milner  James Milner (Liverpool, Midfielder)",LIV,5.0,0,0.03,-0.03,866.7,0,0.0,0.0,inf,0.03,-0.03,866.7,20/09/2020
+"Minamino  Takumi Minamino (Liverpool, Midfielder)",LIV,5.5,0,0.01,-0.01,400.0,0,0.0,0.0,inf,0.01,-0.01,400.0,20/09/2020
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/09/2020
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,0,0.06,-0.06,1500.0,0,0.08,-0.08,1125.0,0.14,-0.14,642.9,20/09/2020
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,0,0.54,-0.54,166.7,0,0.19,-0.19,473.7,0.73,-0.73,123.3,20/09/2020
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,20/09/2020
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,0,0.03,-0.03,3000.0,0,0.9,-0.9,100.0,0.93,-0.93,96.8,20/09/2020
+"van Dijk  Virgil van Dijk (Liverpool, Defender)",LIV,6.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,20/09/2020

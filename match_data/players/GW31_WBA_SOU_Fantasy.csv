@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,0,14,1,0,0,0,0,0,0,0,0,0,0,WBA,31,12/04/2021,FWD,False
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,1,90,0,0,0,0,0,0,0,3,0,0,0,WBA,31,12/04/2021,MID,False
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,WBA,31,12/04/2021,DEF,False
+"Bertrand  Ryan Bertrand (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,WBA,31,12/04/2021,DEF,False
+"Diallo  Ibrahima Diallo (Southampton, Midfielder)",SOU,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,WBA,31,12/04/2021,MID,False
+"Djenepo  Moussa Djenepo (Southampton, Midfielder)",SOU,5.5,0,3,1,0,0,0,0,0,0,0,0,0,0,WBA,31,12/04/2021,MID,False
+"Forster  Fraser Forster (Southampton, Goalkeeper)",SOU,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,WBA,31,12/04/2021,GKP,False
+"Ings  Danny Ings (Southampton, Forward)",SOU,8.0,1,87,0,1,0,0,0,0,0,3,0,0,0,WBA,31,12/04/2021,FWD,False
+"Redmond  Nathan Redmond (Southampton, Midfielder)",SOU,6.0,1,90,0,0,0,0,0,0,0,3,0,0,0,WBA,31,12/04/2021,MID,False
+"Tella  Nathan Tella (Southampton, Midfielder)",SOU,5.0,0,3,1,0,0,0,0,0,0,0,0,0,0,WBA,31,12/04/2021,MID,False
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,WBA,31,12/04/2021,DEF,False
+"Walcott  Theo Walcott (Southampton, Midfielder)",SOU,6.0,1,76,0,1,0,0,0,0,0,3,0,0,0,WBA,31,12/04/2021,MID,False
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,1,87,0,1,0,0,0,0,0,3,0,0,0,WBA,31,12/04/2021,DEF,False
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,1,90,0,0,0,0,0,0,0,3,0,1,0,WBA,31,12/04/2021,MID,False
+"Ajayi  Semi Ajayi (West Bromwich Albion, Defender)",WBA,4.8,0,5,1,0,0,0,0,0,0,0,0,0,0,SOU,31,12/04/2021,DEF,True
+"Bartley  Kyle Bartley (West Bromwich Albion, Defender)",WBA,4.4,1,85,0,1,0,0,0,0,1,0,0,0,0,SOU,31,12/04/2021,DEF,True
+"Matheus Pereira  Matheus Fellipe Costa Pereira (West Bromwich Albion, Midfielder)",WBA,5.4,1,90,0,0,1,0,0,0,1,0,0,0,0,SOU,31,12/04/2021,MID,True
+"Diagne  Mbaye Diagne (West Bromwich Albion, Forward)",WBA,6.0,1,76,0,1,0,1,0,1,1,0,0,0,0,SOU,31,12/04/2021,FWD,True
+"Furlong  Darnell Furlong (West Bromwich Albion, Defender)",WBA,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,31,12/04/2021,DEF,True
+"Gallagher  Conor Gallagher (West Bromwich Albion, Midfielder)",WBA,5.5,0,18,1,0,0,0,0,0,0,0,0,0,0,SOU,31,12/04/2021,MID,True
+"Johnstone  Sam Johnstone (West Bromwich Albion, Goalkeeper)",WBA,4.6,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,31,12/04/2021,GKP,True
+"Maitland-Niles  Ainsley Maitland-Niles (West Bromwich Albion, Defender)",WBA,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,31,12/04/2021,DEF,True
+"O'Shea  Dara O&#039;Shea (West Bromwich Albion, Defender)",WBA,4.2,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,31,12/04/2021,DEF,True
+"Phillips (Matthew)  Matthew Phillips (West Bromwich Albion, Midfielder)",WBA,5.1,1,90,0,0,1,0,0,0,1,0,0,0,0,SOU,31,12/04/2021,MID,True
+"Robinson (Callum)  Callum Robinson (West Bromwich Albion, Forward)",WBA,5.2,1,72,0,1,1,0,0,0,1,0,0,0,0,SOU,31,12/04/2021,FWD,True
+"Robson-Kanu  Hal Robson-Kanu (West Bromwich Albion, Forward)",WBA,5.2,0,14,1,0,0,0,0,0,0,0,0,0,0,SOU,31,12/04/2021,FWD,True
+"Townsend (Conor)  Conor Townsend (West Bromwich Albion, Defender)",WBA,4.4,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,31,12/04/2021,DEF,True
+"Yokuslu  Okay Yokuslu (West Bromwich Albion, Midfielder)",WBA,4.5,1,90,0,0,0,1,0,1,1,0,0,0,0,SOU,31,12/04/2021,MID,True

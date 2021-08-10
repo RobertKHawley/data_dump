@@ -1,0 +1,27 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Azpilicueta  César Azpilicueta (Chelsea, Defender)",CHE,6.0,0,0.02,-0.02,4500.0,0,0.03,-0.03,3000.0,0.05,-0.05,1800.0,28/02/2021
+"Chilwell  Benjamin Chilwell (Chelsea, Defender)",CHE,6.0,0,0.09,-0.09,1000.0,0,0.03,-0.03,3000.0,0.12,-0.12,750.0,28/02/2021
+"Christensen  Andreas Christensen (Chelsea, Defender)",CHE,5.0,0,0.01,-0.01,9000.0,0,0.03,-0.03,3000.0,0.04,-0.04,2250.0,28/02/2021
+"Giroud  Olivier Giroud (Chelsea, Forward)",CHE,6.5,0,0.0,0.0,inf,0,0.45,-0.45,144.4,0.45,-0.45,144.4,28/02/2021
+"Hudson-Odoi  Callum Hudson-Odoi (Chelsea, Midfielder)",CHE,5.5,0,0.28,-0.28,160.7,0,0.05,-0.05,900.0,0.33,-0.33,136.4,28/02/2021
+"James (Reece)  Reece James (Chelsea, Defender)",CHE,5.5,0,0.03,-0.03,1500.0,0,0.06,-0.06,750.0,0.09,-0.09,500.0,28/02/2021
+"Kanté  N&#039;Golo Kanté (Chelsea, Midfielder)",CHE,5.0,0,0.02,-0.02,4500.0,0,0.04,-0.04,2250.0,0.06,-0.06,1500.0,28/02/2021
+"Kovacic  Mateo Kovacic (Chelsea, Midfielder)",CHE,5.0,0,0.03,-0.03,3000.0,0,0.06,-0.06,1500.0,0.09,-0.09,1000.0,28/02/2021
+"Mendy (Edouard)  Edouard Mendy (Chelsea, Goalkeeper)",CHE,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/02/2021
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,0,0.04,-0.04,2250.0,0,0.14,-0.14,642.9,0.18,-0.18,500.0,28/02/2021
+"Pulisic  Christian Pulisic (Chelsea, Midfielder)",CHE,8.0,0,0.01,-0.01,2500.0,0,0.03,-0.03,833.3,0.04,-0.04,625.0,28/02/2021
+"Rüdiger  Antonio Rüdiger (Chelsea, Defender)",CHE,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,28/02/2021
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,0,0.0,0.0,inf,0,0.04,-0.04,300.0,0.04,-0.04,300.0,28/02/2021
+"Ziyech  Hakim Ziyech (Chelsea, Midfielder)",CHE,7.5,0,0.04,-0.04,1950.0,0,0.17,-0.17,458.8,0.21,-0.21,371.4,28/02/2021
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,0,0.03,-0.03,3000.0,0,0.06,-0.06,1500.0,0.09,-0.09,1000.0,28/02/2021
+"De Gea  David De Gea (Manchester United, Goalkeeper)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/02/2021
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,0,0.04,-0.04,1975.0,0,0.07,-0.07,1128.6,0.11,-0.11,718.2,28/02/2021
+"James (Daniel)  Daniel James (Manchester United, Midfielder)",MUN,6.0,0,0.03,-0.03,3000.0,0,0.04,-0.04,2250.0,0.07,-0.07,1285.7,28/02/2021
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,28/02/2021
+"Martial  Anthony Martial (Manchester United, Forward)",MUN,8.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/02/2021
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,0,0.01,-0.01,9000.0,0,0.09,-0.09,1000.0,0.1,-0.1,900.0,28/02/2021
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,28/02/2021
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,0,0.02,-0.02,4500.0,0,0.1,-0.1,900.0,0.12,-0.12,750.0,28/02/2021
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,0,0.03,-0.03,3000.0,0,0.06,-0.06,1500.0,0.09,-0.09,1000.0,28/02/2021
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,28/02/2021
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,28/02/2021

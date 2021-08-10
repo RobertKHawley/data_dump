@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Jordan Ayew  Jordan Ayew (Crystal Palace, Forward)",CRY,6.0,1,0.04,0.96,2250.0,0,0.0,0.0,inf,0.04,0.96,2250.0,30/01/2021
+"Batshuayi  Michy Batshuayi (Crystal Palace, Forward)",CRY,5.5,0,0.03,-0.03,2633.3,0,0.52,-0.52,151.9,0.55,-0.55,143.6,30/01/2021
+"Clyne  Nathaniel Clyne (Crystal Palace, Defender)",CRY,4.5,0,0.0,0.0,inf,0,0.1,-0.1,850.0,0.1,-0.1,850.0,30/01/2021
+"Dann  Scott Dann (Crystal Palace, Defender)",CRY,4.2,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,30/01/2021
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,0,0.05,-0.05,1800.0,1,0.09,0.91,1000.0,0.14,0.86,642.9,30/01/2021
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,30/01/2021
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,30/01/2021
+"McCarthy (James)  James McCarthy (Crystal Palace, Midfielder)",CRY,4.3,0,0.01,-0.01,4500.0,0,0.0,0.0,inf,0.01,-0.01,4500.0,30/01/2021
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,0,0.02,-0.02,4500.0,0,0.08,-0.08,1125.0,0.1,-0.1,900.0,30/01/2021
+"Riedewald  Jairo Riedewald (Crystal Palace, Midfielder)",CRY,5.0,0,0.01,-0.01,4500.0,0,0.0,0.0,inf,0.01,-0.01,4500.0,30/01/2021
+"Townsend (Andros)  Andros Townsend (Crystal Palace, Midfielder)",CRY,5.5,0,0.0,0.0,inf,0,0.07,-0.07,157.1,0.07,-0.07,157.1,30/01/2021
+"Van Aanholt  Patrick Van Aanholt (Crystal Palace, Defender)",CRY,5.4,0,0.06,-0.06,1500.0,0,0.0,0.0,inf,0.06,-0.06,1500.0,30/01/2021
+"Ward (Joel)  Joel Ward (Crystal Palace, Defender)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,30/01/2021
+"Zaha  Wilfried Zaha (Crystal Palace, Midfielder)",CRY,7.0,0,0.23,-0.23,391.3,0,0.59,-0.59,152.5,0.82,-0.82,109.8,30/01/2021
+"Boly  Willy Boly (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,30/01/2021
+"Coady  Conor Coady (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,30/01/2021
+"Willian José  Willian José Da Silva (Wolverhampton Wanderers, Forward)",WOL,6.8,0,0.15,-0.15,600.0,0,0.26,-0.26,346.2,0.41,-0.41,219.5,30/01/2021
+"Dendoncker (Leander)  Leander Dendoncker (Wolverhampton Wanderers, Midfielder)",WOL,5.0,0,0.02,-0.02,4500.0,0,0.06,-0.06,1500.0,0.08,-0.08,1125.0,30/01/2021
+"Hoever  Ki-Jana Hoever (Wolverhampton Wanderers, Defender)",WOL,4.0,0,0.01,-0.01,6300.0,0,0.0,0.0,inf,0.01,-0.01,6300.0,30/01/2021
+"Kilman  Max Kilman (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.15,-0.15,600.0,0,0.0,0.0,inf,0.15,-0.15,600.0,30/01/2021
+"Vitor Ferreira  Vitor Machado Ferreira (Wolverhampton Wanderers, Midfielder)",WOL,4.7,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,30/01/2021
+"Moutinho  João Moutinho (Wolverhampton Wanderers, Midfielder)",WOL,5.0,0,0.02,-0.02,3900.0,0,0.0,0.0,inf,0.02,-0.02,3900.0,30/01/2021
+"Neto  Pedro Neto (Wolverhampton Wanderers, Midfielder)",WOL,6.5,0,0.33,-0.33,272.7,0,0.03,-0.03,3000.0,0.36,-0.36,250.0,30/01/2021
+"Podence  Daniel Podence (Wolverhampton Wanderers, Midfielder)",WOL,5.5,0,0.07,-0.07,971.4,0,0.0,0.0,inf,0.07,-0.07,971.4,30/01/2021
+"Semedo  Nelson Semedo (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.04,-0.04,2250.0,0,0.03,-0.03,3000.0,0.07,-0.07,1285.7,30/01/2021
+"Fabio Silva  Fabio Daniel Soares Silva (Wolverhampton Wanderers, Forward)",WOL,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,30/01/2021
+"Traoré  Adama Traoré (Wolverhampton Wanderers, Midfielder)",WOL,6.0,0,0.01,-0.01,2700.0,0,0.0,0.0,inf,0.01,-0.01,2700.0,30/01/2021
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,30/01/2021

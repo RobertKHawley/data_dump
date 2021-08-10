@@ -1,0 +1,27 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Foden  Phil Foden (Manchester City, Midfielder)",MCI,8.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,21,30/01/2021,MID,True
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,21,30/01/2021,DEF,True
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,21,30/01/2021,MID,True
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,0,1,1,0,0,0,0,0,0,0,0,0,0,SHU,21,30/01/2021,MID,True
+"Laporte  Aymeric Laporte (Manchester City, Defender)",MCI,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,21,30/01/2021,DEF,True
+"Fernandinho  Fernando Luiz Rosa (Manchester City, Defender)",MCI,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,21,30/01/2021,DEF,True
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,21,30/01/2021,GKP,True
+"Torres  Ferran Torres (Manchester City, Midfielder)",MCI,7.0,1,89,0,1,0,1,0,1,1,0,0,0,0,SHU,21,30/01/2021,MID,True
+"Bernardo Silva  Bernardo Mota Veiga de Carvalho e Silva (Manchester City, Midfielder)",MCI,7.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,21,30/01/2021,MID,True
+"Walker (Kyle)  Kyle Walker (Manchester City, Defender)",MCI,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,21,30/01/2021,DEF,True
+"Zinchenko  Oleksandr Zinchenko (Manchester City, Defender)",MCI,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,21,30/01/2021,DEF,True
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,1,90,0,0,1,0,0,0,1,0,0,0,0,SHU,21,30/01/2021,FWD,True
+"Ampadu  Ethan Ampadu (Sheffield United, Defender)",SHU,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,21,30/01/2021,DEF,False
+"Baldock  George Baldock (Sheffield United, Defender)",SHU,4.9,1,90,0,0,0,0,0,0,0,1,0,1,0,MCI,21,30/01/2021,DEF,False
+"Basham  Chris Basham (Sheffield United, Defender)",SHU,4.6,1,78,0,1,0,0,0,0,0,1,0,0,0,MCI,21,30/01/2021,DEF,False
+"Bogle  Jayden Bogle (Sheffield United, Defender)",SHU,4.3,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,21,30/01/2021,DEF,False
+"Brewster  Rhian Brewster (Sheffield United, Forward)",SHU,4.2,1,62,0,1,0,0,0,0,0,1,0,0,0,MCI,21,30/01/2021,FWD,False
+"Oliver Burke  Oliver Burke (Sheffield United, Midfielder)",SHU,4.1,1,77,0,1,0,0,0,0,0,1,0,0,0,MCI,21,30/01/2021,MID,False
+"Egan  John Egan (Sheffield United, Defender)",SHU,4.7,1,90,0,0,0,0,0,0,0,1,0,1,0,MCI,21,30/01/2021,DEF,False
+"Fleck  John Fleck (Sheffield United, Midfielder)",SHU,5.6,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,21,30/01/2021,MID,False
+"Lundstram  John Lundstram (Sheffield United, Midfielder)",SHU,4.8,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,21,30/01/2021,MID,False
+"McBurnie  Oliver McBurnie (Sheffield United, Forward)",SHU,5.6,0,12,1,0,0,0,0,0,0,0,0,0,0,MCI,21,30/01/2021,FWD,False
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,0,28,1,0,0,0,0,0,0,0,0,0,0,MCI,21,30/01/2021,FWD,False
+"Norwood  Oliver Norwood (Sheffield United, Midfielder)",SHU,4.5,1,90,0,0,0,0,0,0,0,1,0,1,0,MCI,21,30/01/2021,MID,False
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,21,30/01/2021,GKP,False
+"Sharp  Billy Sharp (Sheffield United, Forward)",SHU,5.5,0,13,1,0,0,0,0,0,0,0,0,0,0,MCI,21,30/01/2021,FWD,False

@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,0,29,1,0,0,0,0,0,0,0,0,0,0,WOL,23,07/02/2021,MID,False
+"Ricardo Pereira  Ricardo Domingos Barbosa Pereira (Leicester City, Defender)",LEI,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,WOL,23,07/02/2021,DEF,False
+"Barnes (Harvey)  Harvey Barnes (Leicester City, Midfielder)",LEI,7.0,1,90,0,0,0,0,0,0,1,0,0,0,0,WOL,23,07/02/2021,MID,False
+"Choudhury  Hamza Choudhury (Leicester City, Midfielder)",LEI,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,WOL,23,07/02/2021,MID,False
+"Evans  Jonny Evans (Leicester City, Defender)",LEI,5.5,1,90,0,0,0,0,0,0,1,0,0,1,0,WOL,23,07/02/2021,DEF,False
+"Iheanacho  Kelechi Iheanacho (Leicester City, Forward)",LEI,7.5,1,61,0,1,0,0,0,0,1,0,0,0,0,WOL,23,07/02/2021,FWD,False
+"Justin  James Justin (Leicester City, Defender)",LEI,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,WOL,23,07/02/2021,DEF,False
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,1,90,0,0,0,0,0,0,1,0,0,1,0,WOL,23,07/02/2021,MID,False
+"Ayoze Pérez  Ayoze Pérez Gutiérrez (Leicester City, Midfielder)",LEI,6.0,1,61,0,1,0,0,0,0,1,0,0,0,0,WOL,23,07/02/2021,MID,False
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,WOL,23,07/02/2021,GKP,False
+"Söyüncü  Caglar Söyüncü (Leicester City, Defender)",LEI,5.0,1,90,0,0,0,0,0,0,1,0,0,1,0,WOL,23,07/02/2021,DEF,False
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,1,90,0,0,0,0,0,0,1,0,0,0,0,WOL,23,07/02/2021,MID,False
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,0,29,1,0,0,0,0,0,0,0,0,0,0,WOL,23,07/02/2021,FWD,False
+"Jonny  Jonathan Castro Otto (Wolverhampton Wanderers, Defender)",WOL,4.5,1,45,0,1,0,0,0,0,0,0,0,0,0,LEI,23,07/02/2021,DEF,True
+"Coady  Conor Coady (Wolverhampton Wanderers, Defender)",WOL,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,LEI,23,07/02/2021,DEF,True
+"Willian José  Willian José Da Silva (Wolverhampton Wanderers, Forward)",WOL,6.8,1,61,0,1,0,0,0,0,1,0,0,0,0,LEI,23,07/02/2021,FWD,True
+"Dendoncker (Leander)  Leander Dendoncker (Wolverhampton Wanderers, Midfielder)",WOL,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LEI,23,07/02/2021,MID,True
+"Gibbs-White  Morgan Gibbs-White (Wolverhampton Wanderers, Midfielder)",WOL,4.5,0,2,1,0,0,0,0,0,0,0,0,0,0,LEI,23,07/02/2021,MID,True
+"Hoever  Ki-Jana Hoever (Wolverhampton Wanderers, Defender)",WOL,4.0,0,45,1,0,0,0,0,0,0,0,0,0,0,LEI,23,07/02/2021,DEF,True
+"Kilman  Max Kilman (Wolverhampton Wanderers, Defender)",WOL,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,LEI,23,07/02/2021,DEF,True
+"Moutinho  João Moutinho (Wolverhampton Wanderers, Midfielder)",WOL,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LEI,23,07/02/2021,MID,True
+"Neto  Pedro Neto (Wolverhampton Wanderers, Midfielder)",WOL,6.5,1,88,0,1,0,0,0,0,1,0,0,0,0,LEI,23,07/02/2021,MID,True
+"Semedo  Nelson Semedo (Wolverhampton Wanderers, Defender)",WOL,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LEI,23,07/02/2021,DEF,True
+"Fabio Silva  Fabio Daniel Soares Silva (Wolverhampton Wanderers, Forward)",WOL,6.0,0,29,1,0,0,0,0,0,0,0,0,0,0,LEI,23,07/02/2021,FWD,True
+"Traoré  Adama Traoré (Wolverhampton Wanderers, Midfielder)",WOL,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LEI,23,07/02/2021,MID,True
+"Ruben Neves  Rúben Diogo da Silva Neves (Wolverhampton Wanderers, Midfielder)",WOL,5.5,1,90,0,0,0,0,0,0,1,0,0,1,0,LEI,23,07/02/2021,MID,True
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LEI,23,07/02/2021,GKP,True

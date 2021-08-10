@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Azpilicueta  César Azpilicueta (Chelsea, Defender)",CHE,6.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,13/03/2021
+"Chilwell  Benjamin Chilwell (Chelsea, Defender)",CHE,6.0,0,0.1,-0.1,900.0,0,0.09,-0.09,1000.0,0.19,-0.19,473.7,13/03/2021
+"Christensen  Andreas Christensen (Chelsea, Defender)",CHE,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,13/03/2021
+"Jorginho  Jorge Luiz Frello Filho (Chelsea, Midfielder)",CHE,6.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,13/03/2021
+"Havertz  Kai Havertz (Chelsea, Midfielder)",CHE,8.5,0,0.09,-0.09,1000.0,0,0.47,-0.47,191.5,0.56,-0.56,160.7,13/03/2021
+"Hudson-Odoi  Callum Hudson-Odoi (Chelsea, Midfielder)",CHE,5.5,0,0.01,-0.01,1100.0,0,0.06,-0.06,183.3,0.07,-0.07,157.1,13/03/2021
+"James (Reece)  Reece James (Chelsea, Defender)",CHE,5.5,0,0.06,-0.06,366.7,0,0.0,0.0,inf,0.06,-0.06,366.7,13/03/2021
+"Kanté  N&#039;Golo Kanté (Chelsea, Midfielder)",CHE,5.0,0,0.1,-0.1,900.0,0,0.04,-0.04,2250.0,0.14,-0.14,642.9,13/03/2021
+"Mendy (Edouard)  Edouard Mendy (Chelsea, Goalkeeper)",CHE,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/03/2021
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,0,0.25,-0.25,316.0,0,0.03,-0.03,2633.3,0.28,-0.28,282.1,13/03/2021
+"Pulisic  Christian Pulisic (Chelsea, Midfielder)",CHE,8.0,0,0.03,-0.03,2266.7,0,0.14,-0.14,485.7,0.17,-0.17,400.0,13/03/2021
+"Rüdiger  Antonio Rüdiger (Chelsea, Defender)",CHE,5.5,0,0.02,-0.02,4500.0,0,0.02,-0.02,4500.0,0.04,-0.04,2250.0,13/03/2021
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,0,0.02,-0.02,1050.0,0,0.07,-0.07,300.0,0.09,-0.09,233.3,13/03/2021
+"Ziyech  Hakim Ziyech (Chelsea, Midfielder)",CHE,7.5,0,0.38,-0.38,181.6,0,0.03,-0.03,2300.0,0.41,-0.41,168.3,13/03/2021
+"Alioski  Ezgjan Alioski (Leeds United, Defender)",LEE,4.4,0,0.01,-0.01,9000.0,0,0.03,-0.03,3000.0,0.04,-0.04,2250.0,13/03/2021
+"Ayling  Luke Ayling (Leeds United, Defender)",LEE,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,13/03/2021
+"Bamford  Patrick Bamford (Leeds United, Forward)",LEE,8.0,0,0.02,-0.02,1750.0,0,0.0,0.0,inf,0.02,-0.02,1750.0,13/03/2021
+"Hélder Costa  Helder Costa (Leeds United, Midfielder)",LEE,5.5,0,0.01,-0.01,2600.0,0,0.0,0.0,inf,0.01,-0.01,2600.0,13/03/2021
+"Dallas  Stuart Dallas (Leeds United, Defender)",LEE,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/03/2021
+"Raphinha  Raphael Dias Belloli (Leeds United, Midfielder)",LEE,6.5,0,0.07,-0.07,1285.7,0,0.21,-0.21,428.6,0.28,-0.28,321.4,13/03/2021
+"Harrison  Jack Harrison (Leeds United, Midfielder)",LEE,6.0,0,0.01,-0.01,6400.0,0,0.0,0.0,inf,0.01,-0.01,6400.0,13/03/2021
+"Klich  Mateusz Klich (Leeds United, Midfielder)",LEE,5.5,0,0.01,-0.01,1100.0,0,0.0,0.0,inf,0.01,-0.01,1100.0,13/03/2021
+"Diego Llorente  Diego Javier Llorente Ríos (Leeds United, Defender)",LEE,4.5,0,0.0,0.0,inf,0,0.04,-0.04,2250.0,0.04,-0.04,2250.0,13/03/2021
+"Meslier  Illan Meslier (Leeds United, Goalkeeper)",LEE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/03/2021
+"Rodrigo  Rodrigo Moreno Machado (Leeds United, Forward)",LEE,6.5,0,0.08,-0.08,550.0,0,0.05,-0.05,880.0,0.13,-0.13,338.5,13/03/2021
+"Phillips (Kalvin)  Kalvin Phillips (Leeds United, Midfielder)",LEE,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,13/03/2021
+"Roberts (Tyler)  Tyler Roberts (Leeds United, Midfielder)",LEE,5.0,0,0.09,-0.09,1000.0,0,0.07,-0.07,1285.7,0.16,-0.16,562.5,13/03/2021
+"Struijk  Pascal Struijk (Leeds United, Defender)",LEE,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,13/03/2021

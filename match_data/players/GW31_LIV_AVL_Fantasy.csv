@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Barkley  Ross Barkley (Aston Villa, Midfielder)",AVL,5.5,0,24,1,0,0,0,0,0,0,1,0,0,0,LIV,31,10/04/2021,MID,False
+"Cash  Matthew Cash (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,31,10/04/2021,DEF,False
+"El Ghazi  Anwar El Ghazi (Aston Villa, Midfielder)",AVL,6.0,0,22,1,0,0,0,0,0,0,1,0,0,0,LIV,31,10/04/2021,MID,False
+"Trezeguet  Mahmoud Hassan (Aston Villa, Midfielder)",AVL,5.5,1,82,0,1,0,0,0,0,0,1,0,0,0,LIV,31,10/04/2021,MID,False
+"Konsa Ngoyo  Ezri Konsa Ngoyo (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,0,2,0,1,0,LIV,31,10/04/2021,DEF,False
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,31,10/04/2021,GKP,False
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,1,90,0,0,0,1,0,1,0,2,0,0,0,LIV,31,10/04/2021,MID,False
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,31,10/04/2021,DEF,False
+"Nakamba  Marvelous Nakamba (Aston Villa, Midfielder)",AVL,4.5,1,66,0,1,0,0,0,0,0,1,0,0,0,LIV,31,10/04/2021,MID,False
+"Jacob Ramsey  Jacob Ramsey (Aston Villa, Midfielder)",AVL,4.5,0,8,1,0,0,0,0,0,0,1,0,0,0,LIV,31,10/04/2021,MID,False
+"Douglas Luiz  Douglas Luiz Soares de Paulo (Aston Villa, Midfielder)",AVL,4.5,1,90,0,0,0,0,0,0,0,2,0,1,0,LIV,31,10/04/2021,MID,False
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,0,2,0,1,0,LIV,31,10/04/2021,DEF,False
+"Traore (Bertrand)  Bertrand Traore (Aston Villa, Midfielder)",AVL,6.0,1,68,0,1,0,0,0,0,0,1,0,0,0,LIV,31,10/04/2021,MID,False
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,1,90,0,0,1,0,0,0,0,2,0,1,0,LIV,31,10/04/2021,FWD,False
+"Thiago Alcántara  Thiago Alcántara do Nascimento (Liverpool, Midfielder)",LIV,5.5,0,20,1,0,0,0,0,0,0,0,0,0,0,AVL,31,10/04/2021,MID,True
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,1,90,0,0,1,0,0,0,0,1,0,0,0,AVL,31,10/04/2021,DEF,True
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,1,75,0,1,0,0,0,0,0,1,0,0,0,AVL,31,10/04/2021,FWD,True
+"Kabak  Ozan Kabak (Liverpool, Defender)",LIV,5.0,1,89,0,1,0,0,0,0,0,1,0,0,0,AVL,31,10/04/2021,DEF,True
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,0,15,1,0,0,0,0,0,0,0,0,0,0,AVL,31,10/04/2021,MID,True
+"Milner  James Milner (Liverpool, Midfielder)",LIV,5.0,1,90,0,0,0,0,0,0,0,1,0,1,0,AVL,31,10/04/2021,MID,True
+"Phillips (Nathaniel)  Nathaniel Phillips (Liverpool, Defender)",LIV,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,AVL,31,10/04/2021,DEF,True
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,AVL,31,10/04/2021,GKP,True
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,1,90,0,0,0,0,2,2,0,1,0,1,0,AVL,31,10/04/2021,DEF,True
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,1,90,0,0,1,0,0,0,0,1,0,0,0,AVL,31,10/04/2021,MID,True
+"Shaqiri  Xherdan Shaqiri (Liverpool, Midfielder)",LIV,6.0,0,1,1,0,0,0,0,0,0,0,0,0,0,AVL,31,10/04/2021,MID,True
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,AVL,31,10/04/2021,MID,True
+"Diogo Jota  Diogo José Teixeira da Silva (Liverpool, Midfielder)",LIV,7.5,1,90,0,0,0,0,0,0,0,1,0,0,0,AVL,31,10/04/2021,MID,True
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,1,70,0,1,0,0,0,0,0,1,0,0,0,AVL,31,10/04/2021,MID,True

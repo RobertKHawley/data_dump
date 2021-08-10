@@ -1,0 +1,27 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Barnes (Ashley)  Ashley Barnes (Burnley, Forward)",BUR,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/05/2021
+"Gudmundsson  Johann Berg Gudmundsson (Burnley, Midfielder)",BUR,5.5,0,0.01,-0.01,1600.0,0,0.04,-0.04,400.0,0.05,-0.05,320.0,03/05/2021
+"Brownhill  Josh Brownhill (Burnley, Midfielder)",BUR,4.5,0,0.02,-0.02,4500.0,0,0.07,-0.07,1285.7,0.09,-0.09,1000.0,03/05/2021
+"Cork  Jack Cork (Burnley, Midfielder)",BUR,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,03/05/2021
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,0,0.09,-0.09,1000.0,0,0.0,0.0,inf,0.09,-0.09,1000.0,03/05/2021
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,0,0.02,-0.02,3700.0,0,0.0,0.0,inf,0.02,-0.02,3700.0,03/05/2021
+"Mee  Ben Mee (Burnley, Defender)",BUR,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,03/05/2021
+"Pope  Nick Pope (Burnley, Goalkeeper)",BUR,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,03/05/2021
+"Rodriguez  Jay Rodriguez (Burnley, Forward)",BUR,5.5,0,0.0,0.0,inf,0,1.13,-1.13,25.7,1.13,-1.13,25.7,03/05/2021
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,03/05/2021
+"Taylor (Charlie)  Charlie Taylor (Burnley, Defender)",BUR,4.5,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,03/05/2021
+"Vydra  Matej Vydra (Burnley, Forward)",BUR,5.5,0,0.01,-0.01,6100.0,0,0.24,-0.24,254.2,0.25,-0.25,244.0,03/05/2021
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,0,0.15,-0.15,600.0,0,0.02,-0.02,4500.0,0.17,-0.17,529.4,03/05/2021
+"Wood  Chris Wood (Burnley, Forward)",BUR,7.0,0,0.01,-0.01,8500.0,1,0.79,0.21,107.6,0.8,0.2,106.3,03/05/2021
+"Antonio  Michail Antonio (West Ham United, Forward)",WHU,7.5,0,0.05,-0.05,1800.0,2,1.38,0.62,65.2,1.43,0.57,62.9,03/05/2021
+"Benrahma  Said Benrahma (West Ham United, Midfielder)",WHU,6.0,1,0.57,0.43,136.8,0,0.15,-0.15,520.0,0.72,0.28,108.3,03/05/2021
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/05/2021
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,1,0.43,0.57,209.3,0,0.0,0.0,inf,0.43,0.57,209.3,03/05/2021
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,0,0.23,-0.23,391.3,0,0.08,-0.08,1125.0,0.31,-0.31,290.3,03/05/2021
+"Dawson  Craig Dawson (West Ham United, Defender)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/05/2021
+"Diop  Issa Diop (West Ham United, Defender)",WHU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/05/2021
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/05/2021
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,0,0.08,-0.08,1125.0,0,0.38,-0.38,236.8,0.46,-0.46,195.7,03/05/2021
+"Lanzini  Manuel Lanzini (West Ham United, Midfielder)",WHU,6.0,0,0.04,-0.04,2250.0,0,0.03,-0.03,3000.0,0.07,-0.07,1285.7,03/05/2021
+"Lingard  Jesse Lingard (West Ham United, Midfielder)",WHU,7.0,0,0.08,-0.08,1125.0,0,0.09,-0.09,1000.0,0.17,-0.17,529.4,03/05/2021
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,0,0.02,-0.02,4500.0,0,0.22,-0.22,409.1,0.24,-0.24,375.0,03/05/2021

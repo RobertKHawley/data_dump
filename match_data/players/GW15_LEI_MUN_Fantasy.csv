@@ -1,0 +1,27 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,1,81,0,1,0,0,0,0,0,2,0,0,0,MUN,15,26/12/2020,MID,True
+"Barnes (Harvey)  Harvey Barnes (Leicester City, Midfielder)",LEI,7.0,1,90,0,0,1,0,0,0,0,2,0,0,0,MUN,15,26/12/2020,MID,True
+"Castagne  Timothy Castagne (Leicester City, Defender)",LEI,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,MUN,15,26/12/2020,DEF,True
+"Evans  Jonny Evans (Leicester City, Defender)",LEI,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,MUN,15,26/12/2020,DEF,True
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,MUN,15,26/12/2020,DEF,True
+"Justin  James Justin (Leicester City, Defender)",LEI,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,MUN,15,26/12/2020,DEF,True
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,1,90,0,0,0,1,0,1,0,2,0,1,0,MUN,15,26/12/2020,MID,True
+"Ndidi  Onyinye Wilfred Ndidi (Leicester City, Midfielder)",LEI,5.0,1,90,0,0,0,0,0,0,0,2,0,1,0,MUN,15,26/12/2020,MID,True
+"Ayoze Pérez  Ayoze Pérez Gutiérrez (Leicester City, Midfielder)",LEI,6.0,0,9,1,0,0,0,0,0,0,0,0,0,0,MUN,15,26/12/2020,MID,True
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,MUN,15,26/12/2020,GKP,True
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,1,90,0,0,0,0,0,0,0,2,0,0,0,MUN,15,26/12/2020,MID,True
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,1,90,0,0,0,0,1,1,0,2,0,0,0,MUN,15,26/12/2020,FWD,True
+"Bailly  Eric Bailly (Manchester United, Defender)",MUN,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,15,26/12/2020,DEF,False
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,1,90,0,0,1,1,0,1,0,2,0,1,0,LEI,15,26/12/2020,MID,False
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,0,15,1,0,0,1,0,1,0,1,0,0,0,LEI,15,26/12/2020,FWD,False
+"De Gea  David De Gea (Manchester United, Goalkeeper)",MUN,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,15,26/12/2020,GKP,False
+"James (Daniel)  Daniel James (Manchester United, Midfielder)",MUN,6.0,1,54,0,1,0,0,0,0,0,1,0,0,0,LEI,15,26/12/2020,MID,False
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,15,26/12/2020,DEF,False
+"Martial  Anthony Martial (Manchester United, Forward)",MUN,8.0,1,75,0,1,0,0,0,0,0,1,0,0,0,LEI,15,26/12/2020,FWD,False
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,15,26/12/2020,MID,False
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,1,66,0,1,0,0,0,0,0,1,0,0,0,LEI,15,26/12/2020,DEF,False
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,0,36,1,0,0,0,0,0,0,1,0,0,0,LEI,15,26/12/2020,MID,False
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,1,90,0,0,1,0,0,0,0,2,0,0,0,LEI,15,26/12/2020,MID,False
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,15,26/12/2020,MID,False
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,15,26/12/2020,DEF,False
+"Tuanzebe  Axel Tuanzebe (Manchester United, Defender)",MUN,4.5,0,24,1,0,0,0,0,0,0,1,1,0,0,LEI,15,26/12/2020,DEF,False

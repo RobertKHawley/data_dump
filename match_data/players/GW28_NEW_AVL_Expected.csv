@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Barkley  Ross Barkley (Aston Villa, Midfielder)",AVL,5.5,0,0.06,-0.06,366.7,0,0.0,0.0,inf,0.06,-0.06,366.7,12/03/2021
+"El Ghazi  Anwar El Ghazi (Aston Villa, Midfielder)",AVL,6.0,0,0.02,-0.02,3450.0,0,0.51,-0.51,135.3,0.53,-0.53,130.2,12/03/2021
+"Elmohamady  Ahmed Elmohamady (Aston Villa, Defender)",AVL,4.2,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,12/03/2021
+"Trezeguet  Mahmoud Hassan (Aston Villa, Midfielder)",AVL,5.5,0,0.05,-0.05,1360.0,0,0.07,-0.07,971.4,0.12,-0.12,566.7,12/03/2021
+"Konsa Ngoyo  Ezri Konsa Ngoyo (Aston Villa, Defender)",AVL,5.0,0,0.01,-0.01,9000.0,0,0.09,-0.09,1000.0,0.1,-0.1,900.0,12/03/2021
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/03/2021
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,0,0.03,-0.03,3000.0,0,0.1,-0.1,900.0,0.13,-0.13,692.3,12/03/2021
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/03/2021
+"Jacob Ramsey  Jacob Ramsey (Aston Villa, Midfielder)",AVL,4.5,0,0.02,-0.02,2950.0,0,0.11,-0.11,536.4,0.13,-0.13,453.8,12/03/2021
+"Sanson  Morgan Sanson (Aston Villa, Midfielder)",AVL,5.0,0,0.01,-0.01,3100.0,0,0.0,0.0,inf,0.01,-0.01,3100.0,12/03/2021
+"Douglas Luiz  Douglas Luiz Soares de Paulo (Aston Villa, Midfielder)",AVL,4.5,0,0.02,-0.02,4500.0,0,0.02,-0.02,4500.0,0.04,-0.04,2250.0,12/03/2021
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,0,0.13,-0.13,692.3,0,0.0,0.0,inf,0.13,-0.13,692.3,12/03/2021
+"Traore (Bertrand)  Bertrand Traore (Aston Villa, Midfielder)",AVL,6.0,0,0.01,-0.01,2100.0,0,0.0,0.0,inf,0.01,-0.01,2100.0,12/03/2021
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,0,0.06,-0.06,1500.0,0,0.09,-0.09,1000.0,0.15,-0.15,600.0,12/03/2021
+"Joelinton  Joelinton Cássio Apolinário de Lira (Newcastle United, Forward)",NEW,6.0,0,0.04,-0.04,2250.0,0,0.12,-0.12,750.0,0.16,-0.16,562.5,12/03/2021
+"Carroll  Andy Carroll (Newcastle United, Forward)",NEW,5.1,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/03/2021
+"Clark  Ciaran Clark (Newcastle United, Defender)",NEW,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,12/03/2021
+"Dubravka  Martin Dubravka (Newcastle United, Goalkeeper)",NEW,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/03/2021
+"Dummett  Paul Dummett (Newcastle United, Defender)",NEW,4.5,0,0.11,-0.11,818.2,0,0.0,0.0,inf,0.11,-0.11,818.2,12/03/2021
+"Fraser  Ryan Fraser (Newcastle United, Midfielder)",NEW,5.5,0,0.03,-0.03,2633.3,0,0.08,-0.08,987.5,0.11,-0.11,718.2,12/03/2021
+"Gayle  Dwight Gayle (Newcastle United, Forward)",NEW,5.5,0,0.01,-0.01,9000.0,0,0.73,-0.73,123.3,0.74,-0.74,121.6,12/03/2021
+"Hayden (Isaac)  Isaac Hayden (Newcastle United, Midfielder)",NEW,4.5,0,0.01,-0.01,8800.0,0,0.0,0.0,inf,0.01,-0.01,8800.0,12/03/2021
+"Krafth  Emil Krafth (Newcastle United, Defender)",NEW,4.5,0,0.0,0.0,inf,0,0.06,-0.06,1383.3,0.06,-0.06,1383.3,12/03/2021
+"Lascelles  Jamaal Lascelles (Newcastle United, Defender)",NEW,4.5,0,0.03,-0.03,3000.0,1,0.37,0.63,243.2,0.4,0.6,225.0,12/03/2021
+"Manquillo  Javier Manquillo (Newcastle United, Defender)",NEW,4.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/03/2021
+"Jacob Murphy  Jacob Murphy (Newcastle United, Midfielder)",NEW,5.0,1,0.65,0.35,16.9,0,0.07,-0.07,157.1,0.72,0.28,15.3,12/03/2021
+"Shelvey  Jonjo Shelvey (Newcastle United, Midfielder)",NEW,5.5,0,0.03,-0.03,3000.0,0,0.08,-0.08,1125.0,0.11,-0.11,818.2,12/03/2021
+"Willock  Joseph Willock (Newcastle United, Midfielder)",NEW,6.0,0,0.09,-0.09,1000.0,0,0.0,0.0,inf,0.09,-0.09,1000.0,12/03/2021

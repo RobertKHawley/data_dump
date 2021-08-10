@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"João Cancelo  João Pedro Cavaco Cancelo (Manchester City, Defender)",MCI,6.0,0,0.43,-0.43,209.3,0,0.02,-0.02,4500.0,0.45,-0.45,200.0,21/11/2020
+"De Bruyne  Kevin De Bruyne (Manchester City, Midfielder)",MCI,12.0,0,0.51,-0.51,176.5,0,0.29,-0.29,310.3,0.8,-0.8,112.5,21/11/2020
+"Foden  Phil Foden (Manchester City, Midfielder)",MCI,8.0,0,0.01,-0.01,1800.0,0,0.0,0.0,inf,0.01,-0.01,1800.0,21/11/2020
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,0,0.01,-0.01,9000.0,0,0.21,-0.21,428.6,0.22,-0.22,409.1,21/11/2020
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,0,0.05,-0.05,1800.0,0,0.18,-0.18,500.0,0.23,-0.23,391.3,21/11/2020
+"Laporte  Aymeric Laporte (Manchester City, Defender)",MCI,5.5,0,0.02,-0.02,4500.0,0,0.06,-0.06,1500.0,0.08,-0.08,1125.0,21/11/2020
+"Mahrez  Riyad Mahrez (Manchester City, Midfielder)",MCI,9.0,0,0.11,-0.11,654.5,0,0.03,-0.03,2400.0,0.14,-0.14,514.3,21/11/2020
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/11/2020
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,0,0.01,-0.01,1800.0,0,0.22,-0.22,81.8,0.23,-0.23,78.3,21/11/2020
+"Torres  Ferran Torres (Manchester City, Midfielder)",MCI,7.0,0,0.14,-0.14,642.9,0,0.18,-0.18,500.0,0.32,-0.32,281.3,21/11/2020
+"Bernardo Silva  Bernardo Mota Veiga de Carvalho e Silva (Manchester City, Midfielder)",MCI,7.0,0,0.04,-0.04,1800.0,0,0.0,0.0,inf,0.04,-0.04,1800.0,21/11/2020
+"Walker (Kyle)  Kyle Walker (Manchester City, Defender)",MCI,5.5,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,21/11/2020
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,0,0.05,-0.05,1800.0,0,0.34,-0.34,264.7,0.39,-0.39,230.8,21/11/2020
+"Alderweireld  Toby Alderweireld (Tottenham Hotspur, Defender)",TOT,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/11/2020
+"Aurier  Serge Aurier (Tottenham Hotspur, Defender)",TOT,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,21/11/2020
+"Bergwijn  Steven Bergwijn (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.08,-0.08,912.5,0,0.0,0.0,inf,0.08,-0.08,912.5,21/11/2020
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,0,0.0,0.0,inf,0,0.06,-0.06,1500.0,0.06,-0.06,1500.0,21/11/2020
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,21/11/2020
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,1,0.03,0.97,3000.0,0,0.0,0.0,inf,0.03,0.97,3000.0,21/11/2020
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,21/11/2020
+"Lo Celso  Giovani Lo Celso (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.0,0.0,inf,1,0.33,0.67,75.8,0.33,0.67,75.8,21/11/2020
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,1,0.17,0.83,382.4,0,0.0,0.0,inf,0.17,0.83,382.4,21/11/2020
+"Reguilón  Sergio Reguilón (Tottenham Hotspur, Defender)",TOT,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/11/2020
+"Rodon  Joe Rodon (Tottenham Hotspur, Defender)",TOT,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/11/2020
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/11/2020
+"Sissoko  Moussa Sissoko (Tottenham Hotspur, Midfielder)",TOT,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/11/2020
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,0,0.02,-0.02,4500.0,1,0.32,0.68,281.3,0.34,0.66,264.7,21/11/2020

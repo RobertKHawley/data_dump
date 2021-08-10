@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Aubameyang  Pierre-Emerick Aubameyang (Arsenal, Midfielder)",ARS,10.0,0,0.09,-0.09,1000.0,0,0.03,-0.03,3000.0,0.12,-0.12,750.0,14/01/2021
+"Bellerín  Héctor Bellerín (Arsenal, Defender)",ARS,5.0,0,0.09,-0.09,1000.0,0,0.03,-0.03,3000.0,0.12,-0.12,750.0,14/01/2021
+"Dani Ceballos  Daniel Ceballos Fernández (Arsenal, Midfielder)",ARS,4.7,0,0.07,-0.07,985.7,0,0.0,0.0,inf,0.07,-0.07,985.7,14/01/2021
+"Holding  Rob Holding (Arsenal, Defender)",ARS,4.5,0,0.06,-0.06,1500.0,0,0.14,-0.14,642.9,0.2,-0.2,450.0,14/01/2021
+"Lacazette  Alexandre Lacazette (Arsenal, Forward)",ARS,8.5,0,0.06,-0.06,1350.0,0,0.0,0.0,inf,0.06,-0.06,1350.0,14/01/2021
+"Leno  Bernd Leno (Arsenal, Goalkeeper)",ARS,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,14/01/2021
+"Luiz  David Luiz Moreira Marinho (Arsenal, Defender)",ARS,5.4,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,14/01/2021
+"Maitland-Niles  Ainsley Maitland-Niles (Arsenal, Defender)",ARS,5.5,0,0.01,-0.01,6500.0,0,0.04,-0.04,1625.0,0.05,-0.05,1300.0,14/01/2021
+"Eddie Nketiah  Edward Nketiah (Arsenal, Forward)",ARS,5.5,0,0.0,0.0,inf,0,0.05,-0.05,180.0,0.05,-0.05,180.0,14/01/2021
+"Partey  Thomas Partey (Arsenal, Midfielder)",ARS,5.0,0,0.01,-0.01,2100.0,0,0.0,0.0,inf,0.01,-0.01,2100.0,14/01/2021
+"Pepe  Nicolas Pepe (Arsenal, Midfielder)",ARS,7.5,0,0.02,-0.02,1250.0,0,0.02,-0.02,1250.0,0.04,-0.04,625.0,14/01/2021
+"Saka  Bukayo Saka (Arsenal, Midfielder)",ARS,6.5,0,0.16,-0.16,562.5,0,0.1,-0.1,900.0,0.26,-0.26,346.2,14/01/2021
+"Smith-Rowe  Emile Smith-Rowe (Arsenal, Midfielder)",ARS,5.5,0,0.04,-0.04,2250.0,0,0.02,-0.02,4500.0,0.06,-0.06,1500.0,14/01/2021
+"Xhaka  Granit Xhaka (Arsenal, Midfielder)",ARS,5.0,0,0.09,-0.09,1000.0,0,0.02,-0.02,4500.0,0.11,-0.11,818.2,14/01/2021
+"Jordan Ayew  Jordan Ayew (Crystal Palace, Forward)",CRY,6.0,0,0.0,0.0,inf,0,0.07,-0.07,128.6,0.07,-0.07,128.6,14/01/2021
+"Benteke  Christian Benteke (Crystal Palace, Forward)",CRY,6.5,0,0.02,-0.02,4050.0,0,0.33,-0.33,245.5,0.35,-0.35,231.4,14/01/2021
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,0,0.17,-0.17,529.4,0,0.06,-0.06,1500.0,0.23,-0.23,391.3,14/01/2021
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,14/01/2021
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,14/01/2021
+"McArthur  James McArthur (Crystal Palace, Midfielder)",CRY,4.5,0,0.02,-0.02,4500.0,0,0.16,-0.16,562.5,0.18,-0.18,500.0,14/01/2021
+"McCarthy (James)  James McCarthy (Crystal Palace, Midfielder)",CRY,4.3,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,14/01/2021
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,0,0.01,-0.01,8900.0,0,0.0,0.0,inf,0.01,-0.01,8900.0,14/01/2021
+"Mitchell  Tyrick Mitchell (Crystal Palace, Defender)",CRY,4.5,0,0.13,-0.13,692.3,0,0.0,0.0,inf,0.13,-0.13,692.3,14/01/2021
+"Tomkins  James Tomkins (Crystal Palace, Defender)",CRY,4.5,0,0.0,0.0,inf,0,0.13,-0.13,692.3,0.13,-0.13,692.3,14/01/2021
+"Townsend (Andros)  Andros Townsend (Crystal Palace, Midfielder)",CRY,5.5,0,0.06,-0.06,1500.0,0,0.02,-0.02,4500.0,0.08,-0.08,1125.0,14/01/2021
+"Ward (Joel)  Joel Ward (Crystal Palace, Defender)",CRY,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,14/01/2021
+"Zaha  Wilfried Zaha (Crystal Palace, Midfielder)",CRY,7.0,0,0.03,-0.03,3000.0,0,0.05,-0.05,1800.0,0.08,-0.08,1125.0,14/01/2021

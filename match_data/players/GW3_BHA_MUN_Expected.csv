@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Alzate  Steven Alzate (Brighton and Hove Albion, Midfielder)",BHA,5.0,0,0.05,-0.05,1800.0,0,0.09,-0.09,1000.0,0.14,-0.14,642.9,26/09/2020
+"Connolly  Aaron Connolly (Brighton and Hove Albion, Forward)",BHA,5.5,0,0.0,0.0,inf,0,0.04,-0.04,1875.0,0.04,-0.04,1875.0,26/09/2020
+"Dunk  Lewis Dunk (Brighton and Hove Albion, Defender)",BHA,5.0,0,0.01,-0.01,9000.0,0,0.05,-0.05,1800.0,0.06,-0.06,1500.0,26/09/2020
+"Groß  Pascal Groß (Brighton and Hove Albion, Midfielder)",BHA,6.0,0,0.2,-0.2,80.0,0,0.04,-0.04,400.0,0.24,-0.24,66.7,26/09/2020
+"Jahanbakhsh  Alireza Jahanbakhsh (Brighton and Hove Albion, Midfielder)",BHA,5.5,1,0.41,0.59,36.6,0,0.02,-0.02,750.0,0.43,0.57,34.9,26/09/2020
+"Lallana  Adam Lallana (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.02,-0.02,3700.0,0,0.0,0.0,inf,0.02,-0.02,3700.0,26/09/2020
+"Lamptey  Tariq Lamptey (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,26/09/2020
+"March  Solomon March (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.14,-0.14,642.9,1,0.89,0.11,101.1,1.03,-0.03,87.4,26/09/2020
+"Maupay  Neal Maupay (Brighton and Hove Albion, Forward)",BHA,6.5,0,0.21,-0.21,428.6,1,0.94,0.06,95.7,1.15,-0.15,78.3,26/09/2020
+"Mat Ryan  Mathew Ryan (Brighton and Hove Albion, Goalkeeper)",BHA,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/09/2020
+"Trossard  Leandro Trossard (Brighton and Hove Albion, Midfielder)",BHA,6.5,0,0.08,-0.08,1125.0,0,0.47,-0.47,191.5,0.55,-0.55,163.6,26/09/2020
+"Webster  Adam Webster (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.0,0.0,inf,0,0.09,-0.09,1000.0,0.09,-0.09,1000.0,26/09/2020
+"White (Ben)  Ben White (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.08,-0.08,1125.0,0,0.0,0.0,inf,0.08,-0.08,1125.0,26/09/2020
+"Bailly  Eric Bailly (Manchester United, Defender)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/09/2020
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,1,0.25,0.75,360.0,1,0.79,0.21,113.9,1.04,0.96,86.5,26/09/2020
+"De Gea  David De Gea (Manchester United, Goalkeeper)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/09/2020
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,0,0.05,-0.05,1660.0,0,0.05,-0.05,1660.0,0.1,-0.1,830.0,26/09/2020
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,0,0.0,0.0,inf,0,0.05,-0.05,1800.0,0.05,-0.05,1800.0,26/09/2020
+"Martial  Anthony Martial (Manchester United, Forward)",MUN,8.0,0,0.03,-0.03,2966.7,0,0.07,-0.07,1271.4,0.1,-0.1,890.0,26/09/2020
+"Matic  Nemanja Matic (Manchester United, Midfielder)",MUN,4.5,0,0.02,-0.02,4500.0,0,0.03,-0.03,3000.0,0.05,-0.05,1800.0,26/09/2020
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/09/2020
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/09/2020
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,0,0.07,-0.07,1285.7,1,0.57,0.43,157.9,0.64,0.36,140.6,26/09/2020
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,0,0.01,-0.01,2500.0,0,0.0,0.0,inf,0.01,-0.01,2500.0,26/09/2020
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,26/09/2020
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/09/2020
+"van de Beek  Donny van de Beek (Manchester United, Midfielder)",MUN,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/09/2020

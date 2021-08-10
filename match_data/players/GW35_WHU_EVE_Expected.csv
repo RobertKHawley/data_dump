@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Calvert-Lewin  Dominic Calvert-Lewin (Everton, Forward)",EVE,8.0,0,0.72,-0.72,125.0,1,0.5,0.5,180.0,1.22,-0.22,73.8,09/05/2021
+"Coleman  Seamus Coleman (Everton, Defender)",EVE,5.0,0,0.0,0.0,inf,0,0.18,-0.18,500.0,0.18,-0.18,500.0,09/05/2021
+"Davies (Tom)  Tom Davies (Everton, Midfielder)",EVE,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,09/05/2021
+"Delph  Fabian Delph (Everton, Midfielder)",EVE,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,09/05/2021
+"Digne  Lucas Digne (Everton, Defender)",EVE,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,09/05/2021
+"Godfrey  Ben Godfrey (Everton, Defender)",EVE,5.0,1,0.18,0.82,500.0,0,0.0,0.0,inf,0.18,0.82,500.0,09/05/2021
+"Holgate  Mason Holgate (Everton, Defender)",EVE,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,09/05/2021
+"Keane  Michael Keane (Everton, Defender)",EVE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,09/05/2021
+"King (Joshua)  Joshua King (Everton, Forward)",EVE,5.5,0,0.01,-0.01,600.0,0,0.5,-0.5,12.0,0.51,-0.51,11.8,09/05/2021
+"Allan  Allan Marques Loureiro (Everton, Midfielder)",EVE,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,09/05/2021
+"Mina  Yerry Mina (Everton, Defender)",EVE,5.0,0,0.0,0.0,inf,0,0.2,-0.2,310.0,0.2,-0.2,310.0,09/05/2021
+"Pickford  Jordan Pickford (Everton, Goalkeeper)",EVE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,09/05/2021
+"Sigurdsson  Gylfi Sigurdsson (Everton, Midfielder)",EVE,7.0,0,0.42,-0.42,202.4,0,0.05,-0.05,1700.0,0.47,-0.47,180.9,09/05/2021
+"Richarlison  Richarlison de Andrade (Everton, Forward)",EVE,7.5,0,0.01,-0.01,8400.0,0,0.1,-0.1,840.0,0.11,-0.11,763.6,09/05/2021
+"Antonio  Michail Antonio (West Ham United, Forward)",WHU,7.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,09/05/2021
+"Benrahma  Said Benrahma (West Ham United, Midfielder)",WHU,6.0,0,0.02,-0.02,3650.0,0,0.24,-0.24,304.2,0.26,-0.26,280.8,09/05/2021
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,0,0.01,-0.01,4700.0,0,0.73,-0.73,64.4,0.74,-0.74,63.5,09/05/2021
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,0,0.11,-0.11,818.2,0,0.08,-0.08,1125.0,0.19,-0.19,473.7,09/05/2021
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,0,0.03,-0.03,1966.7,0,0.0,0.0,inf,0.03,-0.03,1966.7,09/05/2021
+"Dawson  Craig Dawson (West Ham United, Defender)",WHU,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,09/05/2021
+"Diop  Issa Diop (West Ham United, Defender)",WHU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,09/05/2021
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,09/05/2021
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,0,0.12,-0.12,750.0,0,0.1,-0.1,900.0,0.22,-0.22,409.1,09/05/2021
+"Fredericks  Ryan Fredericks (West Ham United, Defender)",WHU,4.5,0,0.01,-0.01,3100.0,0,0.0,0.0,inf,0.01,-0.01,3100.0,09/05/2021
+"Lanzini  Manuel Lanzini (West Ham United, Midfielder)",WHU,6.0,0,0.04,-0.04,1075.0,0,0.0,0.0,inf,0.04,-0.04,1075.0,09/05/2021
+"Lingard  Jesse Lingard (West Ham United, Midfielder)",WHU,7.0,0,0.08,-0.08,1125.0,0,0.07,-0.07,1285.7,0.15,-0.15,600.0,09/05/2021
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,0,0.03,-0.03,3000.0,0,0.09,-0.09,1000.0,0.12,-0.12,750.0,09/05/2021
+"Yarmolenko  Andriy Yarmolenko (West Ham United, Midfielder)",WHU,5.5,0,0.06,-0.06,283.3,0,0.0,0.0,inf,0.06,-0.06,283.3,09/05/2021

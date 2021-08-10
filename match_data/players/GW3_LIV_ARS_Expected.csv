@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Aubameyang  Pierre-Emerick Aubameyang (Arsenal, Midfielder)",ARS,10.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,28/09/2020
+"Bellerín  Héctor Bellerín (Arsenal, Defender)",ARS,5.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,28/09/2020
+"Willian  Willian Borges Da Silva (Arsenal, Midfielder)",ARS,6.5,0,0.16,-0.16,425.0,0,0.0,0.0,inf,0.16,-0.16,425.0,28/09/2020
+"Dani Ceballos  Daniel Ceballos Fernández (Arsenal, Midfielder)",ARS,4.7,0,0.2,-0.2,150.0,0,0.0,0.0,inf,0.2,-0.2,150.0,28/09/2020
+"Elneny  Mohamed Elneny (Arsenal, Midfielder)",ARS,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/09/2020
+"Holding  Rob Holding (Arsenal, Defender)",ARS,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/09/2020
+"Lacazette  Alexandre Lacazette (Arsenal, Forward)",ARS,8.5,0,0.02,-0.02,3700.0,1,1.22,-0.22,60.7,1.24,-0.24,59.7,28/09/2020
+"Leno  Bernd Leno (Arsenal, Goalkeeper)",ARS,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/09/2020
+"Luiz  David Luiz Moreira Marinho (Arsenal, Defender)",ARS,5.4,0,0.16,-0.16,562.5,0,0.0,0.0,inf,0.16,-0.16,562.5,28/09/2020
+"Maitland-Niles  Ainsley Maitland-Niles (Arsenal, Defender)",ARS,5.5,0,0.0,0.0,inf,0,0.04,-0.04,2250.0,0.04,-0.04,2250.0,28/09/2020
+"Eddie Nketiah  Edward Nketiah (Arsenal, Forward)",ARS,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/09/2020
+"Pepe  Nicolas Pepe (Arsenal, Midfielder)",ARS,7.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/09/2020
+"Tierney  Kieran Tierney (Arsenal, Defender)",ARS,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/09/2020
+"Xhaka  Granit Xhaka (Arsenal, Midfielder)",ARS,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/09/2020
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,1,0.18,0.82,500.0,0,0.04,-0.04,2250.0,0.22,0.78,409.1,28/09/2020
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,0,0.03,-0.03,2966.7,0,0.04,-0.04,2225.0,0.07,-0.07,1271.4,28/09/2020
+"Gomez  Joseph Gomez (Liverpool, Defender)",LIV,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,28/09/2020
+"Keita  Naby Keita (Liverpool, Midfielder)",LIV,5.0,0,0.06,-0.06,1316.7,0,0.06,-0.06,1316.7,0.12,-0.12,658.3,28/09/2020
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,0,0.06,-0.06,1333.3,1,1.32,-0.32,60.6,1.38,-0.38,58.0,28/09/2020
+"Milner  James Milner (Liverpool, Midfielder)",LIV,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/09/2020
+"Minamino  Takumi Minamino (Liverpool, Midfielder)",LIV,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/09/2020
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/09/2020
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,0,0.08,-0.08,1125.0,1,0.56,0.44,160.7,0.64,0.36,140.6,28/09/2020
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,0,0.26,-0.26,346.2,0,0.17,-0.17,529.4,0.43,-0.43,209.3,28/09/2020
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,28/09/2020
+"Diogo Jota  Diogo José Teixeira da Silva (Liverpool, Midfielder)",LIV,7.5,0,0.01,-0.01,1000.0,1,0.42,0.58,23.8,0.43,0.57,23.3,28/09/2020
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,0,0.1,-0.1,900.0,0,0.06,-0.06,1500.0,0.16,-0.16,562.5,28/09/2020
+"van Dijk  Virgil van Dijk (Liverpool, Defender)",LIV,6.5,0,0.02,-0.02,4500.0,0,0.08,-0.08,1125.0,0.1,-0.1,900.0,28/09/2020

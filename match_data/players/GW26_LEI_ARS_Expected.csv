@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Cedric  Cedric Ricardo Alves Soares (Arsenal, Defender)",ARS,4.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,28/02/2021
+"Aubameyang  Pierre-Emerick Aubameyang (Arsenal, Midfielder)",ARS,10.0,0,0.0,0.0,inf,0,0.04,-0.04,150.0,0.04,-0.04,150.0,28/02/2021
+"Willian  Willian Borges Da Silva (Arsenal, Midfielder)",ARS,6.5,1,0.2,0.8,450.0,0,0.16,-0.16,562.5,0.36,0.64,250.0,28/02/2021
+"Elneny  Mohamed Elneny (Arsenal, Midfielder)",ARS,4.5,0,0.02,-0.02,3300.0,0,0.0,0.0,inf,0.02,-0.02,3300.0,28/02/2021
+"Lacazette  Alexandre Lacazette (Arsenal, Forward)",ARS,8.5,0,0.04,-0.04,2100.0,1,0.79,0.21,106.3,0.83,0.17,101.2,28/02/2021
+"Leno  Bernd Leno (Arsenal, Goalkeeper)",ARS,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/02/2021
+"Luiz  David Luiz Moreira Marinho (Arsenal, Defender)",ARS,5.4,0,0.0,0.0,inf,1,0.09,0.91,1000.0,0.09,0.91,1000.0,28/02/2021
+"Marí  Pablo Marí (Arsenal, Defender)",ARS,4.5,0,0.29,-0.29,310.3,0,0.0,0.0,inf,0.29,-0.29,310.3,28/02/2021
+"Odegaard  Martin Odegaard (Arsenal, Midfielder)",ARS,5.6,0,0.13,-0.13,369.2,0,0.0,0.0,inf,0.13,-0.13,369.2,28/02/2021
+"Partey  Thomas Partey (Arsenal, Midfielder)",ARS,5.0,0,0.01,-0.01,2400.0,0,0.05,-0.05,480.0,0.06,-0.06,400.0,28/02/2021
+"Pepe  Nicolas Pepe (Arsenal, Midfielder)",ARS,7.5,0,0.12,-0.12,750.0,1,1.2,-0.2,75.0,1.32,-0.32,68.2,28/02/2021
+"Smith-Rowe  Emile Smith-Rowe (Arsenal, Midfielder)",ARS,5.5,0,0.02,-0.02,2100.0,0,0.0,0.0,inf,0.02,-0.02,2100.0,28/02/2021
+"Tierney  Kieran Tierney (Arsenal, Defender)",ARS,5.0,0,0.13,-0.13,692.3,0,0.04,-0.04,2250.0,0.17,-0.17,529.4,28/02/2021
+"Xhaka  Granit Xhaka (Arsenal, Midfielder)",ARS,5.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,28/02/2021
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,0,0.07,-0.07,642.9,0,0.05,-0.05,900.0,0.12,-0.12,375.0,28/02/2021
+"Amartey  Daniel Amartey (Leicester City, Defender)",LEI,4.0,0,0.0,0.0,inf,0,0.06,-0.06,350.0,0.06,-0.06,350.0,28/02/2021
+"Ricardo Pereira  Ricardo Domingos Barbosa Pereira (Leicester City, Defender)",LEI,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/02/2021
+"Barnes (Harvey)  Harvey Barnes (Leicester City, Midfielder)",LEI,7.0,0,0.0,0.0,inf,0,0.02,-0.02,2550.0,0.02,-0.02,2550.0,28/02/2021
+"Castagne  Timothy Castagne (Leicester City, Defender)",LEI,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,28/02/2021
+"Evans  Jonny Evans (Leicester City, Defender)",LEI,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/02/2021
+"Iheanacho  Kelechi Iheanacho (Leicester City, Forward)",LEI,7.5,0,0.02,-0.02,4500.0,0,0.19,-0.19,473.7,0.21,-0.21,428.6,28/02/2021
+"Ndidi  Onyinye Wilfred Ndidi (Leicester City, Midfielder)",LEI,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,28/02/2021
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/02/2021
+"Söyüncü  Caglar Söyüncü (Leicester City, Defender)",LEI,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,28/02/2021
+"Thomas (Luke)  Luke Thomas (Leicester City, Defender)",LEI,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/02/2021
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,0,0.01,-0.01,9000.0,1,0.05,0.95,1800.0,0.06,0.94,1500.0,28/02/2021
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/02/2021
+"Ünder  Cengiz Ünder (Leicester City, Midfielder)",LEI,5.7,0,0.14,-0.14,278.6,0,0.0,0.0,inf,0.14,-0.14,278.6,28/02/2021

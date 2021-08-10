@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Aguero  Sergio Aguero (Manchester City, Forward)",MCI,10.3,0,14,1,0,0,0,0,0,0,0,0,0,0,WBA,13,15/12/2020,FWD,True
+"Aké  Nathan Aké (Manchester City, Defender)",MCI,5.0,1,90,0,0,0,0,0,0,0,1,0,1,0,WBA,13,15/12/2020,DEF,True
+"João Cancelo  João Pedro Cavaco Cancelo (Manchester City, Defender)",MCI,6.0,1,90,0,0,0,0,0,0,0,1,0,1,0,WBA,13,15/12/2020,DEF,True
+"De Bruyne  Kevin De Bruyne (Manchester City, Midfielder)",MCI,12.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,13,15/12/2020,MID,True
+"Foden  Phil Foden (Manchester City, Midfielder)",MCI,8.0,1,76,0,1,0,0,0,0,0,1,0,0,0,WBA,13,15/12/2020,MID,True
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,1,90,0,0,0,0,0,0,0,1,1,0,0,WBA,13,15/12/2020,DEF,True
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,1,90,0,0,1,0,0,0,0,1,0,0,0,WBA,13,15/12/2020,MID,True
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,13,15/12/2020,MID,True
+"Mendy (Benjamin)  Benjamin Mendy (Manchester City, Defender)",MCI,5.5,1,75,0,1,0,0,0,0,0,1,0,0,0,WBA,13,15/12/2020,DEF,True
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,13,15/12/2020,GKP,True
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,1,90,0,0,0,1,0,1,0,1,0,0,0,WBA,13,15/12/2020,MID,True
+"Walker (Kyle)  Kyle Walker (Manchester City, Defender)",MCI,5.5,0,15,1,0,0,0,0,0,0,0,0,0,0,WBA,13,15/12/2020,DEF,True
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,13,15/12/2020,FWD,True
+"Ajayi  Semi Ajayi (West Bromwich Albion, Defender)",WBA,4.8,1,90,0,0,0,0,1,1,0,1,0,0,0,MCI,13,15/12/2020,DEF,False
+"Austin (Charlie)  Charlie Austin (West Bromwich Albion, Forward)",WBA,5.1,0,20,1,0,0,0,0,0,0,0,0,0,0,MCI,13,15/12/2020,FWD,False
+"Diangana  Grady Diangana (West Bromwich Albion, Midfielder)",WBA,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,13,15/12/2020,MID,False
+"Furlong  Darnell Furlong (West Bromwich Albion, Defender)",WBA,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,13,15/12/2020,DEF,False
+"Gallagher  Conor Gallagher (West Bromwich Albion, Midfielder)",WBA,5.5,1,90,0,0,0,0,0,0,0,1,0,1,0,MCI,13,15/12/2020,MID,False
+"Gibbs  Kieran Gibbs (West Bromwich Albion, Defender)",WBA,4.3,1,90,0,0,0,0,0,0,0,1,0,1,0,MCI,13,15/12/2020,DEF,False
+"Grant (Karlan)  Karlan Grant (West Bromwich Albion, Forward)",WBA,5.6,1,70,0,1,0,0,0,0,0,1,0,0,0,MCI,13,15/12/2020,FWD,False
+"Johnstone  Sam Johnstone (West Bromwich Albion, Goalkeeper)",WBA,4.6,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,13,15/12/2020,GKP,False
+"Krovinovic  Filip Krovinovic (West Bromwich Albion, Midfielder)",WBA,4.9,0,10,1,0,0,0,0,0,0,0,0,0,0,MCI,13,15/12/2020,MID,False
+"Livermore  Jake Livermore (West Bromwich Albion, Midfielder)",WBA,4.7,1,80,0,1,0,0,0,0,0,1,0,0,0,MCI,13,15/12/2020,MID,False
+"O'Shea  Dara O&#039;Shea (West Bromwich Albion, Defender)",WBA,4.2,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,13,15/12/2020,DEF,False
+"Peltier  Lee Peltier (West Bromwich Albion, Defender)",WBA,3.9,0,3,1,0,0,0,0,0,0,0,0,1,0,MCI,13,15/12/2020,DEF,False
+"Phillips (Matthew)  Matthew Phillips (West Bromwich Albion, Midfielder)",WBA,5.1,1,87,0,1,0,0,0,0,0,1,0,0,0,MCI,13,15/12/2020,MID,False
+"Sawyers  Romaine Sawyers (West Bromwich Albion, Midfielder)",WBA,4.6,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,13,15/12/2020,MID,False

@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Bergwijn  Steven Bergwijn (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/12/2020
+"Davies (Ben)  Ben Davies (Tottenham Hotspur, Defender)",TOT,4.5,1,0.04,0.96,2250.0,0,0.0,0.0,inf,0.04,0.96,2250.0,27/12/2020
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,0,0.0,0.0,inf,0,0.05,-0.05,1800.0,0.05,-0.05,1800.0,27/12/2020
+"Doherty  Matt Doherty (Tottenham Hotspur, Defender)",TOT,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,27/12/2020
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,27/12/2020
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,0,0.03,-0.03,3000.0,0,0.15,-0.15,600.0,0.18,-0.18,500.0,27/12/2020
+"Lamela  Erik Lamela (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/12/2020
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/12/2020
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.08,-0.08,875.0,1,0.02,0.98,3500.0,0.1,0.9,700.0,27/12/2020
+"Reguilón  Sergio Reguilón (Tottenham Hotspur, Defender)",TOT,5.0,0,0.01,-0.01,6300.0,0,0.13,-0.13,484.6,0.14,-0.14,450.0,27/12/2020
+"Sissoko  Moussa Sissoko (Tottenham Hotspur, Midfielder)",TOT,4.5,0,0.01,-0.01,2000.0,0,0.0,0.0,inf,0.01,-0.01,2000.0,27/12/2020
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,0,0.18,-0.18,466.7,0,0.04,-0.04,2100.0,0.22,-0.22,381.8,27/12/2020
+"DSanchez  Davinson Sánchez (Tottenham Hotspur, Defender)",TOT,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/12/2020
+"Winks  Harry Winks (Tottenham Hotspur, Midfielder)",TOT,4.5,0,0.07,-0.07,1285.7,0,0.0,0.0,inf,0.07,-0.07,1285.7,27/12/2020
+"Ait Nouri  Rayan Ait Nouri (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/12/2020
+"Coady  Conor Coady (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.01,-0.01,9000.0,0,0.02,-0.02,4500.0,0.03,-0.03,3000.0,27/12/2020
+"Vitor Ferreira  Vitor Machado Ferreira (Wolverhampton Wanderers, Midfielder)",WOL,4.7,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/12/2020
+"Marçal  Fernando Marçal de Oliveira (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.03,-0.03,2500.0,0,0.0,0.0,inf,0.03,-0.03,2500.0,27/12/2020
+"Moutinho  João Moutinho (Wolverhampton Wanderers, Midfielder)",WOL,5.0,0,0.05,-0.05,1660.0,0,0.0,0.0,inf,0.05,-0.05,1660.0,27/12/2020
+"Neto  Pedro Neto (Wolverhampton Wanderers, Midfielder)",WOL,6.5,1,0.11,0.89,818.2,0,0.04,-0.04,2250.0,0.15,0.85,600.0,27/12/2020
+"Otasowie  Owen Otasowie (Wolverhampton Wanderers, Midfielder)",WOL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/12/2020
+"Podence  Daniel Podence (Wolverhampton Wanderers, Midfielder)",WOL,5.5,0,0.08,-0.08,1112.5,0,0.1,-0.1,890.0,0.18,-0.18,494.4,27/12/2020
+"Saiss  Romain Saiss (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.01,-0.01,9000.0,1,0.19,0.81,473.7,0.2,0.8,450.0,27/12/2020
+"Semedo  Nelson Semedo (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.25,-0.25,360.0,0,0.0,0.0,inf,0.25,-0.25,360.0,27/12/2020
+"Fabio Silva  Fabio Daniel Soares Silva (Wolverhampton Wanderers, Forward)",WOL,6.0,0,0.02,-0.02,4500.0,0,0.45,-0.45,200.0,0.47,-0.47,191.5,27/12/2020
+"Traoré  Adama Traoré (Wolverhampton Wanderers, Midfielder)",WOL,6.0,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,27/12/2020
+"Ruben Neves  Rúben Diogo da Silva Neves (Wolverhampton Wanderers, Midfielder)",WOL,5.5,0,0.26,-0.26,346.2,0,0.08,-0.08,1125.0,0.34,-0.34,264.7,27/12/2020
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/12/2020

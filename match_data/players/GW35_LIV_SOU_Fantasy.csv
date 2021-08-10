@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Thiago Alcántara  Thiago Alcántara do Nascimento (Liverpool, Midfielder)",LIV,5.5,1,90,0,0,1,0,0,0,1,0,0,0,0,SOU,35,08/05/2021,MID,True
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,35,08/05/2021,DEF,True
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,0,11,1,0,0,1,0,1,0,0,0,0,0,SOU,35,08/05/2021,FWD,True
+"Jones (Curtis)  Curtis Jones (Liverpool, Midfielder)",LIV,5.0,0,1,1,0,0,0,0,0,0,0,0,0,0,SOU,35,08/05/2021,MID,True
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,1,89,0,1,1,0,0,0,1,0,0,0,0,SOU,35,08/05/2021,MID,True
+"Oxlade-Chamberlain  Alex Oxlade-Chamberlain (Liverpool, Midfielder)",LIV,6.0,0,3,1,0,0,0,0,0,0,0,0,0,0,SOU,35,08/05/2021,MID,True
+"Phillips (Nathaniel)  Nathaniel Phillips (Liverpool, Defender)",LIV,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,35,08/05/2021,DEF,True
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,35,08/05/2021,GKP,True
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,35,08/05/2021,DEF,True
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,1,87,0,1,0,1,0,1,1,0,0,0,0,SOU,35,08/05/2021,MID,True
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,35,08/05/2021,MID,True
+"Diogo Jota  Diogo José Teixeira da Silva (Liverpool, Midfielder)",LIV,7.5,1,79,0,1,0,0,0,0,1,0,0,0,0,SOU,35,08/05/2021,MID,True
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,35,08/05/2021,MID,True
+"Rhys Williams  Rhys Williams (Liverpool, Defender)",LIV,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,35,08/05/2021,DEF,True
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,1,79,0,1,0,0,0,0,0,1,0,0,0,LIV,35,08/05/2021,FWD,False
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,35,08/05/2021,MID,False
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,35,08/05/2021,DEF,False
+"Diallo  Ibrahima Diallo (Southampton, Midfielder)",SOU,4.5,0,24,1,0,0,0,0,0,0,1,0,0,0,LIV,35,08/05/2021,MID,False
+"Djenepo  Moussa Djenepo (Southampton, Midfielder)",SOU,5.5,0,11,1,0,0,0,0,0,0,1,0,0,0,LIV,35,08/05/2021,MID,False
+"Forster  Fraser Forster (Southampton, Goalkeeper)",SOU,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,35,08/05/2021,GKP,False
+"Obafemi  Michael Obafemi (Southampton, Forward)",SOU,4.5,0,24,1,0,0,0,0,0,0,1,0,0,0,LIV,35,08/05/2021,FWD,False
+"Redmond  Nathan Redmond (Southampton, Midfielder)",SOU,6.0,1,90,0,0,0,0,0,0,0,2,0,1,0,LIV,35,08/05/2021,MID,False
+"Stephens (Jack)  Jack Stephens (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,35,08/05/2021,DEF,False
+"Tella  Nathan Tella (Southampton, Midfielder)",SOU,5.0,1,66,0,1,0,0,0,0,0,1,0,0,0,LIV,35,08/05/2021,MID,False
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,35,08/05/2021,DEF,False
+"Walcott  Theo Walcott (Southampton, Midfielder)",SOU,6.0,1,66,0,1,0,0,0,0,0,1,0,0,0,LIV,35,08/05/2021,MID,False
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,35,08/05/2021,DEF,False
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,35,08/05/2021,MID,False

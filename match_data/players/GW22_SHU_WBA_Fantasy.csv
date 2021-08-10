@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Ampadu  Ethan Ampadu (Sheffield United, Defender)",SHU,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,22,02/02/2021,DEF,True
+"Baldock  George Baldock (Sheffield United, Defender)",SHU,4.9,1,44,0,1,0,0,0,0,0,1,0,0,0,WBA,22,02/02/2021,DEF,True
+"Basham  Chris Basham (Sheffield United, Defender)",SHU,4.6,1,90,0,0,0,1,0,1,0,1,0,0,0,WBA,22,02/02/2021,DEF,True
+"Bogle  Jayden Bogle (Sheffield United, Defender)",SHU,4.3,1,90,0,0,1,0,0,0,0,1,0,0,0,WBA,22,02/02/2021,DEF,True
+"Oliver Burke  Oliver Burke (Sheffield United, Midfielder)",SHU,4.1,0,4,1,0,0,0,0,0,0,0,0,0,0,WBA,22,02/02/2021,MID,True
+"Egan  John Egan (Sheffield United, Defender)",SHU,4.7,1,90,0,0,0,1,0,1,0,1,0,0,0,WBA,22,02/02/2021,DEF,True
+"Fleck  John Fleck (Sheffield United, Midfielder)",SHU,5.6,1,90,0,0,0,0,0,0,0,1,0,1,0,WBA,22,02/02/2021,MID,True
+"Lowe  Max Lowe (Sheffield United, Defender)",SHU,4.2,0,46,1,0,0,0,0,0,0,0,0,0,0,WBA,22,02/02/2021,DEF,True
+"Lundstram  John Lundstram (Sheffield United, Midfielder)",SHU,4.8,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,22,02/02/2021,MID,True
+"McBurnie  Oliver McBurnie (Sheffield United, Forward)",SHU,5.6,0,45,1,0,0,0,0,0,0,0,0,0,0,WBA,22,02/02/2021,FWD,True
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,1,90,0,0,0,0,0,0,0,1,0,1,0,WBA,22,02/02/2021,FWD,True
+"Norwood  Oliver Norwood (Sheffield United, Midfielder)",SHU,4.5,1,45,0,1,0,0,0,0,0,1,0,0,0,WBA,22,02/02/2021,MID,True
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,22,02/02/2021,GKP,True
+"Sharp  Billy Sharp (Sheffield United, Forward)",SHU,5.5,1,86,0,1,1,0,0,0,0,1,0,0,0,WBA,22,02/02/2021,FWD,True
+"Ajayi  Semi Ajayi (West Bromwich Albion, Defender)",WBA,4.8,1,90,0,0,0,0,0,0,0,2,0,0,0,SHU,22,02/02/2021,DEF,False
+"Bartley  Kyle Bartley (West Bromwich Albion, Defender)",WBA,4.4,1,90,0,0,0,0,0,0,0,2,0,0,0,SHU,22,02/02/2021,DEF,False
+"Matheus Pereira  Matheus Fellipe Costa Pereira (West Bromwich Albion, Midfielder)",WBA,5.4,1,90,0,0,0,0,0,0,0,2,0,1,0,SHU,22,02/02/2021,MID,False
+"Diagne  Mbaye Diagne (West Bromwich Albion, Forward)",WBA,6.0,1,68,0,1,0,0,1,1,0,1,0,0,0,SHU,22,02/02/2021,FWD,False
+"Gallagher  Conor Gallagher (West Bromwich Albion, Midfielder)",WBA,5.5,0,16,1,0,0,0,0,0,0,0,0,0,0,SHU,22,02/02/2021,MID,False
+"Grant (Karlan)  Karlan Grant (West Bromwich Albion, Forward)",WBA,5.6,0,22,1,0,0,0,0,0,0,1,0,0,0,SHU,22,02/02/2021,FWD,False
+"Johnstone  Sam Johnstone (West Bromwich Albion, Goalkeeper)",WBA,4.6,1,90,0,0,0,0,0,0,0,2,0,0,0,SHU,22,02/02/2021,GKP,False
+"Livermore  Jake Livermore (West Bromwich Albion, Midfielder)",WBA,4.7,1,90,0,0,0,0,0,0,0,2,0,0,0,SHU,22,02/02/2021,MID,False
+"O'Shea  Dara O&#039;Shea (West Bromwich Albion, Defender)",WBA,4.2,1,90,0,0,0,0,0,0,0,2,0,0,0,SHU,22,02/02/2021,DEF,False
+"Phillips (Matthew)  Matthew Phillips (West Bromwich Albion, Midfielder)",WBA,5.1,1,74,0,1,1,0,0,0,0,2,0,0,0,SHU,22,02/02/2021,MID,False
+"Robinson (Callum)  Callum Robinson (West Bromwich Albion, Forward)",WBA,5.2,1,68,0,1,0,0,0,0,0,1,0,0,0,SHU,22,02/02/2021,FWD,False
+"Robson-Kanu  Hal Robson-Kanu (West Bromwich Albion, Forward)",WBA,5.2,0,22,1,0,0,0,0,0,0,1,0,0,0,SHU,22,02/02/2021,FWD,False
+"Snodgrass  Robert Snodgrass (West Bromwich Albion, Midfielder)",WBA,5.6,1,90,0,0,0,0,0,0,0,2,0,0,0,SHU,22,02/02/2021,MID,False
+"Townsend (Conor)  Conor Townsend (West Bromwich Albion, Defender)",WBA,4.4,1,90,0,0,0,0,0,0,0,2,0,0,0,SHU,22,02/02/2021,DEF,False

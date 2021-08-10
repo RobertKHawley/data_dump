@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,0,0.58,-0.58,155.2,0,0.06,-0.06,1500.0,0.64,-0.64,140.6,20/12/2020
+"Amartey  Daniel Amartey (Leicester City, Defender)",LEI,4.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/12/2020
+"Barnes (Harvey)  Harvey Barnes (Leicester City, Midfielder)",LEI,7.0,0,0.06,-0.06,1400.0,0,0.09,-0.09,933.3,0.15,-0.15,560.0,20/12/2020
+"Castagne  Timothy Castagne (Leicester City, Defender)",LEI,5.5,0,0.01,-0.01,6000.0,0,0.0,0.0,inf,0.01,-0.01,6000.0,20/12/2020
+"Evans  Jonny Evans (Leicester City, Defender)",LEI,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/12/2020
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,0,0.13,-0.13,692.3,0,0.14,-0.14,642.9,0.27,-0.27,333.3,20/12/2020
+"Iheanacho  Kelechi Iheanacho (Leicester City, Forward)",LEI,7.5,0,0.01,-0.01,200.0,0,0.0,0.0,inf,0.01,-0.01,200.0,20/12/2020
+"Justin  James Justin (Leicester City, Defender)",LEI,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,20/12/2020
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,0,0.26,-0.26,346.2,0,0.12,-0.12,750.0,0.38,-0.38,236.8,20/12/2020
+"Ndidi  Onyinye Wilfred Ndidi (Leicester City, Midfielder)",LEI,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,20/12/2020
+"Praet  Dennis Praet (Leicester City, Midfielder)",LEI,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/12/2020
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/12/2020
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,0,0.03,-0.03,3000.0,0,0.07,-0.07,1285.7,0.1,-0.1,900.0,20/12/2020
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,0,0.11,-0.11,800.0,1,1.22,-0.22,72.1,1.33,-0.33,66.2,20/12/2020
+"Alderweireld  Toby Alderweireld (Tottenham Hotspur, Defender)",TOT,5.0,0,0.02,-0.02,4500.0,0,0.06,-0.06,1500.0,0.08,-0.08,1125.0,20/12/2020
+"Aurier  Serge Aurier (Tottenham Hotspur, Defender)",TOT,5.0,0,0.04,-0.04,1600.0,0,0.0,0.0,inf,0.04,-0.04,1600.0,20/12/2020
+"Bale  Gareth Bale (Tottenham Hotspur, Midfielder)",TOT,9.2,0,0.06,-0.06,750.0,0,0.05,-0.05,900.0,0.11,-0.11,409.1,20/12/2020
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,0,0.12,-0.12,750.0,0,0.0,0.0,inf,0.12,-0.12,750.0,20/12/2020
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,20/12/2020
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,0,0.14,-0.14,642.9,0,0.31,-0.31,290.3,0.45,-0.45,200.0,20/12/2020
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/12/2020
+"Lo Celso  Giovani Lo Celso (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/12/2020
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.08,-0.08,562.5,0,0.0,0.0,inf,0.08,-0.08,562.5,20/12/2020
+"Reguilón  Sergio Reguilón (Tottenham Hotspur, Defender)",TOT,5.0,0,0.16,-0.16,562.5,0,0.0,0.0,inf,0.16,-0.16,562.5,20/12/2020
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,0,0.12,-0.12,341.7,0,0.0,0.0,inf,0.12,-0.12,341.7,20/12/2020
+"Sissoko  Moussa Sissoko (Tottenham Hotspur, Midfielder)",TOT,4.5,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,20/12/2020
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,0,0.16,-0.16,562.5,0,0.32,-0.32,281.3,0.48,-0.48,187.5,20/12/2020
+"Winks  Harry Winks (Tottenham Hotspur, Midfielder)",TOT,4.5,0,0.02,-0.02,1300.0,0,0.0,0.0,inf,0.02,-0.02,1300.0,20/12/2020

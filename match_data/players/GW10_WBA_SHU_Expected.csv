@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Baldock  George Baldock (Sheffield United, Defender)",SHU,4.9,0,0.24,-0.24,375.0,0,0.64,-0.64,140.6,0.88,-0.88,102.3,28/11/2020
+"Basham  Chris Basham (Sheffield United, Defender)",SHU,4.6,0,0.02,-0.02,4500.0,0,0.09,-0.09,1000.0,0.11,-0.11,818.2,28/11/2020
+"Berge  Sander Berge (Sheffield United, Midfielder)",SHU,4.9,0,0.45,-0.45,200.0,0,0.04,-0.04,2250.0,0.49,-0.49,183.7,28/11/2020
+"Brewster  Rhian Brewster (Sheffield United, Forward)",SHU,4.2,0,0.02,-0.02,1800.0,0,0.4,-0.4,90.0,0.42,-0.42,85.7,28/11/2020
+"Bryan (Kean)  Kean Bryan (Sheffield United, Defender)",SHU,3.9,0,0.04,-0.04,1575.0,0,0.0,0.0,inf,0.04,-0.04,1575.0,28/11/2020
+"Oliver Burke  Oliver Burke (Sheffield United, Midfielder)",SHU,4.1,0,0.22,-0.22,336.4,0,0.12,-0.12,616.7,0.34,-0.34,217.6,28/11/2020
+"Egan  John Egan (Sheffield United, Defender)",SHU,4.7,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/11/2020
+"Fleck  John Fleck (Sheffield United, Midfielder)",SHU,5.6,0,0.11,-0.11,818.2,0,0.07,-0.07,1285.7,0.18,-0.18,500.0,28/11/2020
+"Lowe  Max Lowe (Sheffield United, Defender)",SHU,4.2,0,0.03,-0.03,3000.0,0,0.05,-0.05,1800.0,0.08,-0.08,1125.0,28/11/2020
+"Lundstram  John Lundstram (Sheffield United, Midfielder)",SHU,4.8,0,0.18,-0.18,150.0,0,0.07,-0.07,385.7,0.25,-0.25,108.0,28/11/2020
+"McBurnie  Oliver McBurnie (Sheffield United, Forward)",SHU,5.6,0,0.08,-0.08,1125.0,0,0.85,-0.85,105.9,0.93,-0.93,96.8,28/11/2020
+"Mousset  Lys Mousset (Sheffield United, Forward)",SHU,5.8,0,0.06,-0.06,266.7,0,0.78,-0.78,20.5,0.84,-0.84,19.0,28/11/2020
+"Norwood  Oliver Norwood (Sheffield United, Midfielder)",SHU,4.5,0,0.13,-0.13,415.4,0,0.03,-0.03,1800.0,0.16,-0.16,337.5,28/11/2020
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/11/2020
+"Ajayi  Semi Ajayi (West Bromwich Albion, Defender)",WBA,4.8,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/11/2020
+"Bartley  Kyle Bartley (West Bromwich Albion, Defender)",WBA,4.4,0,0.0,0.0,inf,0,0.48,-0.48,187.5,0.48,-0.48,187.5,28/11/2020
+"Matheus Pereira  Matheus Fellipe Costa Pereira (West Bromwich Albion, Midfielder)",WBA,5.4,0,0.86,-0.86,104.7,0,0.22,-0.22,409.1,1.08,-1.08,83.3,28/11/2020
+"Furlong  Darnell Furlong (West Bromwich Albion, Defender)",WBA,4.5,0,0.01,-0.01,9000.0,0,0.14,-0.14,642.9,0.15,-0.15,600.0,28/11/2020
+"Gallagher  Conor Gallagher (West Bromwich Albion, Midfielder)",WBA,5.5,0,0.01,-0.01,9000.0,1,0.16,0.84,562.5,0.17,0.83,529.4,28/11/2020
+"Grant (Karlan)  Karlan Grant (West Bromwich Albion, Forward)",WBA,5.6,0,0.02,-0.02,3750.0,0,0.23,-0.23,326.1,0.25,-0.25,300.0,28/11/2020
+"Ivanovic  Branislav Ivanovic (West Bromwich Albion, Defender)",WBA,4.4,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/11/2020
+"Johnstone  Sam Johnstone (West Bromwich Albion, Goalkeeper)",WBA,4.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/11/2020
+"Krovinovic  Filip Krovinovic (West Bromwich Albion, Midfielder)",WBA,4.9,0,0.02,-0.02,750.0,0,0.0,0.0,inf,0.02,-0.02,750.0,28/11/2020
+"Phillips (Matthew)  Matthew Phillips (West Bromwich Albion, Midfielder)",WBA,5.1,0,0.01,-0.01,1500.0,0,0.0,0.0,inf,0.01,-0.01,1500.0,28/11/2020
+"Robinson (Callum)  Callum Robinson (West Bromwich Albion, Forward)",WBA,5.2,0,0.01,-0.01,6500.0,0,0.03,-0.03,2166.7,0.04,-0.04,1625.0,28/11/2020
+"Robson-Kanu  Hal Robson-Kanu (West Bromwich Albion, Forward)",WBA,5.2,0,0.03,-0.03,833.3,0,0.03,-0.03,833.3,0.06,-0.06,416.7,28/11/2020
+"Sawyers  Romaine Sawyers (West Bromwich Albion, Midfielder)",WBA,4.6,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,28/11/2020
+"Townsend (Conor)  Conor Townsend (West Bromwich Albion, Defender)",WBA,4.4,0,0.01,-0.01,7500.0,0,0.0,0.0,inf,0.01,-0.01,7500.0,28/11/2020

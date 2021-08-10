@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Coleman  Seamus Coleman (Everton, Defender)",EVE,5.0,1,0.07,0.93,414.3,0,0.03,-0.03,966.7,0.1,0.9,290.0,16/04/2021
+"Davies (Tom)  Tom Davies (Everton, Midfielder)",EVE,5.0,0,0.02,-0.02,4200.0,0,0.0,0.0,inf,0.02,-0.02,4200.0,16/04/2021
+"Digne  Lucas Digne (Everton, Defender)",EVE,5.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,16/04/2021
+"Godfrey  Ben Godfrey (Everton, Defender)",EVE,5.0,0,0.0,0.0,inf,0,0.21,-0.21,428.6,0.21,-0.21,428.6,16/04/2021
+"Holgate  Mason Holgate (Everton, Defender)",EVE,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/04/2021
+"Iwobi  Alex Iwobi (Everton, Midfielder)",EVE,6.0,0,0.0,0.0,inf,0,0.05,-0.05,1220.0,0.05,-0.05,1220.0,16/04/2021
+"Keane  Michael Keane (Everton, Defender)",EVE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/04/2021
+"King (Joshua)  Joshua King (Everton, Forward)",EVE,5.5,0,0.0,0.0,inf,0,0.08,-0.08,75.0,0.08,-0.08,75.0,16/04/2021
+"Allan  Allan Marques Loureiro (Everton, Midfielder)",EVE,4.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,16/04/2021
+"Pickford  Jordan Pickford (Everton, Goalkeeper)",EVE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/04/2021
+"Rodríguez  James Rodríguez (Everton, Midfielder)",EVE,7.0,0,0.24,-0.24,375.0,0,0.16,-0.16,562.5,0.4,-0.4,225.0,16/04/2021
+"Sigurdsson  Gylfi Sigurdsson (Everton, Midfielder)",EVE,7.0,0,0.19,-0.19,473.7,2,0.98,1.02,91.8,1.17,0.83,76.9,16/04/2021
+"Richarlison  Richarlison de Andrade (Everton, Forward)",EVE,7.5,0,0.04,-0.04,2250.0,0,0.3,-0.3,300.0,0.34,-0.34,264.7,16/04/2021
+"Alderweireld  Toby Alderweireld (Tottenham Hotspur, Defender)",TOT,5.0,0,0.01,-0.01,9000.0,0,0.07,-0.07,1285.7,0.08,-0.08,1125.0,16/04/2021
+"Alli  Bamidele Alli (Tottenham Hotspur, Midfielder)",TOT,6.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/04/2021
+"Aurier  Serge Aurier (Tottenham Hotspur, Defender)",TOT,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/04/2021
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,16/04/2021
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,16/04/2021
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,0,0.03,-0.03,2966.7,2,0.99,1.01,89.9,1.02,0.98,87.3,16/04/2021
+"Lamela  Erik Lamela (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.0,0.0,inf,0,0.03,-0.03,866.7,0.03,-0.03,866.7,16/04/2021
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/04/2021
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.01,-0.01,6400.0,0,0.13,-0.13,492.3,0.14,-0.14,457.1,16/04/2021
+"Reguilón  Sergio Reguilón (Tottenham Hotspur, Defender)",TOT,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/04/2021
+"Rodon  Joe Rodon (Tottenham Hotspur, Defender)",TOT,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/04/2021
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,0,0.04,-0.04,650.0,0,0.0,0.0,inf,0.04,-0.04,650.0,16/04/2021
+"Sissoko  Moussa Sissoko (Tottenham Hotspur, Midfielder)",TOT,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,16/04/2021
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,0,0.08,-0.08,1125.0,0,0.17,-0.17,529.4,0.25,-0.25,360.0,16/04/2021

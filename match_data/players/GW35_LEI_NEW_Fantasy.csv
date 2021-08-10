@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,1,90,0,0,1,0,0,0,0,4,0,0,0,NEW,35,07/05/2021,MID,True
+"Ricardo Pereira  Ricardo Domingos Barbosa Pereira (Leicester City, Defender)",LEI,5.5,1,69,0,1,0,0,0,0,0,3,0,0,0,NEW,35,07/05/2021,DEF,True
+"Castagne  Timothy Castagne (Leicester City, Defender)",LEI,5.5,1,90,0,0,0,0,0,0,0,4,0,0,0,NEW,35,07/05/2021,DEF,True
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,NEW,35,07/05/2021,DEF,True
+"Iheanacho  Kelechi Iheanacho (Leicester City, Forward)",LEI,7.5,1,90,0,0,1,0,0,0,0,4,0,1,0,NEW,35,07/05/2021,FWD,True
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,1,77,0,1,0,0,0,0,0,4,0,0,0,NEW,35,07/05/2021,MID,True
+"Mendy (Nampalys)  Nampalys Mendy (Leicester City, Midfielder)",LEI,4.5,0,13,1,0,0,0,0,0,0,0,0,0,0,NEW,35,07/05/2021,MID,True
+"Ndidi  Onyinye Wilfred Ndidi (Leicester City, Midfielder)",LEI,5.0,1,63,0,1,0,0,0,0,0,2,0,0,0,NEW,35,07/05/2021,MID,True
+"Ayoze Pérez  Ayoze Pérez Gutiérrez (Leicester City, Midfielder)",LEI,6.0,0,27,1,0,0,1,0,1,0,2,0,0,0,NEW,35,07/05/2021,MID,True
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,1,90,0,0,0,0,0,0,0,4,0,0,0,NEW,35,07/05/2021,GKP,True
+"Söyüncü  Caglar Söyüncü (Leicester City, Defender)",LEI,5.0,1,90,0,0,0,0,0,0,0,4,0,0,0,NEW,35,07/05/2021,DEF,True
+"Thomas (Luke)  Luke Thomas (Leicester City, Defender)",LEI,4.5,0,21,1,0,0,0,0,0,0,1,0,0,0,NEW,35,07/05/2021,DEF,True
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,1,90,0,0,0,0,0,0,0,4,0,0,0,NEW,35,07/05/2021,MID,True
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,1,90,0,0,0,1,0,1,0,4,0,0,0,NEW,35,07/05/2021,FWD,True
+"Almirón  Miguel Almirón (Newcastle United, Midfielder)",NEW,5.5,1,88,0,1,0,0,0,0,0,2,0,0,0,LEI,35,07/05/2021,MID,False
+"Joelinton  Joelinton Cássio Apolinário de Lira (Newcastle United, Forward)",NEW,6.0,0,6,1,0,0,0,0,0,0,1,0,0,0,LEI,35,07/05/2021,FWD,False
+"Dubravka  Martin Dubravka (Newcastle United, Goalkeeper)",NEW,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,35,07/05/2021,GKP,False
+"Dummett  Paul Dummett (Newcastle United, Defender)",NEW,4.5,1,90,0,0,1,0,0,0,0,2,0,0,0,LEI,35,07/05/2021,DEF,False
+"Fernández  Federico Fernández (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,35,07/05/2021,DEF,False
+"Hendrick  Jeff Hendrick (Newcastle United, Midfielder)",NEW,5.0,0,2,1,0,0,0,0,0,0,0,0,0,0,LEI,35,07/05/2021,MID,False
+"Krafth  Emil Krafth (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,2,0,1,0,LEI,35,07/05/2021,DEF,False
+"Longstaff (Sean)  Sean Longstaff (Newcastle United, Midfielder)",NEW,4.5,0,13,1,0,0,0,0,0,0,2,0,0,0,LEI,35,07/05/2021,MID,False
+"Jacob Murphy  Jacob Murphy (Newcastle United, Midfielder)",NEW,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,35,07/05/2021,MID,False
+"Ritchie  Matt Ritchie (Newcastle United, Midfielder)",NEW,5.0,1,90,0,0,0,1,1,2,0,2,0,0,0,LEI,35,07/05/2021,MID,False
+"Saint-Maximin  Allan Saint-Maximin (Newcastle United, Midfielder)",NEW,6.5,1,84,0,1,0,0,0,0,0,1,0,0,0,LEI,35,07/05/2021,MID,False
+"Shelvey  Jonjo Shelvey (Newcastle United, Midfielder)",NEW,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,35,07/05/2021,MID,False
+"Willock  Joseph Willock (Newcastle United, Midfielder)",NEW,6.0,1,77,0,1,1,0,0,0,1,0,0,0,0,LEI,35,07/05/2021,MID,False
+"C Wilson  Callum Wilson (Newcastle United, Forward)",NEW,7.5,1,90,0,0,2,0,0,0,0,2,0,0,0,LEI,35,07/05/2021,FWD,False

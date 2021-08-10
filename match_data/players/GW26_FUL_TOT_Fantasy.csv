@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Tosin  Oluwatosin Adarabioyo (Fulham, Defender)",FUL,4.5,1,90,0,0,0,0,0,0,0,1,1,0,0,TOT,26,04/03/2021,DEF,True
+"Aina  Ola Aina (Fulham, Defender)",FUL,4.3,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,26,04/03/2021,DEF,True
+"Andersen  Joachim Andersen (Fulham, Defender)",FUL,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,26,04/03/2021,DEF,True
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,26,04/03/2021,GKP,True
+"Bryan (Joe)  Joe Bryan (Fulham, Defender)",FUL,4.5,0,15,1,0,0,0,0,0,0,0,0,0,0,TOT,26,04/03/2021,DEF,True
+"Cavaleiro  Ivan Cavaleiro (Fulham, Midfielder)",FUL,5.3,1,71,0,1,0,0,0,0,0,1,0,0,0,TOT,26,04/03/2021,MID,True
+"Lemina  Mario Lemina (Fulham, Midfielder)",FUL,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,26,04/03/2021,MID,True
+"Loftus-Cheek  Ruben Loftus-Cheek (Fulham, Midfielder)",FUL,5.5,1,64,0,1,0,0,0,0,0,1,0,0,0,TOT,26,04/03/2021,MID,True
+"Lookman  Ademola Lookman (Fulham, Midfielder)",FUL,4.7,1,90,0,0,0,0,0,0,0,1,0,1,0,TOT,26,04/03/2021,MID,True
+"Maja  Josh Maja (Fulham, Forward)",FUL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,26,04/03/2021,FWD,True
+"Mitrovic  Aleksandar Mitrovic (Fulham, Forward)",FUL,5.5,0,19,1,0,0,0,0,0,0,0,0,0,0,TOT,26,04/03/2021,FWD,True
+"Reed  Harrison Reed (Fulham, Midfielder)",FUL,4.4,1,90,0,0,0,0,0,0,0,1,0,1,0,TOT,26,04/03/2021,MID,True
+"Robinson (Antonee)  Antonee Robinson (Fulham, Defender)",FUL,4.4,1,75,0,1,0,0,0,0,0,1,0,0,0,TOT,26,04/03/2021,DEF,True
+"Zambo Anguissa  André-Frank Zambo Anguissa (Fulham, Midfielder)",FUL,4.4,0,26,1,0,0,0,0,0,0,0,0,0,0,TOT,26,04/03/2021,MID,True
+"Alderweireld  Toby Alderweireld (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,26,04/03/2021,DEF,False
+"Alli  Bamidele Alli (Tottenham Hotspur, Midfielder)",TOT,6.5,1,67,0,1,0,0,1,1,1,0,0,0,0,FUL,26,04/03/2021,MID,False
+"Bale  Gareth Bale (Tottenham Hotspur, Midfielder)",TOT,9.2,1,68,0,1,0,0,0,0,1,0,0,1,0,FUL,26,04/03/2021,MID,False
+"Davies (Ben)  Ben Davies (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,26,04/03/2021,DEF,False
+"Doherty  Matt Doherty (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,26,04/03/2021,DEF,False
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,26,04/03/2021,MID,False
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,26,04/03/2021,FWD,False
+"Lamela  Erik Lamela (Tottenham Hotspur, Midfielder)",TOT,6.0,0,15,1,0,0,0,0,0,0,0,0,0,0,FUL,26,04/03/2021,MID,False
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,26,04/03/2021,GKP,False
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,1,75,0,1,0,0,0,0,1,0,0,0,0,FUL,26,04/03/2021,MID,False
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,0,22,1,0,0,0,0,0,0,0,0,0,0,FUL,26,04/03/2021,MID,False
+"Sissoko  Moussa Sissoko (Tottenham Hotspur, Midfielder)",TOT,4.5,0,23,1,0,0,0,0,0,0,0,0,0,0,FUL,26,04/03/2021,MID,False
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,26,04/03/2021,MID,False
+"DSanchez  Davinson Sánchez (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,26,04/03/2021,DEF,False

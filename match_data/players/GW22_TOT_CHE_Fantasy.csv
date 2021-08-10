@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Alonso  Marcos Alonso (Chelsea, Defender)",CHE,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,TOT,22,04/02/2021,DEF,False
+"Azpilicueta  César Azpilicueta (Chelsea, Defender)",CHE,6.0,1,90,0,0,0,0,0,0,1,0,0,1,0,TOT,22,04/02/2021,DEF,False
+"Christensen  Andreas Christensen (Chelsea, Defender)",CHE,5.0,0,54,1,0,0,0,0,0,0,0,0,0,0,TOT,22,04/02/2021,DEF,False
+"Jorginho  Jorge Luiz Frello Filho (Chelsea, Midfielder)",CHE,6.0,1,90,0,0,1,0,0,0,1,0,0,0,0,TOT,22,04/02/2021,MID,False
+"Hudson-Odoi  Callum Hudson-Odoi (Chelsea, Midfielder)",CHE,5.5,1,65,0,1,0,0,0,0,1,0,0,0,0,TOT,22,04/02/2021,MID,False
+"James (Reece)  Reece James (Chelsea, Defender)",CHE,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,TOT,22,04/02/2021,DEF,False
+"Kanté  N&#039;Golo Kanté (Chelsea, Midfielder)",CHE,5.0,0,16,1,0,0,0,0,0,0,0,0,1,0,TOT,22,04/02/2021,MID,False
+"Kovacic  Mateo Kovacic (Chelsea, Midfielder)",CHE,5.0,1,74,0,1,0,0,0,0,1,0,0,0,0,TOT,22,04/02/2021,MID,False
+"Mendy (Edouard)  Edouard Mendy (Chelsea, Goalkeeper)",CHE,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,TOT,22,04/02/2021,GKP,False
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,1,90,0,0,0,0,0,0,1,0,0,0,0,TOT,22,04/02/2021,MID,False
+"Pulisic  Christian Pulisic (Chelsea, Midfielder)",CHE,8.0,0,25,1,0,0,0,0,0,0,0,0,1,0,TOT,22,04/02/2021,MID,False
+"Rüdiger  Antonio Rüdiger (Chelsea, Defender)",CHE,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,TOT,22,04/02/2021,DEF,False
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,1,90,0,0,0,0,1,1,1,0,0,0,0,TOT,22,04/02/2021,FWD,False
+"Thiago Silva  Thiago Emiliano da Silva (Chelsea, Defender)",CHE,5.5,1,36,0,1,0,0,0,0,0,0,0,0,0,TOT,22,04/02/2021,DEF,False
+"Alderweireld  Toby Alderweireld (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,0,0,0,1,0,1,0,CHE,22,04/02/2021,DEF,True
+"Carlos Vinicius  Carlos Vinicius Alves Morais (Tottenham Hotspur, Forward)",TOT,6.9,1,90,0,0,0,0,0,0,0,1,0,0,0,CHE,22,04/02/2021,FWD,True
+"Aurier  Serge Aurier (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,CHE,22,04/02/2021,DEF,True
+"Bergwijn  Steven Bergwijn (Tottenham Hotspur, Midfielder)",TOT,6.0,1,69,0,1,0,0,0,0,0,1,0,0,0,CHE,22,04/02/2021,MID,True
+"Davies (Ben)  Ben Davies (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,CHE,22,04/02/2021,DEF,True
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,CHE,22,04/02/2021,DEF,True
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,1,90,0,0,0,0,0,0,0,1,0,1,0,CHE,22,04/02/2021,MID,True
+"Lamela  Erik Lamela (Tottenham Hotspur, Midfielder)",TOT,6.0,0,21,1,0,0,0,0,0,0,0,0,0,0,CHE,22,04/02/2021,MID,True
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,CHE,22,04/02/2021,GKP,True
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,1,69,0,1,0,0,0,0,0,1,0,0,0,CHE,22,04/02/2021,MID,True
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,0,21,1,0,0,0,0,0,0,0,0,0,0,CHE,22,04/02/2021,MID,True
+"Sissoko  Moussa Sissoko (Tottenham Hotspur, Midfielder)",TOT,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,CHE,22,04/02/2021,MID,True
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,1,90,0,0,0,0,0,0,0,1,0,0,0,CHE,22,04/02/2021,MID,True

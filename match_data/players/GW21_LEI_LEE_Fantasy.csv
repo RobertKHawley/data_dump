@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Alioski  Ezgjan Alioski (Leeds United, Defender)",LEE,4.4,1,90,0,0,0,0,0,0,0,1,0,0,0,LEI,21,31/01/2021,DEF,False
+"Ayling  Luke Ayling (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,0,1,0,1,0,LEI,21,31/01/2021,DEF,False
+"Bamford  Patrick Bamford (Leeds United, Forward)",LEE,8.0,1,90,0,0,1,2,0,2,0,1,0,0,0,LEI,21,31/01/2021,FWD,False
+"Cooper  Liam Cooper (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,LEI,21,31/01/2021,DEF,False
+"Hélder Costa  Helder Costa (Leeds United, Midfielder)",LEE,5.5,0,10,1,0,0,0,0,0,0,0,0,0,0,LEI,21,31/01/2021,MID,False
+"Dallas  Stuart Dallas (Leeds United, Defender)",LEE,5.5,1,90,0,0,1,0,0,0,0,1,0,1,0,LEI,21,31/01/2021,DEF,False
+"Raphinha  Raphael Dias Belloli (Leeds United, Midfielder)",LEE,6.5,1,80,0,1,0,1,0,1,0,1,0,0,0,LEI,21,31/01/2021,MID,False
+"Harrison  Jack Harrison (Leeds United, Midfielder)",LEE,6.0,1,90,0,0,1,0,0,0,0,1,0,0,0,LEI,21,31/01/2021,MID,False
+"Klich  Mateusz Klich (Leeds United, Midfielder)",LEE,5.5,0,69,1,0,0,0,0,0,1,0,0,1,0,LEI,21,31/01/2021,MID,False
+"Meslier  Illan Meslier (Leeds United, Goalkeeper)",LEE,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,LEI,21,31/01/2021,GKP,False
+"Rodrigo  Rodrigo Moreno Machado (Leeds United, Forward)",LEE,6.5,1,21,0,1,0,0,0,0,0,1,0,0,0,LEI,21,31/01/2021,FWD,False
+"Phillips (Kalvin)  Kalvin Phillips (Leeds United, Midfielder)",LEE,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,LEI,21,31/01/2021,MID,False
+"Struijk  Pascal Struijk (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,LEI,21,31/01/2021,DEF,False
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,1,45,0,1,0,0,0,0,0,1,0,0,0,LEE,21,31/01/2021,MID,True
+"Ricardo Pereira  Ricardo Domingos Barbosa Pereira (Leicester City, Defender)",LEI,5.5,0,54,1,0,0,0,0,0,0,2,0,0,0,LEE,21,31/01/2021,DEF,True
+"Barnes (Harvey)  Harvey Barnes (Leicester City, Midfielder)",LEI,7.0,1,90,0,0,1,0,0,0,0,3,0,0,0,LEE,21,31/01/2021,MID,True
+"Castagne  Timothy Castagne (Leicester City, Defender)",LEI,5.5,1,36,0,1,0,0,0,0,0,1,0,0,0,LEE,21,31/01/2021,DEF,True
+"Evans  Jonny Evans (Leicester City, Defender)",LEI,5.5,1,90,0,0,0,0,0,0,0,3,0,0,0,LEE,21,31/01/2021,DEF,True
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,1,80,0,1,0,0,0,0,0,2,0,0,0,LEE,21,31/01/2021,DEF,True
+"Justin  James Justin (Leicester City, Defender)",LEI,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,LEE,21,31/01/2021,DEF,True
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,1,90,0,0,0,1,0,1,0,3,0,0,0,LEE,21,31/01/2021,MID,True
+"Mendy (Nampalys)  Nampalys Mendy (Leicester City, Midfielder)",LEI,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,LEE,21,31/01/2021,MID,True
+"Ayoze Pérez  Ayoze Pérez Gutiérrez (Leicester City, Midfielder)",LEI,6.0,1,90,0,0,0,0,0,0,0,3,0,0,0,LEE,21,31/01/2021,MID,True
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,LEE,21,31/01/2021,GKP,True
+"Söyüncü  Caglar Söyüncü (Leicester City, Defender)",LEI,5.0,0,45,1,0,0,0,0,0,0,2,0,0,0,LEE,21,31/01/2021,DEF,True
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,1,90,0,0,0,0,0,0,0,3,0,0,0,LEE,21,31/01/2021,MID,True
+"Ünder  Cengiz Ünder (Leicester City, Midfielder)",LEI,5.7,0,10,1,0,0,0,0,0,0,1,0,0,0,LEE,21,31/01/2021,MID,True

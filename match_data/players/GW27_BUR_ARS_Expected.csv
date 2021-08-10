@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Aubameyang  Pierre-Emerick Aubameyang (Arsenal, Midfielder)",ARS,10.0,0,0.04,-0.04,2250.0,1,0.81,0.19,111.1,0.85,0.15,105.9,06/03/2021
+"Willian  Willian Borges Da Silva (Arsenal, Midfielder)",ARS,6.5,1,0.04,0.96,1725.0,0,0.0,0.0,inf,0.04,0.96,1725.0,06/03/2021
+"Dani Ceballos  Daniel Ceballos Fernández (Arsenal, Midfielder)",ARS,4.7,0,0.01,-0.01,1000.0,0,0.07,-0.07,142.9,0.08,-0.08,125.0,06/03/2021
+"Chambers  Calum Chambers (Arsenal, Defender)",ARS,4.5,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,06/03/2021
+"Lacazette  Alexandre Lacazette (Arsenal, Forward)",ARS,8.5,0,0.01,-0.01,2700.0,0,0.0,0.0,inf,0.01,-0.01,2700.0,06/03/2021
+"Leno  Bernd Leno (Arsenal, Goalkeeper)",ARS,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,06/03/2021
+"Luiz  David Luiz Moreira Marinho (Arsenal, Defender)",ARS,5.4,0,0.09,-0.09,1000.0,0,0.02,-0.02,4500.0,0.11,-0.11,818.2,06/03/2021
+"Marí  Pablo Marí (Arsenal, Defender)",ARS,4.5,0,0.0,0.0,inf,0,0.02,-0.02,4500.0,0.02,-0.02,4500.0,06/03/2021
+"Odegaard  Martin Odegaard (Arsenal, Midfielder)",ARS,5.6,0,0.07,-0.07,900.0,0,0.05,-0.05,1260.0,0.12,-0.12,525.0,06/03/2021
+"Partey  Thomas Partey (Arsenal, Midfielder)",ARS,5.0,0,0.01,-0.01,8000.0,0,0.06,-0.06,1333.3,0.07,-0.07,1142.9,06/03/2021
+"Pepe  Nicolas Pepe (Arsenal, Midfielder)",ARS,7.5,0,0.13,-0.13,161.5,0,0.67,-0.67,31.3,0.8,-0.8,26.3,06/03/2021
+"Saka  Bukayo Saka (Arsenal, Midfielder)",ARS,6.5,0,0.17,-0.17,529.4,0,0.85,-0.85,105.9,1.02,-1.02,88.2,06/03/2021
+"Tierney  Kieran Tierney (Arsenal, Defender)",ARS,5.0,0,0.15,-0.15,600.0,0,0.0,0.0,inf,0.15,-0.15,600.0,06/03/2021
+"Xhaka  Granit Xhaka (Arsenal, Midfielder)",ARS,5.0,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,06/03/2021
+"Gudmundsson  Johann Berg Gudmundsson (Burnley, Midfielder)",BUR,5.5,0,0.01,-0.01,6800.0,0,0.0,0.0,inf,0.01,-0.01,6800.0,06/03/2021
+"Brady  Robert Brady (Burnley, Midfielder)",BUR,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,06/03/2021
+"Brownhill  Josh Brownhill (Burnley, Midfielder)",BUR,4.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,06/03/2021
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,06/03/2021
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,0,0.08,-0.08,1125.0,0,0.05,-0.05,1800.0,0.13,-0.13,692.3,06/03/2021
+"Mee  Ben Mee (Burnley, Defender)",BUR,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,06/03/2021
+"Pieters  Erik Pieters (Burnley, Defender)",BUR,4.5,0,0.01,-0.01,2700.0,0,0.02,-0.02,1350.0,0.03,-0.03,900.0,06/03/2021
+"Pope  Nick Pope (Burnley, Goalkeeper)",BUR,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,06/03/2021
+"Rodriguez  Jay Rodriguez (Burnley, Forward)",BUR,5.5,0,0.0,0.0,inf,0,0.04,-0.04,100.0,0.04,-0.04,100.0,06/03/2021
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,06/03/2021
+"Taylor (Charlie)  Charlie Taylor (Burnley, Defender)",BUR,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,06/03/2021
+"Vydra  Matej Vydra (Burnley, Forward)",BUR,5.5,0,0.17,-0.17,505.9,0,0.16,-0.16,537.5,0.33,-0.33,260.6,06/03/2021
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,0,0.05,-0.05,1800.0,0,0.03,-0.03,3000.0,0.08,-0.08,1125.0,06/03/2021
+"Wood  Chris Wood (Burnley, Forward)",BUR,7.0,0,0.01,-0.01,9000.0,1,0.83,0.17,108.4,0.84,0.16,107.1,06/03/2021

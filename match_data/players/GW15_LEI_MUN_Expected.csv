@@ -1,0 +1,27 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,0,0.01,-0.01,8100.0,0,0.06,-0.06,1350.0,0.07,-0.07,1157.1,26/12/2020
+"Barnes (Harvey)  Harvey Barnes (Leicester City, Midfielder)",LEI,7.0,0,0.02,-0.02,4500.0,1,0.03,0.97,3000.0,0.05,0.95,1800.0,26/12/2020
+"Castagne  Timothy Castagne (Leicester City, Defender)",LEI,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,26/12/2020
+"Evans  Jonny Evans (Leicester City, Defender)",LEI,5.5,0,0.0,0.0,inf,0,0.07,-0.07,1285.7,0.07,-0.07,1285.7,26/12/2020
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,26/12/2020
+"Justin  James Justin (Leicester City, Defender)",LEI,5.0,0,0.16,-0.16,562.5,0,0.0,0.0,inf,0.16,-0.16,562.5,26/12/2020
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,1,0.22,0.78,409.1,0,0.09,-0.09,1000.0,0.31,0.69,290.3,26/12/2020
+"Ndidi  Onyinye Wilfred Ndidi (Leicester City, Midfielder)",LEI,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,26/12/2020
+"Ayoze Pérez  Ayoze Pérez Gutiérrez (Leicester City, Midfielder)",LEI,6.0,0,0.17,-0.17,52.9,0,0.4,-0.4,22.5,0.57,-0.57,15.8,26/12/2020
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/12/2020
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,0,0.02,-0.02,4500.0,0,0.05,-0.05,1800.0,0.07,-0.07,1285.7,26/12/2020
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,0,0.01,-0.01,9000.0,0,0.2,-0.2,450.0,0.21,-0.21,428.6,26/12/2020
+"Bailly  Eric Bailly (Manchester United, Defender)",MUN,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,26/12/2020
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,1,0.34,0.66,264.7,1,0.61,0.39,147.5,0.95,1.05,94.7,26/12/2020
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,1,0.33,0.67,45.5,0,0.0,0.0,inf,0.33,0.67,45.5,26/12/2020
+"De Gea  David De Gea (Manchester United, Goalkeeper)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/12/2020
+"James (Daniel)  Daniel James (Manchester United, Midfielder)",MUN,6.0,0,0.03,-0.03,1800.0,0,0.0,0.0,inf,0.03,-0.03,1800.0,26/12/2020
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,0,0.0,0.0,inf,0,0.1,-0.1,900.0,0.1,-0.1,900.0,26/12/2020
+"Martial  Anthony Martial (Manchester United, Forward)",MUN,8.0,0,0.13,-0.13,576.9,0,0.11,-0.11,681.8,0.24,-0.24,312.5,26/12/2020
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,26/12/2020
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,0,0.01,-0.01,6600.0,0,0.0,0.0,inf,0.01,-0.01,6600.0,26/12/2020
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/12/2020
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,0,0.02,-0.02,4500.0,1,0.89,0.11,101.1,0.91,0.09,98.9,26/12/2020
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,26/12/2020
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,0,0.21,-0.21,428.6,0,0.0,0.0,inf,0.21,-0.21,428.6,26/12/2020
+"Tuanzebe  Axel Tuanzebe (Manchester United, Defender)",MUN,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/12/2020

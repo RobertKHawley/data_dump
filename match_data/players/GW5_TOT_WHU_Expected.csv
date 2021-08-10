@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Alderweireld  Toby Alderweireld (Tottenham Hotspur, Defender)",TOT,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,18/10/2020
+"Aurier  Serge Aurier (Tottenham Hotspur, Defender)",TOT,5.0,0,0.35,-0.35,257.1,0,0.0,0.0,inf,0.35,-0.35,257.1,18/10/2020
+"Bale  Gareth Bale (Tottenham Hotspur, Midfielder)",TOT,9.2,0,0.0,0.0,inf,0,0.43,-0.43,41.9,0.43,-0.43,41.9,18/10/2020
+"Bergwijn  Steven Bergwijn (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.0,0.0,inf,0,0.04,-0.04,1800.0,0.04,-0.04,1800.0,18/10/2020
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,18/10/2020
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,1,0.05,0.95,1800.0,2,0.58,1.42,155.2,0.63,2.37,142.9,18/10/2020
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,18/10/2020
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.03,-0.03,2433.3,0,0.0,0.0,inf,0.03,-0.03,2433.3,18/10/2020
+"Reguilón  Sergio Reguilón (Tottenham Hotspur, Defender)",TOT,5.0,1,0.33,0.67,272.7,0,0.0,0.0,inf,0.33,0.67,272.7,18/10/2020
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,18/10/2020
+"Sissoko  Moussa Sissoko (Tottenham Hotspur, Midfielder)",TOT,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,18/10/2020
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,1,0.04,0.96,2000.0,1,0.65,0.35,123.1,0.69,1.31,115.9,18/10/2020
+"DSanchez  Davinson Sánchez (Tottenham Hotspur, Defender)",TOT,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,18/10/2020
+"Winks  Harry Winks (Tottenham Hotspur, Midfielder)",TOT,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,18/10/2020
+"Antonio  Michail Antonio (West Ham United, Forward)",WHU,7.5,0,0.04,-0.04,1925.0,0,0.62,-0.62,124.2,0.66,-0.66,116.7,18/10/2020
+"Balbuena  Fabián Balbuena (West Ham United, Defender)",WHU,4.1,0,0.01,-0.01,9000.0,1,0.07,0.93,1285.7,0.08,0.92,1125.0,18/10/2020
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,0,0.22,-0.22,409.1,0,0.08,-0.08,1125.0,0.3,-0.3,300.0,18/10/2020
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,0,0.02,-0.02,4500.0,0,0.07,-0.07,1285.7,0.09,-0.09,1000.0,18/10/2020
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,1,0.09,0.91,1000.0,0,0.05,-0.05,1800.0,0.14,0.86,642.9,18/10/2020
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,18/10/2020
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,0,0.03,-0.03,2566.7,0,0.78,-0.78,98.7,0.81,-0.81,95.1,18/10/2020
+"Lanzini  Manuel Lanzini (West Ham United, Midfielder)",WHU,6.0,0,0.0,0.0,inf,1,0.02,0.98,650.0,0.02,0.98,650.0,18/10/2020
+"Masuaku  Arthur Masuaku (West Ham United, Defender)",WHU,4.5,0,0.08,-0.08,1112.5,0,0.08,-0.08,1112.5,0.16,-0.16,556.3,18/10/2020
+"Ogbonna  Angelo Ogbonna (West Ham United, Defender)",WHU,5.0,0,0.34,-0.34,264.7,0,0.0,0.0,inf,0.34,-0.34,264.7,18/10/2020
+"Rice  Declan Rice (West Ham United, Midfielder)",WHU,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,18/10/2020
+"Snodgrass  Robert Snodgrass (West Ham United, Midfielder)",WHU,5.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,18/10/2020
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,0,0.14,-0.14,642.9,0,0.12,-0.12,750.0,0.26,-0.26,346.2,18/10/2020
+"Yarmolenko  Andriy Yarmolenko (West Ham United, Midfielder)",WHU,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,18/10/2020

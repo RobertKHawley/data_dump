@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Barkley  Ross Barkley (Aston Villa, Midfielder)",AVL,5.5,0,0.1,-0.1,820.0,0,0.08,-0.08,1025.0,0.18,-0.18,455.6,25/04/2021
+"Davis (Keinan)  Keinan Davis (Aston Villa, Forward)",AVL,4.5,0,0.02,-0.02,400.0,1,1.0,0.0,8.0,1.02,-0.02,7.8,25/04/2021
+"El Ghazi  Anwar El Ghazi (Aston Villa, Midfielder)",AVL,6.0,0,0.26,-0.26,346.2,1,0.93,0.07,96.8,1.19,-0.19,75.6,25/04/2021
+"Elmohamady  Ahmed Elmohamady (Aston Villa, Defender)",AVL,4.2,0,0.09,-0.09,1000.0,0,0.09,-0.09,1000.0,0.18,-0.18,500.0,25/04/2021
+"Konsa Ngoyo  Ezri Konsa Ngoyo (Aston Villa, Defender)",AVL,5.0,0,0.0,0.0,inf,0,0.16,-0.16,562.5,0.16,-0.16,562.5,25/04/2021
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/04/2021
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,0,0.11,-0.11,818.2,0,0.05,-0.05,1800.0,0.16,-0.16,562.5,25/04/2021
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,0,0.02,-0.02,4500.0,0,0.32,-0.32,281.3,0.34,-0.34,264.7,25/04/2021
+"Wesley  Wesley Moraes Ferreira da Silva (Aston Villa, Forward)",AVL,5.5,0,0.0,0.0,inf,0,0.04,-0.04,25.0,0.04,-0.04,25.0,25/04/2021
+"Jacob Ramsey  Jacob Ramsey (Aston Villa, Midfielder)",AVL,4.5,0,0.01,-0.01,1200.0,0,0.0,0.0,inf,0.01,-0.01,1200.0,25/04/2021
+"Douglas Luiz  Douglas Luiz Soares de Paulo (Aston Villa, Midfielder)",AVL,4.5,0,0.07,-0.07,1114.3,0,0.0,0.0,inf,0.07,-0.07,1114.3,25/04/2021
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,0,0.2,-0.2,450.0,0,0.0,0.0,inf,0.2,-0.2,450.0,25/04/2021
+"Traore (Bertrand)  Bertrand Traore (Aston Villa, Midfielder)",AVL,6.0,0,0.07,-0.07,1271.4,0,0.18,-0.18,494.4,0.25,-0.25,356.0,25/04/2021
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,0,0.16,-0.16,562.5,0,0.41,-0.41,219.5,0.57,-0.57,157.9,25/04/2021
+"Ajayi  Semi Ajayi (West Bromwich Albion, Defender)",WBA,4.8,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/04/2021
+"Bartley  Kyle Bartley (West Bromwich Albion, Defender)",WBA,4.4,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/04/2021
+"Matheus Pereira  Matheus Fellipe Costa Pereira (West Bromwich Albion, Midfielder)",WBA,5.4,0,0.12,-0.12,750.0,1,0.98,0.02,91.8,1.1,-0.1,81.8,25/04/2021
+"Diagne  Mbaye Diagne (West Bromwich Albion, Forward)",WBA,6.0,0,0.02,-0.02,4500.0,0,0.26,-0.26,346.2,0.28,-0.28,321.4,25/04/2021
+"Furlong  Darnell Furlong (West Bromwich Albion, Defender)",WBA,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,25/04/2021
+"Gallagher  Conor Gallagher (West Bromwich Albion, Midfielder)",WBA,5.5,0,0.0,0.0,inf,0,0.03,-0.03,3000.0,0.03,-0.03,3000.0,25/04/2021
+"Johnstone  Sam Johnstone (West Bromwich Albion, Goalkeeper)",WBA,4.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/04/2021
+"Maitland-Niles  Ainsley Maitland-Niles (West Bromwich Albion, Defender)",WBA,5.5,0,0.01,-0.01,8600.0,0,0.08,-0.08,1075.0,0.09,-0.09,955.6,25/04/2021
+"O'Shea  Dara O&#039;Shea (West Bromwich Albion, Defender)",WBA,4.2,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/04/2021
+"Phillips (Matthew)  Matthew Phillips (West Bromwich Albion, Midfielder)",WBA,5.1,0,0.03,-0.03,766.7,0,0.0,0.0,inf,0.03,-0.03,766.7,25/04/2021
+"Robinson (Callum)  Callum Robinson (West Bromwich Albion, Forward)",WBA,5.2,0,0.03,-0.03,2233.3,0,0.03,-0.03,2233.3,0.06,-0.06,1116.7,25/04/2021
+"Townsend (Conor)  Conor Townsend (West Bromwich Albion, Defender)",WBA,4.4,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,25/04/2021
+"Yokuslu  Okay Yokuslu (West Bromwich Albion, Midfielder)",WBA,4.5,0,0.01,-0.01,9000.0,0,0.08,-0.08,1125.0,0.09,-0.09,1000.0,25/04/2021

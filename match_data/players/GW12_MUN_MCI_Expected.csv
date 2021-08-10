@@ -1,0 +1,25 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"João Cancelo  João Pedro Cavaco Cancelo (Manchester City, Defender)",MCI,6.0,0,0.15,-0.15,600.0,0,0.0,0.0,inf,0.15,-0.15,600.0,12/12/2020
+"De Bruyne  Kevin De Bruyne (Manchester City, Midfielder)",MCI,12.0,0,0.09,-0.09,1000.0,0,0.46,-0.46,195.7,0.55,-0.55,163.6,12/12/2020
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,12/12/2020
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,0,0.03,-0.03,3000.0,0,0.05,-0.05,1800.0,0.08,-0.08,1125.0,12/12/2020
+"Fernandinho  Fernando Luiz Rosa (Manchester City, Defender)",MCI,5.0,0,0.02,-0.02,4500.0,0,0.05,-0.05,1800.0,0.07,-0.07,1285.7,12/12/2020
+"Mahrez  Riyad Mahrez (Manchester City, Midfielder)",MCI,9.0,0,0.34,-0.34,194.1,0,0.29,-0.29,227.6,0.63,-0.63,104.8,12/12/2020
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/12/2020
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,0,0.03,-0.03,3000.0,0,0.08,-0.08,1125.0,0.11,-0.11,818.2,12/12/2020
+"Stones  John Stones (Manchester City, Defender)",MCI,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,12/12/2020
+"Torres  Ferran Torres (Manchester City, Midfielder)",MCI,7.0,0,0.02,-0.02,1200.0,0,0.0,0.0,inf,0.02,-0.02,1200.0,12/12/2020
+"Walker (Kyle)  Kyle Walker (Manchester City, Defender)",MCI,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,12/12/2020
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,0,0.14,-0.14,642.9,0,0.42,-0.42,214.3,0.56,-0.56,160.7,12/12/2020
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,0,0.1,-0.1,900.0,0,0.19,-0.19,473.7,0.29,-0.29,310.3,12/12/2020
+"De Gea  David De Gea (Manchester United, Goalkeeper)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/12/2020
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,0,0.01,-0.01,7400.0,0,0.09,-0.09,822.2,0.1,-0.1,740.0,12/12/2020
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,0,0.0,0.0,inf,0,0.04,-0.04,2250.0,0.04,-0.04,2250.0,12/12/2020
+"Martial  Anthony Martial (Manchester United, Forward)",MUN,8.0,0,0.01,-0.01,1600.0,0,0.0,0.0,inf,0.01,-0.01,1600.0,12/12/2020
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/12/2020
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,0,0.02,-0.02,4500.0,0,0.21,-0.21,428.6,0.23,-0.23,391.3,12/12/2020
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,0,0.06,-0.06,1500.0,0,0.07,-0.07,1285.7,0.13,-0.13,692.3,12/12/2020
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,0,0.07,-0.07,1285.7,0,0.05,-0.05,1800.0,0.12,-0.12,750.0,12/12/2020
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,12/12/2020
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,0,0.1,-0.1,900.0,0,0.0,0.0,inf,0.1,-0.1,900.0,12/12/2020
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/12/2020

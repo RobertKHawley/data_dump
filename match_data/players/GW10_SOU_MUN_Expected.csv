@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,0,0.23,-0.23,391.3,1,0.94,0.06,95.7,1.17,-0.17,76.9,29/11/2020
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,1,0.13,0.87,346.2,2,0.39,1.61,115.4,0.52,2.48,86.5,29/11/2020
+"De Gea  David De Gea (Manchester United, Goalkeeper)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,29/11/2020
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,0,0.0,0.0,inf,0,0.31,-0.31,145.2,0.31,-0.31,145.2,29/11/2020
+"Henderson (Dean)  Dean Henderson (Manchester United, Goalkeeper)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,29/11/2020
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,0,0.0,0.0,inf,0,0.05,-0.05,1800.0,0.05,-0.05,1800.0,29/11/2020
+"Matic  Nemanja Matic (Manchester United, Midfielder)",MUN,4.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,29/11/2020
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,29/11/2020
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,1,0.2,0.8,450.0,0,0.41,-0.41,219.5,0.61,0.39,147.5,29/11/2020
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,0,0.07,-0.07,1285.7,0,0.02,-0.02,4500.0,0.09,-0.09,1000.0,29/11/2020
+"Alex Telles  Alex Nicolao Telles (Manchester United, Defender)",MUN,5.0,0,0.36,-0.36,233.3,0,0.0,0.0,inf,0.36,-0.36,233.3,29/11/2020
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,0,0.1,-0.1,900.0,0,0.0,0.0,inf,0.1,-0.1,900.0,29/11/2020
+"Williams (Brandon)  Brandon Williams (Manchester United, Defender)",MUN,4.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,29/11/2020
+"van de Beek  Donny van de Beek (Manchester United, Midfielder)",MUN,6.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,29/11/2020
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,0,0.01,-0.01,9000.0,0,0.06,-0.06,1500.0,0.07,-0.07,1285.7,29/11/2020
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,0,0.03,-0.03,2966.7,0,0.02,-0.02,4450.0,0.05,-0.05,1780.0,29/11/2020
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,0,0.0,0.0,inf,1,0.09,0.91,1000.0,0.09,0.91,1000.0,29/11/2020
+"Bertrand  Ryan Bertrand (Southampton, Defender)",SOU,5.0,0,0.0,0.0,inf,0,0.02,-0.02,4500.0,0.02,-0.02,4500.0,29/11/2020
+"Diallo  Ibrahima Diallo (Southampton, Midfielder)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,29/11/2020
+"Djenepo  Moussa Djenepo (Southampton, Midfielder)",SOU,5.5,0,0.02,-0.02,3600.0,0,0.08,-0.08,900.0,0.1,-0.1,720.0,29/11/2020
+"Long (Shane)  Shane Long (Southampton, Forward)",SOU,5.1,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,29/11/2020
+"McCarthy (Alex)  Alex McCarthy (Southampton, Goalkeeper)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,29/11/2020
+"N'Lundulu  Daniel N&#039;Lundulu (Southampton, Forward)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,29/11/2020
+"Romeu  Oriol Romeu (Southampton, Midfielder)",SOU,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,29/11/2020
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,29/11/2020
+"Walcott  Theo Walcott (Southampton, Midfielder)",SOU,6.0,0,0.0,0.0,inf,0,0.06,-0.06,1500.0,0.06,-0.06,1500.0,29/11/2020
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,0,0.02,-0.02,4450.0,0,0.04,-0.04,2225.0,0.06,-0.06,1483.3,29/11/2020
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,1,0.07,0.93,1285.7,1,0.08,0.92,1125.0,0.15,1.85,600.0,29/11/2020

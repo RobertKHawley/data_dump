@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Alzate  Steven Alzate (Brighton and Hove Albion, Midfielder)",BHA,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,16/12/2020
+"Bissouma  Yves Bissouma (Brighton and Hove Albion, Midfielder)",BHA,4.5,0,0.02,-0.02,4500.0,0,0.02,-0.02,4500.0,0.04,-0.04,2250.0,16/12/2020
+"Dunk  Lewis Dunk (Brighton and Hove Albion, Defender)",BHA,5.0,0,0.0,0.0,inf,0,0.31,-0.31,290.3,0.31,-0.31,290.3,16/12/2020
+"Groß  Pascal Groß (Brighton and Hove Albion, Midfielder)",BHA,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Jahanbakhsh  Alireza Jahanbakhsh (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Lallana  Adam Lallana (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.01,-0.01,8500.0,0,0.13,-0.13,653.8,0.14,-0.14,607.1,16/12/2020
+"Lamptey  Tariq Lamptey (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.01,-0.01,7800.0,0,0.0,0.0,inf,0.01,-0.01,7800.0,16/12/2020
+"March  Solomon March (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.12,-0.12,750.0,0,0.0,0.0,inf,0.12,-0.12,750.0,16/12/2020
+"Sanchez  Robert Sanchez (Brighton and Hove Albion, Goalkeeper)",BHA,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Trossard  Leandro Trossard (Brighton and Hove Albion, Midfielder)",BHA,6.5,0,0.35,-0.35,225.7,0,0.03,-0.03,2633.3,0.38,-0.38,207.9,16/12/2020
+"Veltman  Joël Veltman (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Webster  Adam Webster (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.02,-0.02,4500.0,0,0.07,-0.07,1285.7,0.09,-0.09,1000.0,16/12/2020
+"Welbeck  Danny Welbeck (Brighton and Hove Albion, Forward)",BHA,6.0,0,0.01,-0.01,9000.0,0,0.05,-0.05,1800.0,0.06,-0.06,1500.0,16/12/2020
+"White (Ben)  Ben White (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,16/12/2020
+"Tosin  Oluwatosin Adarabioyo (Fulham, Defender)",FUL,4.5,0,0.0,0.0,inf,0,0.1,-0.1,900.0,0.1,-0.1,900.0,16/12/2020
+"Aina  Ola Aina (Fulham, Defender)",FUL,4.3,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,16/12/2020
+"Andersen  Joachim Andersen (Fulham, Defender)",FUL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Cavaleiro  Ivan Cavaleiro (Fulham, Midfielder)",FUL,5.3,0,0.09,-0.09,1000.0,0,0.07,-0.07,1285.7,0.16,-0.16,562.5,16/12/2020
+"DeCordova-Reid  Bobby DeCordova-Reid (Fulham, Forward)",FUL,5.3,0,0.01,-0.01,6200.0,0,0.0,0.0,inf,0.01,-0.01,6200.0,16/12/2020
+"Kamara  Aboubakar Kamara (Fulham, Midfielder)",FUL,4.8,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Lemina  Mario Lemina (Fulham, Midfielder)",FUL,4.5,0,0.01,-0.01,2700.0,0,0.0,0.0,inf,0.01,-0.01,2700.0,16/12/2020
+"Loftus-Cheek  Ruben Loftus-Cheek (Fulham, Midfielder)",FUL,5.5,0,0.05,-0.05,1540.0,0,0.08,-0.08,962.5,0.13,-0.13,592.3,16/12/2020
+"Lookman  Ademola Lookman (Fulham, Midfielder)",FUL,4.7,0,0.04,-0.04,2250.0,0,0.72,-0.72,125.0,0.76,-0.76,118.4,16/12/2020
+"Mitrovic  Aleksandar Mitrovic (Fulham, Forward)",FUL,5.5,0,0.06,-0.06,216.7,0,0.07,-0.07,185.7,0.13,-0.13,100.0,16/12/2020
+"Reed  Harrison Reed (Fulham, Midfielder)",FUL,4.4,0,0.01,-0.01,6300.0,0,0.0,0.0,inf,0.01,-0.01,6300.0,16/12/2020
+"Robinson (Antonee)  Antonee Robinson (Fulham, Defender)",FUL,4.4,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,16/12/2020
+"Zambo Anguissa  André-Frank Zambo Anguissa (Fulham, Midfielder)",FUL,4.4,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,16/12/2020

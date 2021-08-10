@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Bernard  Bernard Anício Caldeira Duarte (Everton, Midfielder)",EVE,5.5,0,0.07,-0.07,500.0,0,0.09,-0.09,388.9,0.16,-0.16,218.8,26/12/2020
+"Calvert-Lewin  Dominic Calvert-Lewin (Everton, Forward)",EVE,8.0,0,0.07,-0.07,1285.7,0,0.32,-0.32,281.3,0.39,-0.39,230.8,26/12/2020
+"Coleman  Seamus Coleman (Everton, Defender)",EVE,5.0,0,0.01,-0.01,2400.0,0,0.0,0.0,inf,0.01,-0.01,2400.0,26/12/2020
+"Davies (Tom)  Tom Davies (Everton, Midfielder)",EVE,5.0,0,0.01,-0.01,7400.0,0,0.0,0.0,inf,0.01,-0.01,7400.0,26/12/2020
+"Doucouré  Abdoulaye Doucouré (Everton, Midfielder)",EVE,5.5,1,0.1,0.9,900.0,0,0.0,0.0,inf,0.1,0.9,900.0,26/12/2020
+"Godfrey  Ben Godfrey (Everton, Defender)",EVE,5.0,0,0.02,-0.02,4500.0,0,0.12,-0.12,750.0,0.14,-0.14,642.9,26/12/2020
+"Gordon (Anthony)  Anthony Gordon (Everton, Midfielder)",EVE,4.3,0,0.01,-0.01,5500.0,0,0.0,0.0,inf,0.01,-0.01,5500.0,26/12/2020
+"Holgate  Mason Holgate (Everton, Defender)",EVE,4.5,0,0.01,-0.01,9000.0,0,0.03,-0.03,3000.0,0.04,-0.04,2250.0,26/12/2020
+"Iwobi  Alex Iwobi (Everton, Midfielder)",EVE,6.0,0,0.11,-0.11,818.2,0,0.03,-0.03,3000.0,0.14,-0.14,642.9,26/12/2020
+"Keane  Michael Keane (Everton, Defender)",EVE,5.0,0,0.01,-0.01,6600.0,0,0.0,0.0,inf,0.01,-0.01,6600.0,26/12/2020
+"Mina  Yerry Mina (Everton, Defender)",EVE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/12/2020
+"Pickford  Jordan Pickford (Everton, Goalkeeper)",EVE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/12/2020
+"Sigurdsson  Gylfi Sigurdsson (Everton, Midfielder)",EVE,7.0,0,0.06,-0.06,1500.0,1,0.11,0.89,818.2,0.17,0.83,529.4,26/12/2020
+"André Gomes  André Filipe Tavares Gomes (Everton, Midfielder)",EVE,5.0,0,0.02,-0.02,800.0,0,0.0,0.0,inf,0.02,-0.02,800.0,26/12/2020
+"Ampadu  Ethan Ampadu (Sheffield United, Defender)",SHU,4.5,0,0.01,-0.01,9000.0,0,0.03,-0.03,3000.0,0.04,-0.04,2250.0,26/12/2020
+"Baldock  George Baldock (Sheffield United, Defender)",SHU,4.9,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,26/12/2020
+"Basham  Chris Basham (Sheffield United, Defender)",SHU,4.6,0,0.0,0.0,inf,0,0.03,-0.03,3000.0,0.03,-0.03,3000.0,26/12/2020
+"Brewster  Rhian Brewster (Sheffield United, Forward)",SHU,4.2,0,0.19,-0.19,400.0,0,0.0,0.0,inf,0.19,-0.19,400.0,26/12/2020
+"Oliver Burke  Oliver Burke (Sheffield United, Midfielder)",SHU,4.1,0,0.01,-0.01,4500.0,0,0.1,-0.1,450.0,0.11,-0.11,409.1,26/12/2020
+"Egan  John Egan (Sheffield United, Defender)",SHU,4.7,0,0.01,-0.01,9000.0,0,0.12,-0.12,750.0,0.13,-0.13,692.3,26/12/2020
+"McBurnie  Oliver McBurnie (Sheffield United, Forward)",SHU,5.6,0,0.0,0.0,inf,0,0.42,-0.42,107.1,0.42,-0.42,107.1,26/12/2020
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,0,0.01,-0.01,6300.0,0,0.56,-0.56,112.5,0.57,-0.57,110.5,26/12/2020
+"Mousset  Lys Mousset (Sheffield United, Forward)",SHU,5.8,0,0.01,-0.01,1400.0,0,0.0,0.0,inf,0.01,-0.01,1400.0,26/12/2020
+"Norwood  Oliver Norwood (Sheffield United, Midfielder)",SHU,4.5,0,0.33,-0.33,81.8,0,0.0,0.0,inf,0.33,-0.33,81.8,26/12/2020
+"Osborn  Ben Osborn (Sheffield United, Midfielder)",SHU,4.7,0,0.1,-0.1,900.0,0,0.0,0.0,inf,0.1,-0.1,900.0,26/12/2020
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/12/2020
+"Robinson (Jack)  Jack Robinson (Sheffield United, Defender)",SHU,4.2,0,0.01,-0.01,9000.0,0,0.06,-0.06,1500.0,0.07,-0.07,1285.7,26/12/2020
+"Stevens (Enda)  Enda Stevens (Sheffield United, Defender)",SHU,5.0,0,0.09,-0.09,1000.0,0,0.04,-0.04,2250.0,0.13,-0.13,692.3,26/12/2020

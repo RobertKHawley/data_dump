@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Almirón  Miguel Almirón (Newcastle United, Midfielder)",NEW,5.5,1,77,0,1,0,0,0,0,0,1,0,0,0,TOT,3,27/09/2020,MID,False
+"Joelinton  Joelinton Cássio Apolinário de Lira (Newcastle United, Forward)",NEW,6.0,1,90,0,0,0,0,0,0,0,1,0,1,0,TOT,3,27/09/2020,FWD,False
+"Carroll  Andy Carroll (Newcastle United, Forward)",NEW,5.1,0,13,1,0,0,0,1,1,0,0,0,0,0,TOT,3,27/09/2020,FWD,False
+"Darlow  Karl Darlow (Newcastle United, Goalkeeper)",NEW,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,3,27/09/2020,GKP,False
+"Fernández  Federico Fernández (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,3,27/09/2020,DEF,False
+"Hayden (Isaac)  Isaac Hayden (Newcastle United, Midfielder)",NEW,4.5,1,90,0,0,0,0,0,0,0,1,0,1,0,TOT,3,27/09/2020,MID,False
+"Hendrick  Jeff Hendrick (Newcastle United, Midfielder)",NEW,5.0,1,74,0,1,0,0,0,0,0,1,0,0,0,TOT,3,27/09/2020,MID,False
+"Lascelles  Jamaal Lascelles (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,3,27/09/2020,DEF,False
+"Lewis (Jamal)  Jamal Lewis (Newcastle United, Defender)",NEW,4.5,0,21,1,0,0,0,0,0,0,0,0,1,0,TOT,3,27/09/2020,DEF,False
+"Manquillo  Javier Manquillo (Newcastle United, Defender)",NEW,4.0,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,3,27/09/2020,DEF,False
+"Jacob Murphy  Jacob Murphy (Newcastle United, Midfielder)",NEW,5.0,0,16,1,0,0,0,0,0,0,0,0,0,0,TOT,3,27/09/2020,MID,False
+"Ritchie  Matt Ritchie (Newcastle United, Midfielder)",NEW,5.0,1,69,0,1,0,0,0,0,0,1,0,0,0,TOT,3,27/09/2020,MID,False
+"Shelvey  Jonjo Shelvey (Newcastle United, Midfielder)",NEW,5.5,1,90,0,0,0,0,0,0,0,1,0,1,0,TOT,3,27/09/2020,MID,False
+"C Wilson  Callum Wilson (Newcastle United, Forward)",NEW,7.5,1,90,0,0,1,0,0,0,0,1,0,0,0,TOT,3,27/09/2020,FWD,False
+"Bergwijn  Steven Bergwijn (Tottenham Hotspur, Midfielder)",TOT,6.0,0,45,1,0,0,0,0,0,0,1,0,0,0,NEW,3,27/09/2020,MID,True
+"Davies (Ben)  Ben Davies (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,3,27/09/2020,DEF,True
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,3,27/09/2020,DEF,True
+"Doherty  Matt Doherty (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,3,27/09/2020,DEF,True
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,3,27/09/2020,MID,True
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,1,90,0,0,0,1,0,1,0,1,0,0,0,NEW,3,27/09/2020,FWD,True
+"Lamela  Erik Lamela (Tottenham Hotspur, Midfielder)",TOT,6.0,0,11,1,0,0,0,0,0,0,1,0,0,0,NEW,3,27/09/2020,MID,True
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,3,27/09/2020,GKP,True
+"Lo Celso  Giovani Lo Celso (Tottenham Hotspur, Midfielder)",TOT,6.0,1,77,0,1,0,0,0,0,1,0,0,0,0,NEW,3,27/09/2020,MID,True
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,0,13,1,0,0,0,0,0,0,1,0,0,0,NEW,3,27/09/2020,MID,True
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,1,79,0,1,1,0,0,0,1,0,0,0,0,NEW,3,27/09/2020,MID,True
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,1,45,0,1,0,0,0,0,0,0,0,0,0,NEW,3,27/09/2020,MID,True
+"DSanchez  Davinson Sánchez (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,3,27/09/2020,DEF,True
+"Winks  Harry Winks (Tottenham Hotspur, Midfielder)",TOT,4.5,1,90,0,0,0,0,0,0,0,1,0,1,0,NEW,3,27/09/2020,MID,True

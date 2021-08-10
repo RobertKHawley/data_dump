@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Barkley  Ross Barkley (Aston Villa, Midfielder)",AVL,5.5,1,90,0,0,0,0,0,0,0,4,0,0,0,SOU,7,01/11/2020,MID,True
+"Cash  Matthew Cash (Aston Villa, Defender)",AVL,5.0,1,67,0,1,0,0,0,0,0,4,0,1,0,SOU,7,01/11/2020,DEF,True
+"Elmohamady  Ahmed Elmohamady (Aston Villa, Defender)",AVL,4.2,0,23,1,0,0,0,0,0,0,0,0,0,0,SOU,7,01/11/2020,DEF,True
+"Grealish  Jack Grealish (Aston Villa, Midfielder)",AVL,8.0,1,90,0,0,1,1,1,2,0,4,0,0,0,SOU,7,01/11/2020,MID,True
+"Trezeguet  Mahmoud Hassan (Aston Villa, Midfielder)",AVL,5.5,0,61,1,0,0,0,0,0,0,3,0,0,0,SOU,7,01/11/2020,MID,True
+"Konsa Ngoyo  Ezri Konsa Ngoyo (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,0,4,0,0,0,SOU,7,01/11/2020,DEF,True
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,1,90,0,0,0,0,0,0,0,4,0,0,0,SOU,7,01/11/2020,GKP,True
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,1,90,0,0,0,0,0,0,0,4,0,0,0,SOU,7,01/11/2020,MID,True
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,1,90,0,0,1,0,0,0,0,4,0,0,0,SOU,7,01/11/2020,DEF,True
+"Douglas Luiz  Douglas Luiz Soares de Paulo (Aston Villa, Midfielder)",AVL,4.5,1,90,0,0,0,1,0,1,0,4,0,0,0,SOU,7,01/11/2020,MID,True
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,0,4,0,0,0,SOU,7,01/11/2020,DEF,True
+"Traore (Bertrand)  Bertrand Traore (Aston Villa, Midfielder)",AVL,6.0,1,29,0,1,0,0,0,0,0,1,0,0,0,SOU,7,01/11/2020,MID,True
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,1,90,0,0,1,0,0,0,0,4,0,0,0,SOU,7,01/11/2020,FWD,True
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,1,90,0,0,0,0,1,1,0,3,0,0,0,AVL,7,01/11/2020,FWD,False
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,1,90,0,0,0,1,0,1,0,3,0,0,0,AVL,7,01/11/2020,MID,False
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,1,45,0,1,0,0,0,0,0,0,0,0,0,AVL,7,01/11/2020,DEF,False
+"Bertrand  Ryan Bertrand (Southampton, Defender)",SOU,5.0,1,79,0,1,0,0,0,0,0,1,0,0,0,AVL,7,01/11/2020,DEF,False
+"Diallo  Ibrahima Diallo (Southampton, Midfielder)",SOU,4.5,0,11,1,0,0,0,0,0,0,2,0,1,0,AVL,7,01/11/2020,MID,False
+"Ings  Danny Ings (Southampton, Forward)",SOU,8.0,1,85,0,1,1,0,0,0,0,1,0,0,0,AVL,7,01/11/2020,FWD,False
+"Long (Shane)  Shane Long (Southampton, Forward)",SOU,5.1,0,5,1,0,0,0,0,0,0,2,0,0,0,AVL,7,01/11/2020,FWD,False
+"McCarthy (Alex)  Alex McCarthy (Southampton, Goalkeeper)",SOU,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,AVL,7,01/11/2020,GKP,False
+"Romeu  Oriol Romeu (Southampton, Midfielder)",SOU,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,AVL,7,01/11/2020,MID,False
+"Stephens (Jack)  Jack Stephens (Southampton, Defender)",SOU,4.5,0,45,1,0,0,0,0,0,0,3,0,0,0,AVL,7,01/11/2020,DEF,False
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,1,90,0,0,1,0,0,0,0,3,0,0,0,AVL,7,01/11/2020,DEF,False
+"Walcott  Theo Walcott (Southampton, Midfielder)",SOU,6.0,1,90,0,0,0,0,1,1,0,3,0,0,0,AVL,7,01/11/2020,MID,False
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,AVL,7,01/11/2020,DEF,False
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,1,90,0,0,2,1,0,1,0,3,0,1,0,AVL,7,01/11/2020,MID,False

@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Aubameyang  Pierre-Emerick Aubameyang (Arsenal, Midfielder)",ARS,10.0,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,5,17/10/2020,MID,False
+"Bellerín  Héctor Bellerín (Arsenal, Defender)",ARS,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,5,17/10/2020,DEF,False
+"Willian  Willian Borges Da Silva (Arsenal, Midfielder)",ARS,6.5,1,69,0,1,0,0,0,0,0,1,0,0,0,MCI,5,17/10/2020,MID,False
+"Dani Ceballos  Daniel Ceballos Fernández (Arsenal, Midfielder)",ARS,4.7,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,5,17/10/2020,MID,False
+"Lacazette  Alexandre Lacazette (Arsenal, Forward)",ARS,8.5,0,21,1,0,0,0,0,0,0,0,0,0,0,MCI,5,17/10/2020,FWD,False
+"Leno  Bernd Leno (Arsenal, Goalkeeper)",ARS,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,5,17/10/2020,GKP,False
+"Luiz  David Luiz Moreira Marinho (Arsenal, Defender)",ARS,5.4,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,5,17/10/2020,DEF,False
+"Eddie Nketiah  Edward Nketiah (Arsenal, Forward)",ARS,5.5,0,7,1,0,0,0,0,0,0,0,0,0,0,MCI,5,17/10/2020,FWD,False
+"Partey  Thomas Partey (Arsenal, Midfielder)",ARS,5.0,0,7,1,0,0,0,0,0,0,0,0,1,0,MCI,5,17/10/2020,MID,False
+"Pepe  Nicolas Pepe (Arsenal, Midfielder)",ARS,7.5,1,83,0,1,0,0,0,0,0,1,0,0,0,MCI,5,17/10/2020,MID,False
+"Saka  Bukayo Saka (Arsenal, Midfielder)",ARS,6.5,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,5,17/10/2020,MID,False
+"Tierney  Kieran Tierney (Arsenal, Defender)",ARS,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,5,17/10/2020,DEF,False
+"Xhaka  Granit Xhaka (Arsenal, Midfielder)",ARS,5.0,1,83,0,1,0,0,0,0,0,1,0,0,0,MCI,5,17/10/2020,MID,False
+"Gabriel Magalhães  Gabriel dos Santos Magalhães (Arsenal, Defender)",ARS,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,5,17/10/2020,DEF,False
+"Aguero  Sergio Aguero (Manchester City, Forward)",MCI,10.3,1,65,0,1,0,0,0,0,1,0,0,0,0,ARS,5,17/10/2020,FWD,True
+"Aké  Nathan Aké (Manchester City, Defender)",MCI,5.0,1,90,0,0,0,0,0,0,1,0,0,1,0,ARS,5,17/10/2020,DEF,True
+"João Cancelo  João Pedro Cavaco Cancelo (Manchester City, Defender)",MCI,6.0,1,90,0,0,0,0,0,0,1,0,0,1,0,ARS,5,17/10/2020,DEF,True
+"Foden  Phil Foden (Manchester City, Midfielder)",MCI,8.0,1,89,0,1,0,0,1,1,1,0,0,0,0,ARS,5,17/10/2020,MID,True
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,1,90,0,0,0,0,0,0,1,0,0,1,0,ARS,5,17/10/2020,DEF,True
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,0,25,1,0,0,0,0,0,0,0,0,0,0,ARS,5,17/10/2020,MID,True
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,1,90,0,0,0,0,0,0,1,0,0,1,0,ARS,5,17/10/2020,MID,True
+"Fernandinho  Fernando Luiz Rosa (Manchester City, Defender)",MCI,5.0,0,1,1,0,0,0,0,0,0,0,0,0,0,ARS,5,17/10/2020,DEF,True
+"Mahrez  Riyad Mahrez (Manchester City, Midfielder)",MCI,9.0,1,90,0,0,0,0,0,0,1,0,0,0,0,ARS,5,17/10/2020,MID,True
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,ARS,5,17/10/2020,GKP,True
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,1,90,0,0,1,0,0,0,1,0,0,0,0,ARS,5,17/10/2020,MID,True
+"Bernardo Silva  Bernardo Mota Veiga de Carvalho e Silva (Manchester City, Midfielder)",MCI,7.0,1,90,0,0,0,0,0,0,1,0,0,0,0,ARS,5,17/10/2020,MID,True
+"Walker (Kyle)  Kyle Walker (Manchester City, Defender)",MCI,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,ARS,5,17/10/2020,DEF,True

@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"João Cancelo  João Pedro Cavaco Cancelo (Manchester City, Defender)",MCI,6.0,0,0.03,-0.03,2166.7,0,0.03,-0.03,2166.7,0.06,-0.06,1083.3,07/03/2021
+"De Bruyne  Kevin De Bruyne (Manchester City, Midfielder)",MCI,12.0,0,0.46,-0.46,195.7,0,0.21,-0.21,428.6,0.67,-0.67,134.3,07/03/2021
+"Foden  Phil Foden (Manchester City, Midfielder)",MCI,8.0,0,0.02,-0.02,950.0,0,0.09,-0.09,211.1,0.11,-0.11,172.7,07/03/2021
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,07/03/2021
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,0,0.1,-0.1,900.0,0,0.21,-0.21,428.6,0.31,-0.31,290.3,07/03/2021
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,0,0.05,-0.05,1800.0,0,0.1,-0.1,900.0,0.15,-0.15,600.0,07/03/2021
+"Mahrez  Riyad Mahrez (Manchester City, Midfielder)",MCI,9.0,0,0.26,-0.26,346.2,0,0.15,-0.15,600.0,0.41,-0.41,219.5,07/03/2021
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/03/2021
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,0,0.03,-0.03,3000.0,0,0.29,-0.29,310.3,0.32,-0.32,281.3,07/03/2021
+"Stones  John Stones (Manchester City, Defender)",MCI,5.5,0,0.01,-0.01,9000.0,0,0.09,-0.09,1000.0,0.1,-0.1,900.0,07/03/2021
+"Walker (Kyle)  Kyle Walker (Manchester City, Defender)",MCI,5.5,0,0.03,-0.03,833.3,0,0.0,0.0,inf,0.03,-0.03,833.3,07/03/2021
+"Zinchenko  Oleksandr Zinchenko (Manchester City, Defender)",MCI,5.5,0,0.05,-0.05,1800.0,0,0.05,-0.05,1800.0,0.1,-0.1,900.0,07/03/2021
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,0,0.09,-0.09,788.9,0,0.08,-0.08,887.5,0.17,-0.17,417.6,07/03/2021
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,0,0.04,-0.04,2225.0,1,0.79,0.21,112.7,0.83,0.17,107.2,07/03/2021
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/03/2021
+"Henderson (Dean)  Dean Henderson (Manchester United, Goalkeeper)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/03/2021
+"James (Daniel)  Daniel James (Manchester United, Midfielder)",MUN,6.0,0,0.01,-0.01,9000.0,0,0.06,-0.06,1500.0,0.07,-0.07,1285.7,07/03/2021
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/03/2021
+"Martial  Anthony Martial (Manchester United, Forward)",MUN,8.0,0,0.04,-0.04,2200.0,0,0.74,-0.74,118.9,0.78,-0.78,112.8,07/03/2021
+"Matic  Nemanja Matic (Manchester United, Midfielder)",MUN,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/03/2021
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,07/03/2021
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/03/2021
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,1,0.1,0.9,730.0,0,0.03,-0.03,2433.3,0.13,0.87,561.5,07/03/2021
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,07/03/2021
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,0,0.01,-0.01,9000.0,1,0.14,0.86,642.9,0.15,0.85,600.0,07/03/2021
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/03/2021
+"Williams (Brandon)  Brandon Williams (Manchester United, Defender)",MUN,4.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/03/2021

@@ -1,0 +1,27 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Jordan Ayew  Jordan Ayew (Crystal Palace, Forward)",CRY,6.0,1,84,0,1,0,0,0,0,1,0,0,0,0,WBA,28,13/03/2021,FWD,True
+"Benteke  Christian Benteke (Crystal Palace, Forward)",CRY,6.5,1,90,0,0,0,0,0,0,1,0,0,0,0,WBA,28,13/03/2021,FWD,True
+"Cahill  Gary Cahill (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,0,0,1,0,0,1,0,WBA,28,13/03/2021,DEF,True
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,1,74,0,1,0,0,0,0,1,0,0,1,0,WBA,28,13/03/2021,MID,True
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,WBA,28,13/03/2021,GKP,True
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,WBA,28,13/03/2021,MID,True
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,1,90,0,0,1,0,0,0,1,0,0,0,0,WBA,28,13/03/2021,MID,True
+"Riedewald  Jairo Riedewald (Crystal Palace, Midfielder)",CRY,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,WBA,28,13/03/2021,MID,True
+"Schlupp  Jeffrey Schlupp (Crystal Palace, Midfielder)",CRY,5.5,0,16,1,0,0,0,0,0,0,0,0,0,0,WBA,28,13/03/2021,MID,True
+"Townsend (Andros)  Andros Townsend (Crystal Palace, Midfielder)",CRY,5.5,0,6,1,0,0,0,0,0,0,0,0,0,0,WBA,28,13/03/2021,MID,True
+"Van Aanholt  Patrick Van Aanholt (Crystal Palace, Defender)",CRY,5.4,1,90,0,0,0,0,0,0,1,0,0,1,0,WBA,28,13/03/2021,DEF,True
+"Ward (Joel)  Joel Ward (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,WBA,28,13/03/2021,DEF,True
+"Zaha  Wilfried Zaha (Crystal Palace, Midfielder)",CRY,7.0,1,90,0,0,0,0,1,1,1,0,0,0,0,WBA,28,13/03/2021,MID,True
+"Bartley  Kyle Bartley (West Bromwich Albion, Defender)",WBA,4.4,1,90,0,0,0,0,0,0,0,1,0,0,0,CRY,28,13/03/2021,DEF,False
+"Matheus Pereira  Matheus Fellipe Costa Pereira (West Bromwich Albion, Midfielder)",WBA,5.4,1,63,0,1,0,0,0,0,0,1,0,0,0,CRY,28,13/03/2021,MID,False
+"Diagne  Mbaye Diagne (West Bromwich Albion, Forward)",WBA,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,CRY,28,13/03/2021,FWD,False
+"Furlong  Darnell Furlong (West Bromwich Albion, Defender)",WBA,4.5,1,90,0,0,0,0,0,0,0,1,0,1,0,CRY,28,13/03/2021,DEF,False
+"Gallagher  Conor Gallagher (West Bromwich Albion, Midfielder)",WBA,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,CRY,28,13/03/2021,MID,False
+"Johnstone  Sam Johnstone (West Bromwich Albion, Goalkeeper)",WBA,4.6,1,90,0,0,0,0,0,0,0,1,0,0,0,CRY,28,13/03/2021,GKP,False
+"Maitland-Niles  Ainsley Maitland-Niles (West Bromwich Albion, Defender)",WBA,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,CRY,28,13/03/2021,DEF,False
+"O'Shea  Dara O&#039;Shea (West Bromwich Albion, Defender)",WBA,4.2,1,90,0,0,0,0,0,0,0,1,0,0,0,CRY,28,13/03/2021,DEF,False
+"Phillips (Matthew)  Matthew Phillips (West Bromwich Albion, Midfielder)",WBA,5.1,1,71,0,1,0,0,0,0,0,1,0,0,0,CRY,28,13/03/2021,MID,False
+"Robson-Kanu  Hal Robson-Kanu (West Bromwich Albion, Forward)",WBA,5.2,0,27,1,0,0,0,0,0,0,0,0,0,0,CRY,28,13/03/2021,FWD,False
+"Snodgrass  Robert Snodgrass (West Bromwich Albion, Midfielder)",WBA,5.6,0,19,1,0,0,0,0,0,0,0,0,0,0,CRY,28,13/03/2021,MID,False
+"Townsend (Conor)  Conor Townsend (West Bromwich Albion, Defender)",WBA,4.4,1,90,0,0,0,0,0,0,0,1,0,0,0,CRY,28,13/03/2021,DEF,False
+"Yokuslu  Okay Yokuslu (West Bromwich Albion, Midfielder)",WBA,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,CRY,28,13/03/2021,MID,False

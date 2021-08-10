@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Barkley  Ross Barkley (Aston Villa, Midfielder)",AVL,5.5,0,0.02,-0.02,1200.0,0,0.09,-0.09,266.7,0.11,-0.11,218.2,21/03/2021
+"Cash  Matthew Cash (Aston Villa, Defender)",AVL,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,21/03/2021
+"Davis (Keinan)  Keinan Davis (Aston Villa, Forward)",AVL,4.5,0,0.04,-0.04,275.0,0,0.04,-0.04,275.0,0.08,-0.08,137.5,21/03/2021
+"El Ghazi  Anwar El Ghazi (Aston Villa, Midfielder)",AVL,6.0,0,0.0,0.0,inf,0,0.02,-0.02,1500.0,0.02,-0.02,1500.0,21/03/2021
+"Trezeguet  Mahmoud Hassan (Aston Villa, Midfielder)",AVL,5.5,0,0.01,-0.01,7900.0,0,0.16,-0.16,493.8,0.17,-0.17,464.7,21/03/2021
+"Konsa Ngoyo  Ezri Konsa Ngoyo (Aston Villa, Defender)",AVL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/03/2021
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/03/2021
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,0,0.03,-0.03,3000.0,0,0.04,-0.04,2250.0,0.07,-0.07,1285.7,21/03/2021
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/03/2021
+"Sanson  Morgan Sanson (Aston Villa, Midfielder)",AVL,5.0,0,0.21,-0.21,314.3,0,0.0,0.0,inf,0.21,-0.21,314.3,21/03/2021
+"Douglas Luiz  Douglas Luiz Soares de Paulo (Aston Villa, Midfielder)",AVL,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,21/03/2021
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,21/03/2021
+"Traore (Bertrand)  Bertrand Traore (Aston Villa, Midfielder)",AVL,6.0,0,0.06,-0.06,1000.0,0,0.0,0.0,inf,0.06,-0.06,1000.0,21/03/2021
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,0,0.01,-0.01,9000.0,0,0.07,-0.07,1285.7,0.08,-0.08,1125.0,21/03/2021
+"Carlos Vinicius  Carlos Vinicius Alves Morais (Tottenham Hotspur, Forward)",TOT,6.9,0,0.01,-0.01,9000.0,1,0.73,0.27,123.3,0.74,0.26,121.6,21/03/2021
+"Bergwijn  Steven Bergwijn (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.03,-0.03,800.0,0,0.0,0.0,inf,0.03,-0.03,800.0,21/03/2021
+"Davies (Ben)  Ben Davies (Tottenham Hotspur, Defender)",TOT,4.5,0,0.01,-0.01,3300.0,0,0.0,0.0,inf,0.01,-0.01,3300.0,21/03/2021
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,0,0.02,-0.02,4500.0,0,0.05,-0.05,1800.0,0.07,-0.07,1285.7,21/03/2021
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,0,0.11,-0.11,818.2,1,0.96,0.04,93.8,1.07,-0.07,84.1,21/03/2021
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/03/2021
+"Lo Celso  Giovani Lo Celso (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.01,-0.01,6600.0,0,0.0,0.0,inf,0.01,-0.01,6600.0,21/03/2021
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.02,-0.02,4050.0,0,0.02,-0.02,4050.0,0.04,-0.04,2025.0,21/03/2021
+"Reguilón  Sergio Reguilón (Tottenham Hotspur, Defender)",TOT,5.0,0,0.03,-0.03,1900.0,0,0.0,0.0,inf,0.03,-0.03,1900.0,21/03/2021
+"Rodon  Joe Rodon (Tottenham Hotspur, Defender)",TOT,4.5,0,0.0,0.0,inf,0,0.04,-0.04,2250.0,0.04,-0.04,2250.0,21/03/2021
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,1,0.19,0.81,473.7,0,0.0,0.0,inf,0.19,0.81,473.7,21/03/2021
+"Sissoko  Moussa Sissoko (Tottenham Hotspur, Midfielder)",TOT,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/03/2021
+"DSanchez  Davinson Sánchez (Tottenham Hotspur, Defender)",TOT,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/03/2021
+"Tanganga  Japhet Tanganga (Tottenham Hotspur, Defender)",TOT,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,21/03/2021

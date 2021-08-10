@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Azpilicueta  César Azpilicueta (Chelsea, Defender)",CHE,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LIV,26,04/03/2021,DEF,False
+"Chilwell  Benjamin Chilwell (Chelsea, Defender)",CHE,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LIV,26,04/03/2021,DEF,False
+"Christensen  Andreas Christensen (Chelsea, Defender)",CHE,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LIV,26,04/03/2021,DEF,False
+"Jorginho  Jorge Luiz Frello Filho (Chelsea, Midfielder)",CHE,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LIV,26,04/03/2021,MID,False
+"Havertz  Kai Havertz (Chelsea, Midfielder)",CHE,8.5,0,1,1,0,0,0,0,0,0,0,0,0,0,LIV,26,04/03/2021,MID,False
+"James (Reece)  Reece James (Chelsea, Defender)",CHE,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,LIV,26,04/03/2021,DEF,False
+"Kanté  N&#039;Golo Kanté (Chelsea, Midfielder)",CHE,5.0,1,90,0,0,0,1,0,1,1,0,0,0,0,LIV,26,04/03/2021,MID,False
+"Kovacic  Mateo Kovacic (Chelsea, Midfielder)",CHE,5.0,0,9,1,0,0,0,0,0,0,0,0,0,0,LIV,26,04/03/2021,MID,False
+"Mendy (Edouard)  Edouard Mendy (Chelsea, Goalkeeper)",CHE,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LIV,26,04/03/2021,GKP,False
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,1,81,0,1,1,0,0,0,1,0,0,0,0,LIV,26,04/03/2021,MID,False
+"Pulisic  Christian Pulisic (Chelsea, Midfielder)",CHE,8.0,0,24,1,0,0,0,0,0,0,0,0,0,0,LIV,26,04/03/2021,MID,False
+"Rüdiger  Antonio Rüdiger (Chelsea, Defender)",CHE,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,LIV,26,04/03/2021,DEF,False
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,1,89,0,1,0,0,0,0,1,0,0,0,0,LIV,26,04/03/2021,FWD,False
+"Ziyech  Hakim Ziyech (Chelsea, Midfielder)",CHE,7.5,1,66,0,1,0,0,0,0,1,0,0,0,0,LIV,26,04/03/2021,MID,False
+"Thiago Alcántara  Thiago Alcántara do Nascimento (Liverpool, Midfielder)",LIV,5.5,1,80,0,1,0,0,0,0,0,1,0,0,0,CHE,26,04/03/2021,MID,True
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,1,90,0,0,0,0,0,0,0,1,0,0,0,CHE,26,04/03/2021,DEF,True
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,1,90,0,0,0,0,0,0,0,1,0,0,0,CHE,26,04/03/2021,FWD,True
+"Jones (Curtis)  Curtis Jones (Liverpool, Midfielder)",LIV,5.0,1,62,0,1,0,0,0,0,0,1,0,0,0,CHE,26,04/03/2021,MID,True
+"Kabak  Ozan Kabak (Liverpool, Defender)",LIV,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,CHE,26,04/03/2021,DEF,True
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,1,90,0,0,0,0,0,0,0,1,0,0,0,CHE,26,04/03/2021,MID,True
+"Milner  James Milner (Liverpool, Midfielder)",LIV,5.0,0,10,1,0,0,0,0,0,0,0,0,0,0,CHE,26,04/03/2021,MID,True
+"Oxlade-Chamberlain  Alex Oxlade-Chamberlain (Liverpool, Midfielder)",LIV,6.0,0,28,1,0,0,0,0,0,0,0,0,0,0,CHE,26,04/03/2021,MID,True
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,CHE,26,04/03/2021,GKP,True
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,1,90,0,0,0,0,0,0,0,1,0,0,0,CHE,26,04/03/2021,DEF,True
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,1,62,0,1,0,0,0,0,0,1,0,0,0,CHE,26,04/03/2021,MID,True
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,CHE,26,04/03/2021,MID,True
+"Diogo Jota  Diogo José Teixeira da Silva (Liverpool, Midfielder)",LIV,7.5,0,28,1,0,0,0,0,0,0,0,0,0,0,CHE,26,04/03/2021,MID,True
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,1,90,0,0,0,0,0,0,0,1,0,0,0,CHE,26,04/03/2021,MID,True

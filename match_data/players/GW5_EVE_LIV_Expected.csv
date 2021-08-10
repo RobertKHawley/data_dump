@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Calvert-Lewin  Dominic Calvert-Lewin (Everton, Forward)",EVE,8.0,0,0.01,-0.01,9000.0,1,0.54,0.46,166.7,0.55,0.45,163.6,17/10/2020
+"Coleman  Seamus Coleman (Everton, Defender)",EVE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/10/2020
+"Digne  Lucas Digne (Everton, Defender)",EVE,5.5,1,0.21,0.79,428.6,0,0.0,0.0,inf,0.21,0.79,428.6,17/10/2020
+"Doucouré  Abdoulaye Doucouré (Everton, Midfielder)",EVE,5.5,0,0.16,-0.16,487.5,0,0.03,-0.03,2600.0,0.19,-0.19,410.5,17/10/2020
+"Godfrey  Ben Godfrey (Everton, Defender)",EVE,5.0,0,0.01,-0.01,5900.0,0,0.0,0.0,inf,0.01,-0.01,5900.0,17/10/2020
+"Iwobi  Alex Iwobi (Everton, Midfielder)",EVE,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/10/2020
+"Keane  Michael Keane (Everton, Defender)",EVE,5.0,0,0.03,-0.03,3000.0,1,0.17,0.83,529.4,0.2,0.8,450.0,17/10/2020
+"Allan  Allan Marques Loureiro (Everton, Midfielder)",EVE,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,17/10/2020
+"Mina  Yerry Mina (Everton, Defender)",EVE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/10/2020
+"Pickford  Jordan Pickford (Everton, Goalkeeper)",EVE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/10/2020
+"Rodríguez  James Rodríguez (Everton, Midfielder)",EVE,7.0,1,0.51,0.49,176.5,0,0.06,-0.06,1500.0,0.57,0.43,157.9,17/10/2020
+"Sigurdsson  Gylfi Sigurdsson (Everton, Midfielder)",EVE,7.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/10/2020
+"André Gomes  André Filipe Tavares Gomes (Everton, Midfielder)",EVE,5.0,0,0.01,-0.01,7200.0,0,0.0,0.0,inf,0.01,-0.01,7200.0,17/10/2020
+"Richarlison  Richarlison de Andrade (Everton, Forward)",EVE,7.5,0,0.01,-0.01,8900.0,0,0.43,-0.43,207.0,0.44,-0.44,202.3,17/10/2020
+"Thiago Alcántara  Thiago Alcántara do Nascimento (Liverpool, Midfielder)",LIV,5.5,0,0.16,-0.16,562.5,0,0.06,-0.06,1500.0,0.22,-0.22,409.1,17/10/2020
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,0,0.07,-0.07,1285.7,0,0.15,-0.15,600.0,0.22,-0.22,409.1,17/10/2020
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,0,0.04,-0.04,1950.0,0,0.11,-0.11,709.1,0.15,-0.15,520.0,17/10/2020
+"Gomez  Joseph Gomez (Liverpool, Defender)",LIV,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/10/2020
+"Henderson (Jordan)  Jordan Henderson (Liverpool, Midfielder)",LIV,5.0,0,0.07,-0.07,1285.7,0,0.6,-0.6,150.0,0.67,-0.67,134.3,17/10/2020
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,0,0.29,-0.29,310.3,1,1.34,-0.34,67.2,1.63,-0.63,55.2,17/10/2020
+"Matip  Joel Matip (Liverpool, Defender)",LIV,5.0,0,0.01,-0.01,9000.0,0,0.07,-0.07,1285.7,0.08,-0.08,1125.0,17/10/2020
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,1,0.35,0.65,257.1,0,0.0,0.0,inf,0.35,0.65,257.1,17/10/2020
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,0,0.22,-0.22,409.1,1,0.36,0.64,250.0,0.58,0.42,155.2,17/10/2020
+"Adrián  Adrián San Miguel del Castillo (Liverpool, Goalkeeper)",LIV,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/10/2020
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,0,0.01,-0.01,8900.0,0,0.03,-0.03,2966.7,0.04,-0.04,2225.0,17/10/2020
+"Diogo Jota  Diogo José Teixeira da Silva (Liverpool, Midfielder)",LIV,7.5,0,0.02,-0.02,600.0,0,0.08,-0.08,150.0,0.1,-0.1,120.0,17/10/2020
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/10/2020
+"van Dijk  Virgil van Dijk (Liverpool, Defender)",LIV,6.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/10/2020

@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Barnes (Ashley)  Ashley Barnes (Burnley, Forward)",BUR,5.5,0,0.02,-0.02,1250.0,0,0.11,-0.11,227.3,0.13,-0.13,192.3,15/05/2021
+"Gudmundsson  Johann Berg Gudmundsson (Burnley, Midfielder)",BUR,5.5,0,0.11,-0.11,181.8,0,0.22,-0.22,90.9,0.33,-0.33,60.6,15/05/2021
+"Brownhill  Josh Brownhill (Burnley, Midfielder)",BUR,4.5,0,0.06,-0.06,1500.0,0,0.05,-0.05,1800.0,0.11,-0.11,818.2,15/05/2021
+"Cork  Jack Cork (Burnley, Midfielder)",BUR,4.5,0,0.08,-0.08,1125.0,0,0.0,0.0,inf,0.08,-0.08,1125.0,15/05/2021
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,0,0.19,-0.19,473.7,0,0.02,-0.02,4500.0,0.21,-0.21,428.6,15/05/2021
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,0,0.07,-0.07,1000.0,0,0.04,-0.04,1750.0,0.11,-0.11,636.4,15/05/2021
+"Mee  Ben Mee (Burnley, Defender)",BUR,5.0,0,0.03,-0.03,3000.0,0,0.03,-0.03,3000.0,0.06,-0.06,1500.0,15/05/2021
+"Peacock-Farrell  Bailey Peacock-Farrell (Burnley, Goalkeeper)",BUR,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,15/05/2021
+"Rodriguez  Jay Rodriguez (Burnley, Forward)",BUR,5.5,0,0.0,0.0,inf,0,0.08,-0.08,312.5,0.08,-0.08,312.5,15/05/2021
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,0,0.03,-0.03,3000.0,0,0.13,-0.13,692.3,0.16,-0.16,562.5,15/05/2021
+"Taylor (Charlie)  Charlie Taylor (Burnley, Defender)",BUR,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,15/05/2021
+"Vydra  Matej Vydra (Burnley, Forward)",BUR,5.5,0,0.03,-0.03,2166.7,0,0.45,-0.45,144.4,0.48,-0.48,135.4,15/05/2021
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,0,0.18,-0.18,500.0,0,0.12,-0.12,750.0,0.3,-0.3,300.0,15/05/2021
+"Wood  Chris Wood (Burnley, Forward)",BUR,7.0,0,0.03,-0.03,2166.7,0,0.04,-0.04,1625.0,0.07,-0.07,928.6,15/05/2021
+"Alioski  Ezgjan Alioski (Leeds United, Defender)",LEE,4.4,1,0.09,0.91,1000.0,0,0.08,-0.08,1125.0,0.17,0.83,529.4,15/05/2021
+"Ayling  Luke Ayling (Leeds United, Defender)",LEE,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,15/05/2021
+"Bamford  Patrick Bamford (Leeds United, Forward)",LEE,8.0,0,0.0,0.0,inf,0,0.05,-0.05,1160.0,0.05,-0.05,1160.0,15/05/2021
+"Dallas  Stuart Dallas (Leeds United, Defender)",LEE,5.5,0,0.01,-0.01,9000.0,0,0.14,-0.14,642.9,0.15,-0.15,600.0,15/05/2021
+"Raphinha  Raphael Dias Belloli (Leeds United, Midfielder)",LEE,6.5,1,0.06,0.94,1350.0,0,0.17,-0.17,476.5,0.23,0.77,352.2,15/05/2021
+"Harrison  Jack Harrison (Leeds United, Midfielder)",LEE,6.0,2,0.39,1.61,230.8,1,0.12,0.88,750.0,0.51,2.49,176.5,15/05/2021
+"Klich  Mateusz Klich (Leeds United, Midfielder)",LEE,5.5,0,0.03,-0.03,2533.3,1,0.03,0.97,2533.3,0.06,0.94,1266.7,15/05/2021
+"Diego Llorente  Diego Javier Llorente Ríos (Leeds United, Defender)",LEE,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,15/05/2021
+"Meslier  Illan Meslier (Leeds United, Goalkeeper)",LEE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,15/05/2021
+"Rodrigo  Rodrigo Moreno Machado (Leeds United, Forward)",LEE,6.5,0,0.02,-0.02,1600.0,2,0.88,1.12,36.4,0.9,1.1,35.6,15/05/2021
+"Phillips (Kalvin)  Kalvin Phillips (Leeds United, Midfielder)",LEE,5.0,0,0.27,-0.27,333.3,0,0.0,0.0,inf,0.27,-0.27,333.3,15/05/2021
+"Poveda-Ocampo  Ian Carlo Poveda-Ocampo (Leeds United, Midfielder)",LEE,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,15/05/2021
+"Roberts (Tyler)  Tyler Roberts (Leeds United, Midfielder)",LEE,5.0,0,0.0,0.0,inf,0,0.03,-0.03,466.7,0.03,-0.03,466.7,15/05/2021
+"Struijk  Pascal Struijk (Leeds United, Defender)",LEE,4.5,0,0.01,-0.01,9000.0,0,0.05,-0.05,1800.0,0.06,-0.06,1500.0,15/05/2021

@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,1,90,0,0,0,1,0,1,0,1,0,0,0,MUN,35,11/05/2021,MID,False
+"Castagne  Timothy Castagne (Leicester City, Defender)",LEI,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,MUN,35,11/05/2021,DEF,False
+"Choudhury  Hamza Choudhury (Leicester City, Midfielder)",LEI,4.5,0,10,1,0,0,0,0,0,0,0,0,0,0,MUN,35,11/05/2021,MID,False
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,MUN,35,11/05/2021,DEF,False
+"Iheanacho  Kelechi Iheanacho (Leicester City, Forward)",LEI,7.5,1,90,0,0,0,0,0,0,0,1,0,0,0,MUN,35,11/05/2021,FWD,False
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,0,25,1,0,0,0,0,0,0,0,0,0,0,MUN,35,11/05/2021,MID,False
+"Ndidi  Onyinye Wilfred Ndidi (Leicester City, Midfielder)",LEI,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,MUN,35,11/05/2021,MID,False
+"Ayoze Pérez  Ayoze Pérez Gutiérrez (Leicester City, Midfielder)",LEI,6.0,1,65,0,1,0,0,0,0,0,1,0,0,0,MUN,35,11/05/2021,MID,False
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,MUN,35,11/05/2021,GKP,False
+"Söyüncü  Caglar Söyüncü (Leicester City, Defender)",LEI,5.0,1,90,0,0,1,0,0,0,0,1,0,0,0,MUN,35,11/05/2021,DEF,False
+"Thomas (Luke)  Luke Thomas (Leicester City, Defender)",LEI,4.5,1,90,0,0,1,0,0,0,0,1,0,0,0,MUN,35,11/05/2021,DEF,False
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,1,90,0,0,0,1,0,1,0,1,0,0,0,MUN,35,11/05/2021,MID,False
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,1,80,0,1,0,0,0,0,0,1,0,0,0,MUN,35,11/05/2021,FWD,False
+"Bailly  Eric Bailly (Manchester United, Defender)",MUN,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,35,11/05/2021,DEF,True
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,0,12,1,0,0,0,0,0,0,0,0,0,0,LEI,35,11/05/2021,MID,True
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,0,24,1,0,0,0,0,0,0,1,0,0,0,LEI,35,11/05/2021,FWD,True
+"De Gea  David De Gea (Manchester United, Goalkeeper)",MUN,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,35,11/05/2021,GKP,True
+"Elanga  Anthony Elanga (Manchester United, Forward)",MUN,4.5,1,66,0,1,0,0,0,0,0,1,0,0,0,LEI,35,11/05/2021,FWD,True
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,1,66,0,1,1,0,0,0,0,1,0,0,0,LEI,35,11/05/2021,MID,True
+"Mata  Juan Mata (Manchester United, Midfielder)",MUN,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,35,11/05/2021,MID,True
+"Matic  Nemanja Matic (Manchester United, Midfielder)",MUN,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,35,11/05/2021,MID,True
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,0,24,1,0,0,0,0,0,0,1,0,0,0,LEI,35,11/05/2021,MID,True
+"Alex Telles  Alex Nicolao Telles (Manchester United, Defender)",MUN,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,35,11/05/2021,DEF,True
+"Amad Diallo  Amad Diallo Traore (Manchester United, Forward)",MUN,5.4,1,78,0,1,0,1,0,1,0,2,0,0,0,LEI,35,11/05/2021,FWD,True
+"Tuanzebe  Axel Tuanzebe (Manchester United, Defender)",MUN,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,35,11/05/2021,DEF,True
+"Williams (Brandon)  Brandon Williams (Manchester United, Defender)",MUN,4.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,35,11/05/2021,DEF,True
+"van de Beek  Donny van de Beek (Manchester United, Midfielder)",MUN,6.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,35,11/05/2021,MID,True

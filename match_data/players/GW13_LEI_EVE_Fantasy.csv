@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Calvert-Lewin  Dominic Calvert-Lewin (Everton, Forward)",EVE,8.0,1,89,0,1,0,0,1,1,1,0,0,0,0,LEI,13,16/12/2020,FWD,False
+"Doucouré  Abdoulaye Doucouré (Everton, Midfielder)",EVE,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,LEI,13,16/12/2020,MID,False
+"Godfrey  Ben Godfrey (Everton, Defender)",EVE,5.0,1,90,0,0,0,0,0,0,1,0,0,1,0,LEI,13,16/12/2020,DEF,False
+"Gordon (Anthony)  Anthony Gordon (Everton, Midfielder)",EVE,4.3,0,1,1,0,0,0,0,0,0,0,0,0,0,LEI,13,16/12/2020,MID,False
+"Holgate  Mason Holgate (Everton, Defender)",EVE,4.5,1,90,0,0,1,0,0,0,1,0,0,1,0,LEI,13,16/12/2020,DEF,False
+"Iwobi  Alex Iwobi (Everton, Midfielder)",EVE,6.0,1,89,0,1,0,1,0,1,1,0,0,0,0,LEI,13,16/12/2020,MID,False
+"Keane  Michael Keane (Everton, Defender)",EVE,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LEI,13,16/12/2020,DEF,False
+"Kenny  Jonjoe Kenny (Everton, Defender)",EVE,4.3,0,1,1,0,0,0,0,0,0,0,0,0,0,LEI,13,16/12/2020,DEF,False
+"Allan  Allan Marques Loureiro (Everton, Midfielder)",EVE,4.5,1,41,0,1,0,0,0,0,0,0,0,0,0,LEI,13,16/12/2020,MID,False
+"Mina  Yerry Mina (Everton, Defender)",EVE,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LEI,13,16/12/2020,DEF,False
+"Olsen  Robin Olsen (Everton, Goalkeeper)",EVE,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,LEI,13,16/12/2020,GKP,False
+"Sigurdsson  Gylfi Sigurdsson (Everton, Midfielder)",EVE,7.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LEI,13,16/12/2020,MID,False
+"André Gomes  André Filipe Tavares Gomes (Everton, Midfielder)",EVE,5.0,0,49,1,0,0,0,0,0,0,0,0,1,0,LEI,13,16/12/2020,MID,False
+"Richarlison  Richarlison de Andrade (Everton, Forward)",EVE,7.5,1,90,0,0,1,0,0,0,1,0,0,0,0,LEI,13,16/12/2020,FWD,False
+"Barnes (Harvey)  Harvey Barnes (Leicester City, Midfielder)",LEI,7.0,1,90,0,0,0,0,0,0,0,2,0,0,0,EVE,13,16/12/2020,MID,True
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,EVE,13,16/12/2020,DEF,True
+"Fuchs  Christian Fuchs (Leicester City, Defender)",LEI,4.5,1,90,0,0,0,0,0,0,0,2,0,1,0,EVE,13,16/12/2020,DEF,True
+"Iheanacho  Kelechi Iheanacho (Leicester City, Forward)",LEI,7.5,0,17,1,0,0,0,0,0,0,0,0,0,0,EVE,13,16/12/2020,FWD,True
+"Justin  James Justin (Leicester City, Defender)",LEI,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,EVE,13,16/12/2020,DEF,True
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,1,90,0,0,0,0,0,0,0,2,0,0,0,EVE,13,16/12/2020,MID,True
+"Mendy (Nampalys)  Nampalys Mendy (Leicester City, Midfielder)",LEI,4.5,1,73,0,1,0,0,0,0,0,2,0,1,0,EVE,13,16/12/2020,MID,True
+"Ndidi  Onyinye Wilfred Ndidi (Leicester City, Midfielder)",LEI,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,EVE,13,16/12/2020,MID,True
+"Ayoze Pérez  Ayoze Pérez Gutiérrez (Leicester City, Midfielder)",LEI,6.0,0,29,1,0,0,0,0,0,0,1,0,0,0,EVE,13,16/12/2020,MID,True
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,EVE,13,16/12/2020,GKP,True
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,1,90,0,0,0,0,0,0,0,2,0,0,0,EVE,13,16/12/2020,MID,True
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,1,90,0,0,0,0,0,0,0,2,0,0,0,EVE,13,16/12/2020,FWD,True
+"Ünder  Cengiz Ünder (Leicester City, Midfielder)",LEI,5.7,1,61,0,1,0,0,0,0,0,1,0,0,0,EVE,13,16/12/2020,MID,True

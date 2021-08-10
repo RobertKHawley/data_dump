@@ -1,0 +1,26 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Cash  Matthew Cash (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,1,0,0,1,0,WOL,12,12/12/2020,DEF,False
+"El Ghazi  Anwar El Ghazi (Aston Villa, Midfielder)",AVL,6.0,0,15,1,0,1,0,0,0,0,0,0,0,0,WOL,12,12/12/2020,MID,False
+"Grealish  Jack Grealish (Aston Villa, Midfielder)",AVL,8.0,1,90,0,0,0,0,0,0,1,0,0,1,0,WOL,12,12/12/2020,MID,False
+"Konsa Ngoyo  Ezri Konsa Ngoyo (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,1,0,0,1,0,WOL,12,12/12/2020,DEF,False
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,WOL,12,12/12/2020,GKP,False
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,1,90,0,0,0,0,1,1,1,0,0,1,0,WOL,12,12/12/2020,MID,False
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,WOL,12,12/12/2020,DEF,False
+"Nakamba  Marvelous Nakamba (Aston Villa, Midfielder)",AVL,4.5,0,1,1,0,0,0,0,0,0,0,0,0,0,WOL,12,12/12/2020,MID,False
+"Jacob Ramsey  Jacob Ramsey (Aston Villa, Midfielder)",AVL,4.5,1,89,0,1,0,0,0,0,1,0,0,0,0,WOL,12,12/12/2020,MID,False
+"Douglas Luiz  Douglas Luiz Soares de Paulo (Aston Villa, Midfielder)",AVL,4.5,1,85,0,0,0,0,0,0,1,0,0,0,1,WOL,12,12/12/2020,MID,False
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,1,0,0,1,0,WOL,12,12/12/2020,DEF,False
+"Traore (Bertrand)  Bertrand Traore (Aston Villa, Midfielder)",AVL,6.0,1,75,0,1,0,0,0,0,1,0,0,0,0,WOL,12,12/12/2020,MID,False
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,1,90,0,0,0,0,0,0,1,0,0,0,0,WOL,12,12/12/2020,FWD,False
+"Coady  Conor Coady (Wolverhampton Wanderers, Defender)",WOL,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,AVL,12,12/12/2020,DEF,True
+"Dendoncker (Leander)  Leander Dendoncker (Wolverhampton Wanderers, Midfielder)",WOL,5.0,1,80,0,1,0,0,0,0,1,0,0,1,0,AVL,12,12/12/2020,MID,True
+"Marçal  Fernando Marçal de Oliveira (Wolverhampton Wanderers, Defender)",WOL,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,AVL,12,12/12/2020,DEF,True
+"Moutinho  João Moutinho (Wolverhampton Wanderers, Midfielder)",WOL,5.0,1,89,0,0,0,0,0,0,0,1,0,0,1,AVL,12,12/12/2020,MID,True
+"Neto  Pedro Neto (Wolverhampton Wanderers, Midfielder)",WOL,6.5,1,90,0,0,0,0,0,0,0,1,0,0,0,AVL,12,12/12/2020,MID,True
+"Podence  Daniel Podence (Wolverhampton Wanderers, Midfielder)",WOL,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,AVL,12,12/12/2020,MID,True
+"Saiss  Romain Saiss (Wolverhampton Wanderers, Defender)",WOL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,AVL,12,12/12/2020,DEF,True
+"Semedo  Nelson Semedo (Wolverhampton Wanderers, Defender)",WOL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,AVL,12,12/12/2020,DEF,True
+"Fabio Silva  Fabio Daniel Soares Silva (Wolverhampton Wanderers, Forward)",WOL,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,AVL,12,12/12/2020,FWD,True
+"Traoré  Adama Traoré (Wolverhampton Wanderers, Midfielder)",WOL,6.0,1,90,0,0,0,0,0,0,0,1,0,1,0,AVL,12,12/12/2020,MID,True
+"Ruben Neves  Rúben Diogo da Silva Neves (Wolverhampton Wanderers, Midfielder)",WOL,5.5,0,10,1,0,0,0,0,0,0,1,0,0,0,AVL,12,12/12/2020,MID,True
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,AVL,12,12/12/2020,GKP,True

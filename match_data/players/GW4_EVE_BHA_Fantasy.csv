@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Alzate  Steven Alzate (Brighton and Hove Albion, Midfielder)",BHA,5.0,1,82,0,1,0,0,0,0,0,4,0,1,0,EVE,4,03/10/2020,MID,False
+"Bissouma  Yves Bissouma (Brighton and Hove Albion, Midfielder)",BHA,4.5,1,90,0,0,1,0,0,0,0,4,0,0,0,EVE,4,03/10/2020,MID,False
+"Connolly  Aaron Connolly (Brighton and Hove Albion, Forward)",BHA,5.5,1,66,0,1,0,0,0,0,0,3,0,0,0,EVE,4,03/10/2020,FWD,False
+"Dunk  Lewis Dunk (Brighton and Hove Albion, Defender)",BHA,5.0,1,90,0,0,0,0,0,0,0,4,0,0,0,EVE,4,03/10/2020,DEF,False
+"Groß  Pascal Groß (Brighton and Hove Albion, Midfielder)",BHA,6.0,0,8,1,0,0,0,0,0,0,0,0,0,0,EVE,4,03/10/2020,MID,False
+"Lallana  Adam Lallana (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,24,1,0,0,0,0,0,0,1,0,0,0,EVE,4,03/10/2020,MID,False
+"Lamptey  Tariq Lamptey (Brighton and Hove Albion, Defender)",BHA,4.5,1,45,0,1,0,0,0,0,0,1,0,0,0,EVE,4,03/10/2020,DEF,False
+"March  Solomon March (Brighton and Hove Albion, Midfielder)",BHA,5.5,1,90,0,0,0,1,0,1,0,4,0,0,0,EVE,4,03/10/2020,MID,False
+"Maupay  Neal Maupay (Brighton and Hove Albion, Forward)",BHA,6.5,1,90,0,0,1,0,0,0,0,4,0,0,0,EVE,4,03/10/2020,FWD,False
+"Mat Ryan  Mathew Ryan (Brighton and Hove Albion, Goalkeeper)",BHA,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,EVE,4,03/10/2020,GKP,False
+"Trossard  Leandro Trossard (Brighton and Hove Albion, Midfielder)",BHA,6.5,1,90,0,0,0,0,1,1,0,4,0,0,0,EVE,4,03/10/2020,MID,False
+"Veltman  Joël Veltman (Brighton and Hove Albion, Defender)",BHA,4.5,0,45,1,0,0,0,0,0,0,3,0,0,0,EVE,4,03/10/2020,DEF,False
+"Webster  Adam Webster (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,EVE,4,03/10/2020,DEF,False
+"White (Ben)  Ben White (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,EVE,4,03/10/2020,DEF,False
+"Calvert-Lewin  Dominic Calvert-Lewin (Everton, Forward)",EVE,8.0,1,90,0,0,1,0,0,0,0,2,0,0,0,BHA,4,03/10/2020,FWD,True
+"Coleman  Seamus Coleman (Everton, Defender)",EVE,5.0,1,58,0,1,0,0,0,0,0,1,0,0,0,BHA,4,03/10/2020,DEF,True
+"Davies (Tom)  Tom Davies (Everton, Midfielder)",EVE,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,BHA,4,03/10/2020,MID,True
+"Delph  Fabian Delph (Everton, Midfielder)",EVE,4.5,0,32,1,0,0,0,0,0,0,1,0,0,0,BHA,4,03/10/2020,MID,True
+"Digne  Lucas Digne (Everton, Defender)",EVE,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,BHA,4,03/10/2020,DEF,True
+"Doucouré  Abdoulaye Doucouré (Everton, Midfielder)",EVE,5.5,1,90,0,0,0,1,0,1,0,2,0,0,0,BHA,4,03/10/2020,MID,True
+"Iwobi  Alex Iwobi (Everton, Midfielder)",EVE,6.0,0,65,1,0,0,1,0,1,0,2,0,0,0,BHA,4,03/10/2020,MID,True
+"Keane  Michael Keane (Everton, Defender)",EVE,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,BHA,4,03/10/2020,DEF,True
+"Mina  Yerry Mina (Everton, Defender)",EVE,5.0,1,90,0,0,1,0,0,0,0,2,0,0,0,BHA,4,03/10/2020,DEF,True
+"Pickford  Jordan Pickford (Everton, Goalkeeper)",EVE,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,BHA,4,03/10/2020,GKP,True
+"Rodríguez  James Rodríguez (Everton, Midfielder)",EVE,7.0,1,78,0,1,2,1,0,1,0,1,0,0,0,BHA,4,03/10/2020,MID,True
+"Sigurdsson  Gylfi Sigurdsson (Everton, Midfielder)",EVE,7.0,1,90,0,0,0,1,0,1,0,2,0,0,0,BHA,4,03/10/2020,MID,True
+"Walcott  Theo Walcott (Everton, Midfielder)",EVE,6.0,0,12,1,0,0,0,0,0,0,1,0,0,0,BHA,4,03/10/2020,MID,True
+"Richarlison  Richarlison de Andrade (Everton, Forward)",EVE,7.5,1,25,0,1,0,0,0,0,0,0,0,0,0,BHA,4,03/10/2020,FWD,True

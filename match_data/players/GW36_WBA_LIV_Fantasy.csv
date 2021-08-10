@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Thiago Alcántara  Thiago Alcántara do Nascimento (Liverpool, Midfielder)",LIV,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,36,16/05/2021,MID,False
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,1,90,0,0,0,1,0,1,0,1,0,0,0,WBA,36,16/05/2021,DEF,False
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,36,16/05/2021,FWD,False
+"Jones (Curtis)  Curtis Jones (Liverpool, Midfielder)",LIV,5.0,1,59,0,1,0,0,0,0,0,1,0,0,0,WBA,36,16/05/2021,MID,False
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,1,90,0,0,0,1,0,1,0,1,0,0,0,WBA,36,16/05/2021,MID,False
+"Phillips (Nathaniel)  Nathaniel Phillips (Liverpool, Defender)",LIV,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,36,16/05/2021,DEF,False
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,1,90,0,0,1,0,0,0,0,1,0,0,0,WBA,36,16/05/2021,GKP,False
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,36,16/05/2021,DEF,False
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,1,90,0,0,1,0,0,0,0,1,0,0,0,WBA,36,16/05/2021,MID,False
+"Shaqiri  Xherdan Shaqiri (Liverpool, Midfielder)",LIV,6.0,0,31,1,0,0,0,0,0,0,0,0,0,0,WBA,36,16/05/2021,MID,False
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,36,16/05/2021,MID,False
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,0,6,1,0,0,0,0,0,0,0,0,0,0,WBA,36,16/05/2021,MID,False
+"Rhys Williams  Rhys Williams (Liverpool, Defender)",LIV,4.5,1,84,0,1,0,0,0,0,0,1,0,0,0,WBA,36,16/05/2021,DEF,False
+"Ajayi  Semi Ajayi (West Bromwich Albion, Defender)",WBA,4.8,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,36,16/05/2021,DEF,True
+"Bartley  Kyle Bartley (West Bromwich Albion, Defender)",WBA,4.4,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,36,16/05/2021,DEF,True
+"Matheus Pereira  Matheus Fellipe Costa Pereira (West Bromwich Albion, Midfielder)",WBA,5.4,1,90,0,0,0,1,0,1,0,2,0,0,0,LIV,36,16/05/2021,MID,True
+"Diangana  Grady Diangana (West Bromwich Albion, Midfielder)",WBA,5.0,1,73,0,1,0,0,0,0,0,1,0,0,0,LIV,36,16/05/2021,MID,True
+"Furlong  Darnell Furlong (West Bromwich Albion, Defender)",WBA,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,36,16/05/2021,DEF,True
+"Gallagher  Conor Gallagher (West Bromwich Albion, Midfielder)",WBA,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,36,16/05/2021,MID,True
+"Grant (Karlan)  Karlan Grant (West Bromwich Albion, Forward)",WBA,5.6,0,8,1,0,0,0,0,0,0,1,0,0,0,LIV,36,16/05/2021,FWD,True
+"Johnstone  Sam Johnstone (West Bromwich Albion, Goalkeeper)",WBA,4.6,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,36,16/05/2021,GKP,True
+"Livermore  Jake Livermore (West Bromwich Albion, Midfielder)",WBA,4.7,0,15,1,0,0,0,0,0,0,1,0,0,0,LIV,36,16/05/2021,MID,True
+"Maitland-Niles  Ainsley Maitland-Niles (West Bromwich Albion, Defender)",WBA,5.5,0,17,1,0,0,0,0,0,0,1,0,0,0,LIV,36,16/05/2021,DEF,True
+"Phillips (Matthew)  Matthew Phillips (West Bromwich Albion, Midfielder)",WBA,5.1,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,36,16/05/2021,MID,True
+"Robson-Kanu  Hal Robson-Kanu (West Bromwich Albion, Forward)",WBA,5.2,1,82,0,1,1,0,0,0,0,1,0,0,0,LIV,36,16/05/2021,FWD,True
+"Townsend (Conor)  Conor Townsend (West Bromwich Albion, Defender)",WBA,4.4,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,36,16/05/2021,DEF,True
+"Yokuslu  Okay Yokuslu (West Bromwich Albion, Midfielder)",WBA,4.5,1,75,0,1,0,0,0,0,0,1,0,0,0,LIV,36,16/05/2021,MID,True

@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Tosin  Oluwatosin Adarabioyo (Fulham, Defender)",FUL,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,18,13/01/2021,DEF,False
+"Aina  Ola Aina (Fulham, Defender)",FUL,4.3,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,18,13/01/2021,DEF,False
+"Andersen  Joachim Andersen (Fulham, Defender)",FUL,4.5,1,90,0,0,0,0,0,0,0,1,0,1,0,TOT,18,13/01/2021,DEF,False
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,18,13/01/2021,GKP,False
+"Cavaleiro  Ivan Cavaleiro (Fulham, Midfielder)",FUL,5.3,1,86,0,1,1,0,0,0,0,1,0,0,0,TOT,18,13/01/2021,MID,False
+"DeCordova-Reid  Bobby DeCordova-Reid (Fulham, Forward)",FUL,5.3,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,18,13/01/2021,FWD,False
+"Kamara  Aboubakar Kamara (Fulham, Midfielder)",FUL,4.8,0,4,1,0,0,0,0,0,0,0,0,0,0,TOT,18,13/01/2021,MID,False
+"Loftus-Cheek  Ruben Loftus-Cheek (Fulham, Midfielder)",FUL,5.5,1,89,0,1,0,0,0,0,0,1,0,0,0,TOT,18,13/01/2021,MID,False
+"Lookman  Ademola Lookman (Fulham, Midfielder)",FUL,4.7,0,23,1,0,0,1,0,1,0,0,0,0,0,TOT,18,13/01/2021,MID,False
+"Onomah  Josh Onomah (Fulham, Midfielder)",FUL,4.6,0,1,1,0,0,0,0,0,0,0,0,0,0,TOT,18,13/01/2021,MID,False
+"Reed  Harrison Reed (Fulham, Midfielder)",FUL,4.4,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,18,13/01/2021,MID,False
+"Robinson (Antonee)  Antonee Robinson (Fulham, Defender)",FUL,4.4,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,18,13/01/2021,DEF,False
+"Tete  Kenny Tete (Fulham, Defender)",FUL,4.3,1,67,0,1,0,0,0,0,0,1,0,0,0,TOT,18,13/01/2021,DEF,False
+"Zambo Anguissa  André-Frank Zambo Anguissa (Fulham, Midfielder)",FUL,4.4,1,90,0,0,0,0,0,0,0,1,0,1,0,TOT,18,13/01/2021,MID,False
+"Carlos Vinicius  Carlos Vinicius Alves Morais (Tottenham Hotspur, Forward)",TOT,6.9,0,9,1,0,0,0,0,0,0,0,0,0,0,FUL,18,13/01/2021,FWD,True
+"Aurier  Serge Aurier (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,18,13/01/2021,DEF,True
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,18,13/01/2021,DEF,True
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,1,90,0,0,0,0,0,0,0,1,0,1,0,FUL,18,13/01/2021,MID,True
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,1,90,0,0,1,0,0,0,0,1,0,0,0,FUL,18,13/01/2021,FWD,True
+"Lamela  Erik Lamela (Tottenham Hotspur, Midfielder)",TOT,6.0,0,15,1,0,0,0,0,0,0,0,0,0,0,FUL,18,13/01/2021,MID,True
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,18,13/01/2021,GKP,True
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,1,81,0,1,0,0,0,0,0,1,0,0,0,FUL,18,13/01/2021,MID,True
+"Reguilón  Sergio Reguilón (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,1,0,1,0,1,0,0,0,FUL,18,13/01/2021,DEF,True
+"Sissoko  Moussa Sissoko (Tottenham Hotspur, Midfielder)",TOT,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,18,13/01/2021,MID,True
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,18,13/01/2021,MID,True
+"DSanchez  Davinson Sánchez (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,18,13/01/2021,DEF,True
+"Winks  Harry Winks (Tottenham Hotspur, Midfielder)",TOT,4.5,1,75,0,1,0,0,0,0,0,1,0,0,0,FUL,18,13/01/2021,MID,True

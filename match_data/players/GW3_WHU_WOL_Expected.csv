@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Antonio  Michail Antonio (West Ham United, Forward)",WHU,7.5,0,0.01,-0.01,8800.0,0,0.16,-0.16,550.0,0.17,-0.17,517.6,27/09/2020
+"Balbuena  Fabián Balbuena (West Ham United, Defender)",WHU,4.1,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/09/2020
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,0,0.02,-0.02,4400.0,2,1.23,0.77,71.5,1.25,0.75,70.4,27/09/2020
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,0,0.2,-0.2,450.0,0,0.0,0.0,inf,0.2,-0.2,450.0,27/09/2020
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/09/2020
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,1,0.0,1.0,inf,0,0.42,-0.42,214.3,0.42,0.58,214.3,27/09/2020
+"Fredericks  Ryan Fredericks (West Ham United, Defender)",WHU,4.5,0,0.1,-0.1,490.0,0,0.0,0.0,inf,0.1,-0.1,490.0,27/09/2020
+"Haller  Sébastien Haller (West Ham United, Forward)",WHU,6.1,0,0.0,0.0,inf,1,0.08,0.92,25.0,0.08,0.92,25.0,27/09/2020
+"Johnson (Ben)  Ben Johnson (West Ham United, Defender)",WHU,4.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/09/2020
+"Masuaku  Arthur Masuaku (West Ham United, Defender)",WHU,4.5,1,0.45,0.55,200.0,0,0.0,0.0,inf,0.45,0.55,200.0,27/09/2020
+"Noble  Mark Noble (West Ham United, Midfielder)",WHU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/09/2020
+"Ogbonna  Angelo Ogbonna (West Ham United, Defender)",WHU,5.0,0,0.0,0.0,inf,0,0.17,-0.17,529.4,0.17,-0.17,529.4,27/09/2020
+"Rice  Declan Rice (West Ham United, Midfielder)",WHU,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,27/09/2020
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,0,0.0,0.0,inf,0,0.33,-0.33,272.7,0.33,-0.33,272.7,27/09/2020
+"Boly  Willy Boly (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,27/09/2020
+"Coady  Conor Coady (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/09/2020
+"Hoever  Ki-Jana Hoever (Wolverhampton Wanderers, Defender)",WOL,4.0,0,0.02,-0.02,850.0,0,0.0,0.0,inf,0.02,-0.02,850.0,27/09/2020
+"Raúl Jiménez  Raul Alonso Jimenez Rodriguez (Wolverhampton Wanderers, Forward)",WOL,7.5,0,0.03,-0.03,3000.0,0,0.12,-0.12,750.0,0.15,-0.15,600.0,27/09/2020
+"Vitor Ferreira  Vitor Machado Ferreira (Wolverhampton Wanderers, Midfielder)",WOL,4.7,0,0.01,-0.01,1700.0,0,0.0,0.0,inf,0.01,-0.01,1700.0,27/09/2020
+"Moutinho  João Moutinho (Wolverhampton Wanderers, Midfielder)",WOL,5.0,0,0.03,-0.03,2433.3,0,0.07,-0.07,1042.9,0.1,-0.1,730.0,27/09/2020
+"Neto  Pedro Neto (Wolverhampton Wanderers, Midfielder)",WOL,6.5,0,0.12,-0.12,750.0,0,0.06,-0.06,1500.0,0.18,-0.18,500.0,27/09/2020
+"Saiss  Romain Saiss (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,27/09/2020
+"Semedo  Nelson Semedo (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.04,-0.04,1825.0,0,0.0,0.0,inf,0.04,-0.04,1825.0,27/09/2020
+"Rúben Vinagre  Rúben Gonçalo Silva Nascimento Vinagre (Wolverhampton Wanderers, Defender)",WOL,4.1,0,0.14,-0.14,642.9,0,0.0,0.0,inf,0.14,-0.14,642.9,27/09/2020
+"Fabio Silva  Fabio Daniel Soares Silva (Wolverhampton Wanderers, Forward)",WOL,6.0,0,0.01,-0.01,2800.0,0,0.11,-0.11,254.5,0.12,-0.12,233.3,27/09/2020
+"Traoré  Adama Traoré (Wolverhampton Wanderers, Midfielder)",WOL,6.0,0,0.01,-0.01,6200.0,0,0.0,0.0,inf,0.01,-0.01,6200.0,27/09/2020
+"Ruben Neves  Rúben Diogo da Silva Neves (Wolverhampton Wanderers, Midfielder)",WOL,5.5,0,0.03,-0.03,3000.0,0,0.1,-0.1,900.0,0.13,-0.13,692.3,27/09/2020
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/09/2020

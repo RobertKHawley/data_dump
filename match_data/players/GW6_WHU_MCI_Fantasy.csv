@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Aguero  Sergio Aguero (Manchester City, Forward)",MCI,10.3,1,45,0,1,0,0,0,0,0,1,0,0,0,WHU,6,24/10/2020,FWD,False
+"João Cancelo  João Pedro Cavaco Cancelo (Manchester City, Defender)",MCI,6.0,1,90,0,0,0,1,0,1,0,1,0,0,0,WHU,6,24/10/2020,DEF,False
+"De Bruyne  Kevin De Bruyne (Manchester City, Midfielder)",MCI,12.0,0,22,1,0,0,0,0,0,0,0,0,0,0,WHU,6,24/10/2020,MID,False
+"Foden  Phil Foden (Manchester City, Midfielder)",MCI,8.0,0,45,1,0,1,0,0,0,0,0,0,0,0,WHU,6,24/10/2020,MID,False
+"Garcia  Eric Garcia (Manchester City, Defender)",MCI,4.7,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,6,24/10/2020,DEF,False
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,6,24/10/2020,DEF,False
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,6,24/10/2020,MID,False
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,6,24/10/2020,MID,False
+"Mahrez  Riyad Mahrez (Manchester City, Midfielder)",MCI,9.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,6,24/10/2020,MID,False
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,6,24/10/2020,GKP,False
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,6,24/10/2020,MID,False
+"Bernardo Silva  Bernardo Mota Veiga de Carvalho e Silva (Manchester City, Midfielder)",MCI,7.0,1,68,0,1,0,0,0,0,0,1,0,0,0,WHU,6,24/10/2020,MID,False
+"Walker (Kyle)  Kyle Walker (Manchester City, Defender)",MCI,5.5,1,78,0,1,0,0,0,0,0,1,0,0,0,WHU,6,24/10/2020,DEF,False
+"Zinchenko  Oleksandr Zinchenko (Manchester City, Defender)",MCI,5.5,0,12,1,0,0,0,0,0,0,0,0,0,0,WHU,6,24/10/2020,DEF,False
+"Antonio  Michail Antonio (West Ham United, Forward)",WHU,7.5,1,52,0,1,1,0,0,0,0,1,0,0,0,MCI,6,24/10/2020,FWD,True
+"Balbuena  Fabián Balbuena (West Ham United, Defender)",WHU,4.1,1,90,0,0,0,0,0,0,0,1,0,1,0,MCI,6,24/10/2020,DEF,True
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,1,69,0,1,0,0,0,0,0,1,0,0,0,MCI,6,24/10/2020,MID,True
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,1,90,0,0,0,1,0,1,0,1,0,1,0,MCI,6,24/10/2020,DEF,True
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,6,24/10/2020,DEF,True
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,6,24/10/2020,GKP,True
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,6,24/10/2020,MID,True
+"Haller  Sébastien Haller (West Ham United, Forward)",WHU,6.1,0,21,1,0,0,0,0,0,0,0,0,0,0,MCI,6,24/10/2020,FWD,True
+"Masuaku  Arthur Masuaku (West Ham United, Defender)",WHU,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,6,24/10/2020,DEF,True
+"Ogbonna  Angelo Ogbonna (West Ham United, Defender)",WHU,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,6,24/10/2020,DEF,True
+"Rice  Declan Rice (West Ham United, Midfielder)",WHU,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,6,24/10/2020,MID,True
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,MCI,6,24/10/2020,MID,True
+"Yarmolenko  Andriy Yarmolenko (West Ham United, Midfielder)",WHU,5.5,0,38,1,0,0,0,0,0,0,0,0,0,0,MCI,6,24/10/2020,MID,True

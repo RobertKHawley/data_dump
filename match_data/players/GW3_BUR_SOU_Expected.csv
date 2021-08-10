@@ -1,0 +1,25 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Bardsley  Phillip Bardsley (Burnley, Defender)",BUR,4.0,0,0.06,-0.06,1500.0,0,0.0,0.0,inf,0.06,-0.06,1500.0,26/09/2020
+"Brownhill  Josh Brownhill (Burnley, Midfielder)",BUR,4.5,0,0.02,-0.02,4500.0,0,0.17,-0.17,529.4,0.19,-0.19,473.7,26/09/2020
+"Jimmy Dunne  James Dunne (Burnley, Defender)",BUR,3.8,0,0.03,-0.03,3000.0,0,0.07,-0.07,1285.7,0.1,-0.1,900.0,26/09/2020
+"Long (Kevin)  Kevin Long (Burnley, Defender)",BUR,4.0,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,26/09/2020
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,0,0.12,-0.12,750.0,0,0.0,0.0,inf,0.12,-0.12,750.0,26/09/2020
+"Pope  Nick Pope (Burnley, Goalkeeper)",BUR,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/09/2020
+"Stephens (Dale)  Dale Stephens (Burnley, Midfielder)",BUR,4.5,0,0.04,-0.04,2250.0,0,0.07,-0.07,1285.7,0.11,-0.11,818.2,26/09/2020
+"Taylor (Charlie)  Charlie Taylor (Burnley, Defender)",BUR,4.5,0,0.03,-0.03,3000.0,0,0.03,-0.03,3000.0,0.06,-0.06,1500.0,26/09/2020
+"Vydra  Matej Vydra (Burnley, Forward)",BUR,5.5,0,0.03,-0.03,3000.0,0,0.09,-0.09,1000.0,0.12,-0.12,750.0,26/09/2020
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,0,0.31,-0.31,290.3,0,0.0,0.0,inf,0.31,-0.31,290.3,26/09/2020
+"Wood  Chris Wood (Burnley, Forward)",BUR,7.0,0,0.01,-0.01,9000.0,0,0.07,-0.07,1285.7,0.08,-0.08,1125.0,26/09/2020
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,1,0.09,0.91,855.6,0,0.13,-0.13,592.3,0.22,0.78,350.0,26/09/2020
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,0,0.02,-0.02,4500.0,0,0.04,-0.04,2250.0,0.06,-0.06,1500.0,26/09/2020
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,0,0.0,0.0,inf,0,0.04,-0.04,2250.0,0.04,-0.04,2250.0,26/09/2020
+"Bertrand  Ryan Bertrand (Southampton, Defender)",SOU,5.0,0,0.25,-0.25,360.0,0,0.0,0.0,inf,0.25,-0.25,360.0,26/09/2020
+"Djenepo  Moussa Djenepo (Southampton, Midfielder)",SOU,5.5,0,0.01,-0.01,7700.0,0,0.03,-0.03,2566.7,0.04,-0.04,1925.0,26/09/2020
+"Ings  Danny Ings (Southampton, Forward)",SOU,8.0,0,0.06,-0.06,1500.0,1,0.39,0.61,230.8,0.45,0.55,200.0,26/09/2020
+"McCarthy (Alex)  Alex McCarthy (Southampton, Goalkeeper)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/09/2020
+"Obafemi  Michael Obafemi (Southampton, Forward)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/09/2020
+"Romeu  Oriol Romeu (Southampton, Midfielder)",SOU,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,26/09/2020
+"Tella  Nathan Tella (Southampton, Midfielder)",SOU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/09/2020
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,26/09/2020
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,26/09/2020
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,26/09/2020

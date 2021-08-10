@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,1,0.26,0.74,173.1,0,0.0,0.0,inf,0.26,0.74,173.1,05/12/2020
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/12/2020
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,0,0.01,-0.01,9000.0,1,0.38,0.62,236.8,0.39,0.61,230.8,05/12/2020
+"Henderson (Dean)  Dean Henderson (Manchester United, Goalkeeper)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/12/2020
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,0,0.01,-0.01,9000.0,0,0.02,-0.02,4500.0,0.03,-0.03,3000.0,05/12/2020
+"Martial  Anthony Martial (Manchester United, Forward)",MUN,8.0,0,0.01,-0.01,6200.0,0,0.1,-0.1,620.0,0.11,-0.11,563.6,05/12/2020
+"Mata  Juan Mata (Manchester United, Midfielder)",MUN,5.0,1,0.15,0.85,186.7,0,0.0,0.0,inf,0.15,0.85,186.7,05/12/2020
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,0,0.01,-0.01,9000.0,0,0.08,-0.08,1125.0,0.09,-0.09,1000.0,05/12/2020
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/12/2020
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,0,0.02,-0.02,4500.0,1,0.07,0.93,1285.7,0.09,0.91,1000.0,05/12/2020
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,0,0.04,-0.04,1125.0,1,1.02,-0.02,44.1,1.06,-0.06,42.5,05/12/2020
+"Alex Telles  Alex Nicolao Telles (Manchester United, Defender)",MUN,5.0,1,0.07,0.93,1285.7,0,0.0,0.0,inf,0.07,0.93,1285.7,05/12/2020
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,05/12/2020
+"van de Beek  Donny van de Beek (Manchester United, Midfielder)",MUN,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/12/2020
+"Balbuena  Fabián Balbuena (West Ham United, Defender)",WHU,4.1,0,0.01,-0.01,9000.0,0,0.08,-0.08,1125.0,0.09,-0.09,1000.0,05/12/2020
+"Benrahma  Said Benrahma (West Ham United, Midfielder)",WHU,6.0,0,0.01,-0.01,1500.0,0,0.05,-0.05,300.0,0.06,-0.06,250.0,05/12/2020
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,0,0.17,-0.17,447.1,0,0.45,-0.45,168.9,0.62,-0.62,122.6,05/12/2020
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,0,0.15,-0.15,566.7,0,0.0,0.0,inf,0.15,-0.15,566.7,05/12/2020
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,0,0.1,-0.1,900.0,0,0.05,-0.05,1800.0,0.15,-0.15,600.0,05/12/2020
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/12/2020
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,0,0.02,-0.02,3750.0,0,0.74,-0.74,101.4,0.76,-0.76,98.7,05/12/2020
+"Haller  Sébastien Haller (West Ham United, Forward)",WHU,6.1,0,0.17,-0.17,529.4,0,0.16,-0.16,562.5,0.33,-0.33,272.7,05/12/2020
+"Johnson (Ben)  Ben Johnson (West Ham United, Defender)",WHU,4.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/12/2020
+"Lanzini  Manuel Lanzini (West Ham United, Midfielder)",WHU,6.0,0,0.0,0.0,inf,0,0.02,-0.02,700.0,0.02,-0.02,700.0,05/12/2020
+"Masuaku  Arthur Masuaku (West Ham United, Defender)",WHU,4.5,0,0.06,-0.06,1500.0,0,0.01,-0.01,9000.0,0.07,-0.07,1285.7,05/12/2020
+"Ogbonna  Angelo Ogbonna (West Ham United, Defender)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/12/2020
+"Rice  Declan Rice (West Ham United, Midfielder)",WHU,5.0,1,0.01,0.99,9000.0,0,0.11,-0.11,818.2,0.12,0.88,750.0,05/12/2020
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,0,0.0,0.0,inf,1,0.42,0.58,214.3,0.42,0.58,214.3,05/12/2020

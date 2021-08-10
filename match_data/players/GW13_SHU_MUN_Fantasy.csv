@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,1,80,0,1,0,0,0,0,0,1,0,0,0,SHU,13,17/12/2020,MID,False
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,1,74,0,1,0,0,0,0,0,1,0,0,0,SHU,13,17/12/2020,MID,False
+"Henderson (Dean)  Dean Henderson (Manchester United, Goalkeeper)",MUN,5.0,1,90,0,0,0,0,0,0,0,2,0,1,0,SHU,13,17/12/2020,GKP,False
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,SHU,13,17/12/2020,DEF,False
+"Martial  Anthony Martial (Manchester United, Forward)",MUN,8.0,1,89,0,1,1,1,0,1,0,2,0,0,0,SHU,13,17/12/2020,FWD,False
+"Mata  Juan Mata (Manchester United, Midfielder)",MUN,5.0,0,16,1,0,0,0,0,0,0,1,0,0,0,SHU,13,17/12/2020,MID,False
+"Matic  Nemanja Matic (Manchester United, Midfielder)",MUN,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,SHU,13,17/12/2020,MID,False
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,0,1,1,0,0,0,0,0,0,0,0,0,0,SHU,13,17/12/2020,MID,False
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,1,90,0,0,0,1,0,1,0,2,0,0,0,SHU,13,17/12/2020,DEF,False
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,1,90,0,0,0,0,1,1,0,2,0,1,0,SHU,13,17/12/2020,MID,False
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,1,90,0,0,2,0,0,0,0,2,0,0,0,SHU,13,17/12/2020,MID,False
+"Alex Telles  Alex Nicolao Telles (Manchester United, Defender)",MUN,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,SHU,13,17/12/2020,DEF,False
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,SHU,13,17/12/2020,DEF,False
+"van de Beek  Donny van de Beek (Manchester United, Midfielder)",MUN,6.0,0,10,1,0,0,0,0,0,0,1,0,0,0,SHU,13,17/12/2020,MID,False
+"Ampadu  Ethan Ampadu (Sheffield United, Defender)",SHU,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,13,17/12/2020,DEF,True
+"Baldock  George Baldock (Sheffield United, Defender)",SHU,4.9,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,13,17/12/2020,DEF,True
+"Basham  Chris Basham (Sheffield United, Defender)",SHU,4.6,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,13,17/12/2020,DEF,True
+"Berge  Sander Berge (Sheffield United, Midfielder)",SHU,4.9,1,12,0,1,0,0,0,0,0,0,0,0,0,MUN,13,17/12/2020,MID,True
+"Brewster  Rhian Brewster (Sheffield United, Forward)",SHU,4.2,0,17,1,0,0,0,0,0,0,0,0,0,0,MUN,13,17/12/2020,FWD,True
+"Oliver Burke  Oliver Burke (Sheffield United, Midfielder)",SHU,4.1,1,73,0,1,0,1,0,1,0,3,0,0,0,MUN,13,17/12/2020,MID,True
+"Egan  John Egan (Sheffield United, Defender)",SHU,4.7,1,90,0,0,0,0,0,0,0,3,0,1,0,MUN,13,17/12/2020,DEF,True
+"Fleck  John Fleck (Sheffield United, Midfielder)",SHU,5.6,1,90,0,0,0,0,1,1,0,3,0,0,0,MUN,13,17/12/2020,MID,True
+"Jagielka  Phil Jagielka (Sheffield United, Defender)",SHU,3.9,0,51,1,1,0,0,0,0,0,3,0,1,0,MUN,13,17/12/2020,DEF,True
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,1,90,0,0,2,0,0,0,0,3,0,0,0,MUN,13,17/12/2020,FWD,True
+"Mousset  Lys Mousset (Sheffield United, Forward)",SHU,5.8,0,27,1,0,0,0,0,0,0,0,0,0,0,MUN,13,17/12/2020,FWD,True
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,13,17/12/2020,GKP,True
+"Robinson (Jack)  Jack Robinson (Sheffield United, Defender)",SHU,4.2,1,90,0,0,0,0,0,0,0,3,0,1,0,MUN,13,17/12/2020,DEF,True
+"Stevens (Enda)  Enda Stevens (Sheffield United, Defender)",SHU,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,13,17/12/2020,DEF,True

@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Aubameyang  Pierre-Emerick Aubameyang (Arsenal, Midfielder)",ARS,10.0,1,90,0,0,0,1,0,1,0,1,0,0,0,WHU,2,19/09/2020,MID,True
+"Bellerín  Héctor Bellerín (Arsenal, Defender)",ARS,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,2,19/09/2020,DEF,True
+"Willian  Willian Borges Da Silva (Arsenal, Midfielder)",ARS,6.5,1,64,0,1,0,0,0,0,0,1,0,0,0,WHU,2,19/09/2020,MID,True
+"Dani Ceballos  Daniel Ceballos Fernández (Arsenal, Midfielder)",ARS,4.7,1,90,0,0,0,1,0,1,0,1,0,0,0,WHU,2,19/09/2020,MID,True
+"Holding  Rob Holding (Arsenal, Defender)",ARS,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,2,19/09/2020,DEF,True
+"Kolasinac  Sead Kolasinac (Arsenal, Defender)",ARS,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,2,19/09/2020,DEF,True
+"Lacazette  Alexandre Lacazette (Arsenal, Forward)",ARS,8.5,1,77,0,1,1,0,0,0,0,1,0,0,0,WHU,2,19/09/2020,FWD,True
+"Leno  Bernd Leno (Arsenal, Goalkeeper)",ARS,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,2,19/09/2020,GKP,True
+"Luiz  David Luiz Moreira Marinho (Arsenal, Defender)",ARS,5.4,0,1,1,0,0,0,0,0,0,0,0,0,0,WHU,2,19/09/2020,DEF,True
+"Eddie Nketiah  Edward Nketiah (Arsenal, Forward)",ARS,5.5,0,13,1,0,1,0,0,0,0,0,0,0,0,WHU,2,19/09/2020,FWD,True
+"Pepe  Nicolas Pepe (Arsenal, Midfielder)",ARS,7.5,0,26,1,0,0,0,0,0,0,0,0,0,0,WHU,2,19/09/2020,MID,True
+"Saka  Bukayo Saka (Arsenal, Midfielder)",ARS,6.5,1,89,0,1,0,0,0,0,0,1,0,0,0,WHU,2,19/09/2020,MID,True
+"Xhaka  Granit Xhaka (Arsenal, Midfielder)",ARS,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,2,19/09/2020,MID,True
+"Gabriel Magalhães  Gabriel dos Santos Magalhães (Arsenal, Defender)",ARS,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,2,19/09/2020,DEF,True
+"Antonio  Michail Antonio (West Ham United, Forward)",WHU,7.5,1,90,0,0,1,0,0,0,0,2,0,0,0,ARS,2,19/09/2020,FWD,False
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,1,83,0,1,0,0,0,0,0,1,0,0,0,ARS,2,19/09/2020,MID,False
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,ARS,2,19/09/2020,DEF,False
+"Diop  Issa Diop (West Ham United, Defender)",WHU,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,ARS,2,19/09/2020,DEF,False
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,ARS,2,19/09/2020,GKP,False
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,1,88,0,1,0,0,0,0,0,2,0,0,0,ARS,2,19/09/2020,MID,False
+"Fredericks  Ryan Fredericks (West Ham United, Defender)",WHU,4.5,1,90,0,0,0,1,0,1,0,2,0,1,0,ARS,2,19/09/2020,DEF,False
+"Haller  Sébastien Haller (West Ham United, Forward)",WHU,6.1,0,2,1,0,0,0,0,0,0,0,0,0,0,ARS,2,19/09/2020,FWD,False
+"Masuaku  Arthur Masuaku (West Ham United, Defender)",WHU,4.5,1,89,0,1,0,0,0,0,0,2,0,0,0,ARS,2,19/09/2020,DEF,False
+"Ogbonna  Angelo Ogbonna (West Ham United, Defender)",WHU,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,ARS,2,19/09/2020,DEF,False
+"Felipe Anderson  Felipe Anderson Pereira Gomes (West Ham United, Midfielder)",WHU,6.1,0,1,1,0,0,0,0,0,0,0,0,0,0,ARS,2,19/09/2020,MID,False
+"Rice  Declan Rice (West Ham United, Midfielder)",WHU,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,ARS,2,19/09/2020,MID,False
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,1,90,0,0,0,0,0,0,0,2,0,0,0,ARS,2,19/09/2020,MID,False
+"Yarmolenko  Andriy Yarmolenko (West Ham United, Midfielder)",WHU,5.5,0,7,1,0,0,0,0,0,0,1,0,0,0,ARS,2,19/09/2020,MID,False

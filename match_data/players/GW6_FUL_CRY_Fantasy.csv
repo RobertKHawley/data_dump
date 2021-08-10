@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Batshuayi  Michy Batshuayi (Crystal Palace, Forward)",CRY,5.5,1,90,0,0,0,1,0,1,0,1,0,0,0,FUL,6,24/10/2020,FWD,False
+"Clyne  Nathaniel Clyne (Crystal Palace, Defender)",CRY,4.5,1,72,0,1,0,0,0,0,1,0,0,0,0,FUL,6,24/10/2020,DEF,False
+"Dann  Scott Dann (Crystal Palace, Defender)",CRY,4.2,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,6,24/10/2020,DEF,False
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,0,14,1,0,0,0,0,0,0,1,0,0,0,FUL,6,24/10/2020,MID,False
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,1,90,0,0,0,0,0,0,0,1,0,1,0,FUL,6,24/10/2020,GKP,False
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,6,24/10/2020,MID,False
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,6,24/10/2020,MID,False
+"Mitchell  Tyrick Mitchell (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,6,24/10/2020,DEF,False
+"Riedewald  Jairo Riedewald (Crystal Palace, Midfielder)",CRY,5.0,1,85,0,1,1,0,0,0,1,0,0,0,0,FUL,6,24/10/2020,MID,False
+"Sakho  Mamadou Sakho (Crystal Palace, Defender)",CRY,4.4,0,5,1,0,0,0,0,0,0,1,0,0,0,FUL,6,24/10/2020,DEF,False
+"Schlupp  Jeffrey Schlupp (Crystal Palace, Midfielder)",CRY,5.5,1,76,0,1,0,0,0,0,1,0,0,0,0,FUL,6,24/10/2020,MID,False
+"Townsend (Andros)  Andros Townsend (Crystal Palace, Midfielder)",CRY,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,6,24/10/2020,MID,False
+"Van Aanholt  Patrick Van Aanholt (Crystal Palace, Defender)",CRY,5.4,0,18,1,0,0,0,0,0,0,1,0,0,0,FUL,6,24/10/2020,DEF,False
+"Zaha  Wilfried Zaha (Crystal Palace, Midfielder)",CRY,7.0,1,90,0,0,1,1,0,1,0,1,0,0,0,FUL,6,24/10/2020,MID,False
+"Tosin  Oluwatosin Adarabioyo (Fulham, Defender)",FUL,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,CRY,6,24/10/2020,DEF,True
+"Aina  Ola Aina (Fulham, Defender)",FUL,4.3,1,90,0,0,0,0,0,0,0,2,0,0,0,CRY,6,24/10/2020,DEF,True
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,CRY,6,24/10/2020,GKP,True
+"Cairney  Tom Cairney (Fulham, Midfielder)",FUL,5.2,1,90,0,0,1,0,0,0,0,2,0,0,0,CRY,6,24/10/2020,MID,True
+"DeCordova-Reid  Bobby DeCordova-Reid (Fulham, Forward)",FUL,5.3,0,16,1,0,0,0,0,0,0,0,0,0,0,CRY,6,24/10/2020,FWD,True
+"Kamara  Aboubakar Kamara (Fulham, Midfielder)",FUL,4.8,0,22,1,0,0,0,0,0,0,0,0,0,1,CRY,6,24/10/2020,MID,True
+"Lemina  Mario Lemina (Fulham, Midfielder)",FUL,4.5,1,79,0,1,0,0,0,0,0,2,0,0,0,CRY,6,24/10/2020,MID,True
+"Loftus-Cheek  Ruben Loftus-Cheek (Fulham, Midfielder)",FUL,5.5,1,74,0,1,0,0,0,0,0,2,0,0,0,CRY,6,24/10/2020,MID,True
+"Lookman  Ademola Lookman (Fulham, Midfielder)",FUL,4.7,1,90,0,0,0,0,0,0,0,2,0,0,0,CRY,6,24/10/2020,MID,True
+"Mitrovic  Aleksandar Mitrovic (Fulham, Forward)",FUL,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,CRY,6,24/10/2020,FWD,True
+"Ream  Tim Ream (Fulham, Defender)",FUL,4.2,1,90,0,0,0,0,0,0,0,2,0,0,0,CRY,6,24/10/2020,DEF,True
+"Reed  Harrison Reed (Fulham, Midfielder)",FUL,4.4,0,11,1,0,0,1,0,1,0,0,0,0,0,CRY,6,24/10/2020,MID,True
+"Robinson (Antonee)  Antonee Robinson (Fulham, Defender)",FUL,4.4,1,90,0,0,0,0,0,0,0,2,0,0,0,CRY,6,24/10/2020,DEF,True
+"Zambo Anguissa  André-Frank Zambo Anguissa (Fulham, Midfielder)",FUL,4.4,1,66,0,1,0,0,0,0,0,2,0,0,0,CRY,6,24/10/2020,MID,True

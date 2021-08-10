@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Jordan Ayew  Jordan Ayew (Crystal Palace, Forward)",CRY,6.0,0,16,1,0,0,0,0,0,0,0,0,0,0,WBA,11,06/12/2020,FWD,False
+"Batshuayi  Michy Batshuayi (Crystal Palace, Forward)",CRY,5.5,0,9,1,0,0,0,0,0,0,0,0,0,0,WBA,11,06/12/2020,FWD,False
+"Benteke  Christian Benteke (Crystal Palace, Forward)",CRY,6.5,1,90,0,0,2,0,0,0,0,1,0,0,0,WBA,11,06/12/2020,FWD,False
+"Cahill  Gary Cahill (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,11,06/12/2020,DEF,False
+"Clyne  Nathaniel Clyne (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,1,0,1,0,1,0,0,0,WBA,11,06/12/2020,DEF,False
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,1,90,0,0,0,1,0,1,0,1,0,0,0,WBA,11,06/12/2020,MID,False
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,11,06/12/2020,GKP,False
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,11,06/12/2020,MID,False
+"McArthur  James McArthur (Crystal Palace, Midfielder)",CRY,4.5,1,73,0,1,0,1,0,1,0,1,0,1,0,WBA,11,06/12/2020,MID,False
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,1,90,0,0,0,0,0,0,0,1,0,1,0,WBA,11,06/12/2020,MID,False
+"Riedewald  Jairo Riedewald (Crystal Palace, Midfielder)",CRY,5.0,0,17,1,0,0,0,0,0,0,0,0,0,0,WBA,11,06/12/2020,MID,False
+"Schlupp  Jeffrey Schlupp (Crystal Palace, Midfielder)",CRY,5.5,1,74,0,1,0,0,0,0,0,1,0,0,0,WBA,11,06/12/2020,MID,False
+"Van Aanholt  Patrick Van Aanholt (Crystal Palace, Defender)",CRY,5.4,1,90,0,0,0,1,0,1,0,1,0,0,0,WBA,11,06/12/2020,DEF,False
+"Zaha  Wilfried Zaha (Crystal Palace, Midfielder)",CRY,7.0,1,81,0,1,2,0,1,1,0,1,0,0,0,WBA,11,06/12/2020,MID,False
+"Ajayi  Semi Ajayi (West Bromwich Albion, Defender)",WBA,4.8,1,90,0,0,0,0,0,0,0,5,0,0,0,CRY,11,06/12/2020,DEF,True
+"Bartley  Kyle Bartley (West Bromwich Albion, Defender)",WBA,4.4,1,90,0,0,0,0,0,0,0,5,0,0,0,CRY,11,06/12/2020,DEF,True
+"Matheus Pereira  Matheus Fellipe Costa Pereira (West Bromwich Albion, Midfielder)",WBA,5.4,1,34,0,0,0,0,0,0,0,1,0,0,1,CRY,11,06/12/2020,MID,True
+"Diangana  Grady Diangana (West Bromwich Albion, Midfielder)",WBA,5.0,1,45,0,1,0,0,0,0,0,1,0,0,0,CRY,11,06/12/2020,MID,True
+"Furlong  Darnell Furlong (West Bromwich Albion, Defender)",WBA,4.5,1,90,0,0,0,1,0,1,0,5,1,0,0,CRY,11,06/12/2020,DEF,True
+"Gallagher  Conor Gallagher (West Bromwich Albion, Midfielder)",WBA,5.5,1,90,0,0,1,0,0,0,0,5,0,1,0,CRY,11,06/12/2020,MID,True
+"Grant (Karlan)  Karlan Grant (West Bromwich Albion, Forward)",WBA,5.6,1,62,0,1,0,0,0,0,0,3,0,0,0,CRY,11,06/12/2020,FWD,True
+"Ivanovic  Branislav Ivanovic (West Bromwich Albion, Defender)",WBA,4.4,1,90,0,0,0,0,0,0,0,5,0,0,0,CRY,11,06/12/2020,DEF,True
+"Johnstone  Sam Johnstone (West Bromwich Albion, Goalkeeper)",WBA,4.6,1,90,0,0,0,0,0,0,0,5,0,0,0,CRY,11,06/12/2020,GKP,True
+"Krovinovic  Filip Krovinovic (West Bromwich Albion, Midfielder)",WBA,4.9,0,45,1,0,0,0,0,0,0,4,0,0,0,CRY,11,06/12/2020,MID,True
+"O'Shea  Dara O&#039;Shea (West Bromwich Albion, Defender)",WBA,4.2,0,10,1,0,0,0,0,0,0,1,0,0,0,CRY,11,06/12/2020,DEF,True
+"Phillips (Matthew)  Matthew Phillips (West Bromwich Albion, Midfielder)",WBA,5.1,1,90,0,0,0,0,0,0,0,5,0,0,0,CRY,11,06/12/2020,MID,True
+"Robinson (Callum)  Callum Robinson (West Bromwich Albion, Forward)",WBA,5.2,0,28,1,0,0,0,0,0,0,2,0,0,0,CRY,11,06/12/2020,FWD,True
+"Sawyers  Romaine Sawyers (West Bromwich Albion, Midfielder)",WBA,4.6,1,80,0,1,0,0,0,0,0,4,0,1,0,CRY,11,06/12/2020,MID,True

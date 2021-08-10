@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Barkley  Ross Barkley (Aston Villa, Midfielder)",AVL,5.5,1,5,0,1,0,0,0,0,0,0,0,0,0,BHA,9,21/11/2020,MID,True
+"Cash  Matthew Cash (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,BHA,9,21/11/2020,DEF,True
+"El Ghazi  Anwar El Ghazi (Aston Villa, Midfielder)",AVL,6.0,0,16,1,0,0,0,0,0,0,0,0,0,0,BHA,9,21/11/2020,MID,True
+"Grealish  Jack Grealish (Aston Villa, Midfielder)",AVL,8.0,1,90,0,0,0,0,0,0,0,2,0,1,0,BHA,9,21/11/2020,MID,True
+"Trezeguet  Mahmoud Hassan (Aston Villa, Midfielder)",AVL,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,BHA,9,21/11/2020,MID,True
+"Hourihane  Conor Hourihane (Aston Villa, Midfielder)",AVL,5.0,0,15,1,0,0,0,0,0,0,0,0,0,0,BHA,9,21/11/2020,MID,True
+"Konsa Ngoyo  Ezri Konsa Ngoyo (Aston Villa, Defender)",AVL,5.0,1,90,0,0,1,0,0,0,0,2,0,0,0,BHA,9,21/11/2020,DEF,True
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,BHA,9,21/11/2020,GKP,True
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,1,90,0,0,0,0,0,0,0,2,0,0,0,BHA,9,21/11/2020,MID,True
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,BHA,9,21/11/2020,DEF,True
+"Douglas Luiz  Douglas Luiz Soares de Paulo (Aston Villa, Midfielder)",AVL,4.5,1,75,0,1,0,0,0,0,0,2,0,0,0,BHA,9,21/11/2020,MID,True
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,0,2,0,1,0,BHA,9,21/11/2020,DEF,True
+"Traore (Bertrand)  Bertrand Traore (Aston Villa, Midfielder)",AVL,6.0,0,69,1,1,0,1,0,1,0,2,0,0,0,BHA,9,21/11/2020,MID,True
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,1,90,0,0,0,0,0,0,0,2,0,0,0,BHA,9,21/11/2020,FWD,True
+"Bissouma  Yves Bissouma (Brighton and Hove Albion, Midfielder)",BHA,4.5,1,90,0,0,0,0,0,0,0,1,0,1,0,AVL,9,21/11/2020,MID,False
+"Burn  Dan Burn (Brighton and Hove Albion, Defender)",BHA,4.5,0,10,1,0,0,0,0,0,0,0,0,0,0,AVL,9,21/11/2020,DEF,False
+"Dunk  Lewis Dunk (Brighton and Hove Albion, Defender)",BHA,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,AVL,9,21/11/2020,DEF,False
+"Groß  Pascal Groß (Brighton and Hove Albion, Midfielder)",BHA,6.0,1,89,0,1,0,1,0,1,0,1,0,0,0,AVL,9,21/11/2020,MID,False
+"Lallana  Adam Lallana (Brighton and Hove Albion, Midfielder)",BHA,5.5,1,45,0,1,0,1,0,1,0,0,0,0,0,AVL,9,21/11/2020,MID,False
+"Lamptey  Tariq Lamptey (Brighton and Hove Albion, Defender)",BHA,4.5,1,89,0,0,0,0,0,0,0,1,0,0,1,AVL,9,21/11/2020,DEF,False
+"March  Solomon March (Brighton and Hove Albion, Midfielder)",BHA,5.5,1,90,0,0,1,0,0,0,0,1,0,0,0,AVL,9,21/11/2020,MID,False
+"Maupay  Neal Maupay (Brighton and Hove Albion, Forward)",BHA,6.5,1,80,0,1,0,0,0,0,0,1,0,0,0,AVL,9,21/11/2020,FWD,False
+"Molumby  Jayson Molumby (Brighton and Hove Albion, Midfielder)",BHA,4.5,0,1,1,0,0,0,0,0,0,0,0,0,0,AVL,9,21/11/2020,MID,False
+"Mat Ryan  Mathew Ryan (Brighton and Hove Albion, Goalkeeper)",BHA,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,AVL,9,21/11/2020,GKP,False
+"Veltman  Joël Veltman (Brighton and Hove Albion, Defender)",BHA,4.5,0,45,1,0,0,0,0,0,0,1,0,0,0,AVL,9,21/11/2020,DEF,False
+"Webster  Adam Webster (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,AVL,9,21/11/2020,DEF,False
+"Welbeck  Danny Welbeck (Brighton and Hove Albion, Forward)",BHA,6.0,1,90,0,0,1,0,0,0,0,1,0,0,0,AVL,9,21/11/2020,FWD,False
+"White (Ben)  Ben White (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,AVL,9,21/11/2020,DEF,False

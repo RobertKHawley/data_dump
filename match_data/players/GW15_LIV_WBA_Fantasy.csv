@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,15,27/12/2020,DEF,True
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,1,89,0,1,0,0,0,0,0,1,0,0,0,WBA,15,27/12/2020,FWD,True
+"Henderson (Jordan)  Jordan Henderson (Liverpool, Midfielder)",LIV,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,15,27/12/2020,MID,True
+"Jones (Curtis)  Curtis Jones (Liverpool, Midfielder)",LIV,5.0,1,83,0,1,0,0,0,0,0,1,0,0,0,WBA,15,27/12/2020,MID,True
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,1,90,0,0,1,0,0,0,0,1,0,0,0,WBA,15,27/12/2020,MID,True
+"Matip  Joel Matip (Liverpool, Defender)",LIV,5.0,1,60,0,1,0,1,0,1,1,0,0,0,0,WBA,15,27/12/2020,DEF,True
+"Origi  Divock Origi (Liverpool, Forward)",LIV,5.0,0,1,1,0,0,0,0,0,0,0,0,0,0,WBA,15,27/12/2020,FWD,True
+"Oxlade-Chamberlain  Alex Oxlade-Chamberlain (Liverpool, Midfielder)",LIV,6.0,0,7,1,0,0,0,0,0,0,0,0,0,0,WBA,15,27/12/2020,MID,True
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,15,27/12/2020,GKP,True
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,15,27/12/2020,DEF,True
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,15,27/12/2020,MID,True
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,15,27/12/2020,MID,True
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,15,27/12/2020,MID,True
+"Rhys Williams  Rhys Williams (Liverpool, Defender)",LIV,4.5,0,30,1,0,0,0,0,0,0,1,0,0,0,WBA,15,27/12/2020,DEF,True
+"Ajayi  Semi Ajayi (West Bromwich Albion, Defender)",WBA,4.8,1,90,0,0,1,0,0,0,0,1,0,0,0,LIV,15,27/12/2020,DEF,False
+"Austin (Charlie)  Charlie Austin (West Bromwich Albion, Forward)",WBA,5.1,0,12,1,0,0,0,0,0,0,0,0,0,0,LIV,15,27/12/2020,FWD,False
+"Matheus Pereira  Matheus Fellipe Costa Pereira (West Bromwich Albion, Midfielder)",WBA,5.4,0,17,1,0,0,1,0,1,0,0,0,0,0,LIV,15,27/12/2020,MID,False
+"Diangana  Grady Diangana (West Bromwich Albion, Midfielder)",WBA,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,LIV,15,27/12/2020,MID,False
+"Furlong  Darnell Furlong (West Bromwich Albion, Defender)",WBA,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,LIV,15,27/12/2020,DEF,False
+"Gallagher  Conor Gallagher (West Bromwich Albion, Midfielder)",WBA,5.5,1,89,0,1,0,0,0,0,0,1,0,0,0,LIV,15,27/12/2020,MID,False
+"Gibbs  Kieran Gibbs (West Bromwich Albion, Defender)",WBA,4.3,1,90,0,0,0,0,0,0,0,1,0,0,0,LIV,15,27/12/2020,DEF,False
+"Grant (Karlan)  Karlan Grant (West Bromwich Albion, Forward)",WBA,5.6,1,78,0,1,0,0,0,0,0,1,0,0,0,LIV,15,27/12/2020,FWD,False
+"Ivanovic  Branislav Ivanovic (West Bromwich Albion, Defender)",WBA,4.4,0,1,1,0,0,0,0,0,0,0,0,0,0,LIV,15,27/12/2020,DEF,False
+"Johnstone  Sam Johnstone (West Bromwich Albion, Goalkeeper)",WBA,4.6,1,90,0,0,0,0,0,0,0,1,0,0,0,LIV,15,27/12/2020,GKP,False
+"O'Shea  Dara O&#039;Shea (West Bromwich Albion, Defender)",WBA,4.2,1,90,0,0,0,0,0,0,0,1,0,1,0,LIV,15,27/12/2020,DEF,False
+"Phillips (Matthew)  Matthew Phillips (West Bromwich Albion, Midfielder)",WBA,5.1,1,90,0,0,0,0,0,0,0,1,0,0,0,LIV,15,27/12/2020,MID,False
+"Robinson (Callum)  Callum Robinson (West Bromwich Albion, Forward)",WBA,5.2,1,73,0,1,0,0,0,0,0,1,0,0,0,LIV,15,27/12/2020,FWD,False
+"Sawyers  Romaine Sawyers (West Bromwich Albion, Midfielder)",WBA,4.6,1,90,0,0,0,0,0,0,0,1,0,0,0,LIV,15,27/12/2020,MID,False

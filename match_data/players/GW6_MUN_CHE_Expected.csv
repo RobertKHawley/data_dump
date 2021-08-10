@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Abraham  Tammy Abraham (Chelsea, Forward)",CHE,6.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,24/10/2020
+"Azpilicueta  César Azpilicueta (Chelsea, Defender)",CHE,6.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,24/10/2020
+"Chilwell  Benjamin Chilwell (Chelsea, Defender)",CHE,6.0,0,0.08,-0.08,1125.0,0,0.0,0.0,inf,0.08,-0.08,1125.0,24/10/2020
+"Jorginho  Jorge Luiz Frello Filho (Chelsea, Midfielder)",CHE,6.0,0,0.0,0.0,inf,0,0.02,-0.02,4500.0,0.02,-0.02,4500.0,24/10/2020
+"Havertz  Kai Havertz (Chelsea, Midfielder)",CHE,8.5,0,0.01,-0.01,7200.0,0,0.16,-0.16,450.0,0.17,-0.17,423.5,24/10/2020
+"James (Reece)  Reece James (Chelsea, Defender)",CHE,5.5,0,0.01,-0.01,9000.0,0,0.04,-0.04,2250.0,0.05,-0.05,1800.0,24/10/2020
+"Kanté  N&#039;Golo Kanté (Chelsea, Midfielder)",CHE,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,24/10/2020
+"Mendy (Edouard)  Edouard Mendy (Chelsea, Goalkeeper)",CHE,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,24/10/2020
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,0,0.01,-0.01,1800.0,0,0.0,0.0,inf,0.01,-0.01,1800.0,24/10/2020
+"Pulisic  Christian Pulisic (Chelsea, Midfielder)",CHE,8.0,0,0.01,-0.01,8100.0,0,0.11,-0.11,736.4,0.12,-0.12,675.0,24/10/2020
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,0,0.01,-0.01,7100.0,0,0.05,-0.05,1420.0,0.06,-0.06,1183.3,24/10/2020
+"Ziyech  Hakim Ziyech (Chelsea, Midfielder)",CHE,7.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,24/10/2020
+"Zouma  Kurt Zouma (Chelsea, Defender)",CHE,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,24/10/2020
+"Thiago Silva  Thiago Emiliano da Silva (Chelsea, Defender)",CHE,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,24/10/2020
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,0,0.12,-0.12,750.0,0,0.1,-0.1,900.0,0.22,-0.22,409.1,24/10/2020
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,0,0.0,0.0,inf,0,0.17,-0.17,188.2,0.17,-0.17,188.2,24/10/2020
+"De Gea  David De Gea (Manchester United, Goalkeeper)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,24/10/2020
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,0,0.1,-0.1,70.0,0,0.0,0.0,inf,0.1,-0.1,70.0,24/10/2020
+"James (Daniel)  Daniel James (Manchester United, Midfielder)",MUN,6.0,0,0.02,-0.02,2900.0,0,0.0,0.0,inf,0.02,-0.02,2900.0,24/10/2020
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,0,0.01,-0.01,9000.0,0,0.03,-0.03,3000.0,0.04,-0.04,2250.0,24/10/2020
+"Mata  Juan Mata (Manchester United, Midfielder)",MUN,5.0,0,0.12,-0.12,483.3,0,0.06,-0.06,966.7,0.18,-0.18,322.2,24/10/2020
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,0,0.01,-0.01,8300.0,0,0.08,-0.08,1037.5,0.09,-0.09,922.2,24/10/2020
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,24/10/2020
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,0,0.02,-0.02,1600.0,0,0.05,-0.05,640.0,0.07,-0.07,457.1,24/10/2020
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,0,0.05,-0.05,1800.0,0,0.14,-0.14,642.9,0.19,-0.19,473.7,24/10/2020
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,0,0.04,-0.04,2250.0,0,0.03,-0.03,3000.0,0.07,-0.07,1285.7,24/10/2020
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,24/10/2020
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,24/10/2020

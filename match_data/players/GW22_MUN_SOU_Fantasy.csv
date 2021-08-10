@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,1,90,0,0,1,2,0,2,1,0,0,0,0,SOU,22,02/02/2021,MID,True
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,1,45,0,1,1,0,0,0,0,0,0,0,0,SOU,22,02/02/2021,FWD,True
+"De Gea  David De Gea (Manchester United, Goalkeeper)",MUN,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,22,02/02/2021,GKP,True
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,1,90,0,0,0,1,0,1,1,0,0,0,0,SOU,22,02/02/2021,MID,True
+"James (Daniel)  Daniel James (Manchester United, Midfielder)",MUN,6.0,0,30,1,0,1,0,0,0,0,0,0,0,0,SOU,22,02/02/2021,MID,True
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,1,0,0,1,0,SOU,22,02/02/2021,DEF,True
+"Martial  Anthony Martial (Manchester United, Forward)",MUN,8.0,0,45,1,0,2,0,1,1,0,0,0,0,0,SOU,22,02/02/2021,FWD,True
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,1,90,0,0,1,0,0,0,1,0,0,0,0,SOU,22,02/02/2021,MID,True
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,22,02/02/2021,DEF,True
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,1,60,0,1,1,0,1,1,1,0,0,0,0,SOU,22,02/02/2021,MID,True
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SOU,22,02/02/2021,MID,True
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,1,45,0,1,0,2,0,2,0,0,0,0,0,SOU,22,02/02/2021,DEF,True
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,1,90,0,0,1,0,1,1,1,0,0,0,0,SOU,22,02/02/2021,DEF,True
+"van de Beek  Donny van de Beek (Manchester United, Midfielder)",MUN,6.0,0,45,1,0,0,0,0,0,0,0,0,1,0,SOU,22,02/02/2021,MID,True
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,1,90,0,0,0,0,0,0,0,9,0,0,0,MUN,22,02/02/2021,FWD,False
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,1,90,0,0,0,0,0,0,0,9,0,1,0,MUN,22,02/02/2021,MID,False
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,1,86,0,0,0,0,0,0,0,6,1,0,1,MUN,22,02/02/2021,DEF,False
+"Bertrand  Ryan Bertrand (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,9,0,0,0,MUN,22,02/02/2021,DEF,False
+"Djenepo  Moussa Djenepo (Southampton, Midfielder)",SOU,5.5,1,78,0,1,0,0,0,0,0,6,0,0,0,MUN,22,02/02/2021,MID,False
+"Ings  Danny Ings (Southampton, Forward)",SOU,8.0,1,70,0,1,0,0,0,0,0,5,0,0,0,MUN,22,02/02/2021,FWD,False
+"Jankewitz  Alexandre Jankewitz (Southampton, Midfielder)",SOU,4.5,1,2,0,0,0,0,0,0,0,0,0,0,1,MUN,22,02/02/2021,MID,False
+"McCarthy (Alex)  Alex McCarthy (Southampton, Goalkeeper)",SOU,4.5,1,90,0,0,0,0,0,0,0,9,0,0,0,MUN,22,02/02/2021,GKP,False
+"Ramsay  Kayne Ramsay (Southampton, Defender)",SOU,4.0,1,90,0,0,0,0,0,0,0,9,0,1,0,MUN,22,02/02/2021,DEF,False
+"Redmond  Nathan Redmond (Southampton, Midfielder)",SOU,6.0,0,20,1,0,0,0,0,0,0,4,0,0,0,MUN,22,02/02/2021,MID,False
+"Stephens (Jack)  Jack Stephens (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,0,9,0,1,0,MUN,22,02/02/2021,DEF,False
+"Tchaptchet  Allan Tchaptchet (Southampton, Defender)",SOU,4.0,0,12,1,0,0,0,0,0,0,3,0,0,0,MUN,22,02/02/2021,DEF,False
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,1,90,0,0,0,0,0,0,0,9,0,0,0,MUN,22,02/02/2021,MID,False

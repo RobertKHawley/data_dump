@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Tosin  Oluwatosin Adarabioyo (Fulham, Defender)",FUL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/03/2021
+"Aina  Ola Aina (Fulham, Defender)",FUL,4.3,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,07/03/2021
+"Andersen  Joachim Andersen (Fulham, Defender)",FUL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/03/2021
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/03/2021
+"Cavaleiro  Ivan Cavaleiro (Fulham, Midfielder)",FUL,5.3,0,0.04,-0.04,2125.0,0,0.16,-0.16,531.3,0.2,-0.2,425.0,07/03/2021
+"DeCordova-Reid  Bobby DeCordova-Reid (Fulham, Forward)",FUL,5.3,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,07/03/2021
+"Lemina  Mario Lemina (Fulham, Midfielder)",FUL,4.5,0,0.01,-0.01,9000.0,1,0.05,0.95,1800.0,0.06,0.94,1500.0,07/03/2021
+"Loftus-Cheek  Ruben Loftus-Cheek (Fulham, Midfielder)",FUL,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/03/2021
+"Lookman  Ademola Lookman (Fulham, Midfielder)",FUL,4.7,0,0.09,-0.09,922.2,0,0.16,-0.16,518.8,0.25,-0.25,332.0,07/03/2021
+"Maja  Josh Maja (Fulham, Forward)",FUL,5.0,0,0.0,0.0,inf,0,0.95,-0.95,70.5,0.95,-0.95,70.5,07/03/2021
+"Mitrovic  Aleksandar Mitrovic (Fulham, Forward)",FUL,5.5,0,0.0,0.0,inf,0,0.06,-0.06,83.3,0.06,-0.06,83.3,07/03/2021
+"Reed  Harrison Reed (Fulham, Midfielder)",FUL,4.4,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,07/03/2021
+"Robinson (Antonee)  Antonee Robinson (Fulham, Defender)",FUL,4.4,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/03/2021
+"Tete  Kenny Tete (Fulham, Defender)",FUL,4.3,0,0.13,-0.13,692.3,0,0.0,0.0,inf,0.13,-0.13,692.3,07/03/2021
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,0,0.07,-0.07,200.0,0,0.0,0.0,inf,0.07,-0.07,200.0,07/03/2021
+"Keita  Naby Keita (Liverpool, Midfielder)",LIV,5.0,0,0.1,-0.1,900.0,0,0.06,-0.06,1500.0,0.16,-0.16,562.5,07/03/2021
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,0,0.04,-0.04,700.0,0,0.24,-0.24,116.7,0.28,-0.28,100.0,07/03/2021
+"Milner  James Milner (Liverpool, Midfielder)",LIV,5.0,0,0.05,-0.05,1520.0,0,0.08,-0.08,950.0,0.13,-0.13,584.6,07/03/2021
+"Phillips (Nathaniel)  Nathaniel Phillips (Liverpool, Defender)",LIV,4.5,0,0.03,-0.03,3000.0,0,0.07,-0.07,1285.7,0.1,-0.1,900.0,07/03/2021
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/03/2021
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,0,0.06,-0.06,1500.0,0,0.0,0.0,inf,0.06,-0.06,1500.0,07/03/2021
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,0,0.03,-0.03,3000.0,0,0.19,-0.19,473.7,0.22,-0.22,409.1,07/03/2021
+"Shaqiri  Xherdan Shaqiri (Liverpool, Midfielder)",LIV,6.0,0,0.17,-0.17,529.4,0,0.14,-0.14,642.9,0.31,-0.31,290.3,07/03/2021
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,0,0.01,-0.01,1400.0,0,0.0,0.0,inf,0.01,-0.01,1400.0,07/03/2021
+"Diogo Jota  Diogo José Teixeira da Silva (Liverpool, Midfielder)",LIV,7.5,0,0.03,-0.03,3000.0,0,0.05,-0.05,1800.0,0.08,-0.08,1125.0,07/03/2021
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,0,0.02,-0.02,3100.0,0,0.0,0.0,inf,0.02,-0.02,3100.0,07/03/2021
+"Williams (Neco)  Neco Williams (Liverpool, Defender)",LIV,4.0,0,0.05,-0.05,1520.0,0,0.04,-0.04,1900.0,0.09,-0.09,844.4,07/03/2021
+"Rhys Williams  Rhys Williams (Liverpool, Defender)",LIV,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,07/03/2021

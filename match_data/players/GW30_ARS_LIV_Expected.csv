@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Cedric  Cedric Ricardo Alves Soares (Arsenal, Defender)",ARS,4.5,0,0.01,-0.01,4400.0,0,0.03,-0.03,1466.7,0.04,-0.04,1100.0,03/04/2021
+"Aubameyang  Pierre-Emerick Aubameyang (Arsenal, Midfielder)",ARS,10.0,0,0.12,-0.12,641.7,0,0.0,0.0,inf,0.12,-0.12,641.7,03/04/2021
+"Dani Ceballos  Daniel Ceballos Fernández (Arsenal, Midfielder)",ARS,4.7,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/04/2021
+"Chambers  Calum Chambers (Arsenal, Defender)",ARS,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/04/2021
+"Elneny  Mohamed Elneny (Arsenal, Midfielder)",ARS,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/04/2021
+"Holding  Rob Holding (Arsenal, Defender)",ARS,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/04/2021
+"Lacazette  Alexandre Lacazette (Arsenal, Forward)",ARS,8.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/04/2021
+"Leno  Bernd Leno (Arsenal, Goalkeeper)",ARS,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/04/2021
+"Gabriel Martinelli  Gabriel Teodoro Martinelli Silva (Arsenal, Midfielder)",ARS,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/04/2021
+"Odegaard  Martin Odegaard (Arsenal, Midfielder)",ARS,5.6,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,03/04/2021
+"Partey  Thomas Partey (Arsenal, Midfielder)",ARS,5.0,0,0.02,-0.02,4500.0,0,0.01,-0.01,9000.0,0.03,-0.03,3000.0,03/04/2021
+"Pepe  Nicolas Pepe (Arsenal, Midfielder)",ARS,7.5,0,0.01,-0.01,9000.0,0,0.07,-0.07,1285.7,0.08,-0.08,1125.0,03/04/2021
+"Tierney  Kieran Tierney (Arsenal, Defender)",ARS,5.0,0,0.01,-0.01,4600.0,0,0.0,0.0,inf,0.01,-0.01,4600.0,03/04/2021
+"Gabriel Magalhães  Gabriel dos Santos Magalhães (Arsenal, Defender)",ARS,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/04/2021
+"Thiago Alcántara  Thiago Alcántara do Nascimento (Liverpool, Midfielder)",LIV,5.5,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,03/04/2021
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,1,0.44,0.56,204.5,0,0.04,-0.04,2250.0,0.48,0.52,187.5,03/04/2021
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,0,0.28,-0.28,278.6,0,0.05,-0.05,1560.0,0.33,-0.33,236.4,03/04/2021
+"Kabak  Ozan Kabak (Liverpool, Defender)",LIV,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/04/2021
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,1,0.27,0.73,333.3,0,0.5,-0.5,180.0,0.77,0.23,116.9,03/04/2021
+"Milner  James Milner (Liverpool, Midfielder)",LIV,5.0,0,0.14,-0.14,642.9,0,0.12,-0.12,750.0,0.26,-0.26,346.2,03/04/2021
+"Phillips (Nathaniel)  Nathaniel Phillips (Liverpool, Defender)",LIV,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,03/04/2021
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,03/04/2021
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,0,0.03,-0.03,2033.3,0,0.0,0.0,inf,0.03,-0.03,2033.3,03/04/2021
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,0,0.22,-0.22,409.1,1,0.78,0.22,115.4,1.0,0.0,90.0,03/04/2021
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,0,0.02,-0.02,4500.0,0,0.02,-0.02,4500.0,0.04,-0.04,2250.0,03/04/2021
+"Diogo Jota  Diogo José Teixeira da Silva (Liverpool, Midfielder)",LIV,7.5,0,0.01,-0.01,2900.0,2,0.85,1.15,34.1,0.86,1.14,33.7,03/04/2021
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,0,0.04,-0.04,300.0,0,0.03,-0.03,400.0,0.07,-0.07,171.4,03/04/2021
+"Rhys Williams  Rhys Williams (Liverpool, Defender)",LIV,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/04/2021

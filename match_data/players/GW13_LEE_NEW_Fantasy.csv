@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Alioski  Ezgjan Alioski (Leeds United, Defender)",LEE,4.4,1,90,0,0,1,0,0,0,0,2,0,0,0,NEW,13,16/12/2020,DEF,True
+"Ayling  Luke Ayling (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,13,16/12/2020,DEF,True
+"Bamford  Patrick Bamford (Leeds United, Forward)",LEE,8.0,1,84,0,1,1,0,0,0,0,2,0,0,0,NEW,13,16/12/2020,FWD,True
+"Cooper  Liam Cooper (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,13,16/12/2020,DEF,True
+"Dallas  Stuart Dallas (Leeds United, Defender)",LEE,5.5,1,90,0,0,1,0,0,0,0,2,0,0,0,NEW,13,16/12/2020,DEF,True
+"Raphinha  Raphael Dias Belloli (Leeds United, Midfielder)",LEE,6.5,1,90,0,0,0,0,0,0,0,2,0,1,0,NEW,13,16/12/2020,MID,True
+"Harrison  Jack Harrison (Leeds United, Midfielder)",LEE,6.0,1,90,0,0,1,1,0,1,0,2,0,0,0,NEW,13,16/12/2020,MID,True
+"Hernández  Pablo Hernández (Leeds United, Midfielder)",LEE,5.5,0,8,1,0,0,2,0,2,0,0,0,0,0,NEW,13,16/12/2020,MID,True
+"Klich  Mateusz Klich (Leeds United, Midfielder)",LEE,5.5,1,89,0,1,0,1,0,1,0,2,0,1,0,NEW,13,16/12/2020,MID,True
+"Meslier  Illan Meslier (Leeds United, Goalkeeper)",LEE,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,13,16/12/2020,GKP,True
+"Rodrigo  Rodrigo Moreno Machado (Leeds United, Forward)",LEE,6.5,1,82,0,1,1,0,1,1,0,2,0,0,0,NEW,13,16/12/2020,FWD,True
+"Phillips (Kalvin)  Kalvin Phillips (Leeds United, Midfielder)",LEE,5.0,1,90,0,0,0,0,0,0,0,2,0,1,0,NEW,13,16/12/2020,MID,True
+"Roberts (Tyler)  Tyler Roberts (Leeds United, Midfielder)",LEE,5.0,0,6,1,0,0,0,0,0,0,0,0,0,0,NEW,13,16/12/2020,MID,True
+"Shackleton  Jamie Shackleton (Leeds United, Midfielder)",LEE,4.5,0,1,1,0,0,0,0,0,0,0,0,0,0,NEW,13,16/12/2020,MID,True
+"Almirón  Miguel Almirón (Newcastle United, Midfielder)",NEW,5.5,0,15,1,0,0,0,0,0,0,3,0,0,0,LEE,13,16/12/2020,MID,False
+"Joelinton  Joelinton Cássio Apolinário de Lira (Newcastle United, Forward)",NEW,6.0,1,74,0,1,0,0,0,0,0,2,0,0,0,LEE,13,16/12/2020,FWD,False
+"Clark  Ciaran Clark (Newcastle United, Defender)",NEW,4.5,1,90,0,0,1,0,0,0,0,5,0,0,0,LEE,13,16/12/2020,DEF,False
+"Darlow  Karl Darlow (Newcastle United, Goalkeeper)",NEW,4.5,1,90,0,0,0,0,0,0,0,5,0,0,0,LEE,13,16/12/2020,GKP,False
+"Fernández  Federico Fernández (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,5,0,0,0,LEE,13,16/12/2020,DEF,False
+"Fraser  Ryan Fraser (Newcastle United, Midfielder)",NEW,5.5,1,75,0,1,0,1,0,1,0,2,0,0,0,LEE,13,16/12/2020,MID,False
+"Gayle  Dwight Gayle (Newcastle United, Forward)",NEW,5.5,0,16,1,0,0,0,0,0,0,3,0,0,0,LEE,13,16/12/2020,FWD,False
+"Hayden (Isaac)  Isaac Hayden (Newcastle United, Midfielder)",NEW,4.5,1,90,0,0,0,0,0,0,0,5,0,1,0,LEE,13,16/12/2020,MID,False
+"Hendrick  Jeff Hendrick (Newcastle United, Midfielder)",NEW,5.0,1,62,0,1,1,0,0,0,0,2,0,0,0,LEE,13,16/12/2020,MID,False
+"Krafth  Emil Krafth (Newcastle United, Defender)",NEW,4.5,0,28,1,0,0,0,0,0,0,3,0,0,0,LEE,13,16/12/2020,DEF,False
+"Lewis (Jamal)  Jamal Lewis (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,5,0,0,0,LEE,13,16/12/2020,DEF,False
+"Longstaff (Sean)  Sean Longstaff (Newcastle United, Midfielder)",NEW,4.5,1,90,0,0,0,0,0,0,0,5,0,0,0,LEE,13,16/12/2020,MID,False
+"Jacob Murphy  Jacob Murphy (Newcastle United, Midfielder)",NEW,5.0,1,90,0,0,0,0,0,0,0,5,0,0,0,LEE,13,16/12/2020,MID,False
+"C Wilson  Callum Wilson (Newcastle United, Forward)",NEW,7.5,1,90,0,0,0,1,0,1,0,5,0,0,0,LEE,13,16/12/2020,FWD,False

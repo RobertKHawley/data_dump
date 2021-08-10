@@ -1,0 +1,27 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Brownhill  Josh Brownhill (Burnley, Midfielder)",BUR,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,WOL,33,25/04/2021,MID,False
+"Cork  Jack Cork (Burnley, Midfielder)",BUR,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,WOL,33,25/04/2021,MID,False
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,1,90,0,0,0,1,0,1,1,0,0,1,0,WOL,33,25/04/2021,DEF,False
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,1,90,0,0,0,2,0,2,1,0,0,0,0,WOL,33,25/04/2021,MID,False
+"Mee  Ben Mee (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,WOL,33,25/04/2021,DEF,False
+"Pope  Nick Pope (Burnley, Goalkeeper)",BUR,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,WOL,33,25/04/2021,GKP,False
+"Rodriguez  Jay Rodriguez (Burnley, Forward)",BUR,5.5,0,17,1,0,0,0,0,0,0,0,0,0,0,WOL,33,25/04/2021,FWD,False
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,1,0,0,1,0,WOL,33,25/04/2021,DEF,False
+"Taylor (Charlie)  Charlie Taylor (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,WOL,33,25/04/2021,DEF,False
+"Vydra  Matej Vydra (Burnley, Forward)",BUR,5.5,1,73,0,1,0,0,0,0,1,0,0,0,0,WOL,33,25/04/2021,FWD,False
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,1,90,0,0,1,0,0,0,1,0,0,0,0,WOL,33,25/04/2021,MID,False
+"Wood  Chris Wood (Burnley, Forward)",BUR,7.0,1,90,0,0,3,1,0,1,1,0,0,0,0,WOL,33,25/04/2021,FWD,False
+"Ait Nouri  Rayan Ait Nouri (Wolverhampton Wanderers, Defender)",WOL,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,BUR,33,25/04/2021,DEF,True
+"Boly  Willy Boly (Wolverhampton Wanderers, Defender)",WOL,5.0,1,90,0,0,0,0,0,0,0,4,0,0,0,BUR,33,25/04/2021,DEF,True
+"Coady  Conor Coady (Wolverhampton Wanderers, Defender)",WOL,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,BUR,33,25/04/2021,DEF,True
+"Willian José  Willian José Da Silva (Wolverhampton Wanderers, Forward)",WOL,6.8,1,90,0,0,0,0,0,0,0,4,0,0,0,BUR,33,25/04/2021,FWD,True
+"Dendoncker (Leander)  Leander Dendoncker (Wolverhampton Wanderers, Midfielder)",WOL,5.0,1,90,0,0,0,0,0,0,0,4,0,0,0,BUR,33,25/04/2021,MID,True
+"Gibbs-White  Morgan Gibbs-White (Wolverhampton Wanderers, Midfielder)",WOL,4.5,0,21,1,0,0,0,0,0,0,1,0,0,0,BUR,33,25/04/2021,MID,True
+"Vitor Ferreira  Vitor Machado Ferreira (Wolverhampton Wanderers, Midfielder)",WOL,4.7,0,21,1,0,0,0,0,0,0,1,0,0,0,BUR,33,25/04/2021,MID,True
+"Podence  Daniel Podence (Wolverhampton Wanderers, Midfielder)",WOL,5.5,1,69,0,1,0,0,0,0,0,3,0,0,0,BUR,33,25/04/2021,MID,True
+"Saiss  Romain Saiss (Wolverhampton Wanderers, Defender)",WOL,5.0,1,90,0,0,0,0,0,0,0,4,0,0,0,BUR,33,25/04/2021,DEF,True
+"Semedo  Nelson Semedo (Wolverhampton Wanderers, Defender)",WOL,5.0,1,58,0,1,0,0,0,0,0,3,0,0,0,BUR,33,25/04/2021,DEF,True
+"Fabio Silva  Fabio Daniel Soares Silva (Wolverhampton Wanderers, Forward)",WOL,6.0,0,32,1,0,0,0,0,0,0,1,0,0,0,BUR,33,25/04/2021,FWD,True
+"Traoré  Adama Traoré (Wolverhampton Wanderers, Midfielder)",WOL,6.0,1,90,0,0,0,0,0,0,0,4,0,1,0,BUR,33,25/04/2021,MID,True
+"Ruben Neves  Rúben Diogo da Silva Neves (Wolverhampton Wanderers, Midfielder)",WOL,5.5,1,69,0,1,0,0,0,0,0,3,0,0,0,BUR,33,25/04/2021,MID,True
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,1,90,0,0,0,0,0,0,0,4,0,0,0,BUR,33,25/04/2021,GKP,True

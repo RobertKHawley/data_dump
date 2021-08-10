@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Alioski  Ezgjan Alioski (Leeds United, Defender)",LEE,4.4,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/09/2020
+"Ayling  Luke Ayling (Leeds United, Defender)",LEE,4.5,0,0.05,-0.05,1800.0,0,0.05,-0.05,1800.0,0.1,-0.1,900.0,27/09/2020
+"Bamford  Patrick Bamford (Leeds United, Forward)",LEE,8.0,0,0.0,0.0,inf,1,0.53,0.47,169.8,0.53,0.47,169.8,27/09/2020
+"Cooper  Liam Cooper (Leeds United, Defender)",LEE,4.5,0,0.0,0.0,inf,0,0.07,-0.07,1285.7,0.07,-0.07,1285.7,27/09/2020
+"Hélder Costa  Helder Costa (Leeds United, Midfielder)",LEE,5.5,0,0.01,-0.01,6600.0,0,0.03,-0.03,2200.0,0.04,-0.04,1650.0,27/09/2020
+"Dallas  Stuart Dallas (Leeds United, Defender)",LEE,5.5,0,0.06,-0.06,1500.0,0,0.24,-0.24,375.0,0.3,-0.3,300.0,27/09/2020
+"Harrison  Jack Harrison (Leeds United, Midfielder)",LEE,6.0,1,0.25,0.75,360.0,0,0.0,0.0,inf,0.25,0.75,360.0,27/09/2020
+"Klich  Mateusz Klich (Leeds United, Midfielder)",LEE,5.5,0,0.1,-0.1,900.0,0,0.03,-0.03,3000.0,0.13,-0.13,692.3,27/09/2020
+"Koch  Robin Koch (Leeds United, Defender)",LEE,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,27/09/2020
+"Meslier  Illan Meslier (Leeds United, Goalkeeper)",LEE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/09/2020
+"Rodrigo  Rodrigo Moreno Machado (Leeds United, Forward)",LEE,6.5,0,0.04,-0.04,1100.0,0,0.12,-0.12,366.7,0.16,-0.16,275.0,27/09/2020
+"Phillips (Kalvin)  Kalvin Phillips (Leeds United, Midfielder)",LEE,5.0,0,0.21,-0.21,428.6,0,0.0,0.0,inf,0.21,-0.21,428.6,27/09/2020
+"Poveda-Ocampo  Ian Carlo Poveda-Ocampo (Leeds United, Midfielder)",LEE,4.5,0,0.01,-0.01,2400.0,0,0.1,-0.1,240.0,0.11,-0.11,218.2,27/09/2020
+"Roberts (Tyler)  Tyler Roberts (Leeds United, Midfielder)",LEE,5.0,0,0.01,-0.01,4500.0,0,0.0,0.0,inf,0.01,-0.01,4500.0,27/09/2020
+"Ampadu  Ethan Ampadu (Sheffield United, Defender)",SHU,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,27/09/2020
+"Baldock  George Baldock (Sheffield United, Defender)",SHU,4.9,0,0.03,-0.03,3000.0,0,0.1,-0.1,900.0,0.13,-0.13,692.3,27/09/2020
+"Basham  Chris Basham (Sheffield United, Defender)",SHU,4.6,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,27/09/2020
+"Berge  Sander Berge (Sheffield United, Midfielder)",SHU,4.9,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,27/09/2020
+"Oliver Burke  Oliver Burke (Sheffield United, Midfielder)",SHU,4.1,0,0.04,-0.04,1850.0,0,0.12,-0.12,616.7,0.16,-0.16,462.5,27/09/2020
+"Lundstram  John Lundstram (Sheffield United, Midfielder)",SHU,4.8,0,0.12,-0.12,533.3,0,0.44,-0.44,145.5,0.56,-0.56,114.3,27/09/2020
+"McBurnie  Oliver McBurnie (Sheffield United, Forward)",SHU,5.6,0,0.03,-0.03,533.3,0,0.0,0.0,inf,0.03,-0.03,533.3,27/09/2020
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,0,0.17,-0.17,435.3,0,0.04,-0.04,1850.0,0.21,-0.21,352.4,27/09/2020
+"Norwood  Oliver Norwood (Sheffield United, Midfielder)",SHU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/09/2020
+"Osborn  Ben Osborn (Sheffield United, Midfielder)",SHU,4.7,0,0.4,-0.4,225.0,0,0.05,-0.05,1800.0,0.45,-0.45,200.0,27/09/2020
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,27/09/2020
+"Robinson (Jack)  Jack Robinson (Sheffield United, Defender)",SHU,4.2,0,0.0,0.0,inf,0,0.57,-0.57,157.9,0.57,-0.57,157.9,27/09/2020
+"Sharp  Billy Sharp (Sheffield United, Forward)",SHU,5.5,0,0.0,0.0,inf,0,0.05,-0.05,320.0,0.05,-0.05,320.0,27/09/2020
+"Stevens (Enda)  Enda Stevens (Sheffield United, Defender)",SHU,5.0,0,0.01,-0.01,9000.0,0,0.03,-0.03,3000.0,0.04,-0.04,2250.0,27/09/2020

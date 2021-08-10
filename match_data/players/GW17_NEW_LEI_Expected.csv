@@ -1,0 +1,27 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,1,0.03,0.97,3000.0,0,0.0,0.0,inf,0.03,0.97,3000.0,03/01/2021
+"Barnes (Harvey)  Harvey Barnes (Leicester City, Midfielder)",LEI,7.0,0,0.02,-0.02,4500.0,0,0.36,-0.36,250.0,0.38,-0.38,236.8,03/01/2021
+"Castagne  Timothy Castagne (Leicester City, Defender)",LEI,5.5,0,0.14,-0.14,642.9,0,0.0,0.0,inf,0.14,-0.14,642.9,03/01/2021
+"Evans  Jonny Evans (Leicester City, Defender)",LEI,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,03/01/2021
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,0,0.0,0.0,inf,0,0.05,-0.05,1800.0,0.05,-0.05,1800.0,03/01/2021
+"Justin  James Justin (Leicester City, Defender)",LEI,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,03/01/2021
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,0,0.09,-0.09,877.8,1,0.14,0.86,564.3,0.23,0.77,343.5,03/01/2021
+"Ndidi  Onyinye Wilfred Ndidi (Leicester City, Midfielder)",LEI,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,03/01/2021
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/01/2021
+"Söyüncü  Caglar Söyüncü (Leicester City, Defender)",LEI,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/01/2021
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,0,0.15,-0.15,600.0,1,0.07,0.93,1285.7,0.22,0.78,409.1,03/01/2021
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,1,0.12,0.88,750.0,0,0.0,0.0,inf,0.12,0.88,750.0,03/01/2021
+"Almirón  Miguel Almirón (Newcastle United, Midfielder)",NEW,5.5,0,0.01,-0.01,6400.0,0,0.02,-0.02,3200.0,0.03,-0.03,2133.3,03/01/2021
+"Joelinton  Joelinton Cássio Apolinário de Lira (Newcastle United, Forward)",NEW,6.0,0,0.0,0.0,inf,0,0.07,-0.07,928.6,0.07,-0.07,928.6,03/01/2021
+"Carroll  Andy Carroll (Newcastle United, Forward)",NEW,5.1,0,0.0,0.0,inf,1,0.18,0.82,61.1,0.18,0.82,61.1,03/01/2021
+"Clark  Ciaran Clark (Newcastle United, Defender)",NEW,4.5,0,0.01,-0.01,9000.0,0,0.19,-0.19,473.7,0.2,-0.2,450.0,03/01/2021
+"Darlow  Karl Darlow (Newcastle United, Goalkeeper)",NEW,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/01/2021
+"Fernández  Federico Fernández (Newcastle United, Defender)",NEW,4.5,0,0.19,-0.19,473.7,0,0.0,0.0,inf,0.19,-0.19,473.7,03/01/2021
+"Longstaff (Sean)  Sean Longstaff (Newcastle United, Midfielder)",NEW,4.5,0,0.01,-0.01,9000.0,0,0.04,-0.04,2250.0,0.05,-0.05,1800.0,03/01/2021
+"Longstaff (Matthew)  Matthew Longstaff (Newcastle United, Midfielder)",NEW,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,03/01/2021
+"Jacob Murphy  Jacob Murphy (Newcastle United, Midfielder)",NEW,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/01/2021
+"Ritchie  Matt Ritchie (Newcastle United, Midfielder)",NEW,5.0,0,0.19,-0.19,473.7,0,0.0,0.0,inf,0.19,-0.19,473.7,03/01/2021
+"Schär  Fabian Schär (Newcastle United, Defender)",NEW,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,03/01/2021
+"Shelvey  Jonjo Shelvey (Newcastle United, Midfielder)",NEW,5.5,0,0.0,0.0,inf,0,0.3,-0.3,83.3,0.3,-0.3,83.3,03/01/2021
+"C Wilson  Callum Wilson (Newcastle United, Forward)",NEW,7.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,03/01/2021
+"Yedlin  DeAndre Yedlin (Newcastle United, Defender)",NEW,4.3,0,0.01,-0.01,7900.0,0,0.0,0.0,inf,0.01,-0.01,7900.0,03/01/2021

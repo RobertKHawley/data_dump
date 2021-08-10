@@ -1,0 +1,27 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Gudmundsson  Johann Berg Gudmundsson (Burnley, Midfielder)",BUR,5.5,1,89,0,1,0,0,0,0,0,2,0,0,0,NEW,31,11/04/2021,MID,True
+"Brownhill  Josh Brownhill (Burnley, Midfielder)",BUR,4.5,1,90,0,0,0,0,0,0,0,2,0,1,0,NEW,31,11/04/2021,MID,True
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,31,11/04/2021,DEF,True
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,31,11/04/2021,MID,True
+"Mee  Ben Mee (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,31,11/04/2021,DEF,True
+"Mumbongo  Joel Mumbongo (Burnley, Forward)",BUR,4.5,0,1,1,0,0,0,0,0,0,0,0,0,0,NEW,31,11/04/2021,FWD,True
+"Peacock-Farrell  Bailey Peacock-Farrell (Burnley, Goalkeeper)",BUR,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,31,11/04/2021,GKP,True
+"Pieters  Erik Pieters (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,31,11/04/2021,DEF,True
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,31,11/04/2021,DEF,True
+"Vydra  Matej Vydra (Burnley, Forward)",BUR,5.5,1,90,0,0,1,0,0,0,0,2,0,0,0,NEW,31,11/04/2021,FWD,True
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,31,11/04/2021,MID,True
+"Wood  Chris Wood (Burnley, Forward)",BUR,7.0,1,90,0,0,0,1,0,1,0,2,0,0,0,NEW,31,11/04/2021,FWD,True
+"Almirón  Miguel Almirón (Newcastle United, Midfielder)",NEW,5.5,1,89,0,1,0,0,0,0,0,1,0,0,0,BUR,31,11/04/2021,MID,False
+"Joelinton  Joelinton Cássio Apolinário de Lira (Newcastle United, Forward)",NEW,6.0,1,57,0,1,0,0,0,0,0,1,0,0,0,BUR,31,11/04/2021,FWD,False
+"Clark  Ciaran Clark (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,31,11/04/2021,DEF,False
+"Dubravka  Martin Dubravka (Newcastle United, Goalkeeper)",NEW,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,31,11/04/2021,GKP,False
+"Dummett  Paul Dummett (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,31,11/04/2021,DEF,False
+"Fernández  Federico Fernández (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,31,11/04/2021,DEF,False
+"Gayle  Dwight Gayle (Newcastle United, Forward)",NEW,5.5,1,57,0,1,0,0,0,0,0,1,0,0,0,BUR,31,11/04/2021,FWD,False
+"Hendrick  Jeff Hendrick (Newcastle United, Midfielder)",NEW,5.0,0,1,1,0,0,0,0,0,0,0,0,0,0,BUR,31,11/04/2021,MID,False
+"Longstaff (Sean)  Sean Longstaff (Newcastle United, Midfielder)",NEW,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,31,11/04/2021,MID,False
+"Jacob Murphy  Jacob Murphy (Newcastle United, Midfielder)",NEW,5.0,1,90,0,0,1,0,0,0,0,1,0,0,0,BUR,31,11/04/2021,MID,False
+"Ritchie  Matt Ritchie (Newcastle United, Midfielder)",NEW,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,31,11/04/2021,MID,False
+"Saint-Maximin  Allan Saint-Maximin (Newcastle United, Midfielder)",NEW,6.5,0,33,1,0,1,1,0,1,0,0,0,0,0,BUR,31,11/04/2021,MID,False
+"Shelvey  Jonjo Shelvey (Newcastle United, Midfielder)",NEW,5.5,1,90,0,0,0,1,0,1,0,1,0,0,0,BUR,31,11/04/2021,MID,False
+"C Wilson  Callum Wilson (Newcastle United, Forward)",NEW,7.5,0,33,1,0,0,0,0,0,0,0,0,0,0,BUR,31,11/04/2021,FWD,False

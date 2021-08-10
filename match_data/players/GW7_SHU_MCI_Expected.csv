@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"João Cancelo  João Pedro Cavaco Cancelo (Manchester City, Defender)",MCI,6.0,0,0.27,-0.27,333.3,0,0.0,0.0,inf,0.27,-0.27,333.3,31/10/2020
+"De Bruyne  Kevin De Bruyne (Manchester City, Midfielder)",MCI,12.0,1,0.23,0.77,391.3,0,0.16,-0.16,562.5,0.39,0.61,230.8,31/10/2020
+"Foden  Phil Foden (Manchester City, Midfielder)",MCI,8.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/10/2020
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/10/2020
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,0,0.02,-0.02,250.0,0,0.0,0.0,inf,0.02,-0.02,250.0,31/10/2020
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,0,0.04,-0.04,2250.0,0,0.02,-0.02,4500.0,0.06,-0.06,1500.0,31/10/2020
+"Laporte  Aymeric Laporte (Manchester City, Defender)",MCI,5.5,0,0.01,-0.01,9000.0,0,0.17,-0.17,529.4,0.18,-0.18,500.0,31/10/2020
+"Mahrez  Riyad Mahrez (Manchester City, Midfielder)",MCI,9.0,0,0.09,-0.09,944.4,0,0.12,-0.12,708.3,0.21,-0.21,404.8,31/10/2020
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/10/2020
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,0,0.59,-0.59,152.5,0,0.07,-0.07,1285.7,0.66,-0.66,136.4,31/10/2020
+"Torres  Ferran Torres (Manchester City, Midfielder)",MCI,7.0,0,0.0,0.0,inf,0,1.0,-1.0,81.0,1.0,-1.0,81.0,31/10/2020
+"Bernardo Silva  Bernardo Mota Veiga de Carvalho e Silva (Manchester City, Midfielder)",MCI,7.0,0,0.03,-0.03,3000.0,0,0.06,-0.06,1500.0,0.09,-0.09,1000.0,31/10/2020
+"Walker (Kyle)  Kyle Walker (Manchester City, Defender)",MCI,5.5,0,0.02,-0.02,4500.0,1,0.03,0.97,3000.0,0.05,0.95,1800.0,31/10/2020
+"Ampadu  Ethan Ampadu (Sheffield United, Defender)",SHU,4.5,0,0.01,-0.01,6500.0,0,0.0,0.0,inf,0.01,-0.01,6500.0,31/10/2020
+"Baldock  George Baldock (Sheffield United, Defender)",SHU,4.9,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,31/10/2020
+"Basham  Chris Basham (Sheffield United, Defender)",SHU,4.6,0,0.03,-0.03,3000.0,0,0.23,-0.23,391.3,0.26,-0.26,346.2,31/10/2020
+"Berge  Sander Berge (Sheffield United, Midfielder)",SHU,4.9,0,0.09,-0.09,1000.0,0,0.04,-0.04,2250.0,0.13,-0.13,692.3,31/10/2020
+"Brewster  Rhian Brewster (Sheffield United, Forward)",SHU,4.2,0,0.0,0.0,inf,0,0.36,-0.36,250.0,0.36,-0.36,250.0,31/10/2020
+"Egan  John Egan (Sheffield United, Defender)",SHU,4.7,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,31/10/2020
+"Lowe  Max Lowe (Sheffield United, Defender)",SHU,4.2,0,0.03,-0.03,2700.0,0,0.0,0.0,inf,0.03,-0.03,2700.0,31/10/2020
+"Lundstram  John Lundstram (Sheffield United, Midfielder)",SHU,4.8,0,0.0,0.0,inf,0,0.09,-0.09,388.9,0.09,-0.09,388.9,31/10/2020
+"McBurnie  Oliver McBurnie (Sheffield United, Forward)",SHU,5.6,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,31/10/2020
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/10/2020
+"Norwood  Oliver Norwood (Sheffield United, Midfielder)",SHU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/10/2020
+"Osborn  Ben Osborn (Sheffield United, Midfielder)",SHU,4.7,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/10/2020
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/10/2020
+"Stevens (Enda)  Enda Stevens (Sheffield United, Defender)",SHU,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,31/10/2020

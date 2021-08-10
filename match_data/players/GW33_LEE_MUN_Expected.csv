@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Alioski  Ezgjan Alioski (Leeds United, Defender)",LEE,4.4,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,25/04/2021
+"Ayling  Luke Ayling (Leeds United, Defender)",LEE,4.5,0,0.0,0.0,inf,0,0.02,-0.02,4500.0,0.02,-0.02,4500.0,25/04/2021
+"Bamford  Patrick Bamford (Leeds United, Forward)",LEE,8.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,25/04/2021
+"Hélder Costa  Helder Costa (Leeds United, Midfielder)",LEE,5.5,0,0.01,-0.01,7200.0,0,0.04,-0.04,1800.0,0.05,-0.05,1440.0,25/04/2021
+"Dallas  Stuart Dallas (Leeds United, Defender)",LEE,5.5,0,0.02,-0.02,4500.0,0,0.07,-0.07,1285.7,0.09,-0.09,1000.0,25/04/2021
+"Harrison  Jack Harrison (Leeds United, Midfielder)",LEE,6.0,0,0.01,-0.01,6800.0,0,0.0,0.0,inf,0.01,-0.01,6800.0,25/04/2021
+"Klich  Mateusz Klich (Leeds United, Midfielder)",LEE,5.5,0,0.0,0.0,inf,0,0.09,-0.09,200.0,0.09,-0.09,200.0,25/04/2021
+"Koch  Robin Koch (Leeds United, Defender)",LEE,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/04/2021
+"Diego Llorente  Diego Javier Llorente Ríos (Leeds United, Defender)",LEE,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/04/2021
+"Meslier  Illan Meslier (Leeds United, Goalkeeper)",LEE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/04/2021
+"Phillips (Kalvin)  Kalvin Phillips (Leeds United, Midfielder)",LEE,5.0,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,25/04/2021
+"Poveda-Ocampo  Ian Carlo Poveda-Ocampo (Leeds United, Midfielder)",LEE,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/04/2021
+"Roberts (Tyler)  Tyler Roberts (Leeds United, Midfielder)",LEE,5.0,0,0.01,-0.01,7700.0,0,0.0,0.0,inf,0.01,-0.01,7700.0,25/04/2021
+"Struijk  Pascal Struijk (Leeds United, Defender)",LEE,4.5,0,0.0,0.0,inf,0,0.03,-0.03,3000.0,0.03,-0.03,3000.0,25/04/2021
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,0,0.34,-0.34,264.7,0,0.4,-0.4,225.0,0.74,-0.74,121.6,25/04/2021
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,0,0.16,-0.16,25.0,0,0.0,0.0,inf,0.16,-0.16,25.0,25/04/2021
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,0,0.2,-0.2,450.0,0,0.23,-0.23,391.3,0.43,-0.43,209.3,25/04/2021
+"Henderson (Dean)  Dean Henderson (Manchester United, Goalkeeper)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/04/2021
+"James (Daniel)  Daniel James (Manchester United, Midfielder)",MUN,6.0,0,0.03,-0.03,2533.3,0,0.0,0.0,inf,0.03,-0.03,2533.3,25/04/2021
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,0,0.02,-0.02,4500.0,0,0.27,-0.27,333.3,0.29,-0.29,310.3,25/04/2021
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,0,0.03,-0.03,3000.0,0,0.09,-0.09,1000.0,0.12,-0.12,750.0,25/04/2021
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,0,0.2,-0.2,450.0,0,0.0,0.0,inf,0.2,-0.2,450.0,25/04/2021
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,0,0.01,-0.01,1400.0,0,0.0,0.0,inf,0.01,-0.01,1400.0,25/04/2021
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,0,0.07,-0.07,1228.6,0,0.18,-0.18,477.8,0.25,-0.25,344.0,25/04/2021
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,0,0.17,-0.17,523.5,0,0.0,0.0,inf,0.17,-0.17,523.5,25/04/2021
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,0,0.43,-0.43,209.3,0,0.0,0.0,inf,0.43,-0.43,209.3,25/04/2021
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,0,0.11,-0.11,818.2,0,0.0,0.0,inf,0.11,-0.11,818.2,25/04/2021
+"van de Beek  Donny van de Beek (Manchester United, Midfielder)",MUN,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/04/2021

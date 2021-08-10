@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Calvert-Lewin  Dominic Calvert-Lewin (Everton, Forward)",EVE,8.0,0,0.0,0.0,inf,3,2.51,0.49,28.3,2.51,0.49,28.3,19/09/2020
+"Coleman  Seamus Coleman (Everton, Defender)",EVE,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,19/09/2020
+"Digne  Lucas Digne (Everton, Defender)",EVE,5.5,0,0.45,-0.45,200.0,0,0.07,-0.07,1285.7,0.52,-0.52,173.1,19/09/2020
+"Doucouré  Abdoulaye Doucouré (Everton, Midfielder)",EVE,5.5,0,0.01,-0.01,6500.0,0,0.0,0.0,inf,0.01,-0.01,6500.0,19/09/2020
+"Iwobi  Alex Iwobi (Everton, Midfielder)",EVE,6.0,0,0.01,-0.01,1900.0,0,0.0,0.0,inf,0.01,-0.01,1900.0,19/09/2020
+"Kean  Moise Kean (Everton, Forward)",EVE,5.7,0,0.0,0.0,inf,0,0.05,-0.05,240.0,0.05,-0.05,240.0,19/09/2020
+"Keane  Michael Keane (Everton, Defender)",EVE,5.0,0,0.28,-0.28,321.4,1,0.63,0.37,142.9,0.91,0.09,98.9,19/09/2020
+"Allan  Allan Marques Loureiro (Everton, Midfielder)",EVE,4.5,0,0.03,-0.03,3000.0,0,0.02,-0.02,4500.0,0.05,-0.05,1800.0,19/09/2020
+"Mina  Yerry Mina (Everton, Defender)",EVE,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,19/09/2020
+"Pickford  Jordan Pickford (Everton, Goalkeeper)",EVE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/09/2020
+"Rodríguez  James Rodríguez (Everton, Midfielder)",EVE,7.0,1,0.52,0.48,150.0,1,0.03,0.97,2600.0,0.55,1.45,141.8,19/09/2020
+"Sigurdsson  Gylfi Sigurdsson (Everton, Midfielder)",EVE,7.0,0,0.11,-0.11,227.3,0,0.0,0.0,inf,0.11,-0.11,227.3,19/09/2020
+"André Gomes  André Filipe Tavares Gomes (Everton, Midfielder)",EVE,5.0,0,0.06,-0.06,1500.0,0,0.0,0.0,inf,0.06,-0.06,1500.0,19/09/2020
+"Richarlison  Richarlison de Andrade (Everton, Forward)",EVE,7.5,2,0.35,1.65,257.1,0,0.71,-0.71,126.8,1.06,0.94,84.9,19/09/2020
+"Ajayi  Semi Ajayi (West Bromwich Albion, Defender)",WBA,4.8,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,19/09/2020
+"Bartley  Kyle Bartley (West Bromwich Albion, Defender)",WBA,4.4,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/09/2020
+"Matheus Pereira  Matheus Fellipe Costa Pereira (West Bromwich Albion, Midfielder)",WBA,5.4,1,0.05,0.95,1420.0,1,0.06,0.94,1183.3,0.11,1.89,645.5,19/09/2020
+"Diangana  Grady Diangana (West Bromwich Albion, Midfielder)",WBA,5.0,0,0.03,-0.03,2366.7,1,0.11,0.89,645.5,0.14,0.86,507.1,19/09/2020
+"Kyle Edwards  Kyle Edwards (West Bromwich Albion, Midfielder)",WBA,4.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/09/2020
+"Field  Sam Field (West Bromwich Albion, Midfielder)",WBA,4.8,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/09/2020
+"Furlong  Darnell Furlong (West Bromwich Albion, Defender)",WBA,4.5,0,0.06,-0.06,1500.0,0,0.0,0.0,inf,0.06,-0.06,1500.0,19/09/2020
+"Gibbs  Kieran Gibbs (West Bromwich Albion, Defender)",WBA,4.3,0,0.01,-0.01,4600.0,0,0.0,0.0,inf,0.01,-0.01,4600.0,19/09/2020
+"Johnstone  Sam Johnstone (West Bromwich Albion, Goalkeeper)",WBA,4.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/09/2020
+"Livermore  Jake Livermore (West Bromwich Albion, Midfielder)",WBA,4.7,0,0.01,-0.01,9000.0,0,0.14,-0.14,642.9,0.15,-0.15,600.0,19/09/2020
+"O'Shea  Dara O&#039;Shea (West Bromwich Albion, Defender)",WBA,4.2,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,19/09/2020
+"Phillips (Matthew)  Matthew Phillips (West Bromwich Albion, Midfielder)",WBA,5.1,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/09/2020
+"Robinson (Callum)  Callum Robinson (West Bromwich Albion, Forward)",WBA,5.2,0,0.07,-0.07,1285.7,0,0.03,-0.03,3000.0,0.1,-0.1,900.0,19/09/2020
+"Sawyers  Romaine Sawyers (West Bromwich Albion, Midfielder)",WBA,4.6,0,0.01,-0.01,7500.0,0,0.0,0.0,inf,0.01,-0.01,7500.0,19/09/2020

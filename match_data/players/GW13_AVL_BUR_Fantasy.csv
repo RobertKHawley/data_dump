@@ -1,0 +1,27 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Davis (Keinan)  Keinan Davis (Aston Villa, Forward)",AVL,4.5,0,10,1,0,0,0,0,0,0,0,0,0,0,BUR,13,17/12/2020,FWD,True
+"El Ghazi  Anwar El Ghazi (Aston Villa, Midfielder)",AVL,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,13,17/12/2020,MID,True
+"Elmohamady  Ahmed Elmohamady (Aston Villa, Defender)",AVL,4.2,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,13,17/12/2020,DEF,True
+"Grealish  Jack Grealish (Aston Villa, Midfielder)",AVL,8.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,13,17/12/2020,MID,True
+"Hause  Kortney Hause (Aston Villa, Defender)",AVL,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,13,17/12/2020,DEF,True
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,13,17/12/2020,GKP,True
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,13,17/12/2020,MID,True
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,13,17/12/2020,DEF,True
+"Nakamba  Marvelous Nakamba (Aston Villa, Midfielder)",AVL,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,13,17/12/2020,MID,True
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,13,17/12/2020,DEF,True
+"Traore (Bertrand)  Bertrand Traore (Aston Villa, Midfielder)",AVL,6.0,1,80,0,1,0,0,0,0,1,0,0,0,0,BUR,13,17/12/2020,MID,True
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,1,90,0,0,0,0,0,0,1,0,0,1,0,BUR,13,17/12/2020,FWD,True
+"Barnes (Ashley)  Ashley Barnes (Burnley, Forward)",BUR,5.5,0,25,1,0,0,0,0,0,0,0,0,0,0,AVL,13,17/12/2020,FWD,False
+"Brady  Robert Brady (Burnley, Midfielder)",BUR,5.0,1,89,0,1,0,0,0,0,1,0,0,1,0,AVL,13,17/12/2020,MID,False
+"Brownhill  Josh Brownhill (Burnley, Midfielder)",BUR,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,AVL,13,17/12/2020,MID,False
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,AVL,13,17/12/2020,DEF,False
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,AVL,13,17/12/2020,MID,False
+"Mee  Ben Mee (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,AVL,13,17/12/2020,DEF,False
+"Pieters  Erik Pieters (Burnley, Defender)",BUR,4.5,0,1,1,0,0,0,0,0,0,0,0,0,0,AVL,13,17/12/2020,DEF,False
+"Pope  Nick Pope (Burnley, Goalkeeper)",BUR,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,AVL,13,17/12/2020,GKP,False
+"Rodriguez  Jay Rodriguez (Burnley, Forward)",BUR,5.5,1,65,0,1,0,0,0,0,1,0,0,0,0,AVL,13,17/12/2020,FWD,False
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,AVL,13,17/12/2020,DEF,False
+"Taylor (Charlie)  Charlie Taylor (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,AVL,13,17/12/2020,DEF,False
+"Vydra  Matej Vydra (Burnley, Forward)",BUR,5.5,0,8,1,0,0,0,0,0,0,0,0,0,0,AVL,13,17/12/2020,FWD,False
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,AVL,13,17/12/2020,MID,False
+"Wood  Chris Wood (Burnley, Forward)",BUR,7.0,1,82,0,1,0,0,0,0,1,0,0,0,0,AVL,13,17/12/2020,FWD,False

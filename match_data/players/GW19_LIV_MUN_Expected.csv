@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Thiago Alcántara  Thiago Alcántara do Nascimento (Liverpool, Midfielder)",LIV,5.5,0,0.08,-0.08,1125.0,0,0.08,-0.08,1125.0,0.16,-0.16,562.5,17/01/2021
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,0,0.06,-0.06,1500.0,0,0.04,-0.04,2250.0,0.1,-0.1,900.0,17/01/2021
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,0,0.07,-0.07,1214.3,0,0.6,-0.6,141.7,0.67,-0.67,126.9,17/01/2021
+"Henderson (Jordan)  Jordan Henderson (Liverpool, Midfielder)",LIV,5.0,0,0.01,-0.01,9000.0,0,0.07,-0.07,1285.7,0.08,-0.08,1125.0,17/01/2021
+"Jones (Curtis)  Curtis Jones (Liverpool, Midfielder)",LIV,5.0,0,0.02,-0.02,700.0,0,0.0,0.0,inf,0.02,-0.02,700.0,17/01/2021
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,0,0.19,-0.19,473.7,0,0.05,-0.05,1800.0,0.24,-0.24,375.0,17/01/2021
+"Milner  James Milner (Liverpool, Midfielder)",LIV,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/01/2021
+"Origi  Divock Origi (Liverpool, Forward)",LIV,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/01/2021
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/01/2021
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,0,0.32,-0.32,281.3,0,0.04,-0.04,2250.0,0.36,-0.36,250.0,17/01/2021
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,0,0.27,-0.27,333.3,0,0.18,-0.18,500.0,0.45,-0.45,200.0,17/01/2021
+"Shaqiri  Xherdan Shaqiri (Liverpool, Midfielder)",LIV,6.0,0,0.55,-0.55,138.2,0,0.07,-0.07,1085.7,0.62,-0.62,122.6,17/01/2021
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,0,0.01,-0.01,9000.0,0,0.03,-0.03,3000.0,0.04,-0.04,2250.0,17/01/2021
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,0,0.05,-0.05,1780.0,0,0.04,-0.04,2225.0,0.09,-0.09,988.9,17/01/2021
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,0,0.04,-0.04,2225.0,0,0.63,-0.63,141.3,0.67,-0.67,132.8,17/01/2021
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/01/2021
+"De Gea  David De Gea (Manchester United, Goalkeeper)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/01/2021
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/01/2021
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/01/2021
+"Martial  Anthony Martial (Manchester United, Forward)",MUN,8.0,0,0.04,-0.04,1525.0,0,0.0,0.0,inf,0.04,-0.04,1525.0,17/01/2021
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/01/2021
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/01/2021
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,0,0.02,-0.02,4500.0,0,0.44,-0.44,204.5,0.46,-0.46,195.7,17/01/2021
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,0,0.02,-0.02,4500.0,0,0.06,-0.06,1500.0,0.08,-0.08,1125.0,17/01/2021
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,17/01/2021
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,0,0.45,-0.45,200.0,0,0.0,0.0,inf,0.45,-0.45,200.0,17/01/2021
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,17/01/2021

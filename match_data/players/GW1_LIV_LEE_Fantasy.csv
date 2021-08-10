@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Ayling  Luke Ayling (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,LIV,1,12/09/2020,DEF,False
+"Bamford  Patrick Bamford (Leeds United, Forward)",LEE,8.0,1,62,0,1,1,0,0,0,0,3,0,0,0,LIV,1,12/09/2020,FWD,False
+"Hélder Costa  Helder Costa (Leeds United, Midfielder)",LEE,5.5,1,90,0,0,0,1,0,1,0,4,0,0,0,LIV,1,12/09/2020,MID,False
+"Dallas  Stuart Dallas (Leeds United, Defender)",LEE,5.5,1,90,0,0,0,0,1,1,0,4,0,0,0,LIV,1,12/09/2020,DEF,False
+"Harrison  Jack Harrison (Leeds United, Midfielder)",LEE,6.0,1,90,0,0,1,0,0,0,0,4,0,0,0,LIV,1,12/09/2020,MID,False
+"Hernández  Pablo Hernández (Leeds United, Midfielder)",LEE,5.5,1,62,0,1,0,0,0,0,0,3,0,0,0,LIV,1,12/09/2020,MID,False
+"Klich  Mateusz Klich (Leeds United, Midfielder)",LEE,5.5,1,81,0,1,1,0,0,0,0,3,0,0,0,LIV,1,12/09/2020,MID,False
+"Koch  Robin Koch (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,LIV,1,12/09/2020,DEF,False
+"Meslier  Illan Meslier (Leeds United, Goalkeeper)",LEE,5.0,1,90,0,0,0,0,0,0,0,4,0,0,0,LIV,1,12/09/2020,GKP,False
+"Rodrigo  Rodrigo Moreno Machado (Leeds United, Forward)",LEE,6.5,0,28,1,0,0,0,0,0,0,1,0,0,0,LIV,1,12/09/2020,FWD,False
+"Phillips (Kalvin)  Kalvin Phillips (Leeds United, Midfielder)",LEE,5.0,1,90,0,0,0,1,0,1,0,4,0,0,0,LIV,1,12/09/2020,MID,False
+"Roberts (Tyler)  Tyler Roberts (Leeds United, Midfielder)",LEE,5.0,0,28,1,0,0,0,0,0,0,1,0,0,0,LIV,1,12/09/2020,MID,False
+"Shackleton  Jamie Shackleton (Leeds United, Midfielder)",LEE,4.5,0,9,1,0,0,0,0,0,0,1,0,0,0,LIV,1,12/09/2020,MID,False
+"Struijk  Pascal Struijk (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,LIV,1,12/09/2020,DEF,False
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,1,89,0,1,0,0,0,0,0,3,0,0,0,LEE,1,12/09/2020,DEF,True
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,1,90,0,0,0,0,0,0,0,3,0,1,0,LEE,1,12/09/2020,FWD,True
+"Gomez  Joseph Gomez (Liverpool, Defender)",LIV,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,LEE,1,12/09/2020,DEF,True
+"Henderson (Jordan)  Jordan Henderson (Liverpool, Midfielder)",LIV,5.0,1,66,0,1,0,0,0,0,0,2,0,0,0,LEE,1,12/09/2020,MID,True
+"Jones (Curtis)  Curtis Jones (Liverpool, Midfielder)",LIV,5.0,0,24,1,0,0,0,0,0,0,1,0,0,0,LEE,1,12/09/2020,MID,True
+"Keita  Naby Keita (Liverpool, Midfielder)",LIV,5.0,1,59,0,1,0,0,0,0,0,2,0,0,0,LEE,1,12/09/2020,MID,True
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,1,90,0,0,0,0,0,0,0,3,0,0,0,LEE,1,12/09/2020,MID,True
+"Matip  Joel Matip (Liverpool, Defender)",LIV,5.0,0,1,1,0,0,0,0,0,0,0,0,0,0,LEE,1,12/09/2020,DEF,True
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,1,90,0,0,0,0,0,0,0,3,0,0,0,LEE,1,12/09/2020,GKP,True
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,1,90,0,0,0,1,0,1,0,3,0,0,0,LEE,1,12/09/2020,DEF,True
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,1,90,0,0,3,0,0,0,0,3,0,0,0,LEE,1,12/09/2020,MID,True
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,0,31,1,0,0,0,1,1,0,1,0,0,0,LEE,1,12/09/2020,MID,True
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,1,90,0,0,0,0,0,0,0,3,0,0,0,LEE,1,12/09/2020,MID,True
+"van Dijk  Virgil van Dijk (Liverpool, Defender)",LIV,6.5,1,90,0,0,1,0,0,0,0,3,0,0,0,LEE,1,12/09/2020,DEF,True

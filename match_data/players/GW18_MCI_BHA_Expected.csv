@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Burn  Dan Burn (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/01/2021
+"Dunk  Lewis Dunk (Brighton and Hove Albion, Defender)",BHA,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,13/01/2021
+"Bernardo  Bernardo Fernandes da Silva Junior (Brighton and Hove Albion, Defender)",BHA,4.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,13/01/2021
+"Khadra  Reda Khadra (Brighton and Hove Albion, Midfielder)",BHA,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/01/2021
+"Mac Allister  Alexis Mac Allister (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.02,-0.02,4500.0,0,0.03,-0.03,3000.0,0.05,-0.05,1800.0,13/01/2021
+"March  Solomon March (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.01,-0.01,2200.0,0,0.0,0.0,inf,0.01,-0.01,2200.0,13/01/2021
+"Maupay  Neal Maupay (Brighton and Hove Albion, Forward)",BHA,6.5,0,0.0,0.0,inf,0,0.05,-0.05,440.0,0.05,-0.05,440.0,13/01/2021
+"Pröpper  Davy Pröpper (Brighton and Hove Albion, Midfielder)",BHA,4.5,0,0.01,-0.01,6800.0,0,0.02,-0.02,3400.0,0.03,-0.03,2266.7,13/01/2021
+"Sanchez  Robert Sanchez (Brighton and Hove Albion, Goalkeeper)",BHA,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/01/2021
+"Tau  Percy Tau (Brighton and Hove Albion, Forward)",BHA,4.9,0,0.02,-0.02,3400.0,0,0.0,0.0,inf,0.02,-0.02,3400.0,13/01/2021
+"Trossard  Leandro Trossard (Brighton and Hove Albion, Midfielder)",BHA,6.5,0,0.13,-0.13,661.5,0,0.06,-0.06,1433.3,0.19,-0.19,452.6,13/01/2021
+"Veltman  Joël Veltman (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.01,-0.01,9000.0,0,0.03,-0.03,3000.0,0.04,-0.04,2250.0,13/01/2021
+"Webster  Adam Webster (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,13/01/2021
+"White (Ben)  Ben White (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,13/01/2021
+"João Cancelo  João Pedro Cavaco Cancelo (Manchester City, Defender)",MCI,6.0,0,0.04,-0.04,2250.0,0,0.08,-0.08,1125.0,0.12,-0.12,750.0,13/01/2021
+"De Bruyne  Kevin De Bruyne (Manchester City, Midfielder)",MCI,12.0,1,0.33,0.67,272.7,0,0.56,-0.56,160.7,0.89,0.11,101.1,13/01/2021
+"Foden  Phil Foden (Manchester City, Midfielder)",MCI,8.0,0,0.08,-0.08,1025.0,1,0.08,0.92,1025.0,0.16,0.84,512.5,13/01/2021
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,13/01/2021
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,0,0.13,-0.13,692.3,0,0.11,-0.11,818.2,0.24,-0.24,375.0,13/01/2021
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,13/01/2021
+"Mahrez  Riyad Mahrez (Manchester City, Midfielder)",MCI,9.0,0,0.11,-0.11,609.1,0,0.22,-0.22,304.5,0.33,-0.33,203.0,13/01/2021
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/01/2021
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,0,0.0,0.0,inf,0,0.83,-0.83,9.6,0.83,-0.83,9.6,13/01/2021
+"Stones  John Stones (Manchester City, Defender)",MCI,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,13/01/2021
+"Bernardo Silva  Bernardo Mota Veiga de Carvalho e Silva (Manchester City, Midfielder)",MCI,7.0,0,0.17,-0.17,529.4,0,0.09,-0.09,1000.0,0.26,-0.26,346.2,13/01/2021
+"Zinchenko  Oleksandr Zinchenko (Manchester City, Defender)",MCI,5.5,0,0.04,-0.04,2250.0,0,0.05,-0.05,1800.0,0.09,-0.09,1000.0,13/01/2021
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/01/2021

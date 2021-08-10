@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Bailly  Eric Bailly (Manchester United, Defender)",MUN,5.0,0,0.01,-0.01,9000.0,0,0.04,-0.04,2250.0,0.05,-0.05,1800.0,29/12/2020
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,1,0.33,0.67,269.7,0,0.51,-0.51,174.5,0.84,0.16,106.0,29/12/2020
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,0,0.01,-0.01,9000.0,0,1.11,-1.11,81.1,1.12,-1.12,80.4,29/12/2020
+"De Gea  David De Gea (Manchester United, Goalkeeper)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,29/12/2020
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,0,0.24,-0.24,266.7,0,0.0,0.0,inf,0.24,-0.24,266.7,29/12/2020
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,29/12/2020
+"Martial  Anthony Martial (Manchester United, Forward)",MUN,8.0,0,0.02,-0.02,1300.0,0,0.06,-0.06,433.3,0.08,-0.08,325.0,29/12/2020
+"Matic  Nemanja Matic (Manchester United, Midfielder)",MUN,4.5,0,0.1,-0.1,900.0,0,0.0,0.0,inf,0.1,-0.1,900.0,29/12/2020
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,29/12/2020
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,0,0.08,-0.08,1125.0,0,0.03,-0.03,3000.0,0.11,-0.11,818.2,29/12/2020
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,0,0.07,-0.07,1285.7,1,0.14,0.86,642.9,0.21,0.79,428.6,29/12/2020
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,0,0.05,-0.05,900.0,0,0.0,0.0,inf,0.05,-0.05,900.0,29/12/2020
+"Alex Telles  Alex Nicolao Telles (Manchester United, Defender)",MUN,5.0,0,0.02,-0.02,2250.0,0,0.0,0.0,inf,0.02,-0.02,2250.0,29/12/2020
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,29/12/2020
+"Ait Nouri  Rayan Ait Nouri (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.03,-0.03,3000.0,0,0.08,-0.08,1125.0,0.11,-0.11,818.2,29/12/2020
+"Coady  Conor Coady (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,29/12/2020
+"Hoever  Ki-Jana Hoever (Wolverhampton Wanderers, Defender)",WOL,4.0,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,29/12/2020
+"Kilman  Max Kilman (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,29/12/2020
+"Vitor Ferreira  Vitor Machado Ferreira (Wolverhampton Wanderers, Midfielder)",WOL,4.7,0,0.01,-0.01,5500.0,0,0.03,-0.03,1833.3,0.04,-0.04,1375.0,29/12/2020
+"Moutinho  João Moutinho (Wolverhampton Wanderers, Midfielder)",WOL,5.0,0,0.09,-0.09,1000.0,0,0.0,0.0,inf,0.09,-0.09,1000.0,29/12/2020
+"Neto  Pedro Neto (Wolverhampton Wanderers, Midfielder)",WOL,6.5,0,0.09,-0.09,755.6,0,0.08,-0.08,850.0,0.17,-0.17,400.0,29/12/2020
+"Podence  Daniel Podence (Wolverhampton Wanderers, Midfielder)",WOL,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,29/12/2020
+"Saiss  Romain Saiss (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.0,0.0,inf,0,0.21,-0.21,428.6,0.21,-0.21,428.6,29/12/2020
+"Fabio Silva  Fabio Daniel Soares Silva (Wolverhampton Wanderers, Forward)",WOL,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,29/12/2020
+"Traoré  Adama Traoré (Wolverhampton Wanderers, Midfielder)",WOL,6.0,0,0.03,-0.03,3000.0,0,0.04,-0.04,2250.0,0.07,-0.07,1285.7,29/12/2020
+"Ruben Neves  Rúben Diogo da Silva Neves (Wolverhampton Wanderers, Midfielder)",WOL,5.5,0,0.02,-0.02,4500.0,0,0.05,-0.05,1800.0,0.07,-0.07,1285.7,29/12/2020
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,29/12/2020

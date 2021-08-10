@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Barnes (Ashley)  Ashley Barnes (Burnley, Forward)",BUR,5.5,0,0.01,-0.01,9000.0,1,0.49,0.51,183.7,0.5,0.5,180.0,17/02/2021
+"Gudmundsson  Johann Berg Gudmundsson (Burnley, Midfielder)",BUR,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/02/2021
+"Brady  Robert Brady (Burnley, Midfielder)",BUR,5.0,0,0.0,0.0,inf,0,0.05,-0.05,500.0,0.05,-0.05,500.0,17/02/2021
+"Brownhill  Josh Brownhill (Burnley, Midfielder)",BUR,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/02/2021
+"Cork  Jack Cork (Burnley, Midfielder)",BUR,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,17/02/2021
+"Long (Kevin)  Kevin Long (Burnley, Defender)",BUR,4.0,0,0.03,-0.03,3000.0,0,0.33,-0.33,272.7,0.36,-0.36,250.0,17/02/2021
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,17/02/2021
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,0,0.27,-0.27,333.3,0,0.0,0.0,inf,0.27,-0.27,333.3,17/02/2021
+"Pope  Nick Pope (Burnley, Goalkeeper)",BUR,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/02/2021
+"Rodriguez  Jay Rodriguez (Burnley, Forward)",BUR,5.5,1,0.08,0.92,1125.0,0,0.05,-0.05,1800.0,0.13,0.87,692.3,17/02/2021
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,17/02/2021
+"Taylor (Charlie)  Charlie Taylor (Burnley, Defender)",BUR,4.5,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,17/02/2021
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,0,0.17,-0.17,529.4,0,0.02,-0.02,4500.0,0.19,-0.19,473.7,17/02/2021
+"Tosin  Oluwatosin Adarabioyo (Fulham, Defender)",FUL,4.5,0,0.0,0.0,inf,0,0.05,-0.05,1800.0,0.05,-0.05,1800.0,17/02/2021
+"Aina  Ola Aina (Fulham, Defender)",FUL,4.3,0,0.0,0.0,inf,1,0.2,0.8,450.0,0.2,0.8,450.0,17/02/2021
+"Andersen  Joachim Andersen (Fulham, Defender)",FUL,4.5,1,0.48,0.52,187.5,0,0.0,0.0,inf,0.48,0.52,187.5,17/02/2021
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/02/2021
+"Cavaleiro  Ivan Cavaleiro (Fulham, Midfielder)",FUL,5.3,0,0.21,-0.21,109.5,0,0.0,0.0,inf,0.21,-0.21,109.5,17/02/2021
+"DeCordova-Reid  Bobby DeCordova-Reid (Fulham, Forward)",FUL,5.3,0,0.02,-0.02,3350.0,0,0.0,0.0,inf,0.02,-0.02,3350.0,17/02/2021
+"Lemina  Mario Lemina (Fulham, Midfielder)",FUL,4.5,0,0.0,0.0,inf,0,0.02,-0.02,3050.0,0.02,-0.02,3050.0,17/02/2021
+"Loftus-Cheek  Ruben Loftus-Cheek (Fulham, Midfielder)",FUL,5.5,0,0.09,-0.09,1000.0,0,0.09,-0.09,1000.0,0.18,-0.18,500.0,17/02/2021
+"Lookman  Ademola Lookman (Fulham, Midfielder)",FUL,4.7,0,0.11,-0.11,818.2,0,0.05,-0.05,1800.0,0.16,-0.16,562.5,17/02/2021
+"Maja  Josh Maja (Fulham, Forward)",FUL,5.0,0,0.02,-0.02,4500.0,0,0.11,-0.11,818.2,0.13,-0.13,692.3,17/02/2021
+"Reed  Harrison Reed (Fulham, Midfielder)",FUL,4.4,0,0.01,-0.01,9000.0,0,0.03,-0.03,3000.0,0.04,-0.04,2250.0,17/02/2021
+"Robinson (Antonee)  Antonee Robinson (Fulham, Defender)",FUL,4.4,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/02/2021
+"Tete  Kenny Tete (Fulham, Defender)",FUL,4.3,0,0.01,-0.01,7800.0,0,0.0,0.0,inf,0.01,-0.01,7800.0,17/02/2021
+"Zambo Anguissa  André-Frank Zambo Anguissa (Fulham, Midfielder)",FUL,4.4,0,0.01,-0.01,2900.0,0,0.0,0.0,inf,0.01,-0.01,2900.0,17/02/2021

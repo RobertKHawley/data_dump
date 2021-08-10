@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Barkley  Ross Barkley (Aston Villa, Midfielder)",AVL,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/11/2020
+"Cash  Matthew Cash (Aston Villa, Defender)",AVL,5.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,21/11/2020
+"El Ghazi  Anwar El Ghazi (Aston Villa, Midfielder)",AVL,6.0,0,0.08,-0.08,200.0,0,0.0,0.0,inf,0.08,-0.08,200.0,21/11/2020
+"Grealish  Jack Grealish (Aston Villa, Midfielder)",AVL,8.0,0,0.29,-0.29,310.3,0,0.03,-0.03,3000.0,0.32,-0.32,281.3,21/11/2020
+"Trezeguet  Mahmoud Hassan (Aston Villa, Midfielder)",AVL,5.5,0,0.04,-0.04,2250.0,0,1.12,-1.12,80.4,1.16,-1.16,77.6,21/11/2020
+"Hourihane  Conor Hourihane (Aston Villa, Midfielder)",AVL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/11/2020
+"Konsa Ngoyo  Ezri Konsa Ngoyo (Aston Villa, Defender)",AVL,5.0,0,0.01,-0.01,9000.0,1,0.19,0.81,473.7,0.2,0.8,450.0,21/11/2020
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/11/2020
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,0,0.03,-0.03,3000.0,0,0.03,-0.03,3000.0,0.06,-0.06,1500.0,21/11/2020
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,0,0.01,-0.01,9000.0,0,0.23,-0.23,391.3,0.24,-0.24,375.0,21/11/2020
+"Douglas Luiz  Douglas Luiz Soares de Paulo (Aston Villa, Midfielder)",AVL,4.5,0,0.01,-0.01,7500.0,0,0.07,-0.07,1071.4,0.08,-0.08,937.5,21/11/2020
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,21/11/2020
+"Traore (Bertrand)  Bertrand Traore (Aston Villa, Midfielder)",AVL,6.0,1,0.15,0.85,460.0,0,0.03,-0.03,2300.0,0.18,0.82,383.3,21/11/2020
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,0,0.08,-0.08,1125.0,0,0.0,0.0,inf,0.08,-0.08,1125.0,21/11/2020
+"Bissouma  Yves Bissouma (Brighton and Hove Albion, Midfielder)",BHA,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/11/2020
+"Burn  Dan Burn (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/11/2020
+"Dunk  Lewis Dunk (Brighton and Hove Albion, Defender)",BHA,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/11/2020
+"Groß  Pascal Groß (Brighton and Hove Albion, Midfielder)",BHA,6.0,1,0.22,0.78,404.5,0,0.0,0.0,inf,0.22,0.78,404.5,21/11/2020
+"Lallana  Adam Lallana (Brighton and Hove Albion, Midfielder)",BHA,5.5,1,0.01,0.99,4500.0,0,0.1,-0.1,450.0,0.11,0.89,409.1,21/11/2020
+"Lamptey  Tariq Lamptey (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.22,-0.22,404.5,0,0.0,0.0,inf,0.22,-0.22,404.5,21/11/2020
+"March  Solomon March (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.03,-0.03,3000.0,1,0.06,0.94,1500.0,0.09,0.91,1000.0,21/11/2020
+"Maupay  Neal Maupay (Brighton and Hove Albion, Forward)",BHA,6.5,0,0.01,-0.01,8000.0,0,0.76,-0.76,105.3,0.77,-0.77,103.9,21/11/2020
+"Molumby  Jayson Molumby (Brighton and Hove Albion, Midfielder)",BHA,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/11/2020
+"Mat Ryan  Mathew Ryan (Brighton and Hove Albion, Goalkeeper)",BHA,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/11/2020
+"Veltman  Joël Veltman (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.01,-0.01,4500.0,0,0.0,0.0,inf,0.01,-0.01,4500.0,21/11/2020
+"Webster  Adam Webster (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,21/11/2020
+"Welbeck  Danny Welbeck (Brighton and Hove Albion, Forward)",BHA,6.0,0,0.16,-0.16,562.5,1,0.52,0.48,173.1,0.68,0.32,132.4,21/11/2020
+"White (Ben)  Ben White (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,21/11/2020

@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Bernard  Bernard Anício Caldeira Duarte (Everton, Midfielder)",EVE,5.5,0,0.32,-0.32,140.6,0,0.0,0.0,inf,0.32,-0.32,140.6,25/10/2020
+"Calvert-Lewin  Dominic Calvert-Lewin (Everton, Forward)",EVE,8.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,25/10/2020
+"Delph  Fabian Delph (Everton, Midfielder)",EVE,4.5,0,0.01,-0.01,3200.0,0,0.0,0.0,inf,0.01,-0.01,3200.0,25/10/2020
+"Digne  Lucas Digne (Everton, Defender)",EVE,5.5,0,0.01,-0.01,7200.0,0,0.0,0.0,inf,0.01,-0.01,7200.0,25/10/2020
+"Doucouré  Abdoulaye Doucouré (Everton, Midfielder)",EVE,5.5,0,0.01,-0.01,5800.0,0,0.01,-0.01,5800.0,0.02,-0.02,2900.0,25/10/2020
+"Godfrey  Ben Godfrey (Everton, Defender)",EVE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/10/2020
+"Gordon (Anthony)  Anthony Gordon (Everton, Midfielder)",EVE,4.3,0,0.02,-0.02,1600.0,0,0.0,0.0,inf,0.02,-0.02,1600.0,25/10/2020
+"Iwobi  Alex Iwobi (Everton, Midfielder)",EVE,6.0,0,0.02,-0.02,2250.0,0,0.05,-0.05,900.0,0.07,-0.07,642.9,25/10/2020
+"Keane  Michael Keane (Everton, Defender)",EVE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/10/2020
+"Allan  Allan Marques Loureiro (Everton, Midfielder)",EVE,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,25/10/2020
+"Mina  Yerry Mina (Everton, Defender)",EVE,5.0,0,0.0,0.0,inf,0,0.04,-0.04,2250.0,0.04,-0.04,2250.0,25/10/2020
+"Pickford  Jordan Pickford (Everton, Goalkeeper)",EVE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/10/2020
+"Rodríguez  James Rodríguez (Everton, Midfielder)",EVE,7.0,0,0.02,-0.02,4500.0,0,0.23,-0.23,391.3,0.25,-0.25,360.0,25/10/2020
+"Sigurdsson  Gylfi Sigurdsson (Everton, Midfielder)",EVE,7.0,0,0.01,-0.01,5800.0,0,0.03,-0.03,1933.3,0.04,-0.04,1450.0,25/10/2020
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,0,0.05,-0.05,1780.0,1,0.11,0.89,809.1,0.16,0.84,556.3,25/10/2020
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,0,0.02,-0.02,4300.0,0,0.2,-0.2,430.0,0.22,-0.22,390.9,25/10/2020
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/10/2020
+"Bertrand  Ryan Bertrand (Southampton, Defender)",SOU,5.0,0,0.27,-0.27,333.3,0,0.0,0.0,inf,0.27,-0.27,333.3,25/10/2020
+"Diallo  Ibrahima Diallo (Southampton, Midfielder)",SOU,4.5,0,0.02,-0.02,200.0,0,0.0,0.0,inf,0.02,-0.02,200.0,25/10/2020
+"Ings  Danny Ings (Southampton, Forward)",SOU,8.0,2,0.06,1.94,1500.0,0,0.03,-0.03,3000.0,0.09,1.91,1000.0,25/10/2020
+"McCarthy (Alex)  Alex McCarthy (Southampton, Goalkeeper)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/10/2020
+"N'Lundulu  Daniel N&#039;Lundulu (Southampton, Forward)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/10/2020
+"Redmond  Nathan Redmond (Southampton, Midfielder)",SOU,6.0,0,0.14,-0.14,642.9,0,0.16,-0.16,562.5,0.3,-0.3,300.0,25/10/2020
+"Romeu  Oriol Romeu (Southampton, Midfielder)",SOU,4.5,0,0.07,-0.07,1285.7,0,0.05,-0.05,1800.0,0.12,-0.12,750.0,25/10/2020
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,0,0.0,0.0,inf,0,0.05,-0.05,1800.0,0.05,-0.05,1800.0,25/10/2020
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,25/10/2020
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,0,0.07,-0.07,1285.7,1,0.07,0.93,1285.7,0.14,0.86,642.9,25/10/2020

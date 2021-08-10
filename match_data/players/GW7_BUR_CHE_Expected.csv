@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Barnes (Ashley)  Ashley Barnes (Burnley, Forward)",BUR,5.5,0,0.05,-0.05,1460.0,0,0.4,-0.4,182.5,0.45,-0.45,162.2,31/10/2020
+"Brady  Robert Brady (Burnley, Midfielder)",BUR,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/10/2020
+"Brownhill  Josh Brownhill (Burnley, Midfielder)",BUR,4.5,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,31/10/2020
+"Long (Kevin)  Kevin Long (Burnley, Defender)",BUR,4.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,31/10/2020
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,0,0.17,-0.17,529.4,0,0.03,-0.03,3000.0,0.2,-0.2,450.0,31/10/2020
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,31/10/2020
+"Pope  Nick Pope (Burnley, Goalkeeper)",BUR,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/10/2020
+"Rodriguez  Jay Rodriguez (Burnley, Forward)",BUR,5.5,0,0.01,-0.01,4500.0,0,0.04,-0.04,1125.0,0.05,-0.05,900.0,31/10/2020
+"Stephens (Dale)  Dale Stephens (Burnley, Midfielder)",BUR,4.5,0,0.02,-0.02,2250.0,0,0.0,0.0,inf,0.02,-0.02,2250.0,31/10/2020
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,0,0.0,0.0,inf,0,0.03,-0.03,3000.0,0.03,-0.03,3000.0,31/10/2020
+"Taylor (Charlie)  Charlie Taylor (Burnley, Defender)",BUR,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/10/2020
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,31/10/2020
+"Wood  Chris Wood (Burnley, Forward)",BUR,7.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/10/2020
+"Abraham  Tammy Abraham (Chelsea, Forward)",CHE,6.5,1,0.03,0.97,2566.7,0,0.09,-0.09,855.6,0.12,0.88,641.7,31/10/2020
+"Chilwell  Benjamin Chilwell (Chelsea, Defender)",CHE,6.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,31/10/2020
+"Jorginho  Jorge Luiz Frello Filho (Chelsea, Midfielder)",CHE,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/10/2020
+"Giroud  Olivier Giroud (Chelsea, Forward)",CHE,6.5,0,0.01,-0.01,1300.0,0,0.0,0.0,inf,0.01,-0.01,1300.0,31/10/2020
+"Havertz  Kai Havertz (Chelsea, Midfielder)",CHE,8.5,0,0.05,-0.05,1720.0,0,0.04,-0.04,2150.0,0.09,-0.09,955.6,31/10/2020
+"Hudson-Odoi  Callum Hudson-Odoi (Chelsea, Midfielder)",CHE,5.5,0,0.06,-0.06,283.3,0,0.0,0.0,inf,0.06,-0.06,283.3,31/10/2020
+"James (Reece)  Reece James (Chelsea, Defender)",CHE,5.5,0,0.15,-0.15,600.0,0,0.05,-0.05,1800.0,0.2,-0.2,450.0,31/10/2020
+"Kanté  N&#039;Golo Kanté (Chelsea, Midfielder)",CHE,5.0,0,0.08,-0.08,1125.0,0,0.04,-0.04,2250.0,0.12,-0.12,750.0,31/10/2020
+"Mendy (Edouard)  Edouard Mendy (Chelsea, Goalkeeper)",CHE,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/10/2020
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,1,0.11,0.89,818.2,0,0.11,-0.11,818.2,0.22,0.78,409.1,31/10/2020
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,0,0.23,-0.23,391.3,1,0.35,0.65,257.1,0.58,0.42,155.2,31/10/2020
+"Ziyech  Hakim Ziyech (Chelsea, Midfielder)",CHE,7.5,1,0.11,0.89,663.6,1,0.06,0.94,1216.7,0.17,1.83,429.4,31/10/2020
+"Zouma  Kurt Zouma (Chelsea, Defender)",CHE,5.5,0,0.0,0.0,inf,1,0.1,0.9,900.0,0.1,0.9,900.0,31/10/2020
+"Thiago Silva  Thiago Emiliano da Silva (Chelsea, Defender)",CHE,5.5,0,0.01,-0.01,9000.0,0,0.05,-0.05,1800.0,0.06,-0.06,1500.0,31/10/2020

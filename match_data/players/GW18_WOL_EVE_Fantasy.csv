@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Coleman  Seamus Coleman (Everton, Defender)",EVE,5.0,0,4,1,0,0,0,0,0,0,0,0,0,0,WOL,18,12/01/2021,DEF,False
+"Davies (Tom)  Tom Davies (Everton, Midfielder)",EVE,5.0,1,64,0,1,0,0,0,0,0,1,0,0,0,WOL,18,12/01/2021,MID,False
+"Digne  Lucas Digne (Everton, Defender)",EVE,5.5,1,90,0,0,0,1,0,1,0,1,0,0,0,WOL,18,12/01/2021,DEF,False
+"Doucouré  Abdoulaye Doucouré (Everton, Midfielder)",EVE,5.5,1,90,0,0,0,0,0,0,0,1,0,1,0,WOL,18,12/01/2021,MID,False
+"Godfrey  Ben Godfrey (Everton, Defender)",EVE,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,18,12/01/2021,DEF,False
+"Holgate  Mason Holgate (Everton, Defender)",EVE,4.5,1,90,0,0,0,0,0,0,0,1,0,1,0,WOL,18,12/01/2021,DEF,False
+"Iwobi  Alex Iwobi (Everton, Midfielder)",EVE,6.0,1,90,0,0,1,0,0,0,0,1,0,0,0,WOL,18,12/01/2021,MID,False
+"Keane  Michael Keane (Everton, Defender)",EVE,5.0,1,90,0,0,1,0,0,0,0,1,0,0,0,WOL,18,12/01/2021,DEF,False
+"Mina  Yerry Mina (Everton, Defender)",EVE,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,18,12/01/2021,DEF,False
+"Pickford  Jordan Pickford (Everton, Goalkeeper)",EVE,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,18,12/01/2021,GKP,False
+"Rodríguez  James Rodríguez (Everton, Midfielder)",EVE,7.0,1,86,0,1,0,0,0,0,0,1,0,0,0,WOL,18,12/01/2021,MID,False
+"Sigurdsson  Gylfi Sigurdsson (Everton, Midfielder)",EVE,7.0,1,76,0,1,0,0,0,0,0,1,0,0,0,WOL,18,12/01/2021,MID,False
+"André Gomes  André Filipe Tavares Gomes (Everton, Midfielder)",EVE,5.0,0,26,1,0,0,1,0,1,0,0,0,0,0,WOL,18,12/01/2021,MID,False
+"Richarlison  Richarlison de Andrade (Everton, Forward)",EVE,7.5,0,14,1,0,0,0,0,0,0,0,0,0,0,WOL,18,12/01/2021,FWD,False
+"Ait Nouri  Rayan Ait Nouri (Wolverhampton Wanderers, Defender)",WOL,4.5,1,90,0,0,0,1,0,1,0,2,0,0,0,EVE,18,12/01/2021,DEF,True
+"Coady  Conor Coady (Wolverhampton Wanderers, Defender)",WOL,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,EVE,18,12/01/2021,DEF,True
+"Cutrone  Patrick Cutrone (Wolverhampton Wanderers, Forward)",WOL,5.9,0,12,1,0,0,0,0,0,0,0,0,0,0,EVE,18,12/01/2021,FWD,True
+"Dendoncker (Leander)  Leander Dendoncker (Wolverhampton Wanderers, Midfielder)",WOL,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,EVE,18,12/01/2021,MID,True
+"Gibbs-White  Morgan Gibbs-White (Wolverhampton Wanderers, Midfielder)",WOL,4.5,1,64,0,1,0,0,0,0,0,1,0,0,0,EVE,18,12/01/2021,MID,True
+"Hoever  Ki-Jana Hoever (Wolverhampton Wanderers, Defender)",WOL,4.0,0,26,1,0,0,0,0,0,0,1,0,1,0,EVE,18,12/01/2021,DEF,True
+"Vitor Ferreira  Vitor Machado Ferreira (Wolverhampton Wanderers, Midfielder)",WOL,4.7,0,4,1,0,0,0,0,0,0,0,0,0,0,EVE,18,12/01/2021,MID,True
+"Moutinho  João Moutinho (Wolverhampton Wanderers, Midfielder)",WOL,5.0,1,86,0,1,0,0,0,0,0,2,0,0,0,EVE,18,12/01/2021,MID,True
+"Neto  Pedro Neto (Wolverhampton Wanderers, Midfielder)",WOL,6.5,1,90,0,0,0,0,0,0,0,2,0,0,0,EVE,18,12/01/2021,MID,True
+"Saiss  Romain Saiss (Wolverhampton Wanderers, Defender)",WOL,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,EVE,18,12/01/2021,DEF,True
+"Semedo  Nelson Semedo (Wolverhampton Wanderers, Defender)",WOL,5.0,1,90,0,0,0,0,0,0,0,2,0,1,0,EVE,18,12/01/2021,DEF,True
+"Fabio Silva  Fabio Daniel Soares Silva (Wolverhampton Wanderers, Forward)",WOL,6.0,1,78,0,1,0,0,0,0,0,2,0,0,0,EVE,18,12/01/2021,FWD,True
+"Ruben Neves  Rúben Diogo da Silva Neves (Wolverhampton Wanderers, Midfielder)",WOL,5.5,1,90,0,0,1,0,0,0,0,2,0,0,0,EVE,18,12/01/2021,MID,True
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,EVE,18,12/01/2021,GKP,True

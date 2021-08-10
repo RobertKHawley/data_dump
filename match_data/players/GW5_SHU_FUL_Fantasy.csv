@@ -1,0 +1,27 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Tosin  Oluwatosin Adarabioyo (Fulham, Defender)",FUL,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,5,18/10/2020,DEF,False
+"Aina  Ola Aina (Fulham, Defender)",FUL,4.3,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,5,18/10/2020,DEF,False
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,5,18/10/2020,GKP,False
+"Cairney  Tom Cairney (Fulham, Midfielder)",FUL,5.2,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,5,18/10/2020,MID,False
+"Cavaleiro  Ivan Cavaleiro (Fulham, Midfielder)",FUL,5.3,1,90,0,0,0,0,0,0,0,1,0,1,0,SHU,5,18/10/2020,MID,False
+"Lemina  Mario Lemina (Fulham, Midfielder)",FUL,4.5,0,9,1,0,0,0,0,0,0,1,0,0,0,SHU,5,18/10/2020,MID,False
+"Loftus-Cheek  Ruben Loftus-Cheek (Fulham, Midfielder)",FUL,5.5,1,81,0,1,0,0,0,0,1,0,0,0,0,SHU,5,18/10/2020,MID,False
+"Lookman  Ademola Lookman (Fulham, Midfielder)",FUL,4.7,1,90,0,0,1,0,0,0,0,1,0,0,0,SHU,5,18/10/2020,MID,False
+"Mitrovic  Aleksandar Mitrovic (Fulham, Forward)",FUL,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,5,18/10/2020,FWD,False
+"Ream  Tim Ream (Fulham, Defender)",FUL,4.2,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,5,18/10/2020,DEF,False
+"Robinson (Antonee)  Antonee Robinson (Fulham, Defender)",FUL,4.4,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,5,18/10/2020,DEF,False
+"Zambo Anguissa  André-Frank Zambo Anguissa (Fulham, Midfielder)",FUL,4.4,1,90,0,0,0,0,0,0,0,1,0,1,0,SHU,5,18/10/2020,MID,False
+"Baldock  George Baldock (Sheffield United, Defender)",SHU,4.9,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,5,18/10/2020,DEF,True
+"Basham  Chris Basham (Sheffield United, Defender)",SHU,4.6,1,81,0,1,0,0,0,0,0,1,0,0,0,FUL,5,18/10/2020,DEF,True
+"Berge  Sander Berge (Sheffield United, Midfielder)",SHU,4.9,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,5,18/10/2020,MID,True
+"Brewster  Rhian Brewster (Sheffield United, Forward)",SHU,4.2,0,26,1,0,0,0,0,0,0,1,0,0,0,FUL,5,18/10/2020,FWD,True
+"Egan  John Egan (Sheffield United, Defender)",SHU,4.7,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,5,18/10/2020,DEF,True
+"Lowe  Max Lowe (Sheffield United, Defender)",SHU,4.2,1,19,0,1,0,0,0,0,0,0,0,0,0,FUL,5,18/10/2020,DEF,True
+"Lundstram  John Lundstram (Sheffield United, Midfielder)",SHU,4.8,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,5,18/10/2020,MID,True
+"McBurnie  Oliver McBurnie (Sheffield United, Forward)",SHU,5.6,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,5,18/10/2020,FWD,True
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,1,64,0,1,0,0,0,0,1,0,0,0,0,FUL,5,18/10/2020,FWD,True
+"Norwood  Oliver Norwood (Sheffield United, Midfielder)",SHU,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,5,18/10/2020,MID,True
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,5,18/10/2020,GKP,True
+"Robinson (Jack)  Jack Robinson (Sheffield United, Defender)",SHU,4.2,0,71,1,0,0,0,1,1,0,1,0,0,0,FUL,5,18/10/2020,DEF,True
+"Sharp  Billy Sharp (Sheffield United, Forward)",SHU,5.5,0,9,1,0,1,0,0,0,0,0,0,0,0,FUL,5,18/10/2020,FWD,True
+"Stevens (Enda)  Enda Stevens (Sheffield United, Defender)",SHU,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,5,18/10/2020,DEF,True

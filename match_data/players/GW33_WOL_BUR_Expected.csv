@@ -1,0 +1,27 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Brownhill  Josh Brownhill (Burnley, Midfielder)",BUR,4.5,0,0.02,-0.02,4500.0,0,0.02,-0.02,4500.0,0.04,-0.04,2250.0,25/04/2021
+"Cork  Jack Cork (Burnley, Midfielder)",BUR,4.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,25/04/2021
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,1,0.02,0.98,4500.0,0,0.02,-0.02,4500.0,0.04,0.96,2250.0,25/04/2021
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,2,0.78,1.22,115.4,0,0.0,0.0,inf,0.78,1.22,115.4,25/04/2021
+"Mee  Ben Mee (Burnley, Defender)",BUR,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/04/2021
+"Pope  Nick Pope (Burnley, Goalkeeper)",BUR,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/04/2021
+"Rodriguez  Jay Rodriguez (Burnley, Forward)",BUR,5.5,0,0.03,-0.03,566.7,0,0.04,-0.04,425.0,0.07,-0.07,242.9,25/04/2021
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,0,0.03,-0.03,3000.0,0,0.06,-0.06,1500.0,0.09,-0.09,1000.0,25/04/2021
+"Taylor (Charlie)  Charlie Taylor (Burnley, Defender)",BUR,4.5,0,0.42,-0.42,214.3,0,0.0,0.0,inf,0.42,-0.42,214.3,25/04/2021
+"Vydra  Matej Vydra (Burnley, Forward)",BUR,5.5,0,0.09,-0.09,811.1,0,0.65,-0.65,112.3,0.74,-0.74,98.6,25/04/2021
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,0,0.06,-0.06,1500.0,1,0.11,0.89,818.2,0.17,0.83,529.4,25/04/2021
+"Wood  Chris Wood (Burnley, Forward)",BUR,7.0,1,0.05,0.95,1800.0,3,1.13,1.87,79.6,1.18,2.82,76.3,25/04/2021
+"Ait Nouri  Rayan Ait Nouri (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.04,-0.04,2250.0,0,0.01,-0.01,9000.0,0.05,-0.05,1800.0,25/04/2021
+"Boly  Willy Boly (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/04/2021
+"Coady  Conor Coady (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/04/2021
+"Willian José  Willian José Da Silva (Wolverhampton Wanderers, Forward)",WOL,6.8,0,0.01,-0.01,9000.0,0,0.11,-0.11,818.2,0.12,-0.12,750.0,25/04/2021
+"Dendoncker (Leander)  Leander Dendoncker (Wolverhampton Wanderers, Midfielder)",WOL,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,25/04/2021
+"Gibbs-White  Morgan Gibbs-White (Wolverhampton Wanderers, Midfielder)",WOL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/04/2021
+"Vitor Ferreira  Vitor Machado Ferreira (Wolverhampton Wanderers, Midfielder)",WOL,4.7,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/04/2021
+"Podence  Daniel Podence (Wolverhampton Wanderers, Midfielder)",WOL,5.5,0,0.0,0.0,inf,0,0.1,-0.1,690.0,0.1,-0.1,690.0,25/04/2021
+"Saiss  Romain Saiss (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.01,-0.01,9000.0,0,0.02,-0.02,4500.0,0.03,-0.03,3000.0,25/04/2021
+"Semedo  Nelson Semedo (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.05,-0.05,1160.0,0,0.03,-0.03,1933.3,0.08,-0.08,725.0,25/04/2021
+"Fabio Silva  Fabio Daniel Soares Silva (Wolverhampton Wanderers, Forward)",WOL,6.0,0,0.0,0.0,inf,0,0.04,-0.04,800.0,0.04,-0.04,800.0,25/04/2021
+"Traoré  Adama Traoré (Wolverhampton Wanderers, Midfielder)",WOL,6.0,0,0.01,-0.01,9000.0,0,0.04,-0.04,2250.0,0.05,-0.05,1800.0,25/04/2021
+"Ruben Neves  Rúben Diogo da Silva Neves (Wolverhampton Wanderers, Midfielder)",WOL,5.5,0,0.03,-0.03,2300.0,0,0.08,-0.08,862.5,0.11,-0.11,627.3,25/04/2021
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/04/2021

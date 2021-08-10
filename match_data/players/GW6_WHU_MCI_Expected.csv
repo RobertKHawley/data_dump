@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Aguero  Sergio Aguero (Manchester City, Forward)",MCI,10.3,0,0.02,-0.02,2250.0,0,0.0,0.0,inf,0.02,-0.02,2250.0,24/10/2020
+"João Cancelo  João Pedro Cavaco Cancelo (Manchester City, Defender)",MCI,6.0,1,0.39,0.61,230.8,0,0.05,-0.05,1800.0,0.44,0.56,204.5,24/10/2020
+"De Bruyne  Kevin De Bruyne (Manchester City, Midfielder)",MCI,12.0,0,0.08,-0.08,275.0,0,0.07,-0.07,314.3,0.15,-0.15,146.7,24/10/2020
+"Foden  Phil Foden (Manchester City, Midfielder)",MCI,8.0,0,0.02,-0.02,2250.0,1,0.14,0.86,321.4,0.16,0.84,281.3,24/10/2020
+"Garcia  Eric Garcia (Manchester City, Defender)",MCI,4.7,0,0.02,-0.02,4500.0,0,0.02,-0.02,4500.0,0.04,-0.04,2250.0,24/10/2020
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,24/10/2020
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,0,0.21,-0.21,428.6,0,0.12,-0.12,750.0,0.33,-0.33,272.7,24/10/2020
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,0,0.05,-0.05,1800.0,0,0.06,-0.06,1500.0,0.11,-0.11,818.2,24/10/2020
+"Mahrez  Riyad Mahrez (Manchester City, Midfielder)",MCI,9.0,0,0.08,-0.08,1125.0,0,0.16,-0.16,562.5,0.24,-0.24,375.0,24/10/2020
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,24/10/2020
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,0,0.04,-0.04,2250.0,0,0.34,-0.34,264.7,0.38,-0.38,236.8,24/10/2020
+"Bernardo Silva  Bernardo Mota Veiga de Carvalho e Silva (Manchester City, Midfielder)",MCI,7.0,0,0.03,-0.03,2266.7,0,0.0,0.0,inf,0.03,-0.03,2266.7,24/10/2020
+"Walker (Kyle)  Kyle Walker (Manchester City, Defender)",MCI,5.5,0,0.07,-0.07,1114.3,0,0.02,-0.02,3900.0,0.09,-0.09,866.7,24/10/2020
+"Zinchenko  Oleksandr Zinchenko (Manchester City, Defender)",MCI,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,24/10/2020
+"Antonio  Michail Antonio (West Ham United, Forward)",WHU,7.5,0,0.0,0.0,inf,1,0.09,0.91,577.8,0.09,0.91,577.8,24/10/2020
+"Balbuena  Fabián Balbuena (West Ham United, Defender)",WHU,4.1,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,24/10/2020
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,24/10/2020
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,1,0.08,0.92,1125.0,0,0.0,0.0,inf,0.08,0.92,1125.0,24/10/2020
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,24/10/2020
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,24/10/2020
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,0,0.01,-0.01,9000.0,0,0.1,-0.1,900.0,0.11,-0.11,818.2,24/10/2020
+"Haller  Sébastien Haller (West Ham United, Forward)",WHU,6.1,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,24/10/2020
+"Masuaku  Arthur Masuaku (West Ham United, Defender)",WHU,4.5,0,0.02,-0.02,4500.0,0,0.02,-0.02,4500.0,0.04,-0.04,2250.0,24/10/2020
+"Ogbonna  Angelo Ogbonna (West Ham United, Defender)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,24/10/2020
+"Rice  Declan Rice (West Ham United, Midfielder)",WHU,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,24/10/2020
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,0,0.03,-0.03,3000.0,0,0.03,-0.03,3000.0,0.06,-0.06,1500.0,24/10/2020
+"Yarmolenko  Andriy Yarmolenko (West Ham United, Midfielder)",WHU,5.5,0,0.0,0.0,inf,0,0.03,-0.03,1266.7,0.03,-0.03,1266.7,24/10/2020

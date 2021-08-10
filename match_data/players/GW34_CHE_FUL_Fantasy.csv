@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Abraham  Tammy Abraham (Chelsea, Forward)",CHE,6.5,0,14,1,0,0,0,0,0,0,0,0,0,0,FUL,34,01/05/2021,FWD,True
+"Alonso  Marcos Alonso (Chelsea, Defender)",CHE,5.5,0,9,1,0,0,0,0,0,0,0,0,0,0,FUL,34,01/05/2021,DEF,True
+"Chilwell  Benjamin Chilwell (Chelsea, Defender)",CHE,6.0,1,81,0,1,0,0,0,0,1,0,0,0,0,FUL,34,01/05/2021,DEF,True
+"Christensen  Andreas Christensen (Chelsea, Defender)",CHE,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,34,01/05/2021,DEF,True
+"Gilmour  Billy Gilmour (Chelsea, Midfielder)",CHE,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,34,01/05/2021,MID,True
+"Havertz  Kai Havertz (Chelsea, Midfielder)",CHE,8.5,1,90,0,0,2,0,0,0,1,0,0,0,0,FUL,34,01/05/2021,MID,True
+"James (Reece)  Reece James (Chelsea, Defender)",CHE,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,34,01/05/2021,DEF,True
+"Kanté  N&#039;Golo Kanté (Chelsea, Midfielder)",CHE,5.0,0,24,1,0,0,0,0,0,0,0,0,0,0,FUL,34,01/05/2021,MID,True
+"Mendy (Edouard)  Edouard Mendy (Chelsea, Goalkeeper)",CHE,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,34,01/05/2021,GKP,True
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,1,76,0,1,0,1,0,1,1,0,0,0,0,FUL,34,01/05/2021,MID,True
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,1,90,0,0,0,1,0,1,1,0,0,0,0,FUL,34,01/05/2021,FWD,True
+"Ziyech  Hakim Ziyech (Chelsea, Midfielder)",CHE,7.5,1,66,0,1,0,0,0,0,1,0,0,0,0,FUL,34,01/05/2021,MID,True
+"Zouma  Kurt Zouma (Chelsea, Defender)",CHE,5.5,1,90,0,0,0,0,0,0,1,0,0,1,0,FUL,34,01/05/2021,DEF,True
+"Thiago Silva  Thiago Emiliano da Silva (Chelsea, Defender)",CHE,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,FUL,34,01/05/2021,DEF,True
+"Tosin  Oluwatosin Adarabioyo (Fulham, Defender)",FUL,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,CHE,34,01/05/2021,DEF,False
+"Aina  Ola Aina (Fulham, Defender)",FUL,4.3,1,90,0,0,0,0,0,0,0,2,0,1,0,CHE,34,01/05/2021,DEF,False
+"Andersen  Joachim Andersen (Fulham, Defender)",FUL,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,CHE,34,01/05/2021,DEF,False
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,CHE,34,01/05/2021,GKP,False
+"Carvalho  Fabio Carvalho (Fulham, Midfielder)",FUL,4.5,0,12,1,0,0,0,0,0,0,0,0,0,0,CHE,34,01/05/2021,MID,False
+"Cavaleiro  Ivan Cavaleiro (Fulham, Midfielder)",FUL,5.3,1,78,0,1,0,0,0,0,0,2,0,0,0,CHE,34,01/05/2021,MID,False
+"DeCordova-Reid  Bobby DeCordova-Reid (Fulham, Forward)",FUL,5.3,1,90,0,0,0,0,0,0,0,2,0,0,0,CHE,34,01/05/2021,FWD,False
+"Lemina  Mario Lemina (Fulham, Midfielder)",FUL,4.5,1,78,0,1,0,0,0,0,0,2,0,0,0,CHE,34,01/05/2021,MID,False
+"Lookman  Ademola Lookman (Fulham, Midfielder)",FUL,4.7,1,90,0,0,0,0,0,0,0,2,0,0,0,CHE,34,01/05/2021,MID,False
+"Maja  Josh Maja (Fulham, Forward)",FUL,5.0,1,81,0,1,0,0,0,0,0,2,0,0,0,CHE,34,01/05/2021,FWD,False
+"Mitrovic  Aleksandar Mitrovic (Fulham, Forward)",FUL,5.5,0,9,1,0,0,0,0,0,0,0,0,0,0,CHE,34,01/05/2021,FWD,False
+"Onomah  Josh Onomah (Fulham, Midfielder)",FUL,4.6,0,12,1,0,0,0,0,0,0,0,0,0,0,CHE,34,01/05/2021,MID,False
+"Robinson (Antonee)  Antonee Robinson (Fulham, Defender)",FUL,4.4,1,90,0,0,0,0,0,0,0,2,0,0,0,CHE,34,01/05/2021,DEF,False
+"Zambo Anguissa  André-Frank Zambo Anguissa (Fulham, Midfielder)",FUL,4.4,1,90,0,0,0,0,0,0,0,2,0,0,0,CHE,34,01/05/2021,MID,False

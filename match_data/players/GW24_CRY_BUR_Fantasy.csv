@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Bardsley  Phillip Bardsley (Burnley, Defender)",BUR,4.0,0,3,1,0,0,0,0,0,0,0,0,0,0,CRY,24,13/02/2021,DEF,False
+"Barnes (Ashley)  Ashley Barnes (Burnley, Forward)",BUR,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,24,13/02/2021,FWD,False
+"Gudmundsson  Johann Berg Gudmundsson (Burnley, Midfielder)",BUR,5.5,1,72,0,1,1,0,0,0,1,0,0,0,0,CRY,24,13/02/2021,MID,False
+"Brady  Robert Brady (Burnley, Midfielder)",BUR,5.0,0,18,1,0,0,0,0,0,0,0,0,0,0,CRY,24,13/02/2021,MID,False
+"Cork  Jack Cork (Burnley, Midfielder)",BUR,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,24,13/02/2021,MID,False
+"Long (Kevin)  Kevin Long (Burnley, Defender)",BUR,4.0,0,6,1,0,0,0,0,0,0,0,0,0,0,CRY,24,13/02/2021,DEF,False
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,1,90,0,0,1,0,0,0,1,0,0,0,0,CRY,24,13/02/2021,DEF,False
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,1,90,0,0,0,1,0,1,1,0,0,0,0,CRY,24,13/02/2021,MID,False
+"Mee  Ben Mee (Burnley, Defender)",BUR,5.0,1,84,0,1,0,0,0,0,1,0,0,0,0,CRY,24,13/02/2021,DEF,False
+"Pieters  Erik Pieters (Burnley, Defender)",BUR,4.5,1,87,0,1,0,0,0,0,1,0,0,0,0,CRY,24,13/02/2021,DEF,False
+"Pope  Nick Pope (Burnley, Goalkeeper)",BUR,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,24,13/02/2021,GKP,False
+"Rodriguez  Jay Rodriguez (Burnley, Forward)",BUR,5.5,1,90,0,0,1,1,0,1,1,0,0,0,0,CRY,24,13/02/2021,FWD,False
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,24,13/02/2021,DEF,False
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,24,13/02/2021,MID,False
+"Jordan Ayew  Jordan Ayew (Crystal Palace, Forward)",CRY,6.0,1,90,0,0,0,0,0,0,0,3,0,0,0,BUR,24,13/02/2021,FWD,True
+"Batshuayi  Michy Batshuayi (Crystal Palace, Forward)",CRY,5.5,1,62,0,1,0,0,0,0,0,3,0,0,0,BUR,24,13/02/2021,FWD,True
+"Benteke  Christian Benteke (Crystal Palace, Forward)",CRY,6.5,1,76,0,1,0,0,0,0,0,3,0,0,0,BUR,24,13/02/2021,FWD,True
+"Clyne  Nathaniel Clyne (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,BUR,24,13/02/2021,DEF,True
+"Dann  Scott Dann (Crystal Palace, Defender)",CRY,4.2,1,90,0,0,0,0,0,0,0,3,0,0,0,BUR,24,13/02/2021,DEF,True
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,1,90,0,0,0,0,0,0,0,3,0,0,0,BUR,24,13/02/2021,MID,True
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,BUR,24,13/02/2021,GKP,True
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,BUR,24,13/02/2021,MID,True
+"Mateta  Jean-Philippe Mateta (Crystal Palace, Forward)",CRY,5.5,0,14,1,0,0,0,0,0,0,0,0,0,0,BUR,24,13/02/2021,FWD,True
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,1,90,0,0,0,0,0,0,0,3,0,0,0,BUR,24,13/02/2021,MID,True
+"Riedewald  Jairo Riedewald (Crystal Palace, Midfielder)",CRY,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,BUR,24,13/02/2021,MID,True
+"Townsend (Andros)  Andros Townsend (Crystal Palace, Midfielder)",CRY,5.5,0,28,1,0,0,0,0,0,0,0,0,0,0,BUR,24,13/02/2021,MID,True
+"Van Aanholt  Patrick Van Aanholt (Crystal Palace, Defender)",CRY,5.4,1,90,0,0,0,0,0,0,0,3,0,0,0,BUR,24,13/02/2021,DEF,True

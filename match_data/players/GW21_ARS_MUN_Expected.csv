@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Cedric  Cedric Ricardo Alves Soares (Arsenal, Defender)",ARS,4.5,0,0.06,-0.06,1500.0,0,0.05,-0.05,1800.0,0.11,-0.11,818.2,30/01/2021
+"Bellerín  Héctor Bellerín (Arsenal, Defender)",ARS,5.0,0,0.01,-0.01,9000.0,0,0.05,-0.05,1800.0,0.06,-0.06,1500.0,30/01/2021
+"Willian  Willian Borges Da Silva (Arsenal, Midfielder)",ARS,6.5,0,0.05,-0.05,900.0,0,0.07,-0.07,642.9,0.12,-0.12,375.0,30/01/2021
+"Holding  Rob Holding (Arsenal, Defender)",ARS,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,30/01/2021
+"Lacazette  Alexandre Lacazette (Arsenal, Forward)",ARS,8.5,0,0.01,-0.01,8900.0,0,0.13,-0.13,684.6,0.14,-0.14,635.7,30/01/2021
+"Leno  Bernd Leno (Arsenal, Goalkeeper)",ARS,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,30/01/2021
+"Luiz  David Luiz Moreira Marinho (Arsenal, Defender)",ARS,5.4,0,0.03,-0.03,3000.0,0,0.18,-0.18,500.0,0.21,-0.21,428.6,30/01/2021
+"Gabriel Martinelli  Gabriel Teodoro Martinelli Silva (Arsenal, Midfielder)",ARS,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,30/01/2021
+"Eddie Nketiah  Edward Nketiah (Arsenal, Forward)",ARS,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,30/01/2021
+"Odegaard  Martin Odegaard (Arsenal, Midfielder)",ARS,5.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,30/01/2021
+"Partey  Thomas Partey (Arsenal, Midfielder)",ARS,5.0,0,0.01,-0.01,9000.0,0,0.03,-0.03,3000.0,0.04,-0.04,2250.0,30/01/2021
+"Pepe  Nicolas Pepe (Arsenal, Midfielder)",ARS,7.5,0,0.09,-0.09,1000.0,0,0.25,-0.25,360.0,0.34,-0.34,264.7,30/01/2021
+"Smith-Rowe  Emile Smith-Rowe (Arsenal, Midfielder)",ARS,5.5,0,0.02,-0.02,4150.0,0,0.06,-0.06,1383.3,0.08,-0.08,1037.5,30/01/2021
+"Xhaka  Granit Xhaka (Arsenal, Midfielder)",ARS,5.0,0,0.02,-0.02,4500.0,0,0.05,-0.05,1800.0,0.07,-0.07,1285.7,30/01/2021
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,0,0.06,-0.06,1500.0,0,0.18,-0.18,500.0,0.24,-0.24,375.0,30/01/2021
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,0,0.05,-0.05,1800.0,0,1.11,-1.11,81.1,1.16,-1.16,77.6,30/01/2021
+"De Gea  David De Gea (Manchester United, Goalkeeper)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,30/01/2021
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,30/01/2021
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,0,0.01,-0.01,9000.0,0,0.04,-0.04,2250.0,0.05,-0.05,1800.0,30/01/2021
+"Martial  Anthony Martial (Manchester United, Forward)",MUN,8.0,0,0.07,-0.07,757.1,0,0.06,-0.06,883.3,0.13,-0.13,407.7,30/01/2021
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,0,0.01,-0.01,3700.0,0,0.0,0.0,inf,0.01,-0.01,3700.0,30/01/2021
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,30/01/2021
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,0,0.09,-0.09,1000.0,0,0.03,-0.03,3000.0,0.12,-0.12,750.0,30/01/2021
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,0,0.09,-0.09,888.9,0,0.07,-0.07,1142.9,0.16,-0.16,500.0,30/01/2021
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,0,0.05,-0.05,1800.0,0,0.08,-0.08,1125.0,0.13,-0.13,692.3,30/01/2021
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,0,0.34,-0.34,264.7,0,0.07,-0.07,1285.7,0.41,-0.41,219.5,30/01/2021
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,0,0.17,-0.17,529.4,0,0.05,-0.05,1800.0,0.22,-0.22,409.1,30/01/2021

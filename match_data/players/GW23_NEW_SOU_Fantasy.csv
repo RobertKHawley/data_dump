@@ -1,0 +1,27 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Almirón  Miguel Almirón (Newcastle United, Midfielder)",NEW,5.5,1,90,0,0,2,0,0,0,0,2,0,0,0,SOU,23,06/02/2021,MID,True
+"Joelinton  Joelinton Cássio Apolinário de Lira (Newcastle United, Forward)",NEW,6.0,0,54,1,0,0,0,0,0,0,1,0,0,0,SOU,23,06/02/2021,FWD,True
+"Darlow  Karl Darlow (Newcastle United, Goalkeeper)",NEW,4.5,1,90,0,0,0,0,0,0,0,2,0,1,0,SOU,23,06/02/2021,GKP,True
+"Dummett  Paul Dummett (Newcastle United, Defender)",NEW,4.5,0,23,1,0,0,0,0,0,0,0,0,0,0,SOU,23,06/02/2021,DEF,True
+"Hayden (Isaac)  Isaac Hayden (Newcastle United, Midfielder)",NEW,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,SOU,23,06/02/2021,MID,True
+"Hendrick  Jeff Hendrick (Newcastle United, Midfielder)",NEW,5.0,1,49,0,0,0,0,0,0,0,2,0,0,1,SOU,23,06/02/2021,MID,True
+"Krafth  Emil Krafth (Newcastle United, Defender)",NEW,4.5,0,66,1,0,0,0,0,0,0,2,0,1,0,SOU,23,06/02/2021,DEF,True
+"Lewis (Jamal)  Jamal Lewis (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,SOU,23,06/02/2021,DEF,True
+"Manquillo  Javier Manquillo (Newcastle United, Defender)",NEW,4.0,1,24,0,1,0,0,0,0,0,0,0,0,0,SOU,23,06/02/2021,DEF,True
+"Saint-Maximin  Allan Saint-Maximin (Newcastle United, Midfielder)",NEW,6.5,1,67,0,1,0,2,0,2,0,2,0,0,0,SOU,23,06/02/2021,MID,True
+"Schär  Fabian Schär (Newcastle United, Defender)",NEW,4.5,1,79,0,0,0,0,0,0,0,2,0,0,0,SOU,23,06/02/2021,DEF,True
+"Shelvey  Jonjo Shelvey (Newcastle United, Midfielder)",NEW,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,SOU,23,06/02/2021,MID,True
+"Willock  Joseph Willock (Newcastle United, Midfielder)",NEW,6.0,1,90,0,0,1,0,0,0,0,2,0,0,0,SOU,23,06/02/2021,MID,True
+"C Wilson  Callum Wilson (Newcastle United, Forward)",NEW,7.5,1,36,0,1,0,0,0,0,0,1,0,0,0,SOU,23,06/02/2021,FWD,True
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,1,90,0,0,0,0,1,1,0,3,0,0,0,NEW,23,06/02/2021,FWD,False
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,0,3,0,1,0,NEW,23,06/02/2021,DEF,False
+"Bertrand  Ryan Bertrand (Southampton, Defender)",SOU,5.0,1,90,0,0,0,1,0,1,0,3,0,0,0,NEW,23,06/02/2021,DEF,False
+"Ings  Danny Ings (Southampton, Forward)",SOU,8.0,1,90,0,0,0,0,0,0,0,3,0,0,0,NEW,23,06/02/2021,FWD,False
+"McCarthy (Alex)  Alex McCarthy (Southampton, Goalkeeper)",SOU,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,NEW,23,06/02/2021,GKP,False
+"Minamino  Takumi Minamino (Southampton, Midfielder)",SOU,5.5,1,90,0,0,1,0,0,0,0,3,0,0,0,NEW,23,06/02/2021,MID,False
+"N'Lundulu  Daniel N&#039;Lundulu (Southampton, Forward)",SOU,4.5,0,9,1,0,0,0,0,0,0,0,0,0,0,NEW,23,06/02/2021,FWD,False
+"Redmond  Nathan Redmond (Southampton, Midfielder)",SOU,6.0,1,90,0,0,0,0,0,0,0,3,0,0,0,NEW,23,06/02/2021,MID,False
+"Romeu  Oriol Romeu (Southampton, Midfielder)",SOU,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,NEW,23,06/02/2021,MID,False
+"Stephens (Jack)  Jack Stephens (Southampton, Defender)",SOU,4.5,1,81,0,1,0,0,0,0,0,3,0,0,0,NEW,23,06/02/2021,DEF,False
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,NEW,23,06/02/2021,DEF,False
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,1,90,0,0,1,0,0,0,0,3,0,0,0,NEW,23,06/02/2021,MID,False

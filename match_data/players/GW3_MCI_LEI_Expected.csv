@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Amartey  Daniel Amartey (Leicester City, Defender)",LEI,4.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/09/2020
+"Barnes (Harvey)  Harvey Barnes (Leicester City, Midfielder)",LEI,7.0,0,0.05,-0.05,1800.0,0,0.09,-0.09,1000.0,0.14,-0.14,642.9,27/09/2020
+"Castagne  Timothy Castagne (Leicester City, Defender)",LEI,5.5,1,0.22,0.78,409.1,0,0.0,0.0,inf,0.22,0.78,409.1,27/09/2020
+"Evans  Jonny Evans (Leicester City, Defender)",LEI,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/09/2020
+"Fuchs  Christian Fuchs (Leicester City, Defender)",LEI,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/09/2020
+"Iheanacho  Kelechi Iheanacho (Leicester City, Forward)",LEI,7.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/09/2020
+"Justin  James Justin (Leicester City, Defender)",LEI,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/09/2020
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,0,0.01,-0.01,2100.0,1,0.02,0.98,1050.0,0.03,0.97,700.0,27/09/2020
+"Mendy (Nampalys)  Nampalys Mendy (Leicester City, Midfielder)",LEI,4.5,1,0.0,1.0,inf,0,0.0,0.0,inf,0.0,1.0,inf,27/09/2020
+"Praet  Dennis Praet (Leicester City, Midfielder)",LEI,5.0,0,0.01,-0.01,6900.0,0,0.0,0.0,inf,0.01,-0.01,6900.0,27/09/2020
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/09/2020
+"Söyüncü  Caglar Söyüncü (Leicester City, Defender)",LEI,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/09/2020
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,0,0.02,-0.02,4500.0,1,0.79,0.21,113.9,0.81,0.19,111.1,27/09/2020
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,0,0.02,-0.02,4250.0,3,1.95,1.05,43.6,1.97,1.03,43.1,27/09/2020
+"Aké  Nathan Aké (Manchester City, Defender)",MCI,5.0,0,0.04,-0.04,2250.0,1,0.11,0.89,818.2,0.15,0.85,600.0,27/09/2020
+"De Bruyne  Kevin De Bruyne (Manchester City, Midfielder)",MCI,12.0,0,0.31,-0.31,290.3,0,0.07,-0.07,1285.7,0.38,-0.38,236.8,27/09/2020
+"Delap  Liam Delap (Manchester City, Forward)",MCI,4.2,0,0.0,0.0,inf,0,0.05,-0.05,780.0,0.05,-0.05,780.0,27/09/2020
+"Foden  Phil Foden (Manchester City, Midfielder)",MCI,8.0,0,0.01,-0.01,6400.0,0,0.0,0.0,inf,0.01,-0.01,6400.0,27/09/2020
+"Garcia  Eric Garcia (Manchester City, Defender)",MCI,4.7,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,27/09/2020
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,0,0.05,-0.05,1800.0,0,0.03,-0.03,3000.0,0.08,-0.08,1125.0,27/09/2020
+"Fernandinho  Fernando Luiz Rosa (Manchester City, Defender)",MCI,5.0,0,0.04,-0.04,1275.0,0,0.18,-0.18,283.3,0.22,-0.22,231.8,27/09/2020
+"Mahrez  Riyad Mahrez (Manchester City, Midfielder)",MCI,9.0,1,0.19,0.81,473.7,1,0.1,0.9,900.0,0.29,1.71,310.3,27/09/2020
+"Mendy (Benjamin)  Benjamin Mendy (Manchester City, Defender)",MCI,5.5,0,0.08,-0.08,1125.0,0,0.0,0.0,inf,0.08,-0.08,1125.0,27/09/2020
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/09/2020
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,0,0.03,-0.03,3000.0,0,0.26,-0.26,346.2,0.29,-0.29,310.3,27/09/2020
+"Torres  Ferran Torres (Manchester City, Midfielder)",MCI,7.0,0,0.01,-0.01,2600.0,0,0.03,-0.03,866.7,0.04,-0.04,650.0,27/09/2020
+"Walker (Kyle)  Kyle Walker (Manchester City, Defender)",MCI,5.5,0,0.06,-0.06,1500.0,0,0.04,-0.04,2250.0,0.1,-0.1,900.0,27/09/2020

@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,0,21,1,0,0,0,0,0,0,0,0,0,0,WOL,24,14/02/2021,FWD,True
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,1,69,0,1,0,1,0,1,0,2,0,0,0,WOL,24,14/02/2021,MID,True
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,0,2,0,1,0,WOL,24,14/02/2021,DEF,True
+"Bertrand  Ryan Bertrand (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,WOL,24,14/02/2021,DEF,True
+"Djenepo  Moussa Djenepo (Southampton, Midfielder)",SOU,5.5,0,28,1,0,0,0,0,0,0,1,0,0,0,WOL,24,14/02/2021,MID,True
+"Ings  Danny Ings (Southampton, Forward)",SOU,8.0,1,90,0,0,1,0,0,0,0,2,0,0,0,WOL,24,14/02/2021,FWD,True
+"McCarthy (Alex)  Alex McCarthy (Southampton, Goalkeeper)",SOU,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,WOL,24,14/02/2021,GKP,True
+"Minamino  Takumi Minamino (Southampton, Midfielder)",SOU,5.5,1,62,0,1,0,0,0,0,0,1,0,0,0,WOL,24,14/02/2021,MID,True
+"Redmond  Nathan Redmond (Southampton, Midfielder)",SOU,6.0,1,90,0,0,0,0,0,0,0,2,0,0,0,WOL,24,14/02/2021,MID,True
+"Romeu  Oriol Romeu (Southampton, Midfielder)",SOU,4.5,1,90,0,0,0,0,0,0,0,2,0,1,0,WOL,24,14/02/2021,MID,True
+"Salisu  Mohammed Salisu (Southampton, Defender)",SOU,4.5,0,18,1,0,0,0,0,0,0,0,0,0,0,WOL,24,14/02/2021,DEF,True
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,WOL,24,14/02/2021,DEF,True
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,1,72,0,1,0,0,0,0,0,2,0,0,0,WOL,24,14/02/2021,DEF,True
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,1,90,0,0,0,0,0,0,0,2,0,0,0,WOL,24,14/02/2021,MID,True
+"Jonny  Jonathan Castro Otto (Wolverhampton Wanderers, Defender)",WOL,4.5,1,69,0,1,0,0,0,0,0,1,0,0,0,SOU,24,14/02/2021,DEF,False
+"Coady  Conor Coady (Wolverhampton Wanderers, Defender)",WOL,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,24,14/02/2021,DEF,False
+"Willian José  Willian José Da Silva (Wolverhampton Wanderers, Forward)",WOL,6.8,1,89,0,1,0,0,0,0,0,1,0,0,0,SOU,24,14/02/2021,FWD,False
+"Dendoncker (Leander)  Leander Dendoncker (Wolverhampton Wanderers, Midfielder)",WOL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,24,14/02/2021,MID,False
+"Kilman  Max Kilman (Wolverhampton Wanderers, Defender)",WOL,4.5,0,1,1,0,0,0,0,0,0,0,0,0,0,SOU,24,14/02/2021,DEF,False
+"Marçal  Fernando Marçal de Oliveira (Wolverhampton Wanderers, Defender)",WOL,4.5,0,21,1,0,0,0,0,0,0,0,0,0,0,SOU,24,14/02/2021,DEF,False
+"Moutinho  João Moutinho (Wolverhampton Wanderers, Midfielder)",WOL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,24,14/02/2021,MID,False
+"Neto  Pedro Neto (Wolverhampton Wanderers, Midfielder)",WOL,6.5,1,89,0,1,1,0,0,0,0,1,0,1,0,SOU,24,14/02/2021,MID,False
+"Saiss  Romain Saiss (Wolverhampton Wanderers, Defender)",WOL,5.0,1,90,0,0,0,0,0,0,0,1,0,1,0,SOU,24,14/02/2021,DEF,False
+"Semedo  Nelson Semedo (Wolverhampton Wanderers, Defender)",WOL,5.0,1,90,0,0,0,0,1,1,0,1,0,0,0,SOU,24,14/02/2021,DEF,False
+"Fabio Silva  Fabio Daniel Soares Silva (Wolverhampton Wanderers, Forward)",WOL,6.0,0,1,1,0,0,0,0,0,0,0,0,0,0,SOU,24,14/02/2021,FWD,False
+"Traoré  Adama Traoré (Wolverhampton Wanderers, Midfielder)",WOL,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,24,14/02/2021,MID,False
+"Ruben Neves  Rúben Diogo da Silva Neves (Wolverhampton Wanderers, Midfielder)",WOL,5.5,1,90,0,0,1,1,0,1,0,1,0,0,0,SOU,24,14/02/2021,MID,False
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,24,14/02/2021,GKP,False

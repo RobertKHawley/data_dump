@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Aubameyang  Pierre-Emerick Aubameyang (Arsenal, Midfielder)",ARS,10.0,1,78,0,1,1,1,0,1,1,0,0,0,0,NEW,34,02/05/2021,MID,False
+"Bellerín  Héctor Bellerín (Arsenal, Defender)",ARS,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,34,02/05/2021,DEF,False
+"Willian  Willian Borges Da Silva (Arsenal, Midfielder)",ARS,6.5,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,34,02/05/2021,MID,False
+"Dani Ceballos  Daniel Ceballos Fernández (Arsenal, Midfielder)",ARS,4.7,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,34,02/05/2021,MID,False
+"Chambers  Calum Chambers (Arsenal, Defender)",ARS,4.5,0,37,1,0,0,0,0,0,0,0,0,0,0,NEW,34,02/05/2021,DEF,False
+"Elneny  Mohamed Elneny (Arsenal, Midfielder)",ARS,4.5,1,90,0,0,1,0,0,0,1,0,0,0,0,NEW,34,02/05/2021,MID,False
+"Luiz  David Luiz Moreira Marinho (Arsenal, Defender)",ARS,5.4,1,53,0,1,0,0,0,0,0,0,0,0,0,NEW,34,02/05/2021,DEF,False
+"Gabriel Martinelli  Gabriel Teodoro Martinelli Silva (Arsenal, Midfielder)",ARS,5.5,1,90,0,0,0,1,0,1,1,0,0,0,0,NEW,34,02/05/2021,MID,False
+"Odegaard  Martin Odegaard (Arsenal, Midfielder)",ARS,5.6,1,85,0,1,0,0,0,0,1,0,0,0,0,NEW,34,02/05/2021,MID,False
+"Partey  Thomas Partey (Arsenal, Midfielder)",ARS,5.0,0,5,1,0,0,0,0,0,0,0,0,0,0,NEW,34,02/05/2021,MID,False
+"Pepe  Nicolas Pepe (Arsenal, Midfielder)",ARS,7.5,0,12,1,0,0,0,0,0,0,0,0,0,0,NEW,34,02/05/2021,MID,False
+"Mat Ryan  Mathew Ryan (Arsenal, Goalkeeper)",ARS,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,34,02/05/2021,GKP,False
+"Xhaka  Granit Xhaka (Arsenal, Midfielder)",ARS,5.0,1,90,0,0,0,0,0,0,1,0,0,1,0,NEW,34,02/05/2021,MID,False
+"Gabriel Magalhães  Gabriel dos Santos Magalhães (Arsenal, Defender)",ARS,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,34,02/05/2021,DEF,False
+"Almirón  Miguel Almirón (Newcastle United, Midfielder)",NEW,5.5,1,73,0,1,0,0,0,0,0,2,0,1,0,ARS,34,02/05/2021,MID,True
+"Joelinton  Joelinton Cássio Apolinário de Lira (Newcastle United, Forward)",NEW,6.0,0,17,1,0,0,0,0,0,0,0,0,0,0,ARS,34,02/05/2021,FWD,True
+"Clark  Ciaran Clark (Newcastle United, Defender)",NEW,4.5,1,84,0,1,0,0,0,0,0,2,0,0,0,ARS,34,02/05/2021,DEF,True
+"Dubravka  Martin Dubravka (Newcastle United, Goalkeeper)",NEW,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,ARS,34,02/05/2021,GKP,True
+"Dummett  Paul Dummett (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,ARS,34,02/05/2021,DEF,True
+"Fernández  Federico Fernández (Newcastle United, Defender)",NEW,4.5,1,72,0,1,0,0,0,0,0,2,0,1,0,ARS,34,02/05/2021,DEF,True
+"Gayle  Dwight Gayle (Newcastle United, Forward)",NEW,5.5,0,6,1,0,0,0,0,0,0,0,0,0,0,ARS,34,02/05/2021,FWD,True
+"Longstaff (Sean)  Sean Longstaff (Newcastle United, Midfielder)",NEW,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,ARS,34,02/05/2021,MID,True
+"Jacob Murphy  Jacob Murphy (Newcastle United, Midfielder)",NEW,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,ARS,34,02/05/2021,MID,True
+"Ritchie  Matt Ritchie (Newcastle United, Midfielder)",NEW,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,ARS,34,02/05/2021,MID,True
+"Saint-Maximin  Allan Saint-Maximin (Newcastle United, Midfielder)",NEW,6.5,1,90,0,0,0,0,0,0,0,2,0,0,0,ARS,34,02/05/2021,MID,True
+"Schär  Fabian Schär (Newcastle United, Defender)",NEW,4.5,0,17,1,0,0,0,0,0,0,0,0,0,1,ARS,34,02/05/2021,DEF,True
+"Shelvey  Jonjo Shelvey (Newcastle United, Midfielder)",NEW,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,ARS,34,02/05/2021,MID,True
+"C Wilson  Callum Wilson (Newcastle United, Forward)",NEW,7.5,1,90,0,0,0,0,0,0,0,2,0,0,0,ARS,34,02/05/2021,FWD,True

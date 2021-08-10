@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Chukwuemeka  Carney Chukwuemeka (Aston Villa, Midfielder)",AVL,4.5,0,1,1,0,0,0,0,0,0,0,0,0,0,TOT,37,19/05/2021,MID,False
+"El Ghazi  Anwar El Ghazi (Aston Villa, Midfielder)",AVL,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,37,19/05/2021,MID,False
+"Grealish  Jack Grealish (Aston Villa, Midfielder)",AVL,8.0,1,73,0,1,0,0,0,0,0,1,0,0,0,TOT,37,19/05/2021,MID,False
+"Hause  Kortney Hause (Aston Villa, Defender)",AVL,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,37,19/05/2021,DEF,False
+"Konsa Ngoyo  Ezri Konsa Ngoyo (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,37,19/05/2021,DEF,False
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,37,19/05/2021,GKP,False
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,1,90,0,0,0,0,0,0,0,1,0,1,0,TOT,37,19/05/2021,MID,False
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,37,19/05/2021,DEF,False
+"Nakamba  Marvelous Nakamba (Aston Villa, Midfielder)",AVL,4.5,1,89,0,1,0,0,1,1,0,1,0,0,0,TOT,37,19/05/2021,MID,False
+"Philogene-Bidace  Jaden Philogene-Bidace (Aston Villa, Midfielder)",AVL,4.4,0,1,1,0,0,0,0,0,0,0,0,0,0,TOT,37,19/05/2021,MID,False
+"Douglas Luiz  Douglas Luiz Soares de Paulo (Aston Villa, Midfielder)",AVL,4.5,0,17,1,0,0,0,0,0,0,0,0,0,0,TOT,37,19/05/2021,MID,False
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,37,19/05/2021,DEF,False
+"Traore (Bertrand)  Bertrand Traore (Aston Villa, Midfielder)",AVL,6.0,1,89,0,1,0,1,0,1,0,1,0,0,0,TOT,37,19/05/2021,MID,False
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,1,90,0,0,1,0,0,0,0,1,0,0,0,TOT,37,19/05/2021,FWD,False
+"Alderweireld  Toby Alderweireld (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,AVL,37,19/05/2021,DEF,True
+"Alli  Bamidele Alli (Tottenham Hotspur, Midfielder)",TOT,6.5,1,90,0,0,0,0,0,0,0,2,0,0,0,AVL,37,19/05/2021,MID,True
+"Bale  Gareth Bale (Tottenham Hotspur, Midfielder)",TOT,9.2,0,18,1,0,0,0,0,0,0,0,0,0,0,AVL,37,19/05/2021,MID,True
+"Bergwijn  Steven Bergwijn (Tottenham Hotspur, Midfielder)",TOT,6.0,1,72,0,1,1,0,0,0,0,2,0,0,0,AVL,37,19/05/2021,MID,True
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,AVL,37,19/05/2021,DEF,True
+"Doherty  Matt Doherty (Tottenham Hotspur, Defender)",TOT,5.0,0,7,1,0,0,0,0,0,0,0,0,0,0,AVL,37,19/05/2021,DEF,True
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,1,90,0,0,0,0,0,0,0,2,0,1,0,AVL,37,19/05/2021,MID,True
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,1,90,0,0,0,0,0,0,0,2,0,0,0,AVL,37,19/05/2021,FWD,True
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,AVL,37,19/05/2021,GKP,True
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,0,16,1,0,0,0,0,0,0,0,0,0,0,AVL,37,19/05/2021,MID,True
+"Reguilón  Sergio Reguilón (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,1,1,0,2,1,0,0,AVL,37,19/05/2021,DEF,True
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,1,90,0,0,0,0,0,0,0,2,0,0,0,AVL,37,19/05/2021,MID,True
+"Tanganga  Japhet Tanganga (Tottenham Hotspur, Defender)",TOT,4.5,1,83,0,1,0,0,0,0,0,2,0,0,0,AVL,37,19/05/2021,DEF,True
+"Winks  Harry Winks (Tottenham Hotspur, Midfielder)",TOT,4.5,1,74,0,1,0,0,0,0,0,2,0,0,0,AVL,37,19/05/2021,MID,True

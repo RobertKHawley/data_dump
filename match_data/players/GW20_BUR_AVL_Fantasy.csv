@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Barkley  Ross Barkley (Aston Villa, Midfielder)",AVL,5.5,1,83,0,1,0,0,0,0,0,3,0,0,0,BUR,20,27/01/2021,MID,False
+"Cash  Matthew Cash (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,BUR,20,27/01/2021,DEF,False
+"Davis (Keinan)  Keinan Davis (Aston Villa, Forward)",AVL,4.5,0,2,1,0,0,0,0,0,0,0,0,0,0,BUR,20,27/01/2021,FWD,False
+"El Ghazi  Anwar El Ghazi (Aston Villa, Midfielder)",AVL,6.0,0,7,1,0,0,0,0,0,0,0,0,0,0,BUR,20,27/01/2021,MID,False
+"Grealish  Jack Grealish (Aston Villa, Midfielder)",AVL,8.0,1,90,0,0,1,0,0,0,0,3,0,0,0,BUR,20,27/01/2021,MID,False
+"Trezeguet  Mahmoud Hassan (Aston Villa, Midfielder)",AVL,5.5,0,7,1,0,0,0,0,0,0,0,0,0,0,BUR,20,27/01/2021,MID,False
+"Konsa Ngoyo  Ezri Konsa Ngoyo (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,BUR,20,27/01/2021,DEF,False
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,1,90,0,0,0,0,0,0,0,3,0,0,0,BUR,20,27/01/2021,GKP,False
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,1,90,0,0,0,0,0,0,0,3,0,0,0,BUR,20,27/01/2021,MID,False
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,BUR,20,27/01/2021,DEF,False
+"Douglas Luiz  Douglas Luiz Soares de Paulo (Aston Villa, Midfielder)",AVL,4.5,1,88,0,1,0,1,0,1,0,3,0,0,0,BUR,20,27/01/2021,MID,False
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,1,0,1,0,3,0,0,0,BUR,20,27/01/2021,DEF,False
+"Traore (Bertrand)  Bertrand Traore (Aston Villa, Midfielder)",AVL,6.0,1,83,0,1,0,0,0,0,0,3,0,0,0,BUR,20,27/01/2021,MID,False
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,1,90,0,0,1,0,0,0,0,3,0,0,0,BUR,20,27/01/2021,FWD,False
+"Gudmundsson  Johann Berg Gudmundsson (Burnley, Midfielder)",BUR,5.5,0,30,1,0,0,0,0,0,0,1,0,0,0,AVL,20,27/01/2021,MID,True
+"Brady  Robert Brady (Burnley, Midfielder)",BUR,5.0,1,60,0,1,0,0,0,0,0,1,0,0,0,AVL,20,27/01/2021,MID,True
+"Brownhill  Josh Brownhill (Burnley, Midfielder)",BUR,4.5,1,45,0,1,0,0,0,0,0,1,0,0,0,AVL,20,27/01/2021,MID,True
+"Cork  Jack Cork (Burnley, Midfielder)",BUR,4.5,0,45,1,0,0,0,0,0,0,1,0,0,0,AVL,20,27/01/2021,MID,True
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,AVL,20,27/01/2021,DEF,True
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,1,90,0,0,1,1,0,1,0,2,0,0,0,AVL,20,27/01/2021,MID,True
+"Mee  Ben Mee (Burnley, Defender)",BUR,5.0,1,90,0,0,1,0,0,0,0,2,0,0,0,AVL,20,27/01/2021,DEF,True
+"Pieters  Erik Pieters (Burnley, Defender)",BUR,4.5,1,90,0,0,0,1,0,1,0,2,0,0,0,AVL,20,27/01/2021,DEF,True
+"Pope  Nick Pope (Burnley, Goalkeeper)",BUR,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,AVL,20,27/01/2021,GKP,True
+"Rodriguez  Jay Rodriguez (Burnley, Forward)",BUR,5.5,1,75,0,1,0,0,0,0,0,2,0,0,0,AVL,20,27/01/2021,FWD,True
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,0,2,0,1,0,AVL,20,27/01/2021,DEF,True
+"Vydra  Matej Vydra (Burnley, Forward)",BUR,5.5,0,15,1,0,0,0,0,0,0,0,0,0,0,AVL,20,27/01/2021,FWD,True
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,1,90,0,0,0,1,0,1,0,2,0,0,0,AVL,20,27/01/2021,MID,True
+"Wood  Chris Wood (Burnley, Forward)",BUR,7.0,1,90,0,0,1,0,0,0,0,2,0,0,0,AVL,20,27/01/2021,FWD,True

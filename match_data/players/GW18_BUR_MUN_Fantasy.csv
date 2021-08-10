@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Barnes (Ashley)  Ashley Barnes (Burnley, Forward)",BUR,5.5,1,87,0,1,0,0,0,0,0,1,0,0,0,MUN,18,12/01/2021,FWD,True
+"Gudmundsson  Johann Berg Gudmundsson (Burnley, Midfielder)",BUR,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,MUN,18,12/01/2021,MID,True
+"Brady  Robert Brady (Burnley, Midfielder)",BUR,5.0,1,65,0,1,0,0,0,0,1,0,0,0,0,MUN,18,12/01/2021,MID,True
+"Brownhill  Josh Brownhill (Burnley, Midfielder)",BUR,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,MUN,18,12/01/2021,MID,True
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,MUN,18,12/01/2021,DEF,True
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,0,25,1,0,0,0,0,0,0,1,0,0,0,MUN,18,12/01/2021,MID,True
+"Mee  Ben Mee (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,MUN,18,12/01/2021,DEF,True
+"Pieters  Erik Pieters (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,MUN,18,12/01/2021,DEF,True
+"Pope  Nick Pope (Burnley, Goalkeeper)",BUR,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,MUN,18,12/01/2021,GKP,True
+"Rodriguez  Jay Rodriguez (Burnley, Forward)",BUR,5.5,0,3,1,0,0,0,0,0,0,0,0,0,0,MUN,18,12/01/2021,FWD,True
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,MUN,18,12/01/2021,DEF,True
+"Vydra  Matej Vydra (Burnley, Forward)",BUR,5.5,0,10,1,0,0,0,0,0,0,0,0,0,0,MUN,18,12/01/2021,FWD,True
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,1,90,0,0,0,0,0,0,0,1,0,1,0,MUN,18,12/01/2021,MID,True
+"Wood  Chris Wood (Burnley, Forward)",BUR,7.0,1,80,0,1,0,0,0,0,0,1,0,0,0,MUN,18,12/01/2021,FWD,True
+"Bailly  Eric Bailly (Manchester United, Defender)",MUN,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,18,12/01/2021,DEF,False
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,1,89,0,1,0,0,0,0,1,0,0,1,0,BUR,18,12/01/2021,MID,False
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,18,12/01/2021,FWD,False
+"De Gea  David De Gea (Manchester United, Goalkeeper)",MUN,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,18,12/01/2021,GKP,False
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,0,10,1,0,0,0,0,0,0,0,0,0,0,BUR,18,12/01/2021,MID,False
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,18,12/01/2021,DEF,False
+"Martial  Anthony Martial (Manchester United, Forward)",MUN,8.0,1,89,0,1,0,0,0,0,1,0,0,0,0,BUR,18,12/01/2021,FWD,False
+"Matic  Nemanja Matic (Manchester United, Midfielder)",MUN,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,18,12/01/2021,MID,False
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,0,1,1,0,0,0,0,0,0,0,0,0,0,BUR,18,12/01/2021,MID,False
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,1,90,0,0,1,0,0,0,1,0,0,0,0,BUR,18,12/01/2021,MID,False
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,1,80,0,1,0,1,0,1,1,0,0,0,0,BUR,18,12/01/2021,MID,False
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,1,0,0,1,0,BUR,18,12/01/2021,DEF,False
+"Tuanzebe  Axel Tuanzebe (Manchester United, Defender)",MUN,4.5,0,1,1,0,0,0,0,0,0,0,0,0,0,BUR,18,12/01/2021,DEF,False
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,18,12/01/2021,DEF,False

@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Ayling  Luke Ayling (Leeds United, Defender)",LEE,4.5,0,0.23,-0.23,391.3,0,0.0,0.0,inf,0.23,-0.23,391.3,12/09/2020
+"Bamford  Patrick Bamford (Leeds United, Forward)",LEE,8.0,0,0.01,-0.01,6200.0,1,0.08,0.92,775.0,0.09,0.91,688.9,12/09/2020
+"Hélder Costa  Helder Costa (Leeds United, Midfielder)",LEE,5.5,1,0.03,0.97,3000.0,0,0.0,0.0,inf,0.03,0.97,3000.0,12/09/2020
+"Dallas  Stuart Dallas (Leeds United, Defender)",LEE,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,12/09/2020
+"Harrison  Jack Harrison (Leeds United, Midfielder)",LEE,6.0,0,0.01,-0.01,9000.0,1,0.07,0.93,1285.7,0.08,0.92,1125.0,12/09/2020
+"Hernández  Pablo Hernández (Leeds United, Midfielder)",LEE,5.5,0,0.01,-0.01,6200.0,0,0.0,0.0,inf,0.01,-0.01,6200.0,12/09/2020
+"Klich  Mateusz Klich (Leeds United, Midfielder)",LEE,5.5,0,0.01,-0.01,8100.0,1,0.07,0.93,1157.1,0.08,0.92,1012.5,12/09/2020
+"Koch  Robin Koch (Leeds United, Defender)",LEE,4.5,0,0.0,0.0,inf,0,0.05,-0.05,1800.0,0.05,-0.05,1800.0,12/09/2020
+"Meslier  Illan Meslier (Leeds United, Goalkeeper)",LEE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/09/2020
+"Rodrigo  Rodrigo Moreno Machado (Leeds United, Forward)",LEE,6.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/09/2020
+"Phillips (Kalvin)  Kalvin Phillips (Leeds United, Midfielder)",LEE,5.0,1,0.06,0.94,1500.0,0,0.05,-0.05,1800.0,0.11,0.89,818.2,12/09/2020
+"Roberts (Tyler)  Tyler Roberts (Leeds United, Midfielder)",LEE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/09/2020
+"Shackleton  Jamie Shackleton (Leeds United, Midfielder)",LEE,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/09/2020
+"Struijk  Pascal Struijk (Leeds United, Defender)",LEE,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/09/2020
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,0,0.07,-0.07,1271.4,0,0.0,0.0,inf,0.07,-0.07,1271.4,12/09/2020
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,0,0.27,-0.27,333.3,0,0.1,-0.1,900.0,0.37,-0.37,243.2,12/09/2020
+"Gomez  Joseph Gomez (Liverpool, Defender)",LIV,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,12/09/2020
+"Henderson (Jordan)  Jordan Henderson (Liverpool, Midfielder)",LIV,5.0,0,0.03,-0.03,2200.0,0,0.02,-0.02,3300.0,0.05,-0.05,1320.0,12/09/2020
+"Jones (Curtis)  Curtis Jones (Liverpool, Midfielder)",LIV,5.0,0,0.03,-0.03,800.0,0,0.0,0.0,inf,0.03,-0.03,800.0,12/09/2020
+"Keita  Naby Keita (Liverpool, Midfielder)",LIV,5.0,0,0.05,-0.05,1180.0,0,0.07,-0.07,842.9,0.12,-0.12,491.7,12/09/2020
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,0,0.27,-0.27,333.3,0,0.27,-0.27,333.3,0.54,-0.54,166.7,12/09/2020
+"Matip  Joel Matip (Liverpool, Defender)",LIV,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/09/2020
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/09/2020
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,1,0.14,0.86,642.9,0,0.0,0.0,inf,0.14,0.86,642.9,12/09/2020
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,0,0.25,-0.25,360.0,3,1.96,1.04,45.9,2.21,0.79,40.7,12/09/2020
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/09/2020
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,0,0.06,-0.06,1500.0,0,0.16,-0.16,562.5,0.22,-0.22,409.1,12/09/2020
+"van Dijk  Virgil van Dijk (Liverpool, Defender)",LIV,6.5,0,0.01,-0.01,9000.0,1,0.17,0.83,529.4,0.18,0.82,500.0,12/09/2020

@@ -1,0 +1,26 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Bissouma  Yves Bissouma (Brighton and Hove Albion, Midfielder)",BHA,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,23,06/02/2021,MID,False
+"Burn  Dan Burn (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,23,06/02/2021,DEF,False
+"Connolly  Aaron Connolly (Brighton and Hove Albion, Forward)",BHA,5.5,1,62,0,1,0,0,0,0,0,1,0,0,0,BUR,23,06/02/2021,FWD,False
+"Dunk  Lewis Dunk (Brighton and Hove Albion, Defender)",BHA,5.0,1,90,0,0,1,0,0,0,0,1,0,0,0,BUR,23,06/02/2021,DEF,False
+"Groß  Pascal Groß (Brighton and Hove Albion, Midfielder)",BHA,6.0,1,90,0,0,0,1,0,1,0,1,0,0,0,BUR,23,06/02/2021,MID,False
+"Lallana  Adam Lallana (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,15,1,0,0,0,0,0,0,0,0,0,0,BUR,23,06/02/2021,MID,False
+"Mac Allister  Alexis Mac Allister (Brighton and Hove Albion, Midfielder)",BHA,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,23,06/02/2021,MID,False
+"Maupay  Neal Maupay (Brighton and Hove Albion, Forward)",BHA,6.5,1,62,0,1,0,0,0,0,0,1,0,0,0,BUR,23,06/02/2021,FWD,False
+"Sanchez  Robert Sanchez (Brighton and Hove Albion, Goalkeeper)",BHA,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,23,06/02/2021,GKP,False
+"Trossard  Leandro Trossard (Brighton and Hove Albion, Midfielder)",BHA,6.5,0,28,1,0,0,0,0,0,0,0,0,0,0,BUR,23,06/02/2021,MID,False
+"Veltman  Joël Veltman (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,23,06/02/2021,DEF,False
+"Webster  Adam Webster (Brighton and Hove Albion, Defender)",BHA,4.5,1,75,0,1,0,0,0,0,0,1,0,0,0,BUR,23,06/02/2021,DEF,False
+"Welbeck  Danny Welbeck (Brighton and Hove Albion, Forward)",BHA,6.0,0,28,1,0,0,0,0,0,0,0,0,0,0,BUR,23,06/02/2021,FWD,False
+"White (Ben)  Ben White (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,23,06/02/2021,DEF,False
+"Barnes (Ashley)  Ashley Barnes (Burnley, Forward)",BUR,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,23,06/02/2021,FWD,True
+"Gudmundsson  Johann Berg Gudmundsson (Burnley, Midfielder)",BUR,5.5,1,90,0,0,1,0,0,0,0,1,0,1,0,BHA,23,06/02/2021,MID,True
+"Cork  Jack Cork (Burnley, Midfielder)",BUR,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,23,06/02/2021,MID,True
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,23,06/02/2021,DEF,True
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,23,06/02/2021,MID,True
+"Mee  Ben Mee (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,0,1,0,1,0,BHA,23,06/02/2021,DEF,True
+"Pieters  Erik Pieters (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,1,1,0,1,0,0,0,BHA,23,06/02/2021,DEF,True
+"Pope  Nick Pope (Burnley, Goalkeeper)",BUR,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,23,06/02/2021,GKP,True
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,23,06/02/2021,DEF,True
+"Vydra  Matej Vydra (Burnley, Forward)",BUR,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,23,06/02/2021,FWD,True
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,23,06/02/2021,MID,True

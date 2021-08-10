@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Aubameyang  Pierre-Emerick Aubameyang (Arsenal, Midfielder)",ARS,10.0,0,0.12,-0.12,750.0,0,0.0,0.0,inf,0.12,-0.12,750.0,21/02/2021
+"Bellerín  Héctor Bellerín (Arsenal, Defender)",ARS,5.0,0,0.1,-0.1,900.0,0,0.0,0.0,inf,0.1,-0.1,900.0,21/02/2021
+"Dani Ceballos  Daniel Ceballos Fernández (Arsenal, Midfielder)",ARS,4.7,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/02/2021
+"Elneny  Mohamed Elneny (Arsenal, Midfielder)",ARS,4.5,0,0.01,-0.01,8600.0,0,0.03,-0.03,2866.7,0.04,-0.04,2150.0,21/02/2021
+"Holding  Rob Holding (Arsenal, Defender)",ARS,4.5,0,0.01,-0.01,8200.0,0,0.0,0.0,inf,0.01,-0.01,8200.0,21/02/2021
+"Lacazette  Alexandre Lacazette (Arsenal, Forward)",ARS,8.5,0,0.01,-0.01,1700.0,0,0.0,0.0,inf,0.01,-0.01,1700.0,21/02/2021
+"Leno  Bernd Leno (Arsenal, Goalkeeper)",ARS,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/02/2021
+"Luiz  David Luiz Moreira Marinho (Arsenal, Defender)",ARS,5.4,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/02/2021
+"Marí  Pablo Marí (Arsenal, Defender)",ARS,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/02/2021
+"Odegaard  Martin Odegaard (Arsenal, Midfielder)",ARS,5.6,0,0.04,-0.04,1825.0,0,0.0,0.0,inf,0.04,-0.04,1825.0,21/02/2021
+"Pepe  Nicolas Pepe (Arsenal, Midfielder)",ARS,7.5,0,0.01,-0.01,7300.0,0,0.1,-0.1,730.0,0.11,-0.11,663.6,21/02/2021
+"Saka  Bukayo Saka (Arsenal, Midfielder)",ARS,6.5,0,0.03,-0.03,3000.0,0,0.19,-0.19,473.7,0.22,-0.22,409.1,21/02/2021
+"Smith-Rowe  Emile Smith-Rowe (Arsenal, Midfielder)",ARS,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/02/2021
+"Tierney  Kieran Tierney (Arsenal, Defender)",ARS,5.0,0,0.06,-0.06,1500.0,0,0.02,-0.02,4500.0,0.08,-0.08,1125.0,21/02/2021
+"Xhaka  Granit Xhaka (Arsenal, Midfielder)",ARS,5.0,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,21/02/2021
+"João Cancelo  João Pedro Cavaco Cancelo (Manchester City, Defender)",MCI,6.0,0,0.01,-0.01,9000.0,0,0.33,-0.33,272.7,0.34,-0.34,264.7,21/02/2021
+"De Bruyne  Kevin De Bruyne (Manchester City, Midfielder)",MCI,12.0,0,0.23,-0.23,273.9,0,0.1,-0.1,630.0,0.33,-0.33,190.9,21/02/2021
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,21/02/2021
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,0,0.03,-0.03,3000.0,0,0.12,-0.12,750.0,0.15,-0.15,600.0,21/02/2021
+"Fernandinho  Fernando Luiz Rosa (Manchester City, Defender)",MCI,5.0,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,21/02/2021
+"Mahrez  Riyad Mahrez (Manchester City, Midfielder)",MCI,9.0,1,0.42,0.58,214.3,0,0.15,-0.15,600.0,0.57,0.43,157.9,21/02/2021
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/02/2021
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,0,0.04,-0.04,2250.0,1,0.93,0.07,96.8,0.97,0.03,92.8,21/02/2021
+"Stones  John Stones (Manchester City, Defender)",MCI,5.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,21/02/2021
+"Bernardo Silva  Bernardo Mota Veiga de Carvalho e Silva (Manchester City, Midfielder)",MCI,7.0,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,21/02/2021
+"Zinchenko  Oleksandr Zinchenko (Manchester City, Defender)",MCI,5.5,0,0.04,-0.04,2250.0,0,0.1,-0.1,900.0,0.14,-0.14,642.9,21/02/2021
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,0,0.03,-0.03,900.0,0,0.07,-0.07,385.7,0.1,-0.1,270.0,21/02/2021

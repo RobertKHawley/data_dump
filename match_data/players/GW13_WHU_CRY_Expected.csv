@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Jordan Ayew  Jordan Ayew (Crystal Palace, Forward)",CRY,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Benteke  Christian Benteke (Crystal Palace, Forward)",CRY,6.5,0,0.02,-0.02,3500.0,1,1.0,0.0,70.0,1.02,-0.02,68.6,16/12/2020
+"Dann  Scott Dann (Crystal Palace, Defender)",CRY,4.2,0,0.0,0.0,inf,0,0.03,-0.03,3000.0,0.03,-0.03,3000.0,16/12/2020
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,0,0.03,-0.03,2533.3,0,0.0,0.0,inf,0.03,-0.03,2533.3,16/12/2020
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"McArthur  James McArthur (Crystal Palace, Midfielder)",CRY,4.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,16/12/2020
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,0,0.06,-0.06,1500.0,0,0.03,-0.03,3000.0,0.09,-0.09,1000.0,16/12/2020
+"Schlupp  Jeffrey Schlupp (Crystal Palace, Midfielder)",CRY,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Townsend (Andros)  Andros Townsend (Crystal Palace, Midfielder)",CRY,5.5,0,0.43,-0.43,197.7,0,0.0,0.0,inf,0.43,-0.43,197.7,16/12/2020
+"Van Aanholt  Patrick Van Aanholt (Crystal Palace, Defender)",CRY,5.4,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,16/12/2020
+"Ward (Joel)  Joel Ward (Crystal Palace, Defender)",CRY,4.5,1,0.19,0.81,473.7,0,0.0,0.0,inf,0.19,0.81,473.7,16/12/2020
+"Zaha  Wilfried Zaha (Crystal Palace, Midfielder)",CRY,7.0,0,0.05,-0.05,1800.0,0,0.06,-0.06,1500.0,0.11,-0.11,818.2,16/12/2020
+"Benrahma  Said Benrahma (West Ham United, Midfielder)",WHU,6.0,0,0.01,-0.01,8800.0,0,0.0,0.0,inf,0.01,-0.01,8800.0,16/12/2020
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,0,0.01,-0.01,8000.0,0,0.07,-0.07,1142.9,0.08,-0.08,1000.0,16/12/2020
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,1,0.34,0.66,264.7,0,0.0,0.0,inf,0.34,0.66,264.7,16/12/2020
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,0,0.02,-0.02,4500.0,0,0.04,-0.04,2250.0,0.06,-0.06,1500.0,16/12/2020
+"Diop  Issa Diop (West Ham United, Defender)",WHU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,0,0.01,-0.01,4500.0,0,0.05,-0.05,900.0,0.06,-0.06,750.0,16/12/2020
+"Haller  Sébastien Haller (West Ham United, Forward)",WHU,6.1,0,0.01,-0.01,9000.0,1,0.23,0.77,391.3,0.24,0.76,375.0,16/12/2020
+"Lanzini  Manuel Lanzini (West Ham United, Midfielder)",WHU,6.0,0,0.04,-0.04,1125.0,0,0.0,0.0,inf,0.04,-0.04,1125.0,16/12/2020
+"Ogbonna  Angelo Ogbonna (West Ham United, Defender)",WHU,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,16/12/2020
+"Rice  Declan Rice (West Ham United, Midfielder)",WHU,5.0,0,0.03,-0.03,3000.0,0,0.05,-0.05,1800.0,0.08,-0.08,1125.0,16/12/2020
+"Snodgrass  Robert Snodgrass (West Ham United, Midfielder)",WHU,5.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,16/12/2020
+"Yarmolenko  Andriy Yarmolenko (West Ham United, Midfielder)",WHU,5.5,0,0.03,-0.03,333.3,0,0.0,0.0,inf,0.03,-0.03,333.3,16/12/2020

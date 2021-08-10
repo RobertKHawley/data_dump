@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Barnes (Ashley)  Ashley Barnes (Burnley, Forward)",BUR,5.5,0,15,1,0,0,0,0,0,0,0,0,0,0,EVE,11,05/12/2020,FWD,True
+"Benson  Josh Benson (Burnley, Midfielder)",BUR,4.5,0,4,1,0,0,0,0,0,0,0,0,0,0,EVE,11,05/12/2020,MID,True
+"Brady  Robert Brady (Burnley, Midfielder)",BUR,5.0,1,86,0,1,1,0,0,0,0,1,0,0,0,EVE,11,05/12/2020,MID,True
+"Brownhill  Josh Brownhill (Burnley, Midfielder)",BUR,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,11,05/12/2020,MID,True
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,11,05/12/2020,DEF,True
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,11,05/12/2020,MID,True
+"Mee  Ben Mee (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,11,05/12/2020,DEF,True
+"Pope  Nick Pope (Burnley, Goalkeeper)",BUR,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,11,05/12/2020,GKP,True
+"Rodriguez  Jay Rodriguez (Burnley, Forward)",BUR,5.5,1,75,0,1,0,0,0,0,0,1,0,0,0,EVE,11,05/12/2020,FWD,True
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,11,05/12/2020,DEF,True
+"Taylor (Charlie)  Charlie Taylor (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,11,05/12/2020,DEF,True
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,1,90,0,0,0,1,0,1,0,1,0,0,0,EVE,11,05/12/2020,MID,True
+"Wood  Chris Wood (Burnley, Forward)",BUR,7.0,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,11,05/12/2020,FWD,True
+"Calvert-Lewin  Dominic Calvert-Lewin (Everton, Forward)",EVE,8.0,1,90,0,0,1,0,0,0,0,1,0,0,0,BUR,11,05/12/2020,FWD,False
+"Delph  Fabian Delph (Everton, Midfielder)",EVE,4.5,1,29,0,1,0,0,0,0,0,1,0,0,0,BUR,11,05/12/2020,MID,False
+"Doucouré  Abdoulaye Doucouré (Everton, Midfielder)",EVE,5.5,1,81,0,1,0,0,0,0,0,1,0,0,0,BUR,11,05/12/2020,MID,False
+"Godfrey  Ben Godfrey (Everton, Defender)",EVE,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,11,05/12/2020,DEF,False
+"Iwobi  Alex Iwobi (Everton, Midfielder)",EVE,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,11,05/12/2020,MID,False
+"Keane  Michael Keane (Everton, Defender)",EVE,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,11,05/12/2020,DEF,False
+"Allan  Allan Marques Loureiro (Everton, Midfielder)",EVE,4.5,1,89,0,1,0,0,0,0,0,1,0,0,0,BUR,11,05/12/2020,MID,False
+"Mina  Yerry Mina (Everton, Defender)",EVE,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,11,05/12/2020,DEF,False
+"Pickford  Jordan Pickford (Everton, Goalkeeper)",EVE,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,11,05/12/2020,GKP,False
+"Rodríguez  James Rodríguez (Everton, Midfielder)",EVE,7.0,1,90,0,0,0,0,0,0,0,1,0,0,0,BUR,11,05/12/2020,MID,False
+"Sigurdsson  Gylfi Sigurdsson (Everton, Midfielder)",EVE,7.0,0,9,1,0,0,0,0,0,0,0,0,0,0,BUR,11,05/12/2020,MID,False
+"André Gomes  André Filipe Tavares Gomes (Everton, Midfielder)",EVE,5.0,0,61,1,0,0,0,0,0,1,0,0,0,0,BUR,11,05/12/2020,MID,False
+"Tosun  Cenk Tosun (Everton, Forward)",EVE,6.0,0,1,1,0,0,0,0,0,0,0,0,0,0,BUR,11,05/12/2020,FWD,False
+"Richarlison  Richarlison de Andrade (Everton, Forward)",EVE,7.5,1,90,0,0,0,1,0,1,0,1,0,0,0,BUR,11,05/12/2020,FWD,False

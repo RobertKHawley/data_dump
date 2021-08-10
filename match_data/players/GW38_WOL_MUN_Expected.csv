@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Bailly  Eric Bailly (Manchester United, Defender)",MUN,5.0,0,0.0,0.0,inf,0,0.06,-0.06,1500.0,0.06,-0.06,1500.0,23/05/2021
+"Elanga  Anthony Elanga (Manchester United, Forward)",MUN,4.5,0,0.02,-0.02,4500.0,1,0.45,0.55,200.0,0.47,0.53,191.5,23/05/2021
+"Fish  William Fish (Manchester United, Defender)",MUN,4.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"Henderson (Dean)  Dean Henderson (Manchester United, Goalkeeper)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"James (Daniel)  Daniel James (Manchester United, Midfielder)",MUN,6.0,1,0.27,0.73,329.6,0,0.44,-0.44,202.3,0.71,0.29,125.4,23/05/2021
+"Mata  Juan Mata (Manchester United, Midfielder)",MUN,5.0,0,0.05,-0.05,1640.0,1,0.79,0.21,103.8,0.84,0.16,97.6,23/05/2021
+"Matic  Nemanja Matic (Manchester United, Midfielder)",MUN,4.5,0,0.26,-0.26,346.2,0,0.0,0.0,inf,0.26,-0.26,346.2,23/05/2021
+"Mejbri  Hannibal Mejbri (Manchester United, Midfielder)",MUN,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"Shoretire  Shola Shoretire (Manchester United, Midfielder)",MUN,4.4,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"Alex Telles  Alex Nicolao Telles (Manchester United, Defender)",MUN,5.0,0,0.13,-0.13,692.3,0,0.03,-0.03,3000.0,0.16,-0.16,562.5,23/05/2021
+"Amad Diallo  Amad Diallo Traore (Manchester United, Forward)",MUN,5.4,0,0.2,-0.2,410.0,0,0.03,-0.03,2733.3,0.23,-0.23,356.5,23/05/2021
+"Tuanzebe  Axel Tuanzebe (Manchester United, Defender)",MUN,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"Williams (Brandon)  Brandon Williams (Manchester United, Defender)",MUN,4.0,0,0.01,-0.01,9000.0,0,0.23,-0.23,391.3,0.24,-0.24,375.0,23/05/2021
+"van de Beek  Donny van de Beek (Manchester United, Midfielder)",MUN,6.0,0,0.05,-0.05,1800.0,0,0.02,-0.02,4500.0,0.07,-0.07,1285.7,23/05/2021
+"Ait Nouri  Rayan Ait Nouri (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.01,-0.01,8200.0,0,0.04,-0.04,2050.0,0.05,-0.05,1640.0,23/05/2021
+"Boly  Willy Boly (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.01,-0.01,9000.0,0,0.02,-0.02,4500.0,0.03,-0.03,3000.0,23/05/2021
+"Coady  Conor Coady (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"Willian José  Willian José Da Silva (Wolverhampton Wanderers, Forward)",WOL,6.8,0,0.01,-0.01,6300.0,0,0.16,-0.16,393.8,0.17,-0.17,370.6,23/05/2021
+"Dendoncker (Leander)  Leander Dendoncker (Wolverhampton Wanderers, Midfielder)",WOL,5.0,0,0.03,-0.03,2000.0,0,0.0,0.0,inf,0.03,-0.03,2000.0,23/05/2021
+"Gibbs-White  Morgan Gibbs-White (Wolverhampton Wanderers, Midfielder)",WOL,4.5,0,0.04,-0.04,750.0,0,0.09,-0.09,333.3,0.13,-0.13,230.8,23/05/2021
+"Marçal  Fernando Marçal de Oliveira (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"Moutinho  João Moutinho (Wolverhampton Wanderers, Midfielder)",WOL,5.0,0,0.08,-0.08,1125.0,0,0.0,0.0,inf,0.08,-0.08,1125.0,23/05/2021
+"Saiss  Romain Saiss (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.03,-0.03,3000.0,0,0.06,-0.06,1500.0,0.09,-0.09,1000.0,23/05/2021
+"Semedo  Nelson Semedo (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.3,-0.3,300.0,1,0.14,0.86,642.9,0.44,0.56,204.5,23/05/2021
+"Fabio Silva  Fabio Daniel Soares Silva (Wolverhampton Wanderers, Forward)",WOL,6.0,1,0.01,0.99,9000.0,0,0.21,-0.21,428.6,0.22,0.78,409.1,23/05/2021
+"Traoré  Adama Traoré (Wolverhampton Wanderers, Midfielder)",WOL,6.0,0,0.1,-0.1,270.0,0,0.09,-0.09,300.0,0.19,-0.19,142.1,23/05/2021
+"Ruben Neves  Rúben Diogo da Silva Neves (Wolverhampton Wanderers, Midfielder)",WOL,5.5,0,0.13,-0.13,692.3,0,0.05,-0.05,1800.0,0.18,-0.18,500.0,23/05/2021
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021

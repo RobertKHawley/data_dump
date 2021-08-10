@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Ampadu  Ethan Ampadu (Sheffield United, Defender)",SHU,4.5,0,0.01,-0.01,6200.0,0,0.0,0.0,inf,0.01,-0.01,6200.0,22/11/2020
+"Baldock  George Baldock (Sheffield United, Defender)",SHU,4.9,0,0.03,-0.03,3000.0,0,0.06,-0.06,1500.0,0.09,-0.09,1000.0,22/11/2020
+"Basham  Chris Basham (Sheffield United, Defender)",SHU,4.6,0,0.08,-0.08,950.0,0,0.0,0.0,inf,0.08,-0.08,950.0,22/11/2020
+"Berge  Sander Berge (Sheffield United, Midfielder)",SHU,4.9,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,22/11/2020
+"Brewster  Rhian Brewster (Sheffield United, Forward)",SHU,4.2,0,0.01,-0.01,2500.0,0,0.0,0.0,inf,0.01,-0.01,2500.0,22/11/2020
+"Egan  John Egan (Sheffield United, Defender)",SHU,4.7,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,22/11/2020
+"Fleck  John Fleck (Sheffield United, Midfielder)",SHU,5.6,0,0.11,-0.11,818.2,0,0.03,-0.03,3000.0,0.14,-0.14,642.9,22/11/2020
+"Lowe  Max Lowe (Sheffield United, Defender)",SHU,4.2,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,22/11/2020
+"Lundstram  John Lundstram (Sheffield United, Midfielder)",SHU,4.8,0,0.03,-0.03,466.7,0,0.06,-0.06,233.3,0.09,-0.09,155.6,22/11/2020
+"McBurnie  Oliver McBurnie (Sheffield United, Forward)",SHU,5.6,0,0.09,-0.09,1000.0,0,0.7,-0.7,128.6,0.79,-0.79,113.9,22/11/2020
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,0,0.02,-0.02,4500.0,0,0.05,-0.05,1800.0,0.07,-0.07,1285.7,22/11/2020
+"Norwood  Oliver Norwood (Sheffield United, Midfielder)",SHU,4.5,0,0.02,-0.02,3250.0,0,0.0,0.0,inf,0.02,-0.02,3250.0,22/11/2020
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,22/11/2020
+"Robinson (Jack)  Jack Robinson (Sheffield United, Defender)",SHU,4.2,0,0.01,-0.01,2800.0,0,0.0,0.0,inf,0.01,-0.01,2800.0,22/11/2020
+"Balbuena  Fabián Balbuena (West Ham United, Defender)",WHU,4.1,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,22/11/2020
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,0,0.16,-0.16,556.3,0,0.25,-0.25,356.0,0.41,-0.41,217.1,22/11/2020
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,0,0.27,-0.27,333.3,0,0.05,-0.05,1800.0,0.32,-0.32,281.3,22/11/2020
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,0,0.14,-0.14,642.9,0,0.0,0.0,inf,0.14,-0.14,642.9,22/11/2020
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,22/11/2020
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,0,0.06,-0.06,1266.7,0,0.04,-0.04,1900.0,0.1,-0.1,760.0,22/11/2020
+"Haller  Sébastien Haller (West Ham United, Forward)",WHU,6.1,0,0.23,-0.23,391.3,1,0.96,0.04,93.8,1.19,-0.19,75.6,22/11/2020
+"Lanzini  Manuel Lanzini (West Ham United, Midfielder)",WHU,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,22/11/2020
+"Masuaku  Arthur Masuaku (West Ham United, Defender)",WHU,4.5,0,0.57,-0.57,157.9,0,0.0,0.0,inf,0.57,-0.57,157.9,22/11/2020
+"Noble  Mark Noble (West Ham United, Midfielder)",WHU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,22/11/2020
+"Ogbonna  Angelo Ogbonna (West Ham United, Defender)",WHU,5.0,0,0.0,0.0,inf,0,0.07,-0.07,1285.7,0.07,-0.07,1285.7,22/11/2020
+"Rice  Declan Rice (West Ham United, Midfielder)",WHU,5.0,0,0.19,-0.19,473.7,0,0.2,-0.2,450.0,0.39,-0.39,230.8,22/11/2020
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,0,0.01,-0.01,9000.0,0,0.57,-0.57,157.9,0.58,-0.58,155.2,22/11/2020

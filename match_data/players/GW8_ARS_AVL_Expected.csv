@@ -1,0 +1,27 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Aubameyang  Pierre-Emerick Aubameyang (Arsenal, Midfielder)",ARS,10.0,0,0.18,-0.18,500.0,0,0.0,0.0,inf,0.18,-0.18,500.0,08/11/2020
+"Bellerín  Héctor Bellerín (Arsenal, Defender)",ARS,5.0,0,0.04,-0.04,2250.0,0,0.02,-0.02,4500.0,0.06,-0.06,1500.0,08/11/2020
+"Willian  Willian Borges Da Silva (Arsenal, Midfielder)",ARS,6.5,0,0.09,-0.09,722.2,0,0.14,-0.14,464.3,0.23,-0.23,282.6,08/11/2020
+"Dani Ceballos  Daniel Ceballos Fernández (Arsenal, Midfielder)",ARS,4.7,0,0.02,-0.02,2250.0,0,0.03,-0.03,1500.0,0.05,-0.05,900.0,08/11/2020
+"Elneny  Mohamed Elneny (Arsenal, Midfielder)",ARS,4.5,0,0.06,-0.06,1500.0,0,0.04,-0.04,2250.0,0.1,-0.1,900.0,08/11/2020
+"Holding  Rob Holding (Arsenal, Defender)",ARS,4.5,0,0.01,-0.01,9000.0,0,0.12,-0.12,750.0,0.13,-0.13,692.3,08/11/2020
+"Lacazette  Alexandre Lacazette (Arsenal, Forward)",ARS,8.5,0,0.0,0.0,inf,0,0.22,-0.22,295.5,0.22,-0.22,295.5,08/11/2020
+"Leno  Bernd Leno (Arsenal, Goalkeeper)",ARS,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,08/11/2020
+"Eddie Nketiah  Edward Nketiah (Arsenal, Forward)",ARS,5.5,0,0.04,-0.04,625.0,0,0.16,-0.16,156.3,0.2,-0.2,125.0,08/11/2020
+"Partey  Thomas Partey (Arsenal, Midfielder)",ARS,5.0,0,0.01,-0.01,4500.0,0,0.61,-0.61,73.8,0.62,-0.62,72.6,08/11/2020
+"Pepe  Nicolas Pepe (Arsenal, Midfielder)",ARS,7.5,0,0.0,0.0,inf,0,0.1,-0.1,250.0,0.1,-0.1,250.0,08/11/2020
+"Saka  Bukayo Saka (Arsenal, Midfielder)",ARS,6.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,08/11/2020
+"Tierney  Kieran Tierney (Arsenal, Defender)",ARS,5.0,0,0.12,-0.12,750.0,0,0.03,-0.03,3000.0,0.15,-0.15,600.0,08/11/2020
+"Gabriel Magalhães  Gabriel dos Santos Magalhães (Arsenal, Defender)",ARS,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,08/11/2020
+"Barkley  Ross Barkley (Aston Villa, Midfielder)",AVL,5.5,1,0.78,0.22,115.4,0,0.23,-0.23,391.3,1.01,-0.01,89.1,08/11/2020
+"Cash  Matthew Cash (Aston Villa, Defender)",AVL,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,08/11/2020
+"El Ghazi  Anwar El Ghazi (Aston Villa, Midfielder)",AVL,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,08/11/2020
+"Grealish  Jack Grealish (Aston Villa, Midfielder)",AVL,8.0,1,0.09,0.91,1000.0,0,0.3,-0.3,300.0,0.39,0.61,230.8,08/11/2020
+"Trezeguet  Mahmoud Hassan (Aston Villa, Midfielder)",AVL,5.5,0,0.02,-0.02,4400.0,0,0.08,-0.08,1100.0,0.1,-0.1,880.0,08/11/2020
+"Konsa Ngoyo  Ezri Konsa Ngoyo (Aston Villa, Defender)",AVL,5.0,0,0.01,-0.01,9000.0,0,0.04,-0.04,2250.0,0.05,-0.05,1800.0,08/11/2020
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,08/11/2020
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,0,0.06,-0.06,1500.0,0,0.07,-0.07,1285.7,0.13,-0.13,692.3,08/11/2020
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,08/11/2020
+"Douglas Luiz  Douglas Luiz Soares de Paulo (Aston Villa, Midfielder)",AVL,4.5,0,0.07,-0.07,1285.7,0,0.0,0.0,inf,0.07,-0.07,1285.7,08/11/2020
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,0,0.06,-0.06,1500.0,0,0.0,0.0,inf,0.06,-0.06,1500.0,08/11/2020
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,0,0.01,-0.01,9000.0,2,1.15,0.85,78.3,1.16,0.84,77.6,08/11/2020

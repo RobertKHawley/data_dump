@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Ampadu  Ethan Ampadu (Sheffield United, Defender)",SHU,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,WHU,24,15/02/2021,DEF,False
+"Basham  Chris Basham (Sheffield United, Defender)",SHU,4.6,1,90,0,0,0,0,0,0,0,3,0,1,0,WHU,24,15/02/2021,DEF,False
+"Bogle  Jayden Bogle (Sheffield United, Defender)",SHU,4.3,1,90,0,0,0,0,0,0,0,3,0,0,0,WHU,24,15/02/2021,DEF,False
+"Egan  John Egan (Sheffield United, Defender)",SHU,4.7,1,85,0,1,0,0,0,0,0,2,0,0,0,WHU,24,15/02/2021,DEF,False
+"Jagielka  Phil Jagielka (Sheffield United, Defender)",SHU,3.9,0,5,1,0,0,0,0,0,0,1,0,0,0,WHU,24,15/02/2021,DEF,False
+"Lundstram  John Lundstram (Sheffield United, Midfielder)",SHU,4.8,1,90,0,0,0,0,0,0,0,3,0,1,0,WHU,24,15/02/2021,MID,False
+"McBurnie  Oliver McBurnie (Sheffield United, Forward)",SHU,5.6,0,28,1,0,0,0,0,0,0,1,0,0,0,WHU,24,15/02/2021,FWD,False
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,1,90,0,0,0,0,0,0,0,3,0,0,0,WHU,24,15/02/2021,FWD,False
+"Norwood  Oliver Norwood (Sheffield United, Midfielder)",SHU,4.5,1,62,0,1,0,0,0,0,0,2,0,0,0,WHU,24,15/02/2021,MID,False
+"Osborn  Ben Osborn (Sheffield United, Midfielder)",SHU,4.7,1,90,0,0,0,0,0,0,0,3,0,0,0,WHU,24,15/02/2021,MID,False
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,1,90,0,0,0,0,0,0,0,3,0,0,0,WHU,24,15/02/2021,GKP,False
+"Sharp  Billy Sharp (Sheffield United, Forward)",SHU,5.5,1,90,0,0,0,0,0,0,0,3,0,0,0,WHU,24,15/02/2021,FWD,False
+"Stevens (Enda)  Enda Stevens (Sheffield United, Defender)",SHU,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,WHU,24,15/02/2021,DEF,False
+"Benrahma  Said Benrahma (West Ham United, Midfielder)",WHU,6.0,0,8,1,0,0,1,0,1,0,0,0,0,0,SHU,24,15/02/2021,MID,True
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,24,15/02/2021,MID,True
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,24,15/02/2021,DEF,True
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,1,90,0,0,0,1,0,1,1,0,0,0,0,SHU,24,15/02/2021,DEF,True
+"Dawson  Craig Dawson (West Ham United, Defender)",WHU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,24,15/02/2021,DEF,True
+"Diop  Issa Diop (West Ham United, Defender)",WHU,4.5,1,90,0,0,1,0,0,0,1,0,0,0,0,SHU,24,15/02/2021,DEF,True
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,24,15/02/2021,GKP,True
+"Fredericks  Ryan Fredericks (West Ham United, Defender)",WHU,4.5,0,1,1,0,1,0,0,0,0,0,0,0,0,SHU,24,15/02/2021,DEF,True
+"Johnson (Ben)  Ben Johnson (West Ham United, Defender)",WHU,4.0,1,89,0,1,0,0,0,0,1,0,0,0,0,SHU,24,15/02/2021,DEF,True
+"Lanzini  Manuel Lanzini (West Ham United, Midfielder)",WHU,6.0,1,63,0,1,0,0,0,0,1,0,0,0,0,SHU,24,15/02/2021,MID,True
+"Lingard  Jesse Lingard (West Ham United, Midfielder)",WHU,7.0,1,82,0,1,0,0,1,1,1,0,0,0,0,SHU,24,15/02/2021,MID,True
+"Noble  Mark Noble (West Ham United, Midfielder)",WHU,4.5,0,27,1,0,0,0,0,0,0,0,0,0,0,SHU,24,15/02/2021,MID,True
+"Rice  Declan Rice (West Ham United, Midfielder)",WHU,5.0,1,90,0,0,1,0,0,0,1,0,0,0,0,SHU,24,15/02/2021,MID,True
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,24,15/02/2021,MID,True

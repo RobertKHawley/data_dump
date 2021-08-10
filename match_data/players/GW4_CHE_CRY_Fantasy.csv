@@ -1,0 +1,27 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Abraham  Tammy Abraham (Chelsea, Forward)",CHE,6.5,1,90,0,0,0,0,1,1,1,0,0,0,0,CRY,4,03/10/2020,FWD,True
+"Azpilicueta  César Azpilicueta (Chelsea, Defender)",CHE,6.0,1,90,0,0,0,0,0,0,1,0,0,1,0,CRY,4,03/10/2020,DEF,True
+"Chilwell  Benjamin Chilwell (Chelsea, Defender)",CHE,6.0,1,90,0,0,1,1,0,1,1,0,0,0,0,CRY,4,03/10/2020,DEF,True
+"Jorginho  Jorge Luiz Frello Filho (Chelsea, Midfielder)",CHE,6.0,1,90,0,0,2,0,0,0,1,0,0,0,0,CRY,4,03/10/2020,MID,True
+"Havertz  Kai Havertz (Chelsea, Midfielder)",CHE,8.5,1,90,0,0,0,0,1,1,1,0,0,0,0,CRY,4,03/10/2020,MID,True
+"Hudson-Odoi  Callum Hudson-Odoi (Chelsea, Midfielder)",CHE,5.5,1,83,0,1,0,0,0,0,1,0,0,0,0,CRY,4,03/10/2020,MID,True
+"Kanté  N&#039;Golo Kanté (Chelsea, Midfielder)",CHE,5.0,1,83,0,1,0,0,0,0,1,0,0,1,0,CRY,4,03/10/2020,MID,True
+"Kovacic  Mateo Kovacic (Chelsea, Midfielder)",CHE,5.0,0,7,1,0,0,0,0,0,0,0,0,0,0,CRY,4,03/10/2020,MID,True
+"Mendy (Edouard)  Edouard Mendy (Chelsea, Goalkeeper)",CHE,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,4,03/10/2020,GKP,True
+"Pulisic  Christian Pulisic (Chelsea, Midfielder)",CHE,8.0,0,7,1,0,0,0,0,0,0,0,0,0,0,CRY,4,03/10/2020,MID,True
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,4,03/10/2020,FWD,True
+"Zouma  Kurt Zouma (Chelsea, Defender)",CHE,5.5,1,90,0,0,1,0,0,0,1,0,0,0,0,CRY,4,03/10/2020,DEF,True
+"Thiago Silva  Thiago Emiliano da Silva (Chelsea, Defender)",CHE,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,4,03/10/2020,DEF,True
+"Jordan Ayew  Jordan Ayew (Crystal Palace, Forward)",CRY,6.0,1,90,0,0,0,0,0,0,0,4,0,0,0,CHE,4,03/10/2020,FWD,False
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,1,90,0,0,0,0,0,0,0,4,0,0,0,CHE,4,03/10/2020,MID,False
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,CHE,4,03/10/2020,GKP,False
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,CHE,4,03/10/2020,MID,False
+"McArthur  James McArthur (Crystal Palace, Midfielder)",CRY,4.5,1,72,0,1,0,0,0,0,0,2,0,0,0,CHE,4,03/10/2020,MID,False
+"McCarthy (James)  James McCarthy (Crystal Palace, Midfielder)",CRY,4.3,1,67,0,1,0,0,0,0,0,2,0,0,0,CHE,4,03/10/2020,MID,False
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,0,23,1,0,0,0,0,0,0,2,0,0,0,CHE,4,03/10/2020,MID,False
+"Mitchell  Tyrick Mitchell (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,CHE,4,03/10/2020,DEF,False
+"Riedewald  Jairo Riedewald (Crystal Palace, Midfielder)",CRY,5.0,0,18,1,0,0,0,0,0,0,2,0,0,0,CHE,4,03/10/2020,MID,False
+"Sakho  Mamadou Sakho (Crystal Palace, Defender)",CRY,4.4,1,90,0,0,0,0,0,0,0,4,0,0,0,CHE,4,03/10/2020,DEF,False
+"Townsend (Andros)  Andros Townsend (Crystal Palace, Midfielder)",CRY,5.5,1,90,0,0,0,0,0,0,0,4,0,0,0,CHE,4,03/10/2020,MID,False
+"Ward (Joel)  Joel Ward (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,CHE,4,03/10/2020,DEF,False
+"Zaha  Wilfried Zaha (Crystal Palace, Midfielder)",CRY,7.0,1,90,0,0,0,0,0,0,0,4,0,0,0,CHE,4,03/10/2020,MID,False

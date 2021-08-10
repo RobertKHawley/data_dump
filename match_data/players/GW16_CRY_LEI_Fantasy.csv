@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Jordan Ayew  Jordan Ayew (Crystal Palace, Forward)",CRY,6.0,0,6,1,0,0,0,0,0,0,0,0,0,0,LEI,16,28/12/2020,FWD,True
+"Benteke  Christian Benteke (Crystal Palace, Forward)",CRY,6.5,1,90,0,0,0,0,0,0,0,1,0,0,0,LEI,16,28/12/2020,FWD,True
+"Clyne  Nathaniel Clyne (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,LEI,16,28/12/2020,DEF,True
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,LEI,16,28/12/2020,GKP,True
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,LEI,16,28/12/2020,MID,True
+"McArthur  James McArthur (Crystal Palace, Midfielder)",CRY,4.5,0,16,1,0,0,0,0,0,0,1,0,0,0,LEI,16,28/12/2020,MID,True
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,LEI,16,28/12/2020,MID,True
+"Mitchell  Tyrick Mitchell (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,LEI,16,28/12/2020,DEF,True
+"Riedewald  Jairo Riedewald (Crystal Palace, Midfielder)",CRY,5.0,1,74,0,1,0,0,0,0,1,0,0,0,0,LEI,16,28/12/2020,MID,True
+"Schlupp  Jeffrey Schlupp (Crystal Palace, Midfielder)",CRY,5.5,1,84,0,1,0,0,0,0,0,1,0,0,0,LEI,16,28/12/2020,MID,True
+"Tomkins  James Tomkins (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,LEI,16,28/12/2020,DEF,True
+"Townsend (Andros)  Andros Townsend (Crystal Palace, Midfielder)",CRY,5.5,1,90,0,0,0,1,0,1,0,1,0,0,0,LEI,16,28/12/2020,MID,True
+"Zaha  Wilfried Zaha (Crystal Palace, Midfielder)",CRY,7.0,1,90,0,0,1,0,0,0,0,1,0,0,0,LEI,16,28/12/2020,MID,True
+"Amartey  Daniel Amartey (Leicester City, Defender)",LEI,4.0,1,90,0,0,0,0,0,0,0,1,0,0,0,CRY,16,28/12/2020,DEF,False
+"Barnes (Harvey)  Harvey Barnes (Leicester City, Midfielder)",LEI,7.0,1,90,0,0,1,0,0,0,0,1,0,0,0,CRY,16,28/12/2020,MID,False
+"Choudhury  Hamza Choudhury (Leicester City, Midfielder)",LEI,4.5,1,57,0,1,0,0,0,0,0,0,0,1,0,CRY,16,28/12/2020,MID,False
+"Evans  Jonny Evans (Leicester City, Defender)",LEI,5.5,1,90,0,0,0,1,0,1,0,1,0,0,0,CRY,16,28/12/2020,DEF,False
+"Gray  Demarai Gray (Leicester City, Midfielder)",LEI,5.5,0,18,1,0,0,0,0,0,0,0,0,0,0,CRY,16,28/12/2020,MID,False
+"Iheanacho  Kelechi Iheanacho (Leicester City, Forward)",LEI,7.5,1,72,0,1,0,0,0,0,0,1,0,0,0,CRY,16,28/12/2020,FWD,False
+"Justin  James Justin (Leicester City, Defender)",LEI,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,CRY,16,28/12/2020,DEF,False
+"Mendy (Nampalys)  Nampalys Mendy (Leicester City, Midfielder)",LEI,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,CRY,16,28/12/2020,MID,False
+"Praet  Dennis Praet (Leicester City, Midfielder)",LEI,5.0,1,65,0,1,0,0,0,0,0,1,0,0,0,CRY,16,28/12/2020,MID,False
+"Ayoze Pérez  Ayoze Pérez Gutiérrez (Leicester City, Midfielder)",LEI,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,CRY,16,28/12/2020,MID,False
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,CRY,16,28/12/2020,GKP,False
+"Thomas (Luke)  Luke Thomas (Leicester City, Defender)",LEI,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,CRY,16,28/12/2020,DEF,False
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,0,33,1,0,0,0,0,0,0,1,0,0,0,CRY,16,28/12/2020,MID,False
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,0,25,1,0,0,0,0,0,0,0,0,0,0,CRY,16,28/12/2020,FWD,False

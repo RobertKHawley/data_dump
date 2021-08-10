@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,1,90,0,0,0,0,0,0,0,4,0,0,0,LEE,2,19/09/2020,GKP,False
+"Bryan (Joe)  Joe Bryan (Fulham, Defender)",FUL,4.5,1,90,0,0,0,0,1,1,0,4,0,0,0,LEE,2,19/09/2020,DEF,False
+"Cavaleiro  Ivan Cavaleiro (Fulham, Midfielder)",FUL,5.3,1,90,0,0,0,0,0,0,0,4,0,0,0,LEE,2,19/09/2020,MID,False
+"DeCordova-Reid  Bobby DeCordova-Reid (Fulham, Forward)",FUL,5.3,0,32,1,0,1,0,0,0,0,0,0,0,0,LEE,2,19/09/2020,FWD,False
+"Hector  Michael Hector (Fulham, Defender)",FUL,4.1,1,90,0,0,0,0,0,0,0,4,0,0,0,LEE,2,19/09/2020,DEF,False
+"Kamara  Aboubakar Kamara (Fulham, Midfielder)",FUL,4.8,1,58,0,1,0,0,0,0,0,4,0,0,0,LEE,2,19/09/2020,MID,False
+"Kebano  Neeskens Kebano (Fulham, Midfielder)",FUL,4.7,0,32,1,0,0,0,0,0,0,0,0,0,0,LEE,2,19/09/2020,MID,False
+"Lemina  Mario Lemina (Fulham, Midfielder)",FUL,4.5,0,20,1,0,0,0,0,0,0,0,0,0,0,LEE,2,19/09/2020,MID,False
+"Mitrovic  Aleksandar Mitrovic (Fulham, Forward)",FUL,5.5,1,90,0,0,2,0,0,0,0,4,0,1,0,LEE,2,19/09/2020,FWD,False
+"Odoi  Denis Odoi (Fulham, Defender)",FUL,4.2,1,90,0,0,0,0,0,0,0,4,0,0,0,LEE,2,19/09/2020,DEF,False
+"Onomah  Josh Onomah (Fulham, Midfielder)",FUL,4.6,1,58,0,1,0,0,0,0,0,4,0,0,0,LEE,2,19/09/2020,MID,False
+"Reed  Harrison Reed (Fulham, Midfielder)",FUL,4.4,1,70,0,1,0,0,0,0,0,4,0,0,0,LEE,2,19/09/2020,MID,False
+"Tete  Kenny Tete (Fulham, Defender)",FUL,4.3,1,90,0,0,0,1,0,1,0,4,0,1,0,LEE,2,19/09/2020,DEF,False
+"Zambo Anguissa  André-Frank Zambo Anguissa (Fulham, Midfielder)",FUL,4.4,1,90,0,0,0,1,0,1,0,4,0,0,0,LEE,2,19/09/2020,MID,False
+"Alioski  Ezgjan Alioski (Leeds United, Defender)",LEE,4.4,0,20,1,0,0,0,0,0,0,0,0,0,0,FUL,2,19/09/2020,DEF,True
+"Ayling  Luke Ayling (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,FUL,2,19/09/2020,DEF,True
+"Bamford  Patrick Bamford (Leeds United, Forward)",LEE,8.0,1,70,0,1,1,1,1,2,0,3,0,0,0,FUL,2,19/09/2020,FWD,True
+"Cooper  Liam Cooper (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,FUL,2,19/09/2020,DEF,True
+"Hélder Costa  Helder Costa (Leeds United, Midfielder)",LEE,5.5,1,90,0,0,2,0,0,0,0,3,0,0,0,FUL,2,19/09/2020,MID,True
+"Dallas  Stuart Dallas (Leeds United, Defender)",LEE,5.5,1,90,0,0,0,0,0,0,0,3,0,0,0,FUL,2,19/09/2020,DEF,True
+"Harrison  Jack Harrison (Leeds United, Midfielder)",LEE,6.0,1,90,0,0,0,0,0,0,0,3,0,0,0,FUL,2,19/09/2020,MID,True
+"Klich  Mateusz Klich (Leeds United, Midfielder)",LEE,5.5,1,90,0,0,1,1,0,1,0,3,0,1,0,FUL,2,19/09/2020,MID,True
+"Koch  Robin Koch (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,FUL,2,19/09/2020,DEF,True
+"Meslier  Illan Meslier (Leeds United, Goalkeeper)",LEE,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,FUL,2,19/09/2020,GKP,True
+"Rodrigo  Rodrigo Moreno Machado (Leeds United, Forward)",LEE,6.5,1,45,0,1,0,0,0,0,0,1,0,0,0,FUL,2,19/09/2020,FWD,True
+"Phillips (Kalvin)  Kalvin Phillips (Leeds United, Midfielder)",LEE,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,FUL,2,19/09/2020,MID,True
+"Roberts (Tyler)  Tyler Roberts (Leeds United, Midfielder)",LEE,5.0,0,45,1,0,0,0,0,0,0,2,0,0,0,FUL,2,19/09/2020,MID,True

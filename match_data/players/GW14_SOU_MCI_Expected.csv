@@ -1,0 +1,27 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"João Cancelo  João Pedro Cavaco Cancelo (Manchester City, Defender)",MCI,6.0,0,0.01,-0.01,9000.0,0,0.02,-0.02,4500.0,0.03,-0.03,3000.0,19/12/2020
+"De Bruyne  Kevin De Bruyne (Manchester City, Midfielder)",MCI,12.0,1,0.19,0.81,473.7,0,0.09,-0.09,1000.0,0.28,0.72,321.4,19/12/2020
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/12/2020
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,0,0.04,-0.04,2250.0,0,0.05,-0.05,1800.0,0.09,-0.09,1000.0,19/12/2020
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,19/12/2020
+"Mahrez  Riyad Mahrez (Manchester City, Midfielder)",MCI,9.0,0,0.0,0.0,inf,0,0.44,-0.44,40.9,0.44,-0.44,40.9,19/12/2020
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/12/2020
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,0,0.07,-0.07,1285.7,1,0.11,0.89,818.2,0.18,0.82,500.0,19/12/2020
+"Stones  John Stones (Manchester City, Defender)",MCI,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/12/2020
+"Torres  Ferran Torres (Manchester City, Midfielder)",MCI,7.0,0,0.0,0.0,inf,0,0.05,-0.05,1440.0,0.05,-0.05,1440.0,19/12/2020
+"Bernardo Silva  Bernardo Mota Veiga de Carvalho e Silva (Manchester City, Midfielder)",MCI,7.0,0,0.26,-0.26,346.2,0,0.11,-0.11,818.2,0.37,-0.37,243.2,19/12/2020
+"Walker (Kyle)  Kyle Walker (Manchester City, Defender)",MCI,5.5,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,19/12/2020
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,0,0.01,-0.01,8200.0,0,0.39,-0.39,210.3,0.4,-0.4,205.0,19/12/2020
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,19/12/2020
+"Bertrand  Ryan Bertrand (Southampton, Defender)",SOU,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,19/12/2020
+"Djenepo  Moussa Djenepo (Southampton, Midfielder)",SOU,5.5,0,0.03,-0.03,1966.7,0,0.0,0.0,inf,0.03,-0.03,1966.7,19/12/2020
+"Ings  Danny Ings (Southampton, Forward)",SOU,8.0,0,0.03,-0.03,1366.7,0,0.15,-0.15,273.3,0.18,-0.18,227.8,19/12/2020
+"McCarthy (Alex)  Alex McCarthy (Southampton, Goalkeeper)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/12/2020
+"N'Lundulu  Daniel N&#039;Lundulu (Southampton, Forward)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/12/2020
+"Redmond  Nathan Redmond (Southampton, Midfielder)",SOU,6.0,0,0.01,-0.01,3100.0,0,0.03,-0.03,1033.3,0.04,-0.04,775.0,19/12/2020
+"Romeu  Oriol Romeu (Southampton, Midfielder)",SOU,4.5,0,0.03,-0.03,3000.0,0,0.02,-0.02,4500.0,0.05,-0.05,1800.0,19/12/2020
+"Tella  Nathan Tella (Southampton, Midfielder)",SOU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/12/2020
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,0,0.04,-0.04,2250.0,0,0.11,-0.11,818.2,0.15,-0.15,600.0,19/12/2020
+"Walcott  Theo Walcott (Southampton, Midfielder)",SOU,6.0,0,0.43,-0.43,209.3,0,0.03,-0.03,3000.0,0.46,-0.46,195.7,19/12/2020
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,0,0.08,-0.08,1125.0,0,0.0,0.0,inf,0.08,-0.08,1125.0,19/12/2020
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,0,0.21,-0.21,428.6,0,0.0,0.0,inf,0.21,-0.21,428.6,19/12/2020

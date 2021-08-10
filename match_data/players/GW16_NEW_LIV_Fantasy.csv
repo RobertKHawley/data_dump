@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Thiago Alcántara  Thiago Alcántara do Nascimento (Liverpool, Midfielder)",LIV,5.5,0,17,1,0,0,0,0,0,0,0,0,0,0,NEW,16,30/12/2020,MID,False
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,16,30/12/2020,DEF,False
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,16,30/12/2020,FWD,False
+"Henderson (Jordan)  Jordan Henderson (Liverpool, Midfielder)",LIV,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,16,30/12/2020,MID,False
+"Jones (Curtis)  Curtis Jones (Liverpool, Midfielder)",LIV,5.0,1,68,0,1,0,0,0,0,1,0,0,0,0,NEW,16,30/12/2020,MID,False
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,16,30/12/2020,MID,False
+"Milner  James Milner (Liverpool, Midfielder)",LIV,5.0,1,73,0,1,0,0,0,0,1,0,0,1,0,NEW,16,30/12/2020,MID,False
+"Phillips (Nathaniel)  Nathaniel Phillips (Liverpool, Defender)",LIV,4.5,1,90,0,0,0,0,0,0,1,0,0,1,0,NEW,16,30/12/2020,DEF,False
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,16,30/12/2020,GKP,False
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,16,30/12/2020,DEF,False
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,1,89,0,1,0,0,0,0,1,0,0,0,0,NEW,16,30/12/2020,MID,False
+"Shaqiri  Xherdan Shaqiri (Liverpool, Midfielder)",LIV,6.0,0,1,1,0,0,0,0,0,0,0,0,0,0,NEW,16,30/12/2020,MID,False
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,1,90,0,0,0,0,0,0,1,0,0,1,0,NEW,16,30/12/2020,MID,False
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,0,22,1,0,0,0,0,0,0,0,0,0,0,NEW,16,30/12/2020,MID,False
+"Almirón  Miguel Almirón (Newcastle United, Midfielder)",NEW,5.5,0,23,1,0,0,0,0,0,0,0,0,0,0,LIV,16,30/12/2020,MID,True
+"Joelinton  Joelinton Cássio Apolinário de Lira (Newcastle United, Forward)",NEW,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LIV,16,30/12/2020,FWD,True
+"Clark  Ciaran Clark (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,1,0,0,1,0,LIV,16,30/12/2020,DEF,True
+"Darlow  Karl Darlow (Newcastle United, Goalkeeper)",NEW,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,LIV,16,30/12/2020,GKP,True
+"Fernández  Federico Fernández (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,LIV,16,30/12/2020,DEF,True
+"Hayden (Isaac)  Isaac Hayden (Newcastle United, Midfielder)",NEW,4.5,1,90,0,0,0,0,0,0,1,0,0,1,0,LIV,16,30/12/2020,MID,True
+"Lewis (Jamal)  Jamal Lewis (Newcastle United, Defender)",NEW,4.5,0,4,1,0,0,0,0,0,0,0,0,0,0,LIV,16,30/12/2020,DEF,True
+"Longstaff (Matthew)  Matthew Longstaff (Newcastle United, Midfielder)",NEW,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,LIV,16,30/12/2020,MID,True
+"Jacob Murphy  Jacob Murphy (Newcastle United, Midfielder)",NEW,5.0,1,67,0,1,0,0,0,0,1,0,0,0,0,LIV,16,30/12/2020,MID,True
+"Ritchie  Matt Ritchie (Newcastle United, Midfielder)",NEW,5.0,1,86,0,1,0,0,0,0,1,0,0,0,0,LIV,16,30/12/2020,MID,True
+"Schär  Fabian Schär (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,LIV,16,30/12/2020,DEF,True
+"C Wilson  Callum Wilson (Newcastle United, Forward)",NEW,7.5,1,90,0,0,0,0,0,0,1,0,0,0,0,LIV,16,30/12/2020,FWD,True
+"Yedlin  DeAndre Yedlin (Newcastle United, Defender)",NEW,4.3,1,90,0,0,0,0,0,0,1,0,0,0,0,LIV,16,30/12/2020,DEF,True

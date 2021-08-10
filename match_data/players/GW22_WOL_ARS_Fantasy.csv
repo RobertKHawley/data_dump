@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Cedric  Cedric Ricardo Alves Soares (Arsenal, Defender)",ARS,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,WOL,22,02/02/2021,DEF,False
+"Aubameyang  Pierre-Emerick Aubameyang (Arsenal, Midfielder)",ARS,10.0,0,29,1,0,0,0,0,0,0,0,0,0,0,WOL,22,02/02/2021,MID,False
+"Bellerín  Héctor Bellerín (Arsenal, Defender)",ARS,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,WOL,22,02/02/2021,DEF,False
+"Holding  Rob Holding (Arsenal, Defender)",ARS,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,WOL,22,02/02/2021,DEF,False
+"Lacazette  Alexandre Lacazette (Arsenal, Forward)",ARS,8.5,1,45,0,1,0,1,0,1,0,0,0,0,0,WOL,22,02/02/2021,FWD,False
+"Leno  Bernd Leno (Arsenal, Goalkeeper)",ARS,5.0,1,72,0,0,0,0,0,0,0,2,0,0,1,WOL,22,02/02/2021,GKP,False
+"Luiz  David Luiz Moreira Marinho (Arsenal, Defender)",ARS,5.4,1,48,0,0,0,0,0,0,0,0,0,0,1,WOL,22,02/02/2021,DEF,False
+"Partey  Thomas Partey (Arsenal, Midfielder)",ARS,5.0,1,74,0,1,0,0,0,0,0,2,0,1,0,WOL,22,02/02/2021,MID,False
+"Pepe  Nicolas Pepe (Arsenal, Midfielder)",ARS,7.5,1,61,0,1,1,0,0,0,0,2,0,0,0,WOL,22,02/02/2021,MID,False
+"Rúnarsson  Rúnar Rúnarsson (Arsenal, Goalkeeper)",ARS,4.0,0,16,1,0,0,0,0,0,0,0,0,0,0,WOL,22,02/02/2021,GKP,False
+"Saka  Bukayo Saka (Arsenal, Midfielder)",ARS,6.5,1,90,0,0,0,0,0,0,0,2,0,0,0,WOL,22,02/02/2021,MID,False
+"Smith-Rowe  Emile Smith-Rowe (Arsenal, Midfielder)",ARS,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,WOL,22,02/02/2021,MID,False
+"Xhaka  Granit Xhaka (Arsenal, Midfielder)",ARS,5.0,1,90,0,0,0,0,0,0,0,2,0,1,0,WOL,22,02/02/2021,MID,False
+"Gabriel Magalhães  Gabriel dos Santos Magalhães (Arsenal, Defender)",ARS,5.0,0,45,1,0,0,0,0,0,0,2,0,0,0,WOL,22,02/02/2021,DEF,False
+"Boly  Willy Boly (Wolverhampton Wanderers, Defender)",WOL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,ARS,22,02/02/2021,DEF,True
+"Coady  Conor Coady (Wolverhampton Wanderers, Defender)",WOL,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,ARS,22,02/02/2021,DEF,True
+"Willian José  Willian José Da Silva (Wolverhampton Wanderers, Forward)",WOL,6.8,1,89,0,1,0,0,1,1,0,1,0,0,0,ARS,22,02/02/2021,FWD,True
+"Dendoncker (Leander)  Leander Dendoncker (Wolverhampton Wanderers, Midfielder)",WOL,5.0,0,16,1,0,0,0,0,0,0,0,0,0,0,ARS,22,02/02/2021,MID,True
+"Kilman  Max Kilman (Wolverhampton Wanderers, Defender)",WOL,4.5,1,90,0,0,0,0,0,0,0,1,0,1,0,ARS,22,02/02/2021,DEF,True
+"Vitor Ferreira  Vitor Machado Ferreira (Wolverhampton Wanderers, Midfielder)",WOL,4.7,0,28,1,0,0,0,0,0,0,0,0,0,0,ARS,22,02/02/2021,MID,True
+"Moutinho  João Moutinho (Wolverhampton Wanderers, Midfielder)",WOL,5.0,1,90,0,0,1,0,0,0,0,1,0,1,0,ARS,22,02/02/2021,MID,True
+"Neto  Pedro Neto (Wolverhampton Wanderers, Midfielder)",WOL,6.5,1,90,0,0,0,1,0,1,0,1,0,0,0,ARS,22,02/02/2021,MID,True
+"Podence  Daniel Podence (Wolverhampton Wanderers, Midfielder)",WOL,5.5,1,62,0,1,0,0,0,0,0,1,0,0,0,ARS,22,02/02/2021,MID,True
+"Semedo  Nelson Semedo (Wolverhampton Wanderers, Defender)",WOL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,ARS,22,02/02/2021,DEF,True
+"Fabio Silva  Fabio Daniel Soares Silva (Wolverhampton Wanderers, Forward)",WOL,6.0,0,1,1,0,0,0,0,0,0,0,0,0,0,ARS,22,02/02/2021,FWD,True
+"Traoré  Adama Traoré (Wolverhampton Wanderers, Midfielder)",WOL,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,ARS,22,02/02/2021,MID,True
+"Ruben Neves  Rúben Diogo da Silva Neves (Wolverhampton Wanderers, Midfielder)",WOL,5.5,1,74,0,1,1,0,0,0,0,1,0,1,0,ARS,22,02/02/2021,MID,True
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,ARS,22,02/02/2021,GKP,True

@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Thiago Alcántara  Thiago Alcántara do Nascimento (Liverpool, Midfielder)",LIV,5.5,1,76,0,1,0,0,0,0,1,0,0,0,0,SHU,26,28/02/2021,MID,False
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,26,28/02/2021,DEF,False
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,1,90,0,0,0,0,1,1,1,0,0,0,0,SHU,26,28/02/2021,FWD,False
+"Jones (Curtis)  Curtis Jones (Liverpool, Midfielder)",LIV,5.0,1,80,0,1,1,0,0,0,1,0,0,0,0,SHU,26,28/02/2021,MID,False
+"Kabak  Ozan Kabak (Liverpool, Defender)",LIV,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,26,28/02/2021,DEF,False
+"Keita  Naby Keita (Liverpool, Midfielder)",LIV,5.0,0,10,1,0,0,0,0,0,0,0,0,0,0,SHU,26,28/02/2021,MID,False
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,26,28/02/2021,MID,False
+"Milner  James Milner (Liverpool, Midfielder)",LIV,5.0,0,14,1,0,0,0,0,0,0,0,0,0,0,SHU,26,28/02/2021,MID,False
+"Phillips (Nathaniel)  Nathaniel Phillips (Liverpool, Defender)",LIV,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,26,28/02/2021,DEF,False
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,26,28/02/2021,DEF,False
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,26,28/02/2021,MID,False
+"Adrián  Adrián San Miguel del Castillo (Liverpool, Goalkeeper)",LIV,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,26,28/02/2021,GKP,False
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,26,28/02/2021,MID,False
+"Ampadu  Ethan Ampadu (Sheffield United, Defender)",SHU,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,26,28/02/2021,DEF,True
+"Baldock  George Baldock (Sheffield United, Defender)",SHU,4.9,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,26,28/02/2021,DEF,True
+"Bryan (Kean)  Kean Bryan (Sheffield United, Defender)",SHU,3.9,1,90,0,0,0,0,0,0,0,2,1,0,0,LIV,26,28/02/2021,DEF,True
+"Oliver Burke  Oliver Burke (Sheffield United, Midfielder)",SHU,4.1,0,34,1,0,0,0,0,0,0,1,0,0,0,LIV,26,28/02/2021,MID,True
+"Fleck  John Fleck (Sheffield United, Midfielder)",SHU,5.6,1,80,0,1,0,0,0,0,0,2,0,0,0,LIV,26,28/02/2021,MID,True
+"Jagielka  Phil Jagielka (Sheffield United, Defender)",SHU,3.9,1,56,0,1,0,0,0,0,0,1,0,0,0,LIV,26,28/02/2021,DEF,True
+"Lundstram  John Lundstram (Sheffield United, Midfielder)",SHU,4.8,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,26,28/02/2021,MID,True
+"McBurnie  Oliver McBurnie (Sheffield United, Forward)",SHU,5.6,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,26,28/02/2021,FWD,True
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,1,56,0,1,0,0,0,0,0,1,0,0,0,LIV,26,28/02/2021,FWD,True
+"Norwood  Oliver Norwood (Sheffield United, Midfielder)",SHU,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,26,28/02/2021,MID,True
+"Osborn  Ben Osborn (Sheffield United, Midfielder)",SHU,4.7,0,34,1,0,0,0,0,0,0,1,0,0,0,LIV,26,28/02/2021,MID,True
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,26,28/02/2021,GKP,True
+"Sharp  Billy Sharp (Sheffield United, Forward)",SHU,5.5,0,10,1,0,0,0,0,0,0,0,0,0,0,LIV,26,28/02/2021,FWD,True
+"Stevens (Enda)  Enda Stevens (Sheffield United, Defender)",SHU,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LIV,26,28/02/2021,DEF,True

@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"João Cancelo  João Pedro Cavaco Cancelo (Manchester City, Defender)",MCI,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,TOT,24,13/02/2021,DEF,True
+"Foden  Phil Foden (Manchester City, Midfielder)",MCI,8.0,1,90,0,0,0,0,0,0,1,0,0,0,0,TOT,24,13/02/2021,MID,True
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,1,69,0,1,2,0,1,1,1,0,0,0,0,TOT,24,13/02/2021,MID,True
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,1,90,0,0,1,0,0,0,1,0,0,0,0,TOT,24,13/02/2021,MID,True
+"Laporte  Aymeric Laporte (Manchester City, Defender)",MCI,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,TOT,24,13/02/2021,DEF,True
+"Mahrez  Riyad Mahrez (Manchester City, Midfielder)",MCI,9.0,0,11,1,0,0,0,0,0,0,0,0,0,0,TOT,24,13/02/2021,MID,True
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,1,90,0,0,0,1,0,1,1,0,0,0,0,TOT,24,13/02/2021,GKP,True
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,1,90,0,0,0,1,0,1,1,0,0,0,0,TOT,24,13/02/2021,MID,True
+"Stones  John Stones (Manchester City, Defender)",MCI,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,TOT,24,13/02/2021,DEF,True
+"Torres  Ferran Torres (Manchester City, Midfielder)",MCI,7.0,0,21,1,0,0,0,0,0,0,0,0,0,0,TOT,24,13/02/2021,MID,True
+"Bernardo Silva  Bernardo Mota Veiga de Carvalho e Silva (Manchester City, Midfielder)",MCI,7.0,1,90,0,0,0,0,0,0,1,0,0,1,0,TOT,24,13/02/2021,MID,True
+"Zinchenko  Oleksandr Zinchenko (Manchester City, Defender)",MCI,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,TOT,24,13/02/2021,DEF,True
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,1,79,0,1,0,0,0,0,1,0,0,0,0,TOT,24,13/02/2021,FWD,True
+"Alli  Bamidele Alli (Tottenham Hotspur, Midfielder)",TOT,6.5,0,26,1,0,0,0,0,0,0,1,0,0,0,MCI,24,13/02/2021,MID,False
+"Bale  Gareth Bale (Tottenham Hotspur, Midfielder)",TOT,9.2,0,18,1,0,0,0,0,0,0,0,0,0,0,MCI,24,13/02/2021,MID,False
+"Davies (Ben)  Ben Davies (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,0,3,0,1,0,MCI,24,13/02/2021,DEF,False
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,0,3,0,1,0,MCI,24,13/02/2021,DEF,False
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,MCI,24,13/02/2021,MID,False
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,1,90,0,0,0,0,0,0,0,3,0,0,0,MCI,24,13/02/2021,FWD,False
+"Lamela  Erik Lamela (Tottenham Hotspur, Midfielder)",TOT,6.0,1,72,0,1,0,0,0,0,0,3,0,1,0,MCI,24,13/02/2021,MID,False
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,1,90,0,0,0,0,0,0,0,3,0,0,0,MCI,24,13/02/2021,GKP,False
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,1,64,0,1,0,0,0,0,0,2,0,0,0,MCI,24,13/02/2021,MID,False
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,1,45,0,1,0,0,0,0,0,1,0,0,0,MCI,24,13/02/2021,MID,False
+"Sissoko  Moussa Sissoko (Tottenham Hotspur, Midfielder)",TOT,4.5,0,45,1,0,0,0,0,0,0,2,0,0,0,MCI,24,13/02/2021,MID,False
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,1,90,0,0,0,0,0,0,0,3,0,0,0,MCI,24,13/02/2021,MID,False
+"DSanchez  Davinson Sánchez (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,MCI,24,13/02/2021,DEF,False
+"Tanganga  Japhet Tanganga (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,MCI,24,13/02/2021,DEF,False

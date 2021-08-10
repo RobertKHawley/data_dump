@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Barkley  Ross Barkley (Aston Villa, Midfielder)",AVL,5.5,0,0.0,0.0,inf,0,0.02,-0.02,1200.0,0.02,-0.02,1200.0,10/04/2021
+"Cash  Matthew Cash (Aston Villa, Defender)",AVL,5.0,0,0.07,-0.07,1285.7,0,0.02,-0.02,4500.0,0.09,-0.09,1000.0,10/04/2021
+"El Ghazi  Anwar El Ghazi (Aston Villa, Midfielder)",AVL,6.0,0,0.0,0.0,inf,0,0.06,-0.06,366.7,0.06,-0.06,366.7,10/04/2021
+"Trezeguet  Mahmoud Hassan (Aston Villa, Midfielder)",AVL,5.5,0,0.03,-0.03,2733.3,0,0.18,-0.18,455.6,0.21,-0.21,390.5,10/04/2021
+"Konsa Ngoyo  Ezri Konsa Ngoyo (Aston Villa, Defender)",AVL,5.0,0,0.0,0.0,inf,0,0.15,-0.15,600.0,0.15,-0.15,600.0,10/04/2021
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,10/04/2021
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,1,0.04,0.96,2250.0,0,0.0,0.0,inf,0.04,0.96,2250.0,10/04/2021
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,10/04/2021
+"Nakamba  Marvelous Nakamba (Aston Villa, Midfielder)",AVL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,10/04/2021
+"Jacob Ramsey  Jacob Ramsey (Aston Villa, Midfielder)",AVL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,10/04/2021
+"Douglas Luiz  Douglas Luiz Soares de Paulo (Aston Villa, Midfielder)",AVL,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,10/04/2021
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,0,0.14,-0.14,642.9,0,0.0,0.0,inf,0.14,-0.14,642.9,10/04/2021
+"Traore (Bertrand)  Bertrand Traore (Aston Villa, Midfielder)",AVL,6.0,0,0.03,-0.03,2266.7,0,0.05,-0.05,1360.0,0.08,-0.08,850.0,10/04/2021
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,0,0.09,-0.09,1000.0,1,0.07,0.93,1285.7,0.16,0.84,562.5,10/04/2021
+"Thiago Alcántara  Thiago Alcántara do Nascimento (Liverpool, Midfielder)",LIV,5.5,0,0.01,-0.01,2000.0,0,0.11,-0.11,181.8,0.12,-0.12,166.7,10/04/2021
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,0,0.07,-0.07,1285.7,1,0.15,0.85,600.0,0.22,0.78,409.1,10/04/2021
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,0,0.09,-0.09,833.3,0,0.11,-0.11,681.8,0.2,-0.2,375.0,10/04/2021
+"Kabak  Ozan Kabak (Liverpool, Defender)",LIV,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,10/04/2021
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,0,0.0,0.0,inf,0,0.35,-0.35,42.9,0.35,-0.35,42.9,10/04/2021
+"Milner  James Milner (Liverpool, Midfielder)",LIV,5.0,0,0.08,-0.08,1125.0,0,0.03,-0.03,3000.0,0.11,-0.11,818.2,10/04/2021
+"Phillips (Nathaniel)  Nathaniel Phillips (Liverpool, Defender)",LIV,4.5,0,0.07,-0.07,1285.7,0,0.12,-0.12,750.0,0.19,-0.19,473.7,10/04/2021
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,10/04/2021
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,0,0.18,-0.18,500.0,0,0.05,-0.05,1800.0,0.23,-0.23,391.3,10/04/2021
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,0,0.13,-0.13,692.3,1,1.14,-0.14,78.9,1.27,-0.27,70.9,10/04/2021
+"Shaqiri  Xherdan Shaqiri (Liverpool, Midfielder)",LIV,6.0,0,0.05,-0.05,20.0,0,0.0,0.0,inf,0.05,-0.05,20.0,10/04/2021
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,10/04/2021
+"Diogo Jota  Diogo José Teixeira da Silva (Liverpool, Midfielder)",LIV,7.5,0,0.04,-0.04,2250.0,0,0.23,-0.23,391.3,0.27,-0.27,333.3,10/04/2021
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,0,0.09,-0.09,777.8,0,0.04,-0.04,1750.0,0.13,-0.13,538.5,10/04/2021

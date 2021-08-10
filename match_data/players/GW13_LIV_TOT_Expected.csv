@@ -1,0 +1,26 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,0,0.12,-0.12,750.0,0,0.03,-0.03,3000.0,0.15,-0.15,600.0,16/12/2020
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,0,0.06,-0.06,1500.0,1,0.34,0.66,264.7,0.4,0.6,225.0,16/12/2020
+"Henderson (Jordan)  Jordan Henderson (Liverpool, Midfielder)",LIV,5.0,0,0.09,-0.09,1000.0,0,0.0,0.0,inf,0.09,-0.09,1000.0,16/12/2020
+"Jones (Curtis)  Curtis Jones (Liverpool, Midfielder)",LIV,5.0,0,0.09,-0.09,1000.0,0,0.14,-0.14,642.9,0.23,-0.23,391.3,16/12/2020
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,0,0.21,-0.21,428.6,0,0.24,-0.24,375.0,0.45,-0.45,200.0,16/12/2020
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,1,0.17,0.83,529.4,0,0.0,0.0,inf,0.17,0.83,529.4,16/12/2020
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,0,0.11,-0.11,818.2,1,0.23,0.77,391.3,0.34,0.66,264.7,16/12/2020
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,16/12/2020
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,0,0.13,-0.13,692.3,0,0.0,0.0,inf,0.13,-0.13,692.3,16/12/2020
+"Rhys Williams  Rhys Williams (Liverpool, Defender)",LIV,4.5,0,0.13,-0.13,692.3,0,0.0,0.0,inf,0.13,-0.13,692.3,16/12/2020
+"Alderweireld  Toby Alderweireld (Tottenham Hotspur, Defender)",TOT,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Alli  Bamidele Alli (Tottenham Hotspur, Midfielder)",TOT,6.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Aurier  Serge Aurier (Tottenham Hotspur, Defender)",TOT,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Bergwijn  Steven Bergwijn (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.0,0.0,inf,0,0.53,-0.53,143.4,0.53,-0.53,143.4,16/12/2020
+"Davies (Ben)  Ben Davies (Tottenham Hotspur, Defender)",TOT,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,0,0.0,0.0,inf,0,0.05,-0.05,1800.0,0.05,-0.05,1800.0,16/12/2020
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,0,0.0,0.0,inf,0,0.24,-0.24,375.0,0.24,-0.24,375.0,16/12/2020
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Lo Celso  Giovani Lo Celso (Tottenham Hotspur, Midfielder)",TOT,6.0,1,0.16,0.84,362.5,0,0.0,0.0,inf,0.16,0.84,362.5,16/12/2020
+"Reguilón  Sergio Reguilón (Tottenham Hotspur, Defender)",TOT,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,0,0.01,-0.01,3200.0,0,0.0,0.0,inf,0.01,-0.01,3200.0,16/12/2020
+"Sissoko  Moussa Sissoko (Tottenham Hotspur, Midfielder)",TOT,4.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,16/12/2020
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,0,0.14,-0.14,621.4,1,0.34,0.66,255.9,0.48,0.52,181.3,16/12/2020

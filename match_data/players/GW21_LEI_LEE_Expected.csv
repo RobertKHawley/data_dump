@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Alioski  Ezgjan Alioski (Leeds United, Defender)",LEE,4.4,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/01/2021
+"Ayling  Luke Ayling (Leeds United, Defender)",LEE,4.5,0,0.01,-0.01,9000.0,0,0.03,-0.03,3000.0,0.04,-0.04,2250.0,31/01/2021
+"Bamford  Patrick Bamford (Leeds United, Forward)",LEE,8.0,2,0.46,1.54,195.7,1,0.41,0.59,219.5,0.87,2.13,103.4,31/01/2021
+"Cooper  Liam Cooper (Leeds United, Defender)",LEE,4.5,0,0.0,0.0,inf,0,0.43,-0.43,209.3,0.43,-0.43,209.3,31/01/2021
+"Hélder Costa  Helder Costa (Leeds United, Midfielder)",LEE,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/01/2021
+"Dallas  Stuart Dallas (Leeds United, Defender)",LEE,5.5,0,0.01,-0.01,9000.0,1,0.44,0.56,204.5,0.45,0.55,200.0,31/01/2021
+"Raphinha  Raphael Dias Belloli (Leeds United, Midfielder)",LEE,6.5,1,0.06,0.94,1333.3,0,0.26,-0.26,307.7,0.32,0.68,250.0,31/01/2021
+"Harrison  Jack Harrison (Leeds United, Midfielder)",LEE,6.0,0,0.01,-0.01,9000.0,1,0.56,0.44,160.7,0.57,0.43,157.9,31/01/2021
+"Klich  Mateusz Klich (Leeds United, Midfielder)",LEE,5.5,0,0.02,-0.02,3450.0,0,0.0,0.0,inf,0.02,-0.02,3450.0,31/01/2021
+"Meslier  Illan Meslier (Leeds United, Goalkeeper)",LEE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/01/2021
+"Rodrigo  Rodrigo Moreno Machado (Leeds United, Forward)",LEE,6.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/01/2021
+"Phillips (Kalvin)  Kalvin Phillips (Leeds United, Midfielder)",LEE,5.0,0,0.32,-0.32,281.3,0,0.0,0.0,inf,0.32,-0.32,281.3,31/01/2021
+"Struijk  Pascal Struijk (Leeds United, Defender)",LEE,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/01/2021
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,0,0.02,-0.02,2250.0,0,0.4,-0.4,112.5,0.42,-0.42,107.1,31/01/2021
+"Ricardo Pereira  Ricardo Domingos Barbosa Pereira (Leicester City, Defender)",LEI,5.5,0,0.01,-0.01,5400.0,0,0.03,-0.03,1800.0,0.04,-0.04,1350.0,31/01/2021
+"Barnes (Harvey)  Harvey Barnes (Leicester City, Midfielder)",LEI,7.0,0,0.18,-0.18,500.0,1,0.1,0.9,900.0,0.28,0.72,321.4,31/01/2021
+"Castagne  Timothy Castagne (Leicester City, Defender)",LEI,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/01/2021
+"Evans  Jonny Evans (Leicester City, Defender)",LEI,5.5,0,0.01,-0.01,9000.0,0,0.25,-0.25,360.0,0.26,-0.26,346.2,31/01/2021
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,0,0.0,0.0,inf,0,0.15,-0.15,533.3,0.15,-0.15,533.3,31/01/2021
+"Justin  James Justin (Leicester City, Defender)",LEI,5.0,0,0.02,-0.02,4500.0,0,0.07,-0.07,1285.7,0.09,-0.09,1000.0,31/01/2021
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,1,0.14,0.86,642.9,0,0.08,-0.08,1125.0,0.22,0.78,409.1,31/01/2021
+"Mendy (Nampalys)  Nampalys Mendy (Leicester City, Midfielder)",LEI,4.5,0,0.02,-0.02,4500.0,0,0.02,-0.02,4500.0,0.04,-0.04,2250.0,31/01/2021
+"Ayoze Pérez  Ayoze Pérez Gutiérrez (Leicester City, Midfielder)",LEI,6.0,0,0.41,-0.41,219.5,0,0.61,-0.61,147.5,1.02,-1.02,88.2,31/01/2021
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/01/2021
+"Söyüncü  Caglar Söyüncü (Leicester City, Defender)",LEI,5.0,0,0.0,0.0,inf,0,0.05,-0.05,900.0,0.05,-0.05,900.0,31/01/2021
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,0,0.07,-0.07,1285.7,0,0.03,-0.03,3000.0,0.1,-0.1,900.0,31/01/2021
+"Ünder  Cengiz Ünder (Leicester City, Midfielder)",LEI,5.7,0,0.0,0.0,inf,0,0.02,-0.02,500.0,0.02,-0.02,500.0,31/01/2021

@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Cedric  Cedric Ricardo Alves Soares (Arsenal, Defender)",ARS,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Aubameyang  Pierre-Emerick Aubameyang (Arsenal, Midfielder)",ARS,10.0,0,0.08,-0.08,1125.0,1,0.29,0.71,310.3,0.37,0.63,243.2,16/12/2020
+"Dani Ceballos  Daniel Ceballos Fernández (Arsenal, Midfielder)",ARS,4.7,0,0.04,-0.04,1675.0,0,0.04,-0.04,1675.0,0.08,-0.08,837.5,16/12/2020
+"Elneny  Mohamed Elneny (Arsenal, Midfielder)",ARS,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Holding  Rob Holding (Arsenal, Defender)",ARS,4.5,0,0.01,-0.01,9000.0,0,0.04,-0.04,2250.0,0.05,-0.05,1800.0,16/12/2020
+"Leno  Bernd Leno (Arsenal, Goalkeeper)",ARS,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Luiz  David Luiz Moreira Marinho (Arsenal, Defender)",ARS,5.4,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Maitland-Niles  Ainsley Maitland-Niles (Arsenal, Defender)",ARS,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,16/12/2020
+"Eddie Nketiah  Edward Nketiah (Arsenal, Forward)",ARS,5.5,1,0.06,0.94,1083.3,0,0.04,-0.04,1625.0,0.1,0.9,650.0,16/12/2020
+"Pepe  Nicolas Pepe (Arsenal, Midfielder)",ARS,7.5,0,0.04,-0.04,2125.0,0,0.16,-0.16,531.3,0.2,-0.2,425.0,16/12/2020
+"Saka  Bukayo Saka (Arsenal, Midfielder)",ARS,6.5,0,0.08,-0.08,1125.0,0,0.03,-0.03,3000.0,0.11,-0.11,818.2,16/12/2020
+"Tierney  Kieran Tierney (Arsenal, Defender)",ARS,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,16/12/2020
+"Willock  Joseph Willock (Arsenal, Midfielder)",ARS,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Gabriel Magalhães  Gabriel dos Santos Magalhães (Arsenal, Defender)",ARS,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,1,0.2,0.8,450.0,0,0.05,-0.05,1800.0,0.25,0.75,360.0,16/12/2020
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,0,0.03,-0.03,2100.0,0,0.04,-0.04,1575.0,0.07,-0.07,900.0,16/12/2020
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,16/12/2020
+"Bertrand  Ryan Bertrand (Southampton, Defender)",SOU,5.0,0,0.07,-0.07,1285.7,0,0.02,-0.02,4500.0,0.09,-0.09,1000.0,16/12/2020
+"Djenepo  Moussa Djenepo (Southampton, Midfielder)",SOU,5.5,0,0.12,-0.12,225.0,0,0.0,0.0,inf,0.12,-0.12,225.0,16/12/2020
+"Ings  Danny Ings (Southampton, Forward)",SOU,8.0,0,0.02,-0.02,4500.0,0,0.03,-0.03,3000.0,0.05,-0.05,1800.0,16/12/2020
+"McCarthy (Alex)  Alex McCarthy (Southampton, Goalkeeper)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/12/2020
+"Redmond  Nathan Redmond (Southampton, Midfielder)",SOU,6.0,0,0.06,-0.06,450.0,0,0.51,-0.51,52.9,0.57,-0.57,47.4,16/12/2020
+"Romeu  Oriol Romeu (Southampton, Midfielder)",SOU,4.5,0,0.39,-0.39,230.8,0,0.0,0.0,inf,0.39,-0.39,230.8,16/12/2020
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,0,0.1,-0.1,900.0,0,0.02,-0.02,4500.0,0.12,-0.12,750.0,16/12/2020
+"Walcott  Theo Walcott (Southampton, Midfielder)",SOU,6.0,0,0.01,-0.01,6300.0,1,0.36,0.64,175.0,0.37,0.63,170.3,16/12/2020
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,16/12/2020
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,0,0.11,-0.11,818.2,0,0.14,-0.14,642.9,0.25,-0.25,360.0,16/12/2020

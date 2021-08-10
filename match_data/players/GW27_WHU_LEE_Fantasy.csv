@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Alioski  Ezgjan Alioski (Leeds United, Defender)",LEE,4.4,0,45,1,0,0,0,0,0,0,0,0,0,0,WHU,27,08/03/2021,DEF,False
+"Ayling  Luke Ayling (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,WHU,27,08/03/2021,DEF,False
+"Bamford  Patrick Bamford (Leeds United, Forward)",LEE,8.0,1,90,0,0,0,0,0,0,0,2,0,0,0,WHU,27,08/03/2021,FWD,False
+"Cooper  Liam Cooper (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,WHU,27,08/03/2021,DEF,False
+"Hélder Costa  Helder Costa (Leeds United, Midfielder)",LEE,5.5,1,45,0,1,0,0,0,0,0,2,0,0,0,WHU,27,08/03/2021,MID,False
+"Dallas  Stuart Dallas (Leeds United, Defender)",LEE,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,WHU,27,08/03/2021,DEF,False
+"Raphinha  Raphael Dias Belloli (Leeds United, Midfielder)",LEE,6.5,1,90,0,0,0,0,0,0,0,2,0,0,0,WHU,27,08/03/2021,MID,False
+"Harrison  Jack Harrison (Leeds United, Midfielder)",LEE,6.0,0,45,1,0,0,0,0,0,0,0,0,0,0,WHU,27,08/03/2021,MID,False
+"Klich  Mateusz Klich (Leeds United, Midfielder)",LEE,5.5,1,45,0,1,0,0,0,0,0,2,0,0,0,WHU,27,08/03/2021,MID,False
+"Diego Llorente  Diego Javier Llorente Ríos (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,WHU,27,08/03/2021,DEF,False
+"Meslier  Illan Meslier (Leeds United, Goalkeeper)",LEE,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,WHU,27,08/03/2021,GKP,False
+"Rodrigo  Rodrigo Moreno Machado (Leeds United, Forward)",LEE,6.5,0,30,1,0,0,0,0,0,0,0,0,0,0,WHU,27,08/03/2021,FWD,False
+"Phillips (Kalvin)  Kalvin Phillips (Leeds United, Midfielder)",LEE,5.0,1,90,0,0,0,0,0,0,0,2,0,1,0,WHU,27,08/03/2021,MID,False
+"Roberts (Tyler)  Tyler Roberts (Leeds United, Midfielder)",LEE,5.0,1,60,0,1,0,0,0,0,0,2,0,0,0,WHU,27,08/03/2021,MID,False
+"Antonio  Michail Antonio (West Ham United, Forward)",WHU,7.5,1,90,0,0,0,0,0,0,1,0,0,0,0,LEE,27,08/03/2021,FWD,True
+"Benrahma  Said Benrahma (West Ham United, Midfielder)",WHU,6.0,1,73,0,1,0,0,0,0,1,0,0,0,0,LEE,27,08/03/2021,MID,True
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,0,17,1,0,0,0,0,0,0,0,0,0,0,LEE,27,08/03/2021,MID,True
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LEE,27,08/03/2021,DEF,True
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,1,90,0,0,0,1,0,1,1,0,0,0,0,LEE,27,08/03/2021,DEF,True
+"Dawson  Craig Dawson (West Ham United, Defender)",WHU,5.0,1,90,0,0,1,0,0,0,1,0,0,0,0,LEE,27,08/03/2021,DEF,True
+"Diop  Issa Diop (West Ham United, Defender)",WHU,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,LEE,27,08/03/2021,DEF,True
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LEE,27,08/03/2021,GKP,True
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LEE,27,08/03/2021,MID,True
+"Johnson (Ben)  Ben Johnson (West Ham United, Defender)",WHU,4.0,0,3,1,0,0,0,0,0,0,0,0,0,0,LEE,27,08/03/2021,DEF,True
+"Lingard  Jesse Lingard (West Ham United, Midfielder)",WHU,7.0,1,87,0,1,1,0,0,0,1,0,0,1,0,LEE,27,08/03/2021,MID,True
+"Rice  Declan Rice (West Ham United, Midfielder)",WHU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LEE,27,08/03/2021,MID,True
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LEE,27,08/03/2021,MID,True

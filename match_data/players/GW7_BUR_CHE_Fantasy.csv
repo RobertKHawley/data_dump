@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Barnes (Ashley)  Ashley Barnes (Burnley, Forward)",BUR,5.5,1,73,0,1,0,0,0,0,0,3,0,0,0,CHE,7,31/10/2020,FWD,True
+"Brady  Robert Brady (Burnley, Midfielder)",BUR,5.0,0,17,1,0,0,0,0,0,0,0,0,0,0,CHE,7,31/10/2020,MID,True
+"Brownhill  Josh Brownhill (Burnley, Midfielder)",BUR,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,CHE,7,31/10/2020,MID,True
+"Long (Kevin)  Kevin Long (Burnley, Defender)",BUR,4.0,1,90,0,0,0,0,0,0,0,3,0,1,0,CHE,7,31/10/2020,DEF,True
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,CHE,7,31/10/2020,DEF,True
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,1,90,0,0,0,0,0,0,0,3,0,0,0,CHE,7,31/10/2020,MID,True
+"Pope  Nick Pope (Burnley, Goalkeeper)",BUR,5.5,1,90,0,0,0,0,0,0,0,3,0,0,0,CHE,7,31/10/2020,GKP,True
+"Rodriguez  Jay Rodriguez (Burnley, Forward)",BUR,5.5,0,45,1,0,0,0,0,0,0,2,0,0,0,CHE,7,31/10/2020,FWD,True
+"Stephens (Dale)  Dale Stephens (Burnley, Midfielder)",BUR,4.5,1,45,0,1,0,0,0,0,0,1,0,0,0,CHE,7,31/10/2020,MID,True
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,CHE,7,31/10/2020,DEF,True
+"Taylor (Charlie)  Charlie Taylor (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,CHE,7,31/10/2020,DEF,True
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,1,90,0,0,0,0,0,0,0,3,0,0,0,CHE,7,31/10/2020,MID,True
+"Wood  Chris Wood (Burnley, Forward)",BUR,7.0,1,90,0,0,0,0,0,0,0,3,0,0,0,CHE,7,31/10/2020,FWD,True
+"Abraham  Tammy Abraham (Chelsea, Forward)",CHE,6.5,1,77,0,1,0,1,0,1,1,0,0,0,0,BUR,7,31/10/2020,FWD,False
+"Chilwell  Benjamin Chilwell (Chelsea, Defender)",CHE,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,7,31/10/2020,DEF,False
+"Jorginho  Jorge Luiz Frello Filho (Chelsea, Midfielder)",CHE,6.0,0,4,1,0,0,0,0,0,0,0,0,0,0,BUR,7,31/10/2020,MID,False
+"Giroud  Olivier Giroud (Chelsea, Forward)",CHE,6.5,0,13,1,0,0,0,0,0,0,0,0,0,0,BUR,7,31/10/2020,FWD,False
+"Havertz  Kai Havertz (Chelsea, Midfielder)",CHE,8.5,1,86,0,1,0,0,0,0,1,0,0,0,0,BUR,7,31/10/2020,MID,False
+"Hudson-Odoi  Callum Hudson-Odoi (Chelsea, Midfielder)",CHE,5.5,0,17,1,0,0,0,0,0,0,0,0,0,0,BUR,7,31/10/2020,MID,False
+"James (Reece)  Reece James (Chelsea, Defender)",CHE,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,7,31/10/2020,DEF,False
+"Kanté  N&#039;Golo Kanté (Chelsea, Midfielder)",CHE,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,7,31/10/2020,MID,False
+"Mendy (Edouard)  Edouard Mendy (Chelsea, Goalkeeper)",CHE,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,7,31/10/2020,GKP,False
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,1,90,0,0,0,1,0,1,1,0,0,0,0,BUR,7,31/10/2020,MID,False
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,1,90,0,0,1,0,0,0,1,0,0,0,0,BUR,7,31/10/2020,FWD,False
+"Ziyech  Hakim Ziyech (Chelsea, Midfielder)",CHE,7.5,1,73,0,1,1,1,0,1,1,0,0,0,0,BUR,7,31/10/2020,MID,False
+"Zouma  Kurt Zouma (Chelsea, Defender)",CHE,5.5,1,90,0,0,1,0,0,0,1,0,0,0,0,BUR,7,31/10/2020,DEF,False
+"Thiago Silva  Thiago Emiliano da Silva (Chelsea, Defender)",CHE,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,7,31/10/2020,DEF,False

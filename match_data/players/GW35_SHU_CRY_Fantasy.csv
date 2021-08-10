@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Jordan Ayew  Jordan Ayew (Crystal Palace, Forward)",CRY,6.0,0,15,1,0,0,0,0,0,0,0,0,0,0,SHU,35,08/05/2021,FWD,False
+"Benteke  Christian Benteke (Crystal Palace, Forward)",CRY,6.5,1,90,0,0,1,0,0,0,1,0,0,0,0,SHU,35,08/05/2021,FWD,False
+"Cahill  Gary Cahill (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,1,0,1,1,0,0,0,0,SHU,35,08/05/2021,DEF,False
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,1,90,0,0,1,1,0,1,1,0,0,0,0,SHU,35,08/05/2021,MID,False
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,35,08/05/2021,GKP,False
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,35,08/05/2021,MID,False
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,35,08/05/2021,MID,False
+"Mitchell  Tyrick Mitchell (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,35,08/05/2021,DEF,False
+"Riedewald  Jairo Riedewald (Crystal Palace, Midfielder)",CRY,5.0,0,19,1,0,0,0,0,0,0,0,0,0,0,SHU,35,08/05/2021,MID,False
+"Schlupp  Jeffrey Schlupp (Crystal Palace, Midfielder)",CRY,5.5,1,71,0,1,0,0,0,0,1,0,0,0,0,SHU,35,08/05/2021,MID,False
+"Townsend (Andros)  Andros Townsend (Crystal Palace, Midfielder)",CRY,5.5,1,75,0,1,0,0,0,0,1,0,0,0,0,SHU,35,08/05/2021,MID,False
+"Ward (Joel)  Joel Ward (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,0,0,1,0,0,1,0,SHU,35,08/05/2021,DEF,False
+"Zaha  Wilfried Zaha (Crystal Palace, Midfielder)",CRY,7.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,35,08/05/2021,MID,False
+"Baldock  George Baldock (Sheffield United, Defender)",SHU,4.9,1,90,0,0,0,0,0,0,0,2,0,0,0,CRY,35,08/05/2021,DEF,True
+"Basham  Chris Basham (Sheffield United, Defender)",SHU,4.6,1,90,0,0,0,0,0,0,0,2,0,0,0,CRY,35,08/05/2021,DEF,True
+"Berge  Sander Berge (Sheffield United, Midfielder)",SHU,4.9,1,59,0,1,0,0,0,0,0,1,0,0,0,CRY,35,08/05/2021,MID,True
+"Bryan (Kean)  Kean Bryan (Sheffield United, Defender)",SHU,3.9,1,80,0,1,0,0,0,0,0,1,0,0,0,CRY,35,08/05/2021,DEF,True
+"Oliver Burke  Oliver Burke (Sheffield United, Midfielder)",SHU,4.1,1,65,0,1,0,0,0,0,0,1,0,0,0,CRY,35,08/05/2021,MID,True
+"Egan  John Egan (Sheffield United, Defender)",SHU,4.7,1,90,0,0,0,0,0,0,0,2,0,0,0,CRY,35,08/05/2021,DEF,True
+"Fleck  John Fleck (Sheffield United, Midfielder)",SHU,5.6,1,90,0,0,0,0,0,0,0,2,0,0,0,CRY,35,08/05/2021,MID,True
+"Jebbison  Daniel Jebbison (Sheffield United, Forward)",SHU,4.5,0,25,1,0,0,0,0,0,0,1,0,0,0,CRY,35,08/05/2021,FWD,True
+"Lundstram  John Lundstram (Sheffield United, Midfielder)",SHU,4.8,0,10,1,0,0,0,0,0,0,1,0,0,0,CRY,35,08/05/2021,MID,True
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,1,90,0,0,0,0,0,0,0,2,0,0,0,CRY,35,08/05/2021,FWD,True
+"Norwood  Oliver Norwood (Sheffield United, Midfielder)",SHU,4.5,1,90,0,0,0,0,0,0,0,2,0,1,0,CRY,35,08/05/2021,MID,True
+"Osborn  Ben Osborn (Sheffield United, Midfielder)",SHU,4.7,0,31,1,0,0,0,0,0,0,1,0,0,0,CRY,35,08/05/2021,MID,True
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,1,90,0,0,0,0,0,0,0,2,0,0,0,CRY,35,08/05/2021,GKP,True
+"Stevens (Enda)  Enda Stevens (Sheffield United, Defender)",SHU,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,CRY,35,08/05/2021,DEF,True

@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Bissouma  Yves Bissouma (Brighton and Hove Albion, Midfielder)",BHA,4.5,1,90,0,0,0,0,0,0,0,2,0,1,0,SOU,11,07/12/2020,MID,True
+"Connolly  Aaron Connolly (Brighton and Hove Albion, Forward)",BHA,5.5,1,64,0,1,0,0,0,0,0,1,0,0,0,SOU,11,07/12/2020,FWD,True
+"Dunk  Lewis Dunk (Brighton and Hove Albion, Defender)",BHA,5.0,1,90,0,0,0,0,0,0,0,2,0,1,0,SOU,11,07/12/2020,DEF,True
+"Groß  Pascal Groß (Brighton and Hove Albion, Midfielder)",BHA,6.0,1,90,0,0,1,0,0,0,0,2,0,1,0,SOU,11,07/12/2020,MID,True
+"Jahanbakhsh  Alireza Jahanbakhsh (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,9,1,0,0,0,0,0,0,0,0,0,0,SOU,11,07/12/2020,MID,True
+"Lamptey  Tariq Lamptey (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,SOU,11,07/12/2020,DEF,True
+"March  Solomon March (Brighton and Hove Albion, Midfielder)",BHA,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,SOU,11,07/12/2020,MID,True
+"Maupay  Neal Maupay (Brighton and Hove Albion, Forward)",BHA,6.5,0,26,1,0,0,0,0,0,0,1,0,0,0,SOU,11,07/12/2020,FWD,True
+"Mat Ryan  Mathew Ryan (Brighton and Hove Albion, Goalkeeper)",BHA,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,SOU,11,07/12/2020,GKP,True
+"Trossard  Leandro Trossard (Brighton and Hove Albion, Midfielder)",BHA,6.5,0,9,1,0,0,0,0,0,0,0,0,0,0,SOU,11,07/12/2020,MID,True
+"Veltman  Joël Veltman (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,SOU,11,07/12/2020,DEF,True
+"Webster  Adam Webster (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,SOU,11,07/12/2020,DEF,True
+"Welbeck  Danny Welbeck (Brighton and Hove Albion, Forward)",BHA,6.0,1,81,0,1,0,0,1,1,0,2,0,0,0,SOU,11,07/12/2020,FWD,True
+"White (Ben)  Ben White (Brighton and Hove Albion, Defender)",BHA,4.5,1,81,0,1,0,0,0,0,0,2,0,0,0,SOU,11,07/12/2020,DEF,True
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,11,07/12/2020,FWD,False
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,11,07/12/2020,MID,False
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,11,07/12/2020,DEF,False
+"Bertrand  Ryan Bertrand (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,BHA,11,07/12/2020,DEF,False
+"Djenepo  Moussa Djenepo (Southampton, Midfielder)",SOU,5.5,1,45,0,1,0,0,0,0,0,1,0,1,0,BHA,11,07/12/2020,MID,False
+"Ings  Danny Ings (Southampton, Forward)",SOU,8.0,0,45,1,0,1,0,0,0,0,0,0,0,0,BHA,11,07/12/2020,FWD,False
+"McCarthy (Alex)  Alex McCarthy (Southampton, Goalkeeper)",SOU,4.5,1,90,0,0,0,0,0,0,0,1,0,1,0,BHA,11,07/12/2020,GKP,False
+"Redmond  Nathan Redmond (Southampton, Midfielder)",SOU,6.0,0,21,1,0,0,0,0,0,0,0,0,0,0,BHA,11,07/12/2020,MID,False
+"Romeu  Oriol Romeu (Southampton, Midfielder)",SOU,4.5,1,90,0,0,0,0,0,0,0,1,0,1,0,BHA,11,07/12/2020,MID,False
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,1,90,0,0,1,0,0,0,0,1,0,0,0,BHA,11,07/12/2020,DEF,False
+"Walcott  Theo Walcott (Southampton, Midfielder)",SOU,6.0,1,69,0,1,0,0,0,0,0,1,0,0,0,BHA,11,07/12/2020,MID,False
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,1,1,0,1,0,0,0,BHA,11,07/12/2020,DEF,False
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,1,90,0,0,0,1,0,1,0,1,0,0,0,BHA,11,07/12/2020,MID,False

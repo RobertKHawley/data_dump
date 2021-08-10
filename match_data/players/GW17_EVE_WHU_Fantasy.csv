@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Bernard  Bernard Anício Caldeira Duarte (Everton, Midfielder)",EVE,5.5,1,64,0,1,0,0,0,0,1,0,0,0,0,WHU,17,01/01/2021,MID,True
+"Calvert-Lewin  Dominic Calvert-Lewin (Everton, Forward)",EVE,8.0,1,79,0,1,0,0,0,0,1,0,0,0,0,WHU,17,01/01/2021,FWD,True
+"Coleman  Seamus Coleman (Everton, Defender)",EVE,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,17,01/01/2021,DEF,True
+"Davies (Tom)  Tom Davies (Everton, Midfielder)",EVE,5.0,1,90,0,0,0,0,0,0,0,1,0,1,0,WHU,17,01/01/2021,MID,True
+"Doucouré  Abdoulaye Doucouré (Everton, Midfielder)",EVE,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,17,01/01/2021,MID,True
+"Godfrey  Ben Godfrey (Everton, Defender)",EVE,5.0,1,90,0,0,0,0,0,0,0,1,0,1,0,WHU,17,01/01/2021,DEF,True
+"Holgate  Mason Holgate (Everton, Defender)",EVE,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,17,01/01/2021,DEF,True
+"Mina  Yerry Mina (Everton, Defender)",EVE,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,17,01/01/2021,DEF,True
+"Pickford  Jordan Pickford (Everton, Goalkeeper)",EVE,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,17,01/01/2021,GKP,True
+"Rodríguez  James Rodríguez (Everton, Midfielder)",EVE,7.0,0,26,1,0,0,0,0,0,0,1,0,0,0,WHU,17,01/01/2021,MID,True
+"Sigurdsson  Gylfi Sigurdsson (Everton, Midfielder)",EVE,7.0,1,65,0,1,0,0,0,0,1,0,0,0,0,WHU,17,01/01/2021,MID,True
+"André Gomes  André Filipe Tavares Gomes (Everton, Midfielder)",EVE,5.0,0,25,1,0,0,0,0,0,0,1,0,0,0,WHU,17,01/01/2021,MID,True
+"Tosun  Cenk Tosun (Everton, Forward)",EVE,6.0,0,11,1,0,0,0,0,0,0,1,0,0,0,WHU,17,01/01/2021,FWD,True
+"Richarlison  Richarlison de Andrade (Everton, Forward)",EVE,7.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,17,01/01/2021,FWD,True
+"Antonio  Michail Antonio (West Ham United, Forward)",WHU,7.5,0,31,1,0,0,0,0,0,0,0,0,0,0,EVE,17,01/01/2021,FWD,False
+"Benrahma  Said Benrahma (West Ham United, Midfielder)",WHU,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,EVE,17,01/01/2021,MID,False
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,1,73,0,1,0,0,0,0,1,0,0,0,0,EVE,17,01/01/2021,MID,False
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,EVE,17,01/01/2021,DEF,False
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,1,90,0,0,0,0,1,1,1,0,0,0,0,EVE,17,01/01/2021,DEF,False
+"Dawson  Craig Dawson (West Ham United, Defender)",WHU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,EVE,17,01/01/2021,DEF,False
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,1,73,0,1,0,0,0,0,1,0,0,0,0,EVE,17,01/01/2021,MID,False
+"Haller  Sébastien Haller (West Ham United, Forward)",WHU,6.1,1,59,0,1,0,0,0,0,0,0,0,0,0,EVE,17,01/01/2021,FWD,False
+"Lanzini  Manuel Lanzini (West Ham United, Midfielder)",WHU,6.0,0,17,1,0,0,0,0,0,0,0,0,0,0,EVE,17,01/01/2021,MID,False
+"Ogbonna  Angelo Ogbonna (West Ham United, Defender)",WHU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,EVE,17,01/01/2021,DEF,False
+"Randolph  Darren Randolph (West Ham United, Goalkeeper)",WHU,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,EVE,17,01/01/2021,GKP,False
+"Rice  Declan Rice (West Ham United, Midfielder)",WHU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,EVE,17,01/01/2021,MID,False
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,1,90,0,0,1,0,0,0,1,0,0,0,0,EVE,17,01/01/2021,MID,False
+"Yarmolenko  Andriy Yarmolenko (West Ham United, Midfielder)",WHU,5.5,0,17,1,0,0,0,0,0,0,0,0,0,0,EVE,17,01/01/2021,MID,False

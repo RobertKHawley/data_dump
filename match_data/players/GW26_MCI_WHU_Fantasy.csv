@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Aguero  Sergio Aguero (Manchester City, Forward)",MCI,10.3,1,61,0,1,0,0,0,0,0,1,0,0,0,WHU,26,27/02/2021,FWD,True
+"De Bruyne  Kevin De Bruyne (Manchester City, Midfielder)",MCI,12.0,1,90,0,0,0,1,0,1,0,1,0,0,0,WHU,26,27/02/2021,MID,True
+"Foden  Phil Foden (Manchester City, Midfielder)",MCI,8.0,0,25,1,0,0,0,0,0,0,0,0,0,0,WHU,26,27/02/2021,MID,True
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,1,90,0,0,1,0,0,0,0,1,0,0,0,WHU,26,27/02/2021,DEF,True
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,1,89,0,1,0,0,0,0,0,1,0,0,0,WHU,26,27/02/2021,MID,True
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,0,1,1,0,0,0,0,0,0,0,0,0,0,WHU,26,27/02/2021,MID,True
+"Fernandinho  Fernando Luiz Rosa (Manchester City, Defender)",MCI,5.0,1,90,0,0,0,0,0,0,0,1,0,1,0,WHU,26,27/02/2021,DEF,True
+"Mahrez  Riyad Mahrez (Manchester City, Midfielder)",MCI,9.0,1,90,0,0,0,1,0,1,0,1,0,0,0,WHU,26,27/02/2021,MID,True
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,26,27/02/2021,GKP,True
+"Stones  John Stones (Manchester City, Defender)",MCI,5.5,1,90,0,0,1,0,0,0,0,1,0,0,0,WHU,26,27/02/2021,DEF,True
+"Torres  Ferran Torres (Manchester City, Midfielder)",MCI,7.0,1,65,0,1,0,0,0,0,0,1,0,0,0,WHU,26,27/02/2021,MID,True
+"Walker (Kyle)  Kyle Walker (Manchester City, Defender)",MCI,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,26,27/02/2021,DEF,True
+"Zinchenko  Oleksandr Zinchenko (Manchester City, Defender)",MCI,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,26,27/02/2021,DEF,True
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,0,29,1,0,0,0,0,0,0,0,0,0,0,WHU,26,27/02/2021,FWD,True
+"Antonio  Michail Antonio (West Ham United, Forward)",WHU,7.5,1,84,0,1,1,0,0,0,0,2,0,0,0,MCI,26,27/02/2021,FWD,False
+"Benrahma  Said Benrahma (West Ham United, Midfielder)",WHU,6.0,0,6,1,0,0,0,0,0,0,0,0,0,0,MCI,26,27/02/2021,MID,False
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,0,6,1,0,0,0,0,0,0,0,0,0,0,MCI,26,27/02/2021,MID,False
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,MCI,26,27/02/2021,DEF,False
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,MCI,26,27/02/2021,DEF,False
+"Dawson  Craig Dawson (West Ham United, Defender)",WHU,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,MCI,26,27/02/2021,DEF,False
+"Diop  Issa Diop (West Ham United, Defender)",WHU,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,MCI,26,27/02/2021,DEF,False
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,1,90,0,0,0,0,0,0,0,2,0,0,0,MCI,26,27/02/2021,MID,False
+"Johnson (Ben)  Ben Johnson (West Ham United, Defender)",WHU,4.0,1,84,0,1,0,0,0,0,0,2,0,1,0,MCI,26,27/02/2021,DEF,False
+"Lingard  Jesse Lingard (West Ham United, Midfielder)",WHU,7.0,1,90,0,0,0,1,0,1,0,2,0,0,0,MCI,26,27/02/2021,MID,False
+"Randolph  Darren Randolph (West Ham United, Goalkeeper)",WHU,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,MCI,26,27/02/2021,GKP,False
+"Rice  Declan Rice (West Ham United, Midfielder)",WHU,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,MCI,26,27/02/2021,MID,False
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,1,90,0,0,0,0,0,0,0,2,0,0,0,MCI,26,27/02/2021,MID,False

@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Alioski  Ezgjan Alioski (Leeds United, Defender)",LEE,4.4,1,90,0,0,0,1,0,1,0,1,0,0,0,TOT,35,08/05/2021,DEF,True
+"Ayling  Luke Ayling (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,35,08/05/2021,DEF,True
+"Bamford  Patrick Bamford (Leeds United, Forward)",LEE,8.0,1,79,0,1,1,0,0,0,0,1,0,0,0,TOT,35,08/05/2021,FWD,True
+"Dallas  Stuart Dallas (Leeds United, Defender)",LEE,5.5,1,90,0,0,1,0,0,0,0,1,0,0,0,TOT,35,08/05/2021,DEF,True
+"Raphinha  Raphael Dias Belloli (Leeds United, Midfielder)",LEE,6.5,0,32,1,0,0,1,0,1,0,0,0,0,0,TOT,35,08/05/2021,MID,True
+"Harrison  Jack Harrison (Leeds United, Midfielder)",LEE,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,35,08/05/2021,MID,True
+"Klich  Mateusz Klich (Leeds United, Midfielder)",LEE,5.5,1,89,0,1,0,0,0,0,0,1,0,0,0,TOT,35,08/05/2021,MID,True
+"Koch  Robin Koch (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,0,1,0,1,0,TOT,35,08/05/2021,DEF,True
+"Diego Llorente  Diego Javier Llorente Ríos (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,35,08/05/2021,DEF,True
+"Meslier  Illan Meslier (Leeds United, Goalkeeper)",LEE,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,35,08/05/2021,GKP,True
+"Rodrigo  Rodrigo Moreno Machado (Leeds United, Forward)",LEE,6.5,0,11,1,0,1,0,0,0,0,0,0,0,0,TOT,35,08/05/2021,FWD,True
+"Phillips (Kalvin)  Kalvin Phillips (Leeds United, Midfielder)",LEE,5.0,0,1,1,0,0,0,0,0,0,0,0,0,0,TOT,35,08/05/2021,MID,True
+"Roberts (Tyler)  Tyler Roberts (Leeds United, Midfielder)",LEE,5.0,1,58,0,1,0,0,0,0,0,1,0,0,0,TOT,35,08/05/2021,MID,True
+"Struijk  Pascal Struijk (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,TOT,35,08/05/2021,DEF,True
+"Alderweireld  Toby Alderweireld (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,LEE,35,08/05/2021,DEF,False
+"Alli  Bamidele Alli (Tottenham Hotspur, Midfielder)",TOT,6.5,1,67,0,1,0,1,0,1,0,2,0,0,0,LEE,35,08/05/2021,MID,False
+"Aurier  Serge Aurier (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,LEE,35,08/05/2021,DEF,False
+"Bale  Gareth Bale (Tottenham Hotspur, Midfielder)",TOT,9.2,1,67,0,1,0,0,0,0,0,2,0,0,0,LEE,35,08/05/2021,MID,False
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,LEE,35,08/05/2021,DEF,False
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,LEE,35,08/05/2021,MID,False
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,1,90,0,0,0,0,0,0,0,3,0,0,0,LEE,35,08/05/2021,FWD,False
+"Lamela  Erik Lamela (Tottenham Hotspur, Midfielder)",TOT,6.0,0,23,1,0,0,0,0,0,0,1,0,0,0,LEE,35,08/05/2021,MID,False
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,1,90,0,0,0,0,0,0,0,3,0,0,0,LEE,35,08/05/2021,GKP,False
+"Lo Celso  Giovani Lo Celso (Tottenham Hotspur, Midfielder)",TOT,6.0,1,80,0,1,0,0,0,0,0,2,0,0,0,LEE,35,08/05/2021,MID,False
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,0,10,1,0,0,0,0,0,0,1,0,0,0,LEE,35,08/05/2021,MID,False
+"Reguilón  Sergio Reguilón (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,0,0,0,3,0,1,0,LEE,35,08/05/2021,DEF,False
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,0,23,1,0,0,0,0,0,0,1,0,1,0,LEE,35,08/05/2021,MID,False
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,1,90,0,0,1,0,0,0,0,3,0,0,0,LEE,35,08/05/2021,MID,False

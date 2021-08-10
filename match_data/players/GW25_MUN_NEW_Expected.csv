@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,1,0.11,0.89,818.2,1,0.82,0.18,109.8,0.93,1.07,96.8,21/02/2021
+"De Gea  David De Gea (Manchester United, Goalkeeper)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/02/2021
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,0,0.02,-0.02,1000.0,0,0.08,-0.08,250.0,0.1,-0.1,200.0,21/02/2021
+"James (Daniel)  Daniel James (Manchester United, Midfielder)",MUN,6.0,0,0.02,-0.02,4400.0,1,0.33,0.67,266.7,0.35,0.65,251.4,21/02/2021
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,1,0.01,0.99,9000.0,0,0.13,-0.13,692.3,0.14,0.86,642.9,21/02/2021
+"Martial  Anthony Martial (Manchester United, Forward)",MUN,8.0,0,0.02,-0.02,3500.0,0,0.07,-0.07,1000.0,0.09,-0.09,777.8,21/02/2021
+"Mata  Juan Mata (Manchester United, Midfielder)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/02/2021
+"Matic  Nemanja Matic (Manchester United, Midfielder)",MUN,4.5,0,0.13,-0.13,692.3,0,0.14,-0.14,642.9,0.27,-0.27,333.3,21/02/2021
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,21/02/2021
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,0,0.05,-0.05,1780.0,1,0.08,0.92,1112.5,0.13,0.87,684.6,21/02/2021
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,0,0.04,-0.04,2250.0,0,0.06,-0.06,1500.0,0.1,-0.1,900.0,21/02/2021
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,0,0.33,-0.33,272.7,0,0.0,0.0,inf,0.33,-0.33,272.7,21/02/2021
+"Shoretire  Shola Shoretire (Manchester United, Midfielder)",MUN,4.4,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/02/2021
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,0,0.02,-0.02,4500.0,0,0.03,-0.03,3000.0,0.05,-0.05,1800.0,21/02/2021
+"Almirón  Miguel Almirón (Newcastle United, Midfielder)",NEW,5.5,0,0.02,-0.02,3950.0,0,0.02,-0.02,3950.0,0.04,-0.04,1975.0,21/02/2021
+"Joelinton  Joelinton Cássio Apolinário de Lira (Newcastle United, Forward)",NEW,6.0,0,0.03,-0.03,1833.3,0,0.1,-0.1,550.0,0.13,-0.13,423.1,21/02/2021
+"Clark  Ciaran Clark (Newcastle United, Defender)",NEW,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/02/2021
+"Darlow  Karl Darlow (Newcastle United, Goalkeeper)",NEW,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/02/2021
+"Fraser  Ryan Fraser (Newcastle United, Midfielder)",NEW,5.5,0,0.01,-0.01,3500.0,0,0.03,-0.03,1166.7,0.04,-0.04,875.0,21/02/2021
+"Gayle  Dwight Gayle (Newcastle United, Forward)",NEW,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/02/2021
+"Hayden (Isaac)  Isaac Hayden (Newcastle United, Midfielder)",NEW,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,21/02/2021
+"Krafth  Emil Krafth (Newcastle United, Defender)",NEW,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,21/02/2021
+"Lascelles  Jamaal Lascelles (Newcastle United, Defender)",NEW,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/02/2021
+"Lewis (Jamal)  Jamal Lewis (Newcastle United, Defender)",NEW,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/02/2021
+"Jacob Murphy  Jacob Murphy (Newcastle United, Midfielder)",NEW,5.0,0,0.0,0.0,inf,0,0.03,-0.03,433.3,0.03,-0.03,433.3,21/02/2021
+"Saint-Maximin  Allan Saint-Maximin (Newcastle United, Midfielder)",NEW,6.5,0,0.0,0.0,inf,1,0.1,0.9,770.0,0.1,0.9,770.0,21/02/2021
+"Shelvey  Jonjo Shelvey (Newcastle United, Midfielder)",NEW,5.5,0,0.02,-0.02,4500.0,0,0.08,-0.08,1125.0,0.1,-0.1,900.0,21/02/2021
+"Willock  Joseph Willock (Newcastle United, Midfielder)",NEW,6.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,21/02/2021

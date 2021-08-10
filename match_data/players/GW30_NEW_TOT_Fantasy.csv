@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Almirón  Miguel Almirón (Newcastle United, Midfielder)",NEW,5.5,1,90,0,0,0,0,1,1,0,2,0,1,0,TOT,30,04/04/2021,MID,True
+"Joelinton  Joelinton Cássio Apolinário de Lira (Newcastle United, Forward)",NEW,6.0,1,90,0,0,1,0,0,0,0,2,0,0,0,TOT,30,04/04/2021,FWD,True
+"Dubravka  Martin Dubravka (Newcastle United, Goalkeeper)",NEW,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,TOT,30,04/04/2021,GKP,True
+"Dummett  Paul Dummett (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,2,0,1,0,TOT,30,04/04/2021,DEF,True
+"Gayle  Dwight Gayle (Newcastle United, Forward)",NEW,5.5,1,71,0,1,0,0,0,0,0,2,0,0,0,TOT,30,04/04/2021,FWD,True
+"Krafth  Emil Krafth (Newcastle United, Defender)",NEW,4.5,1,79,0,1,0,0,0,0,0,2,0,0,0,TOT,30,04/04/2021,DEF,True
+"Lascelles  Jamaal Lascelles (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,TOT,30,04/04/2021,DEF,True
+"Longstaff (Sean)  Sean Longstaff (Newcastle United, Midfielder)",NEW,4.5,1,90,0,0,0,1,0,1,0,2,0,0,0,TOT,30,04/04/2021,MID,True
+"Manquillo  Javier Manquillo (Newcastle United, Defender)",NEW,4.0,0,7,1,0,0,0,0,0,0,0,0,0,0,TOT,30,04/04/2021,DEF,True
+"Jacob Murphy  Jacob Murphy (Newcastle United, Midfielder)",NEW,5.0,1,83,0,1,0,0,0,0,0,2,0,0,0,TOT,30,04/04/2021,MID,True
+"Ritchie  Matt Ritchie (Newcastle United, Midfielder)",NEW,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,TOT,30,04/04/2021,MID,True
+"Saint-Maximin  Allan Saint-Maximin (Newcastle United, Midfielder)",NEW,6.5,0,19,1,0,0,0,0,0,0,0,0,0,0,TOT,30,04/04/2021,MID,True
+"Shelvey  Jonjo Shelvey (Newcastle United, Midfielder)",NEW,5.5,1,90,0,0,0,0,0,0,0,2,0,1,0,TOT,30,04/04/2021,MID,True
+"Willock  Joseph Willock (Newcastle United, Midfielder)",NEW,6.0,0,11,1,0,1,0,0,0,0,0,0,0,0,TOT,30,04/04/2021,MID,True
+"Carlos Vinicius  Carlos Vinicius Alves Morais (Tottenham Hotspur, Forward)",TOT,6.9,1,45,0,1,0,0,0,0,0,1,0,0,0,NEW,30,04/04/2021,FWD,False
+"Bale  Gareth Bale (Tottenham Hotspur, Midfielder)",TOT,9.2,0,2,1,0,0,0,0,0,0,0,0,0,0,NEW,30,04/04/2021,MID,False
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,30,04/04/2021,MID,False
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,1,90,0,0,2,0,0,0,0,2,0,0,0,NEW,30,04/04/2021,FWD,False
+"Lamela  Erik Lamela (Tottenham Hotspur, Midfielder)",TOT,6.0,0,26,1,0,0,0,0,0,0,1,0,0,0,NEW,30,04/04/2021,MID,False
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,30,04/04/2021,GKP,False
+"Lo Celso  Giovani Lo Celso (Tottenham Hotspur, Midfielder)",TOT,6.0,1,88,0,1,0,0,0,0,0,2,0,1,0,NEW,30,04/04/2021,MID,False
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,1,90,0,0,0,1,0,1,0,2,0,0,0,NEW,30,04/04/2021,MID,False
+"Reguilón  Sergio Reguilón (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,30,04/04/2021,DEF,False
+"Rodon  Joe Rodon (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,30,04/04/2021,DEF,False
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,1,64,0,1,0,0,0,0,0,1,0,0,0,NEW,30,04/04/2021,MID,False
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,0,45,1,0,0,0,0,0,0,1,0,0,0,NEW,30,04/04/2021,MID,False
+"DSanchez  Davinson Sánchez (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,NEW,30,04/04/2021,DEF,False
+"Tanganga  Japhet Tanganga (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,0,2,0,1,0,NEW,30,04/04/2021,DEF,False

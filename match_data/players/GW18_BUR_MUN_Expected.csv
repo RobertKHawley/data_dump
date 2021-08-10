@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Barnes (Ashley)  Ashley Barnes (Burnley, Forward)",BUR,5.5,0,0.04,-0.04,2175.0,0,0.03,-0.03,2900.0,0.07,-0.07,1242.9,12/01/2021
+"Gudmundsson  Johann Berg Gudmundsson (Burnley, Midfielder)",BUR,5.5,0,0.01,-0.01,9000.0,0,0.03,-0.03,3000.0,0.04,-0.04,2250.0,12/01/2021
+"Brady  Robert Brady (Burnley, Midfielder)",BUR,5.0,0,0.0,0.0,inf,0,0.06,-0.06,1083.3,0.06,-0.06,1083.3,12/01/2021
+"Brownhill  Josh Brownhill (Burnley, Midfielder)",BUR,4.5,0,0.03,-0.03,3000.0,0,0.03,-0.03,3000.0,0.06,-0.06,1500.0,12/01/2021
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,12/01/2021
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/01/2021
+"Mee  Ben Mee (Burnley, Defender)",BUR,5.0,0,0.0,0.0,inf,0,0.03,-0.03,3000.0,0.03,-0.03,3000.0,12/01/2021
+"Pieters  Erik Pieters (Burnley, Defender)",BUR,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/01/2021
+"Pope  Nick Pope (Burnley, Goalkeeper)",BUR,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/01/2021
+"Rodriguez  Jay Rodriguez (Burnley, Forward)",BUR,5.5,0,0.01,-0.01,300.0,0,0.0,0.0,inf,0.01,-0.01,300.0,12/01/2021
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,0,0.1,-0.1,900.0,0,0.46,-0.46,195.7,0.56,-0.56,160.7,12/01/2021
+"Vydra  Matej Vydra (Burnley, Forward)",BUR,5.5,0,0.0,0.0,inf,0,0.18,-0.18,55.6,0.18,-0.18,55.6,12/01/2021
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,0,0.13,-0.13,692.3,0,0.0,0.0,inf,0.13,-0.13,692.3,12/01/2021
+"Wood  Chris Wood (Burnley, Forward)",BUR,7.0,0,0.01,-0.01,8000.0,0,0.08,-0.08,1000.0,0.09,-0.09,888.9,12/01/2021
+"Bailly  Eric Bailly (Manchester United, Defender)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/01/2021
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,0,0.26,-0.26,342.3,0,0.14,-0.14,635.7,0.4,-0.4,222.5,12/01/2021
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,0,0.05,-0.05,1800.0,0,0.34,-0.34,264.7,0.39,-0.39,230.8,12/01/2021
+"De Gea  David De Gea (Manchester United, Goalkeeper)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/01/2021
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/01/2021
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,12/01/2021
+"Martial  Anthony Martial (Manchester United, Forward)",MUN,8.0,0,0.13,-0.13,684.6,0,0.61,-0.61,145.9,0.74,-0.74,120.3,12/01/2021
+"Matic  Nemanja Matic (Manchester United, Midfielder)",MUN,4.5,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,12/01/2021
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/01/2021
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,0,0.29,-0.29,310.3,1,0.06,0.94,1500.0,0.35,0.65,257.1,12/01/2021
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,1,0.1,0.9,800.0,0,0.0,0.0,inf,0.1,0.9,800.0,12/01/2021
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,0,0.29,-0.29,310.3,0,0.0,0.0,inf,0.29,-0.29,310.3,12/01/2021
+"Tuanzebe  Axel Tuanzebe (Manchester United, Defender)",MUN,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/01/2021
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,12/01/2021

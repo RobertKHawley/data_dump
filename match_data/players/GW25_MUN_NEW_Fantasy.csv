@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,1,90,0,0,1,1,0,1,0,1,0,1,0,NEW,25,21/02/2021,MID,True
+"De Gea  David De Gea (Manchester United, Goalkeeper)",MUN,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,25,21/02/2021,GKP,True
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,0,20,1,0,0,0,0,0,0,0,0,0,0,NEW,25,21/02/2021,MID,True
+"James (Daniel)  Daniel James (Manchester United, Midfielder)",MUN,6.0,1,88,0,1,1,0,0,0,0,1,0,0,0,NEW,25,21/02/2021,MID,True
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,1,0,1,0,1,0,0,0,NEW,25,21/02/2021,DEF,True
+"Martial  Anthony Martial (Manchester United, Forward)",MUN,8.0,1,70,0,1,0,0,0,0,0,1,0,0,0,NEW,25,21/02/2021,FWD,True
+"Mata  Juan Mata (Manchester United, Midfielder)",MUN,5.0,0,2,1,0,0,0,0,0,0,0,0,0,0,NEW,25,21/02/2021,MID,True
+"Matic  Nemanja Matic (Manchester United, Midfielder)",MUN,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,25,21/02/2021,MID,True
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,25,21/02/2021,DEF,True
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,1,89,0,1,1,0,1,1,0,1,0,0,0,NEW,25,21/02/2021,MID,True
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,25,21/02/2021,MID,True
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,25,21/02/2021,DEF,True
+"Shoretire  Shola Shoretire (Manchester United, Midfielder)",MUN,4.4,0,1,1,0,0,0,0,0,0,0,0,0,0,NEW,25,21/02/2021,MID,True
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,NEW,25,21/02/2021,DEF,True
+"Almirón  Miguel Almirón (Newcastle United, Midfielder)",NEW,5.5,1,79,0,1,0,0,0,0,0,3,0,0,0,MUN,25,21/02/2021,MID,False
+"Joelinton  Joelinton Cássio Apolinário de Lira (Newcastle United, Forward)",NEW,6.0,1,55,0,1,0,0,0,0,0,1,0,1,0,MUN,25,21/02/2021,FWD,False
+"Clark  Ciaran Clark (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,25,21/02/2021,DEF,False
+"Darlow  Karl Darlow (Newcastle United, Goalkeeper)",NEW,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,25,21/02/2021,GKP,False
+"Fraser  Ryan Fraser (Newcastle United, Midfielder)",NEW,5.5,0,35,1,0,0,0,0,0,0,2,0,0,0,MUN,25,21/02/2021,MID,False
+"Gayle  Dwight Gayle (Newcastle United, Forward)",NEW,5.5,0,11,1,0,0,0,0,0,0,0,0,0,0,MUN,25,21/02/2021,FWD,False
+"Hayden (Isaac)  Isaac Hayden (Newcastle United, Midfielder)",NEW,4.5,1,90,0,0,0,0,0,0,0,3,0,1,0,MUN,25,21/02/2021,MID,False
+"Krafth  Emil Krafth (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,25,21/02/2021,DEF,False
+"Lascelles  Jamaal Lascelles (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,25,21/02/2021,DEF,False
+"Lewis (Jamal)  Jamal Lewis (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,25,21/02/2021,DEF,False
+"Jacob Murphy  Jacob Murphy (Newcastle United, Midfielder)",NEW,5.0,0,13,1,0,0,0,0,0,0,0,0,0,0,MUN,25,21/02/2021,MID,False
+"Saint-Maximin  Allan Saint-Maximin (Newcastle United, Midfielder)",NEW,6.5,1,77,0,1,1,0,0,0,0,3,0,0,0,MUN,25,21/02/2021,MID,False
+"Shelvey  Jonjo Shelvey (Newcastle United, Midfielder)",NEW,5.5,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,25,21/02/2021,MID,False
+"Willock  Joseph Willock (Newcastle United, Midfielder)",NEW,6.0,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,25,21/02/2021,MID,False

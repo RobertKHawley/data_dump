@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Barkley  Ross Barkley (Aston Villa, Midfielder)",AVL,5.5,0,0.13,-0.13,530.8,0,0.09,-0.09,766.7,0.22,-0.22,313.6,03/02/2021
+"Cash  Matthew Cash (Aston Villa, Defender)",AVL,5.0,0,0.1,-0.1,900.0,0,0.0,0.0,inf,0.1,-0.1,900.0,03/02/2021
+"El Ghazi  Anwar El Ghazi (Aston Villa, Midfielder)",AVL,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/02/2021
+"Grealish  Jack Grealish (Aston Villa, Midfielder)",AVL,8.0,1,0.27,0.73,333.3,0,0.06,-0.06,1500.0,0.33,0.67,272.7,03/02/2021
+"Trezeguet  Mahmoud Hassan (Aston Villa, Midfielder)",AVL,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/02/2021
+"Konsa Ngoyo  Ezri Konsa Ngoyo (Aston Villa, Defender)",AVL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/02/2021
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/02/2021
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,0,0.07,-0.07,1285.7,0,0.0,0.0,inf,0.07,-0.07,1285.7,03/02/2021
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,0,0.02,-0.02,4500.0,0,0.04,-0.04,2250.0,0.06,-0.06,1500.0,03/02/2021
+"Sanson  Morgan Sanson (Aston Villa, Midfielder)",AVL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/02/2021
+"Douglas Luiz  Douglas Luiz Soares de Paulo (Aston Villa, Midfielder)",AVL,4.5,0,0.01,-0.01,8000.0,0,0.02,-0.02,4000.0,0.03,-0.03,2666.7,03/02/2021
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,03/02/2021
+"Traore (Bertrand)  Bertrand Traore (Aston Villa, Midfielder)",AVL,6.0,0,0.02,-0.02,2250.0,0,0.04,-0.04,1125.0,0.06,-0.06,750.0,03/02/2021
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,0,0.02,-0.02,4500.0,1,0.5,0.5,180.0,0.52,0.48,173.1,03/02/2021
+"Antonio  Michail Antonio (West Ham United, Forward)",WHU,7.5,2,0.05,1.95,1800.0,0,0.68,-0.68,132.4,0.73,1.27,123.3,03/02/2021
+"Benrahma  Said Benrahma (West Ham United, Midfielder)",WHU,6.0,1,0.14,0.86,628.6,0,0.32,-0.32,275.0,0.46,0.54,191.3,03/02/2021
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/02/2021
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,0,0.09,-0.09,1000.0,0,0.05,-0.05,1800.0,0.14,-0.14,642.9,03/02/2021
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,0,0.23,-0.23,391.3,0,0.1,-0.1,900.0,0.33,-0.33,272.7,03/02/2021
+"Dawson  Craig Dawson (West Ham United, Defender)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/02/2021
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/02/2021
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,0,0.01,-0.01,600.0,0,0.0,0.0,inf,0.01,-0.01,600.0,03/02/2021
+"Fredericks  Ryan Fredericks (West Ham United, Defender)",WHU,4.5,0,0.18,-0.18,466.7,0,0.0,0.0,inf,0.18,-0.18,466.7,03/02/2021
+"Johnson (Ben)  Ben Johnson (West Ham United, Defender)",WHU,4.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/02/2021
+"Lingard  Jesse Lingard (West Ham United, Midfielder)",WHU,7.0,0,0.12,-0.12,741.7,2,0.27,1.73,329.6,0.39,1.61,228.2,03/02/2021
+"Ogbonna  Angelo Ogbonna (West Ham United, Defender)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/02/2021
+"Rice  Declan Rice (West Ham United, Midfielder)",WHU,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,03/02/2021
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,0,0.17,-0.17,529.4,1,0.26,0.74,346.2,0.43,0.57,209.3,03/02/2021

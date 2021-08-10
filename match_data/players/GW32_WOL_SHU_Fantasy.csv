@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Ampadu  Ethan Ampadu (Sheffield United, Defender)",SHU,4.5,1,83,0,1,0,0,0,0,0,1,0,0,0,WOL,32,17/04/2021,DEF,False
+"Baldock  George Baldock (Sheffield United, Defender)",SHU,4.9,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,32,17/04/2021,DEF,False
+"Bogle  Jayden Bogle (Sheffield United, Defender)",SHU,4.3,0,7,1,0,0,0,0,0,0,0,0,0,0,WOL,32,17/04/2021,DEF,False
+"Brewster  Rhian Brewster (Sheffield United, Forward)",SHU,4.2,1,75,0,1,0,0,0,0,0,1,0,1,0,WOL,32,17/04/2021,FWD,False
+"Bryan (Kean)  Kean Bryan (Sheffield United, Defender)",SHU,3.9,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,32,17/04/2021,DEF,False
+"Oliver Burke  Oliver Burke (Sheffield United, Midfielder)",SHU,4.1,0,15,1,0,0,0,0,0,0,0,0,0,0,WOL,32,17/04/2021,MID,False
+"Egan  John Egan (Sheffield United, Defender)",SHU,4.7,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,32,17/04/2021,DEF,False
+"Fleck  John Fleck (Sheffield United, Midfielder)",SHU,5.6,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,32,17/04/2021,MID,False
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,32,17/04/2021,FWD,False
+"Mousset  Lys Mousset (Sheffield United, Forward)",SHU,5.8,0,15,1,0,0,0,0,0,0,0,0,0,0,WOL,32,17/04/2021,FWD,False
+"Norwood  Oliver Norwood (Sheffield United, Midfielder)",SHU,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,32,17/04/2021,MID,False
+"Osborn  Ben Osborn (Sheffield United, Midfielder)",SHU,4.7,1,75,0,1,0,0,0,0,0,1,0,0,0,WOL,32,17/04/2021,MID,False
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,1,90,0,0,0,0,0,0,0,1,0,0,0,WOL,32,17/04/2021,GKP,False
+"Stevens (Enda)  Enda Stevens (Sheffield United, Defender)",SHU,5.0,1,90,0,0,0,0,0,0,0,1,0,1,0,WOL,32,17/04/2021,DEF,False
+"Ait Nouri  Rayan Ait Nouri (Wolverhampton Wanderers, Defender)",WOL,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,32,17/04/2021,DEF,True
+"Boly  Willy Boly (Wolverhampton Wanderers, Defender)",WOL,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,32,17/04/2021,DEF,True
+"Coady  Conor Coady (Wolverhampton Wanderers, Defender)",WOL,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,32,17/04/2021,DEF,True
+"Willian José  Willian José Da Silva (Wolverhampton Wanderers, Forward)",WOL,6.8,1,77,0,1,1,0,0,0,1,0,0,0,0,SHU,32,17/04/2021,FWD,True
+"Dendoncker (Leander)  Leander Dendoncker (Wolverhampton Wanderers, Midfielder)",WOL,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,32,17/04/2021,MID,True
+"Vitor Ferreira  Vitor Machado Ferreira (Wolverhampton Wanderers, Midfielder)",WOL,4.7,0,18,1,0,0,0,0,0,0,0,0,0,0,SHU,32,17/04/2021,MID,True
+"Moutinho  João Moutinho (Wolverhampton Wanderers, Midfielder)",WOL,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,32,17/04/2021,MID,True
+"Podence  Daniel Podence (Wolverhampton Wanderers, Midfielder)",WOL,5.5,1,72,0,1,0,0,0,0,1,0,0,1,0,SHU,32,17/04/2021,MID,True
+"Saiss  Romain Saiss (Wolverhampton Wanderers, Defender)",WOL,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,32,17/04/2021,DEF,True
+"Semedo  Nelson Semedo (Wolverhampton Wanderers, Defender)",WOL,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,32,17/04/2021,DEF,True
+"Fabio Silva  Fabio Daniel Soares Silva (Wolverhampton Wanderers, Forward)",WOL,6.0,0,13,1,0,0,0,0,0,0,0,0,0,0,SHU,32,17/04/2021,FWD,True
+"Traoré  Adama Traoré (Wolverhampton Wanderers, Midfielder)",WOL,6.0,1,90,0,0,0,1,0,1,1,0,0,0,0,SHU,32,17/04/2021,MID,True
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,SHU,32,17/04/2021,GKP,True

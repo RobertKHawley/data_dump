@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Tosin  Oluwatosin Adarabioyo (Fulham, Defender)",FUL,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,WBA,21,30/01/2021,DEF,False
+"Aina  Ola Aina (Fulham, Defender)",FUL,4.3,1,81,0,1,0,0,0,0,0,2,0,0,0,WBA,21,30/01/2021,DEF,False
+"Andersen  Joachim Andersen (Fulham, Defender)",FUL,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,WBA,21,30/01/2021,DEF,False
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,WBA,21,30/01/2021,GKP,False
+"Cavaleiro  Ivan Cavaleiro (Fulham, Midfielder)",FUL,5.3,0,18,1,0,1,0,0,0,0,0,0,0,0,WBA,21,30/01/2021,MID,False
+"DeCordova-Reid  Bobby DeCordova-Reid (Fulham, Forward)",FUL,5.3,1,72,0,1,1,0,0,0,0,2,0,0,0,WBA,21,30/01/2021,FWD,False
+"Lemina  Mario Lemina (Fulham, Midfielder)",FUL,4.5,1,72,0,1,0,0,0,0,0,2,0,0,0,WBA,21,30/01/2021,MID,False
+"Loftus-Cheek  Ruben Loftus-Cheek (Fulham, Midfielder)",FUL,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,WBA,21,30/01/2021,MID,False
+"Lookman  Ademola Lookman (Fulham, Midfielder)",FUL,4.7,1,90,0,0,0,0,0,0,0,2,0,0,0,WBA,21,30/01/2021,MID,False
+"Mitrovic  Aleksandar Mitrovic (Fulham, Forward)",FUL,5.5,1,90,0,0,0,1,0,1,0,2,0,0,0,WBA,21,30/01/2021,FWD,False
+"Reed  Harrison Reed (Fulham, Midfielder)",FUL,4.4,0,18,1,0,0,1,0,1,0,0,0,0,0,WBA,21,30/01/2021,MID,False
+"Robinson (Antonee)  Antonee Robinson (Fulham, Defender)",FUL,4.4,1,90,0,0,0,0,0,0,0,2,0,0,0,WBA,21,30/01/2021,DEF,False
+"Tete  Kenny Tete (Fulham, Defender)",FUL,4.3,0,9,1,0,0,0,0,0,0,0,0,0,0,WBA,21,30/01/2021,DEF,False
+"Zambo Anguissa  André-Frank Zambo Anguissa (Fulham, Midfielder)",FUL,4.4,1,90,0,0,0,0,0,0,0,2,0,0,0,WBA,21,30/01/2021,MID,False
+"Ajayi  Semi Ajayi (West Bromwich Albion, Defender)",WBA,4.8,1,90,0,0,0,0,0,0,0,2,0,0,0,FUL,21,30/01/2021,DEF,True
+"Bartley  Kyle Bartley (West Bromwich Albion, Defender)",WBA,4.4,1,90,0,0,1,0,0,0,0,2,0,1,0,FUL,21,30/01/2021,DEF,True
+"Matheus Pereira  Matheus Fellipe Costa Pereira (West Bromwich Albion, Midfielder)",WBA,5.4,1,90,0,0,1,0,1,1,0,2,0,0,0,FUL,21,30/01/2021,MID,True
+"Diagne  Mbaye Diagne (West Bromwich Albion, Forward)",WBA,6.0,0,45,1,0,0,1,0,1,0,1,0,0,0,FUL,21,30/01/2021,FWD,True
+"Furlong  Darnell Furlong (West Bromwich Albion, Defender)",WBA,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,FUL,21,30/01/2021,DEF,True
+"Gallagher  Conor Gallagher (West Bromwich Albion, Midfielder)",WBA,5.5,1,90,0,0,0,0,0,0,0,2,0,0,0,FUL,21,30/01/2021,MID,True
+"Gibbs  Kieran Gibbs (West Bromwich Albion, Defender)",WBA,4.3,1,90,0,0,0,0,0,0,0,2,0,0,0,FUL,21,30/01/2021,DEF,True
+"Grant (Karlan)  Karlan Grant (West Bromwich Albion, Forward)",WBA,5.6,0,66,1,0,0,0,0,0,0,1,0,0,0,FUL,21,30/01/2021,FWD,True
+"Johnstone  Sam Johnstone (West Bromwich Albion, Goalkeeper)",WBA,4.6,1,90,0,0,0,0,0,0,0,2,0,0,0,FUL,21,30/01/2021,GKP,True
+"Livermore  Jake Livermore (West Bromwich Albion, Midfielder)",WBA,4.7,1,83,0,1,0,0,0,0,0,2,0,0,0,FUL,21,30/01/2021,MID,True
+"O'Shea  Dara O&#039;Shea (West Bromwich Albion, Defender)",WBA,4.2,1,24,0,1,0,0,0,0,0,1,0,0,0,FUL,21,30/01/2021,DEF,True
+"Phillips (Matthew)  Matthew Phillips (West Bromwich Albion, Midfielder)",WBA,5.1,0,7,1,0,0,0,0,0,0,0,0,0,0,FUL,21,30/01/2021,MID,True
+"Robinson (Callum)  Callum Robinson (West Bromwich Albion, Forward)",WBA,5.2,1,45,0,1,0,0,0,0,0,1,0,0,0,FUL,21,30/01/2021,FWD,True
+"Snodgrass  Robert Snodgrass (West Bromwich Albion, Midfielder)",WBA,5.6,1,90,0,0,0,0,0,0,0,2,0,0,0,FUL,21,30/01/2021,MID,True

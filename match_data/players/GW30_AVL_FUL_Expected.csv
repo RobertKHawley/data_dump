@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Cash  Matthew Cash (Aston Villa, Defender)",AVL,5.0,0,0.25,-0.25,360.0,0,0.0,0.0,inf,0.25,-0.25,360.0,04/04/2021
+"Davis (Keinan)  Keinan Davis (Aston Villa, Forward)",AVL,4.5,1,0.12,0.88,191.7,0,0.0,0.0,inf,0.12,0.88,191.7,04/04/2021
+"El Ghazi  Anwar El Ghazi (Aston Villa, Midfielder)",AVL,6.0,0,0.08,-0.08,775.0,0,0.03,-0.03,2066.7,0.11,-0.11,563.6,04/04/2021
+"Trezeguet  Mahmoud Hassan (Aston Villa, Midfielder)",AVL,5.5,0,0.01,-0.01,2800.0,2,0.48,1.52,58.3,0.49,1.51,57.1,04/04/2021
+"Konsa Ngoyo  Ezri Konsa Ngoyo (Aston Villa, Defender)",AVL,5.0,0,0.0,0.0,inf,0,0.12,-0.12,750.0,0.12,-0.12,750.0,04/04/2021
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,04/04/2021
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,0,0.02,-0.02,4500.0,0,0.08,-0.08,1125.0,0.1,-0.1,900.0,04/04/2021
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,1,0.03,0.97,3000.0,0,0.0,0.0,inf,0.03,0.97,3000.0,04/04/2021
+"Jacob Ramsey  Jacob Ramsey (Aston Villa, Midfielder)",AVL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,04/04/2021
+"Sanson  Morgan Sanson (Aston Villa, Midfielder)",AVL,5.0,0,0.02,-0.02,3350.0,0,0.02,-0.02,3350.0,0.04,-0.04,1675.0,04/04/2021
+"Douglas Luiz  Douglas Luiz Soares de Paulo (Aston Villa, Midfielder)",AVL,4.5,0,0.01,-0.01,7400.0,0,0.06,-0.06,1233.3,0.07,-0.07,1057.1,04/04/2021
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,04/04/2021
+"Traore (Bertrand)  Bertrand Traore (Aston Villa, Midfielder)",AVL,6.0,1,0.58,0.42,155.2,0,0.02,-0.02,4500.0,0.6,0.4,150.0,04/04/2021
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,0,0.01,-0.01,9000.0,1,0.66,0.34,136.4,0.67,0.33,134.3,04/04/2021
+"Tosin  Oluwatosin Adarabioyo (Fulham, Defender)",FUL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,04/04/2021
+"Aina  Ola Aina (Fulham, Defender)",FUL,4.3,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,04/04/2021
+"Andersen  Joachim Andersen (Fulham, Defender)",FUL,4.5,0,0.01,-0.01,9000.0,0,0.16,-0.16,562.5,0.17,-0.17,529.4,04/04/2021
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,04/04/2021
+"Cavaleiro  Ivan Cavaleiro (Fulham, Midfielder)",FUL,5.3,0,0.01,-0.01,4300.0,0,0.0,0.0,inf,0.01,-0.01,4300.0,04/04/2021
+"DeCordova-Reid  Bobby DeCordova-Reid (Fulham, Forward)",FUL,5.3,0,0.0,0.0,inf,0,0.13,-0.13,692.3,0.13,-0.13,692.3,04/04/2021
+"Lemina  Mario Lemina (Fulham, Midfielder)",FUL,4.5,0,0.01,-0.01,8300.0,0,0.0,0.0,inf,0.01,-0.01,8300.0,04/04/2021
+"Loftus-Cheek  Ruben Loftus-Cheek (Fulham, Midfielder)",FUL,5.5,0,0.03,-0.03,2766.7,0,0.04,-0.04,2075.0,0.07,-0.07,1185.7,04/04/2021
+"Lookman  Ademola Lookman (Fulham, Midfielder)",FUL,4.7,0,0.02,-0.02,2350.0,0,0.0,0.0,inf,0.02,-0.02,2350.0,04/04/2021
+"Maja  Josh Maja (Fulham, Forward)",FUL,5.0,0,0.09,-0.09,77.8,0,0.0,0.0,inf,0.09,-0.09,77.8,04/04/2021
+"Mitrovic  Aleksandar Mitrovic (Fulham, Forward)",FUL,5.5,0,0.02,-0.02,4500.0,1,0.41,0.59,219.5,0.43,0.57,209.3,04/04/2021
+"Onomah  Josh Onomah (Fulham, Midfielder)",FUL,4.6,0,0.0,0.0,inf,0,0.13,-0.13,53.8,0.13,-0.13,53.8,04/04/2021
+"Reed  Harrison Reed (Fulham, Midfielder)",FUL,4.4,0,0.01,-0.01,9000.0,0,0.05,-0.05,1800.0,0.06,-0.06,1500.0,04/04/2021
+"Tete  Kenny Tete (Fulham, Defender)",FUL,4.3,0,0.16,-0.16,562.5,0,0.04,-0.04,2250.0,0.2,-0.2,450.0,04/04/2021

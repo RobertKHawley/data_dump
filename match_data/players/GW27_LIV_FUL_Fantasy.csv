@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Tosin  Oluwatosin Adarabioyo (Fulham, Defender)",FUL,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,LIV,27,07/03/2021,DEF,False
+"Aina  Ola Aina (Fulham, Defender)",FUL,4.3,1,90,0,0,0,0,0,0,1,0,0,0,0,LIV,27,07/03/2021,DEF,False
+"Andersen  Joachim Andersen (Fulham, Defender)",FUL,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,LIV,27,07/03/2021,DEF,False
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LIV,27,07/03/2021,GKP,False
+"Cavaleiro  Ivan Cavaleiro (Fulham, Midfielder)",FUL,5.3,1,85,0,1,0,0,0,0,1,0,0,0,0,LIV,27,07/03/2021,MID,False
+"DeCordova-Reid  Bobby DeCordova-Reid (Fulham, Forward)",FUL,5.3,1,90,0,0,0,0,0,0,1,0,0,0,0,LIV,27,07/03/2021,FWD,False
+"Lemina  Mario Lemina (Fulham, Midfielder)",FUL,4.5,1,90,0,0,1,0,0,0,1,0,0,1,0,LIV,27,07/03/2021,MID,False
+"Loftus-Cheek  Ruben Loftus-Cheek (Fulham, Midfielder)",FUL,5.5,0,23,1,0,0,0,0,0,0,0,0,0,0,LIV,27,07/03/2021,MID,False
+"Lookman  Ademola Lookman (Fulham, Midfielder)",FUL,4.7,1,83,0,1,0,0,0,0,1,0,0,0,0,LIV,27,07/03/2021,MID,False
+"Maja  Josh Maja (Fulham, Forward)",FUL,5.0,1,67,0,1,0,0,0,0,1,0,0,0,0,LIV,27,07/03/2021,FWD,False
+"Mitrovic  Aleksandar Mitrovic (Fulham, Forward)",FUL,5.5,0,5,1,0,0,0,0,0,0,0,0,1,0,LIV,27,07/03/2021,FWD,False
+"Reed  Harrison Reed (Fulham, Midfielder)",FUL,4.4,1,90,0,0,0,0,0,0,1,0,0,0,0,LIV,27,07/03/2021,MID,False
+"Robinson (Antonee)  Antonee Robinson (Fulham, Defender)",FUL,4.4,0,7,1,0,0,0,0,0,0,0,0,0,0,LIV,27,07/03/2021,DEF,False
+"Tete  Kenny Tete (Fulham, Defender)",FUL,4.3,1,90,0,0,0,0,0,0,1,0,0,1,0,LIV,27,07/03/2021,DEF,False
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,0,14,1,0,0,0,0,0,0,0,0,0,0,FUL,27,07/03/2021,DEF,True
+"Keita  Naby Keita (Liverpool, Midfielder)",LIV,5.0,1,90,0,0,0,0,0,0,0,1,0,1,0,FUL,27,07/03/2021,MID,True
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,0,28,1,0,0,0,0,0,0,0,0,0,0,FUL,27,07/03/2021,MID,True
+"Milner  James Milner (Liverpool, Midfielder)",LIV,5.0,1,76,0,1,0,0,0,0,0,1,0,0,0,FUL,27,07/03/2021,MID,True
+"Phillips (Nathaniel)  Nathaniel Phillips (Liverpool, Defender)",LIV,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,27,07/03/2021,DEF,True
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,27,07/03/2021,GKP,True
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,27,07/03/2021,DEF,True
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,27,07/03/2021,MID,True
+"Shaqiri  Xherdan Shaqiri (Liverpool, Midfielder)",LIV,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,27,07/03/2021,MID,True
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,0,14,1,0,0,0,0,0,0,0,0,0,0,FUL,27,07/03/2021,MID,True
+"Diogo Jota  Diogo José Teixeira da Silva (Liverpool, Midfielder)",LIV,7.5,1,90,0,0,0,0,0,0,0,1,0,1,0,FUL,27,07/03/2021,MID,True
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,1,62,0,1,0,0,0,0,0,1,0,0,0,FUL,27,07/03/2021,MID,True
+"Williams (Neco)  Neco Williams (Liverpool, Defender)",LIV,4.0,1,76,0,1,0,0,0,0,0,1,0,0,0,FUL,27,07/03/2021,DEF,True
+"Rhys Williams  Rhys Williams (Liverpool, Defender)",LIV,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,27,07/03/2021,DEF,True

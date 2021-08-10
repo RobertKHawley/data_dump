@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Willian  Willian Borges Da Silva (Arsenal, Midfielder)",ARS,6.5,0,0.02,-0.02,350.0,0,0.0,0.0,inf,0.02,-0.02,350.0,23/04/2021
+"Dani Ceballos  Daniel Ceballos Fernández (Arsenal, Midfielder)",ARS,4.7,0,0.05,-0.05,1800.0,0,0.15,-0.15,600.0,0.2,-0.2,450.0,23/04/2021
+"Chambers  Calum Chambers (Arsenal, Defender)",ARS,4.5,0,0.15,-0.15,553.3,0,0.15,-0.15,553.3,0.3,-0.3,276.7,23/04/2021
+"Holding  Rob Holding (Arsenal, Defender)",ARS,4.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,23/04/2021
+"Leno  Bernd Leno (Arsenal, Goalkeeper)",ARS,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/04/2021
+"Gabriel Martinelli  Gabriel Teodoro Martinelli Silva (Arsenal, Midfielder)",ARS,5.5,0,0.0,0.0,inf,0,0.07,-0.07,228.6,0.07,-0.07,228.6,23/04/2021
+"Marí  Pablo Marí (Arsenal, Defender)",ARS,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,23/04/2021
+"Eddie Nketiah  Edward Nketiah (Arsenal, Forward)",ARS,5.5,0,0.08,-0.08,925.0,0,0.13,-0.13,569.2,0.21,-0.21,352.4,23/04/2021
+"Odegaard  Martin Odegaard (Arsenal, Midfielder)",ARS,5.6,0,0.01,-0.01,1600.0,0,0.0,0.0,inf,0.01,-0.01,1600.0,23/04/2021
+"Partey  Thomas Partey (Arsenal, Midfielder)",ARS,5.0,0,0.08,-0.08,1125.0,0,0.09,-0.09,1000.0,0.17,-0.17,529.4,23/04/2021
+"Pepe  Nicolas Pepe (Arsenal, Midfielder)",ARS,7.5,0,0.08,-0.08,925.0,0,0.07,-0.07,1057.1,0.15,-0.15,493.3,23/04/2021
+"Saka  Bukayo Saka (Arsenal, Midfielder)",ARS,6.5,0,0.11,-0.11,818.2,0,0.14,-0.14,642.9,0.25,-0.25,360.0,23/04/2021
+"Smith-Rowe  Emile Smith-Rowe (Arsenal, Midfielder)",ARS,5.5,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,23/04/2021
+"Xhaka  Granit Xhaka (Arsenal, Midfielder)",ARS,5.0,0,0.07,-0.07,1285.7,0,0.0,0.0,inf,0.07,-0.07,1285.7,23/04/2021
+"Calvert-Lewin  Dominic Calvert-Lewin (Everton, Forward)",EVE,8.0,0,0.0,0.0,inf,0,0.1,-0.1,900.0,0.1,-0.1,900.0,23/04/2021
+"Coleman  Seamus Coleman (Everton, Defender)",EVE,5.0,0,0.16,-0.16,562.5,0,0.0,0.0,inf,0.16,-0.16,562.5,23/04/2021
+"Davies (Tom)  Tom Davies (Everton, Midfielder)",EVE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/04/2021
+"Delph  Fabian Delph (Everton, Midfielder)",EVE,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/04/2021
+"Digne  Lucas Digne (Everton, Defender)",EVE,5.5,0,0.16,-0.16,562.5,0,0.07,-0.07,1285.7,0.23,-0.23,391.3,23/04/2021
+"Godfrey  Ben Godfrey (Everton, Defender)",EVE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/04/2021
+"Holgate  Mason Holgate (Everton, Defender)",EVE,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/04/2021
+"Allan  Allan Marques Loureiro (Everton, Midfielder)",EVE,4.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,23/04/2021
+"Mina  Yerry Mina (Everton, Defender)",EVE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/04/2021
+"Pickford  Jordan Pickford (Everton, Goalkeeper)",EVE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/04/2021
+"Rodríguez  James Rodríguez (Everton, Midfielder)",EVE,7.0,0,0.02,-0.02,4300.0,0,0.04,-0.04,2150.0,0.06,-0.06,1433.3,23/04/2021
+"Sigurdsson  Gylfi Sigurdsson (Everton, Midfielder)",EVE,7.0,0,0.02,-0.02,4500.0,0,0.18,-0.18,500.0,0.2,-0.2,450.0,23/04/2021
+"André Gomes  André Filipe Tavares Gomes (Everton, Midfielder)",EVE,5.0,0,0.01,-0.01,6600.0,0,0.03,-0.03,2200.0,0.04,-0.04,1650.0,23/04/2021
+"Richarlison  Richarlison de Andrade (Everton, Forward)",EVE,7.5,0,0.01,-0.01,8900.0,0,0.11,-0.11,809.1,0.12,-0.12,741.7,23/04/2021

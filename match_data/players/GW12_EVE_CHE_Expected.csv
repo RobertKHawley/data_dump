@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Abraham  Tammy Abraham (Chelsea, Forward)",CHE,6.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/12/2020
+"Chilwell  Benjamin Chilwell (Chelsea, Defender)",CHE,6.0,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,12/12/2020
+"Gilmour  Billy Gilmour (Chelsea, Midfielder)",CHE,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/12/2020
+"Giroud  Olivier Giroud (Chelsea, Forward)",CHE,6.5,0,0.05,-0.05,1800.0,0,0.11,-0.11,818.2,0.16,-0.16,562.5,12/12/2020
+"Havertz  Kai Havertz (Chelsea, Midfielder)",CHE,8.5,0,0.07,-0.07,971.4,0,0.03,-0.03,2266.7,0.1,-0.1,680.0,12/12/2020
+"James (Reece)  Reece James (Chelsea, Defender)",CHE,5.5,0,0.06,-0.06,1500.0,0,0.14,-0.14,642.9,0.2,-0.2,450.0,12/12/2020
+"Kanté  N&#039;Golo Kanté (Chelsea, Midfielder)",CHE,5.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,12/12/2020
+"Kovacic  Mateo Kovacic (Chelsea, Midfielder)",CHE,5.0,0,0.16,-0.16,512.5,0,0.0,0.0,inf,0.16,-0.16,512.5,12/12/2020
+"Mendy (Edouard)  Edouard Mendy (Chelsea, Goalkeeper)",CHE,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/12/2020
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,0,0.04,-0.04,2250.0,0,0.09,-0.09,1000.0,0.13,-0.13,692.3,12/12/2020
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,0,0.08,-0.08,1125.0,0,0.1,-0.1,900.0,0.18,-0.18,500.0,12/12/2020
+"Zouma  Kurt Zouma (Chelsea, Defender)",CHE,5.5,0,0.03,-0.03,3000.0,0,0.19,-0.19,473.7,0.22,-0.22,409.1,12/12/2020
+"Thiago Silva  Thiago Emiliano da Silva (Chelsea, Defender)",CHE,5.5,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,12/12/2020
+"Calvert-Lewin  Dominic Calvert-Lewin (Everton, Forward)",EVE,8.0,0,0.01,-0.01,9000.0,0,0.05,-0.05,1800.0,0.06,-0.06,1500.0,12/12/2020
+"Davies (Tom)  Tom Davies (Everton, Midfielder)",EVE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/12/2020
+"Doucouré  Abdoulaye Doucouré (Everton, Midfielder)",EVE,5.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,12/12/2020
+"Godfrey  Ben Godfrey (Everton, Defender)",EVE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/12/2020
+"Holgate  Mason Holgate (Everton, Defender)",EVE,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,12/12/2020
+"Iwobi  Alex Iwobi (Everton, Midfielder)",EVE,6.0,0,0.01,-0.01,8600.0,0,0.04,-0.04,2150.0,0.05,-0.05,1720.0,12/12/2020
+"Keane  Michael Keane (Everton, Defender)",EVE,5.0,0,0.0,0.0,inf,0,0.04,-0.04,2250.0,0.04,-0.04,2250.0,12/12/2020
+"Kenny  Jonjoe Kenny (Everton, Defender)",EVE,4.3,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/12/2020
+"Allan  Allan Marques Loureiro (Everton, Midfielder)",EVE,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,12/12/2020
+"Mina  Yerry Mina (Everton, Defender)",EVE,5.0,0,0.0,0.0,inf,0,0.12,-0.12,750.0,0.12,-0.12,750.0,12/12/2020
+"Pickford  Jordan Pickford (Everton, Goalkeeper)",EVE,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,12/12/2020
+"Sigurdsson  Gylfi Sigurdsson (Everton, Midfielder)",EVE,7.0,0,0.17,-0.17,488.2,1,0.84,0.16,98.8,1.01,-0.01,82.2,12/12/2020
+"André Gomes  André Filipe Tavares Gomes (Everton, Midfielder)",EVE,5.0,0,0.02,-0.02,350.0,0,0.0,0.0,inf,0.02,-0.02,350.0,12/12/2020
+"Richarlison  Richarlison de Andrade (Everton, Forward)",EVE,7.5,0,0.01,-0.01,8900.0,0,0.18,-0.18,494.4,0.19,-0.19,468.4,12/12/2020

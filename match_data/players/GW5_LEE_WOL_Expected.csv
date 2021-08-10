@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Ayling  Luke Ayling (Leeds United, Defender)",LEE,4.5,0,0.32,-0.32,281.3,0,0.05,-0.05,1800.0,0.37,-0.37,243.2,19/10/2020
+"Bamford  Patrick Bamford (Leeds United, Forward)",LEE,8.0,0,0.03,-0.03,3000.0,0,0.4,-0.4,225.0,0.43,-0.43,209.3,19/10/2020
+"Hélder Costa  Helder Costa (Leeds United, Midfielder)",LEE,5.5,0,0.02,-0.02,3550.0,0,0.09,-0.09,788.9,0.11,-0.11,645.5,19/10/2020
+"Dallas  Stuart Dallas (Leeds United, Defender)",LEE,5.5,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,19/10/2020
+"Raphinha  Raphael Dias Belloli (Leeds United, Midfielder)",LEE,6.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/10/2020
+"Harrison  Jack Harrison (Leeds United, Midfielder)",LEE,6.0,0,0.26,-0.26,315.4,0,0.04,-0.04,2050.0,0.3,-0.3,273.3,19/10/2020
+"Hernández  Pablo Hernández (Leeds United, Midfielder)",LEE,5.5,0,0.05,-0.05,300.0,0,0.17,-0.17,88.2,0.22,-0.22,68.2,19/10/2020
+"Klich  Mateusz Klich (Leeds United, Midfielder)",LEE,5.5,0,0.11,-0.11,818.2,0,0.0,0.0,inf,0.11,-0.11,818.2,19/10/2020
+"Koch  Robin Koch (Leeds United, Defender)",LEE,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,19/10/2020
+"Meslier  Illan Meslier (Leeds United, Goalkeeper)",LEE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/10/2020
+"Rodrigo  Rodrigo Moreno Machado (Leeds United, Forward)",LEE,6.5,0,0.14,-0.14,642.9,0,0.18,-0.18,500.0,0.32,-0.32,281.3,19/10/2020
+"Phillips (Kalvin)  Kalvin Phillips (Leeds United, Midfielder)",LEE,5.0,0,0.09,-0.09,1000.0,0,0.0,0.0,inf,0.09,-0.09,1000.0,19/10/2020
+"Poveda-Ocampo  Ian Carlo Poveda-Ocampo (Leeds United, Midfielder)",LEE,4.5,0,0.01,-0.01,1900.0,0,0.12,-0.12,158.3,0.13,-0.13,146.2,19/10/2020
+"Struijk  Pascal Struijk (Leeds United, Defender)",LEE,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/10/2020
+"Boly  Willy Boly (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,19/10/2020
+"Coady  Conor Coady (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/10/2020
+"Dendoncker (Leander)  Leander Dendoncker (Wolverhampton Wanderers, Midfielder)",WOL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/10/2020
+"Raúl Jiménez  Raul Alonso Jimenez Rodriguez (Wolverhampton Wanderers, Forward)",WOL,7.5,0,0.01,-0.01,9000.0,1,0.16,0.84,562.5,0.17,0.83,529.4,19/10/2020
+"Kilman  Max Kilman (Wolverhampton Wanderers, Defender)",WOL,4.5,1,0.0,1.0,inf,0,0.0,0.0,inf,0.0,1.0,inf,19/10/2020
+"Marçal  Fernando Marçal de Oliveira (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/10/2020
+"Moutinho  João Moutinho (Wolverhampton Wanderers, Midfielder)",WOL,5.0,0,0.04,-0.04,2050.0,0,0.0,0.0,inf,0.04,-0.04,2050.0,19/10/2020
+"Neto  Pedro Neto (Wolverhampton Wanderers, Midfielder)",WOL,6.5,0,0.01,-0.01,8900.0,0,0.04,-0.04,2225.0,0.05,-0.05,1780.0,19/10/2020
+"Podence  Daniel Podence (Wolverhampton Wanderers, Midfielder)",WOL,5.5,0,0.03,-0.03,2166.7,0,0.13,-0.13,500.0,0.16,-0.16,406.3,19/10/2020
+"Saiss  Romain Saiss (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.07,-0.07,1285.7,0,0.04,-0.04,2250.0,0.11,-0.11,818.2,19/10/2020
+"Semedo  Nelson Semedo (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/10/2020
+"Traoré  Adama Traoré (Wolverhampton Wanderers, Midfielder)",WOL,6.0,0,0.01,-0.01,2500.0,0,0.0,0.0,inf,0.01,-0.01,2500.0,19/10/2020
+"Ruben Neves  Rúben Diogo da Silva Neves (Wolverhampton Wanderers, Midfielder)",WOL,5.5,0,0.0,0.0,inf,0,0.1,-0.1,80.0,0.1,-0.1,80.0,19/10/2020
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,19/10/2020

@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,0,0.01,-0.01,8000.0,0,0.92,-0.92,87.0,0.93,-0.93,86.0,20/09/2020
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,0,0.06,-0.06,1133.3,0,0.04,-0.04,1700.0,0.1,-0.1,680.0,20/09/2020
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,20/09/2020
+"Bertrand  Ryan Bertrand (Southampton, Defender)",SOU,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,20/09/2020
+"Djenepo  Moussa Djenepo (Southampton, Midfielder)",SOU,5.5,0,0.02,-0.02,4500.0,0,0.06,-0.06,1500.0,0.08,-0.08,1125.0,20/09/2020
+"Ings  Danny Ings (Southampton, Forward)",SOU,8.0,0,0.02,-0.02,4500.0,2,0.84,1.16,107.1,0.86,1.14,104.7,20/09/2020
+"Long (Shane)  Shane Long (Southampton, Forward)",SOU,5.1,0,0.0,0.0,inf,0,0.05,-0.05,200.0,0.05,-0.05,200.0,20/09/2020
+"McCarthy (Alex)  Alex McCarthy (Southampton, Goalkeeper)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/09/2020
+"Romeu  Oriol Romeu (Southampton, Midfielder)",SOU,4.5,0,0.01,-0.01,5500.0,0,0.0,0.0,inf,0.01,-0.01,5500.0,20/09/2020
+"Smallbone  William Smallbone (Southampton, Midfielder)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/09/2020
+"Stephens (Jack)  Jack Stephens (Southampton, Defender)",SOU,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,20/09/2020
+"Tella  Nathan Tella (Southampton, Midfielder)",SOU,5.0,0,0.0,0.0,inf,0,0.03,-0.03,733.3,0.03,-0.03,733.3,20/09/2020
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,1,0.03,0.97,3000.0,0,0.0,0.0,inf,0.03,0.97,3000.0,20/09/2020
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,0,0.05,-0.05,1800.0,0,0.18,-0.18,500.0,0.23,-0.23,391.3,20/09/2020
+"Bergwijn  Steven Bergwijn (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.01,-0.01,600.0,0,0.0,0.0,inf,0.01,-0.01,600.0,20/09/2020
+"Davies (Ben)  Ben Davies (Tottenham Hotspur, Defender)",TOT,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,20/09/2020
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/09/2020
+"Doherty  Matt Doherty (Tottenham Hotspur, Defender)",TOT,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/09/2020
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,20/09/2020
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,4,0.09,3.91,933.3,1,0.7,0.3,120.0,0.79,4.21,106.3,20/09/2020
+"Lamela  Erik Lamela (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.0,0.0,inf,0,0.14,-0.14,207.1,0.14,-0.14,207.1,20/09/2020
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/09/2020
+"Lo Celso  Giovani Lo Celso (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.03,-0.03,1500.0,0,0.05,-0.05,900.0,0.08,-0.08,562.5,20/09/2020
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/09/2020
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/09/2020
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,0,0.09,-0.09,1000.0,4,1.24,2.76,72.6,1.33,2.67,67.7,20/09/2020
+"DSanchez  Davinson Sánchez (Tottenham Hotspur, Defender)",TOT,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,20/09/2020
+"Winks  Harry Winks (Tottenham Hotspur, Midfielder)",TOT,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,20/09/2020

@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Thiago Alcántara  Thiago Alcántara do Nascimento (Liverpool, Midfielder)",LIV,5.5,0,0.06,-0.06,1300.0,0,0.03,-0.03,2600.0,0.09,-0.09,866.7,28/01/2021
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,1,0.06,0.94,1500.0,1,0.06,0.94,1500.0,0.12,1.88,750.0,28/01/2021
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,0,0.18,-0.18,483.3,1,0.98,0.02,88.8,1.16,-0.16,75.0,28/01/2021
+"Henderson (Jordan)  Jordan Henderson (Liverpool, Midfielder)",LIV,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,28/01/2021
+"Jones (Curtis)  Curtis Jones (Liverpool, Midfielder)",LIV,5.0,0,0.01,-0.01,1200.0,0,0.0,0.0,inf,0.01,-0.01,1200.0,28/01/2021
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,1,0.59,0.41,152.5,1,1.29,-0.29,69.8,1.88,0.12,47.9,28/01/2021
+"Matip  Joel Matip (Liverpool, Defender)",LIV,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/01/2021
+"Milner  James Milner (Liverpool, Midfielder)",LIV,5.0,0,0.07,-0.07,1285.7,0,0.0,0.0,inf,0.07,-0.07,1285.7,28/01/2021
+"Origi  Divock Origi (Liverpool, Forward)",LIV,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/01/2021
+"Phillips (Nathaniel)  Nathaniel Phillips (Liverpool, Defender)",LIV,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/01/2021
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/01/2021
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,28/01/2021
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,0,0.39,-0.39,230.8,0,0.09,-0.09,1000.0,0.48,-0.48,187.5,28/01/2021
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,0,0.04,-0.04,2250.0,0,0.03,-0.03,3000.0,0.07,-0.07,1285.7,28/01/2021
+"Aurier  Serge Aurier (Tottenham Hotspur, Defender)",TOT,5.0,0,0.01,-0.01,4500.0,0,0.0,0.0,inf,0.01,-0.01,4500.0,28/01/2021
+"Bale  Gareth Bale (Tottenham Hotspur, Midfielder)",TOT,9.2,0,0.01,-0.01,900.0,0,0.0,0.0,inf,0.01,-0.01,900.0,28/01/2021
+"Bergwijn  Steven Bergwijn (Tottenham Hotspur, Midfielder)",TOT,6.0,1,0.02,0.98,4050.0,0,0.0,0.0,inf,0.02,0.98,4050.0,28/01/2021
+"Davies (Ben)  Ben Davies (Tottenham Hotspur, Defender)",TOT,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,28/01/2021
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,28/01/2021
+"Doherty  Matt Doherty (Tottenham Hotspur, Defender)",TOT,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,28/01/2021
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,0,0.02,-0.02,4500.0,1,0.05,0.95,1800.0,0.07,0.93,1285.7,28/01/2021
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/01/2021
+"Lamela  Erik Lamela (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.01,-0.01,4500.0,0,0.0,0.0,inf,0.01,-0.01,4500.0,28/01/2021
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/01/2021
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,28/01/2021
+"Rodon  Joe Rodon (Tottenham Hotspur, Defender)",TOT,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/01/2021
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,0,0.03,-0.03,3000.0,0,0.09,-0.09,1000.0,0.12,-0.12,750.0,28/01/2021
+"Winks  Harry Winks (Tottenham Hotspur, Midfielder)",TOT,4.5,0,0.02,-0.02,2250.0,0,0.0,0.0,inf,0.02,-0.02,2250.0,28/01/2021

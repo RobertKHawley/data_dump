@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Jordan Ayew  Jordan Ayew (Crystal Palace, Forward)",CRY,6.0,0,0.01,-0.01,4200.0,0,0.02,-0.02,2100.0,0.03,-0.03,1400.0,02/01/2021
+"Benteke  Christian Benteke (Crystal Palace, Forward)",CRY,6.5,0,0.01,-0.01,4800.0,0,0.18,-0.18,266.7,0.19,-0.19,252.6,02/01/2021
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,0,0.02,-0.02,2500.0,1,0.03,0.97,1666.7,0.05,0.95,1000.0,02/01/2021
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,02/01/2021
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,02/01/2021
+"McArthur  James McArthur (Crystal Palace, Midfielder)",CRY,4.5,1,0.01,0.99,9000.0,0,0.0,0.0,inf,0.01,0.99,9000.0,02/01/2021
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,0,0.04,-0.04,2225.0,0,0.0,0.0,inf,0.04,-0.04,2225.0,02/01/2021
+"Mitchell  Tyrick Mitchell (Crystal Palace, Defender)",CRY,4.5,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,02/01/2021
+"Riedewald  Jairo Riedewald (Crystal Palace, Midfielder)",CRY,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,02/01/2021
+"Schlupp  Jeffrey Schlupp (Crystal Palace, Midfielder)",CRY,5.5,0,0.01,-0.01,4000.0,1,0.08,0.92,500.0,0.09,0.91,444.4,02/01/2021
+"Tomkins  James Tomkins (Crystal Palace, Defender)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,02/01/2021
+"Townsend (Andros)  Andros Townsend (Crystal Palace, Midfielder)",CRY,5.5,0,0.17,-0.17,529.4,0,0.15,-0.15,600.0,0.32,-0.32,281.3,02/01/2021
+"Ward (Joel)  Joel Ward (Crystal Palace, Defender)",CRY,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,02/01/2021
+"Zaha  Wilfried Zaha (Crystal Palace, Midfielder)",CRY,7.0,0,0.47,-0.47,191.5,0,0.12,-0.12,750.0,0.59,-0.59,152.5,02/01/2021
+"Ampadu  Ethan Ampadu (Sheffield United, Defender)",SHU,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,02/01/2021
+"Basham  Chris Basham (Sheffield United, Defender)",SHU,4.6,0,0.08,-0.08,1125.0,0,0.12,-0.12,750.0,0.2,-0.2,450.0,02/01/2021
+"Bogle  Jayden Bogle (Sheffield United, Defender)",SHU,4.3,0,0.08,-0.08,1125.0,0,0.05,-0.05,1800.0,0.13,-0.13,692.3,02/01/2021
+"Brewster  Rhian Brewster (Sheffield United, Forward)",SHU,4.2,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,02/01/2021
+"Egan  John Egan (Sheffield United, Defender)",SHU,4.7,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,02/01/2021
+"Fleck  John Fleck (Sheffield United, Midfielder)",SHU,5.6,0,0.02,-0.02,4500.0,0,0.04,-0.04,2250.0,0.06,-0.06,1500.0,02/01/2021
+"Hackford  Antwoine Hackford (Sheffield United, Forward)",SHU,4.4,0,0.0,0.0,inf,0,0.1,-0.1,100.0,0.1,-0.1,100.0,02/01/2021
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,0,0.03,-0.03,3000.0,0,0.06,-0.06,1500.0,0.09,-0.09,1000.0,02/01/2021
+"Mousset  Lys Mousset (Sheffield United, Forward)",SHU,5.8,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,02/01/2021
+"Norwood  Oliver Norwood (Sheffield United, Midfielder)",SHU,4.5,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,02/01/2021
+"Osborn  Ben Osborn (Sheffield United, Midfielder)",SHU,4.7,0,0.02,-0.02,4000.0,0,0.0,0.0,inf,0.02,-0.02,4000.0,02/01/2021
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,02/01/2021
+"Stevens (Enda)  Enda Stevens (Sheffield United, Defender)",SHU,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,02/01/2021

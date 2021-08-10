@@ -1,0 +1,27 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Bissouma  Yves Bissouma (Brighton and Hove Albion, Midfielder)",BHA,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,EVE,31,12/04/2021,MID,True
+"Burn  Dan Burn (Brighton and Hove Albion, Defender)",BHA,4.5,0,3,1,0,0,0,0,0,0,0,0,0,0,EVE,31,12/04/2021,DEF,True
+"Dunk  Lewis Dunk (Brighton and Hove Albion, Defender)",BHA,5.0,1,90,0,0,0,0,0,0,1,0,0,1,0,EVE,31,12/04/2021,DEF,True
+"Groß  Pascal Groß (Brighton and Hove Albion, Midfielder)",BHA,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,EVE,31,12/04/2021,MID,True
+"Jahanbakhsh  Alireza Jahanbakhsh (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,3,1,0,0,0,0,0,0,0,0,0,0,EVE,31,12/04/2021,MID,True
+"Lallana  Adam Lallana (Brighton and Hove Albion, Midfielder)",BHA,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,EVE,31,12/04/2021,MID,True
+"Maupay  Neal Maupay (Brighton and Hove Albion, Forward)",BHA,6.5,1,87,0,1,0,0,0,0,1,0,0,0,0,EVE,31,12/04/2021,FWD,True
+"Moder  Jakub Moder (Brighton and Hove Albion, Midfielder)",BHA,4.5,1,87,0,1,0,0,0,0,1,0,0,0,0,EVE,31,12/04/2021,MID,True
+"Sanchez  Robert Sanchez (Brighton and Hove Albion, Goalkeeper)",BHA,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,EVE,31,12/04/2021,GKP,True
+"Trossard  Leandro Trossard (Brighton and Hove Albion, Midfielder)",BHA,6.5,1,90,0,0,0,0,0,0,1,0,0,0,0,EVE,31,12/04/2021,MID,True
+"Veltman  Joël Veltman (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,EVE,31,12/04/2021,DEF,True
+"Welbeck  Danny Welbeck (Brighton and Hove Albion, Forward)",BHA,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,EVE,31,12/04/2021,FWD,True
+"White (Ben)  Ben White (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,EVE,31,12/04/2021,DEF,True
+"Broadhead  Nathan Broadhead (Everton, Midfielder)",EVE,4.5,0,2,1,0,0,0,0,0,0,0,0,0,0,BHA,31,12/04/2021,MID,False
+"Coleman  Seamus Coleman (Everton, Defender)",EVE,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BHA,31,12/04/2021,DEF,False
+"Davies (Tom)  Tom Davies (Everton, Midfielder)",EVE,5.0,1,88,0,1,0,0,0,0,1,0,0,0,0,BHA,31,12/04/2021,MID,False
+"Digne  Lucas Digne (Everton, Defender)",EVE,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,BHA,31,12/04/2021,DEF,False
+"Godfrey  Ben Godfrey (Everton, Defender)",EVE,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BHA,31,12/04/2021,DEF,False
+"Holgate  Mason Holgate (Everton, Defender)",EVE,4.5,1,90,0,0,0,0,0,0,1,0,0,1,0,BHA,31,12/04/2021,DEF,False
+"Iwobi  Alex Iwobi (Everton, Midfielder)",EVE,6.0,0,32,1,0,0,0,0,0,0,0,0,0,0,BHA,31,12/04/2021,MID,False
+"Keane  Michael Keane (Everton, Defender)",EVE,5.0,1,90,0,0,0,0,0,0,1,0,0,1,0,BHA,31,12/04/2021,DEF,False
+"Mina  Yerry Mina (Everton, Defender)",EVE,5.0,1,58,0,1,0,0,0,0,0,0,0,0,0,BHA,31,12/04/2021,DEF,False
+"Olsen  Robin Olsen (Everton, Goalkeeper)",EVE,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,BHA,31,12/04/2021,GKP,False
+"Rodríguez  James Rodríguez (Everton, Midfielder)",EVE,7.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BHA,31,12/04/2021,MID,False
+"Sigurdsson  Gylfi Sigurdsson (Everton, Midfielder)",EVE,7.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BHA,31,12/04/2021,MID,False
+"Richarlison  Richarlison de Andrade (Everton, Forward)",EVE,7.5,1,90,0,0,0,0,0,0,1,0,0,0,0,BHA,31,12/04/2021,FWD,False

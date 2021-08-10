@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Bernard  Bernard Anício Caldeira Duarte (Everton, Midfielder)",EVE,5.5,0,0.03,-0.03,1000.0,0,0.0,0.0,inf,0.03,-0.03,1000.0,01/11/2020
+"Calvert-Lewin  Dominic Calvert-Lewin (Everton, Forward)",EVE,8.0,0,0.18,-0.18,500.0,1,0.95,0.05,94.7,1.13,-0.13,79.6,01/11/2020
+"Delph  Fabian Delph (Everton, Midfielder)",EVE,4.5,0,0.04,-0.04,2250.0,0,0.02,-0.02,4500.0,0.06,-0.06,1500.0,01/11/2020
+"Doucouré  Abdoulaye Doucouré (Everton, Midfielder)",EVE,5.5,0,0.05,-0.05,1800.0,0,0.13,-0.13,692.3,0.18,-0.18,500.0,01/11/2020
+"Iwobi  Alex Iwobi (Everton, Midfielder)",EVE,6.0,0,0.25,-0.25,56.0,0,0.0,0.0,inf,0.25,-0.25,56.0,01/11/2020
+"Keane  Michael Keane (Everton, Defender)",EVE,5.0,0,0.01,-0.01,9000.0,0,0.06,-0.06,1500.0,0.07,-0.07,1285.7,01/11/2020
+"Kenny  Jonjoe Kenny (Everton, Defender)",EVE,4.3,0,0.11,-0.11,690.9,0,0.0,0.0,inf,0.11,-0.11,690.9,01/11/2020
+"Allan  Allan Marques Loureiro (Everton, Midfielder)",EVE,4.5,0,0.07,-0.07,1285.7,0,0.0,0.0,inf,0.07,-0.07,1285.7,01/11/2020
+"Mina  Yerry Mina (Everton, Defender)",EVE,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,01/11/2020
+"Nkounkou  Niels Nkounkou (Everton, Defender)",EVE,4.0,0,0.0,0.0,inf,0,0.03,-0.03,2300.0,0.03,-0.03,2300.0,01/11/2020
+"Olsen  Robin Olsen (Everton, Goalkeeper)",EVE,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,01/11/2020
+"Sigurdsson  Gylfi Sigurdsson (Everton, Midfielder)",EVE,7.0,0,0.2,-0.2,450.0,0,0.28,-0.28,321.4,0.48,-0.48,187.5,01/11/2020
+"André Gomes  André Filipe Tavares Gomes (Everton, Midfielder)",EVE,5.0,0,0.01,-0.01,6000.0,0,0.0,0.0,inf,0.01,-0.01,6000.0,01/11/2020
+"Tosun  Cenk Tosun (Everton, Forward)",EVE,6.0,0,0.04,-0.04,525.0,0,0.0,0.0,inf,0.04,-0.04,525.0,01/11/2020
+"Almirón  Miguel Almirón (Newcastle United, Midfielder)",NEW,5.5,0,0.02,-0.02,4150.0,0,0.0,0.0,inf,0.02,-0.02,4150.0,01/11/2020
+"Carroll  Andy Carroll (Newcastle United, Forward)",NEW,5.1,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,01/11/2020
+"Darlow  Karl Darlow (Newcastle United, Goalkeeper)",NEW,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,01/11/2020
+"Fernández  Federico Fernández (Newcastle United, Defender)",NEW,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,01/11/2020
+"Fraser  Ryan Fraser (Newcastle United, Midfielder)",NEW,5.5,0,0.01,-0.01,1600.0,0,0.0,0.0,inf,0.01,-0.01,1600.0,01/11/2020
+"Hayden (Isaac)  Isaac Hayden (Newcastle United, Midfielder)",NEW,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,01/11/2020
+"Hendrick  Jeff Hendrick (Newcastle United, Midfielder)",NEW,5.0,0,0.01,-0.01,9000.0,0,0.04,-0.04,2250.0,0.05,-0.05,1800.0,01/11/2020
+"Lascelles  Jamaal Lascelles (Newcastle United, Defender)",NEW,4.5,0,0.0,0.0,inf,0,0.07,-0.07,1285.7,0.07,-0.07,1285.7,01/11/2020
+"Lewis (Jamal)  Jamal Lewis (Newcastle United, Defender)",NEW,4.5,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,01/11/2020
+"Longstaff (Sean)  Sean Longstaff (Newcastle United, Midfielder)",NEW,4.5,0,0.09,-0.09,1000.0,0,0.47,-0.47,191.5,0.56,-0.56,160.7,01/11/2020
+"Jacob Murphy  Jacob Murphy (Newcastle United, Midfielder)",NEW,5.0,0,0.04,-0.04,2250.0,0,0.05,-0.05,1800.0,0.09,-0.09,1000.0,01/11/2020
+"Saint-Maximin  Allan Saint-Maximin (Newcastle United, Midfielder)",NEW,6.5,0,0.03,-0.03,2466.7,0,0.51,-0.51,145.1,0.54,-0.54,137.0,01/11/2020
+"Schär  Fabian Schär (Newcastle United, Defender)",NEW,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,01/11/2020
+"C Wilson  Callum Wilson (Newcastle United, Forward)",NEW,7.5,0,0.22,-0.22,395.5,2,1.83,0.17,47.5,2.05,-0.05,42.4,01/11/2020

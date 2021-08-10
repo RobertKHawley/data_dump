@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Barkley  Ross Barkley (Aston Villa, Midfielder)",AVL,5.5,0,0.03,-0.03,3000.0,1,0.59,0.41,152.5,0.62,0.38,145.2,04/10/2020
+"Cash  Matthew Cash (Aston Villa, Defender)",AVL,5.0,0,0.01,-0.01,8000.0,0,0.0,0.0,inf,0.01,-0.01,8000.0,04/10/2020
+"Elmohamady  Ahmed Elmohamady (Aston Villa, Defender)",AVL,4.2,0,0.07,-0.07,142.9,0,0.0,0.0,inf,0.07,-0.07,142.9,04/10/2020
+"Grealish  Jack Grealish (Aston Villa, Midfielder)",AVL,8.0,3,0.45,2.55,200.0,2,0.38,1.62,236.8,0.83,4.17,108.4,04/10/2020
+"Trezeguet  Mahmoud Hassan (Aston Villa, Midfielder)",AVL,5.5,1,0.76,0.24,114.5,0,0.03,-0.03,2900.0,0.79,0.21,110.1,04/10/2020
+"Konsa Ngoyo  Ezri Konsa Ngoyo (Aston Villa, Defender)",AVL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,04/10/2020
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,04/10/2020
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,1,0.01,0.99,9000.0,1,0.02,0.98,4500.0,0.03,1.97,3000.0,04/10/2020
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,04/10/2020
+"Nakamba  Marvelous Nakamba (Aston Villa, Midfielder)",AVL,4.5,0,0.0,0.0,inf,0,0.03,-0.03,333.3,0.03,-0.03,333.3,04/10/2020
+"Douglas Luiz  Douglas Luiz Soares de Paulo (Aston Villa, Midfielder)",AVL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,04/10/2020
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,04/10/2020
+"Traore (Bertrand)  Bertrand Traore (Aston Villa, Midfielder)",AVL,6.0,0,0.01,-0.01,300.0,0,0.04,-0.04,75.0,0.05,-0.05,60.0,04/10/2020
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,1,0.02,0.98,4500.0,3,1.63,1.37,55.2,1.65,2.35,54.5,04/10/2020
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,0,0.14,-0.14,642.9,0,0.1,-0.1,900.0,0.24,-0.24,375.0,04/10/2020
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,1,0.26,0.74,261.5,0,0.55,-0.55,123.6,0.81,0.19,84.0,04/10/2020
+"Gomez  Joseph Gomez (Liverpool, Defender)",LIV,5.0,0,0.01,-0.01,6100.0,0,0.0,0.0,inf,0.01,-0.01,6100.0,04/10/2020
+"Jones (Curtis)  Curtis Jones (Liverpool, Midfielder)",LIV,5.0,0,0.01,-0.01,2900.0,0,0.0,0.0,inf,0.01,-0.01,2900.0,04/10/2020
+"Keita  Naby Keita (Liverpool, Midfielder)",LIV,5.0,0,0.03,-0.03,1500.0,0,0.13,-0.13,346.2,0.16,-0.16,281.3,04/10/2020
+"Milner  James Milner (Liverpool, Midfielder)",LIV,5.0,0,0.1,-0.1,220.0,0,0.0,0.0,inf,0.1,-0.1,220.0,04/10/2020
+"Minamino  Takumi Minamino (Liverpool, Midfielder)",LIV,5.5,0,0.01,-0.01,4500.0,0,0.07,-0.07,642.9,0.08,-0.08,562.5,04/10/2020
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,0,0.09,-0.09,1000.0,0,0.22,-0.22,409.1,0.31,-0.31,290.3,04/10/2020
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,0,0.43,-0.43,209.3,2,0.55,1.45,163.6,0.98,1.02,91.8,04/10/2020
+"Adrián  Adrián San Miguel del Castillo (Liverpool, Goalkeeper)",LIV,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,04/10/2020
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,04/10/2020
+"Diogo Jota  Diogo José Teixeira da Silva (Liverpool, Midfielder)",LIV,7.5,0,0.15,-0.15,600.0,0,0.16,-0.16,562.5,0.31,-0.31,290.3,04/10/2020
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,04/10/2020
+"van Dijk  Virgil van Dijk (Liverpool, Defender)",LIV,6.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,04/10/2020

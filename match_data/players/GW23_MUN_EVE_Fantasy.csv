@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Calvert-Lewin  Dominic Calvert-Lewin (Everton, Forward)",EVE,8.0,1,90,0,0,1,0,1,1,0,3,0,0,0,MUN,23,06/02/2021,FWD,False
+"Davies (Tom)  Tom Davies (Everton, Midfielder)",EVE,5.0,1,75,0,1,0,0,0,0,0,3,0,0,0,MUN,23,06/02/2021,MID,False
+"Digne  Lucas Digne (Everton, Defender)",EVE,5.5,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,23,06/02/2021,DEF,False
+"Doucouré  Abdoulaye Doucouré (Everton, Midfielder)",EVE,5.5,1,81,0,1,1,1,0,1,0,3,0,0,0,MUN,23,06/02/2021,MID,False
+"Godfrey  Ben Godfrey (Everton, Defender)",EVE,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,23,06/02/2021,DEF,False
+"Holgate  Mason Holgate (Everton, Defender)",EVE,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,23,06/02/2021,DEF,False
+"Iwobi  Alex Iwobi (Everton, Midfielder)",EVE,6.0,0,15,1,0,0,0,0,0,0,0,0,0,0,MUN,23,06/02/2021,MID,False
+"Keane  Michael Keane (Everton, Defender)",EVE,5.0,1,90,0,0,0,1,0,1,0,3,0,1,0,MUN,23,06/02/2021,DEF,False
+"King (Joshua)  Joshua King (Everton, Forward)",EVE,5.5,0,9,1,0,0,0,0,0,0,0,0,0,0,MUN,23,06/02/2021,FWD,False
+"Olsen  Robin Olsen (Everton, Goalkeeper)",EVE,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,23,06/02/2021,GKP,False
+"Rodríguez  James Rodríguez (Everton, Midfielder)",EVE,7.0,1,69,0,1,1,0,0,0,0,2,0,0,0,MUN,23,06/02/2021,MID,False
+"Sigurdsson  Gylfi Sigurdsson (Everton, Midfielder)",EVE,7.0,0,21,1,0,0,0,0,0,0,1,0,0,0,MUN,23,06/02/2021,MID,False
+"André Gomes  André Filipe Tavares Gomes (Everton, Midfielder)",EVE,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,23,06/02/2021,MID,False
+"Richarlison  Richarlison de Andrade (Everton, Forward)",EVE,7.5,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,23,06/02/2021,FWD,False
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,1,90,0,0,1,0,0,0,0,3,0,0,0,EVE,23,06/02/2021,MID,True
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,1,90,0,0,1,0,0,0,0,3,0,0,0,EVE,23,06/02/2021,FWD,True
+"De Gea  David De Gea (Manchester United, Goalkeeper)",MUN,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,EVE,23,06/02/2021,GKP,True
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,1,89,0,1,0,0,0,0,0,2,0,0,0,EVE,23,06/02/2021,MID,True
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,0,3,0,0,0,EVE,23,06/02/2021,DEF,True
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,1,90,0,0,1,0,0,0,0,3,0,0,0,EVE,23,06/02/2021,MID,True
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,EVE,23,06/02/2021,DEF,True
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,1,39,0,1,0,0,0,0,0,0,0,0,0,EVE,23,06/02/2021,MID,True
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,1,90,0,0,0,1,0,1,0,3,0,0,0,EVE,23,06/02/2021,MID,True
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,0,51,1,0,0,0,0,0,0,3,0,0,0,EVE,23,06/02/2021,MID,True
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,1,0,1,0,3,0,1,0,EVE,23,06/02/2021,DEF,True
+"Tuanzebe  Axel Tuanzebe (Manchester United, Defender)",MUN,4.5,0,1,1,0,0,0,0,0,0,1,0,1,0,EVE,23,06/02/2021,DEF,True
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,1,0,1,0,3,0,0,0,EVE,23,06/02/2021,DEF,True

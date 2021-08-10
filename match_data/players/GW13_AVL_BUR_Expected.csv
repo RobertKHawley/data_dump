@@ -1,0 +1,27 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Davis (Keinan)  Keinan Davis (Aston Villa, Forward)",AVL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/12/2020
+"El Ghazi  Anwar El Ghazi (Aston Villa, Midfielder)",AVL,6.0,0,0.09,-0.09,1000.0,0,0.37,-0.37,243.2,0.46,-0.46,195.7,17/12/2020
+"Elmohamady  Ahmed Elmohamady (Aston Villa, Defender)",AVL,4.2,0,0.3,-0.3,300.0,0,0.08,-0.08,1125.0,0.38,-0.38,236.8,17/12/2020
+"Grealish  Jack Grealish (Aston Villa, Midfielder)",AVL,8.0,0,0.2,-0.2,450.0,0,0.25,-0.25,360.0,0.45,-0.45,200.0,17/12/2020
+"Hause  Kortney Hause (Aston Villa, Defender)",AVL,4.5,0,0.0,0.0,inf,0,0.12,-0.12,750.0,0.12,-0.12,750.0,17/12/2020
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/12/2020
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,17/12/2020
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,0,0.01,-0.01,9000.0,0,0.15,-0.15,600.0,0.16,-0.16,562.5,17/12/2020
+"Nakamba  Marvelous Nakamba (Aston Villa, Midfielder)",AVL,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,17/12/2020
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,17/12/2020
+"Traore (Bertrand)  Bertrand Traore (Aston Villa, Midfielder)",AVL,6.0,0,0.09,-0.09,888.9,0,0.24,-0.24,333.3,0.33,-0.33,242.4,17/12/2020
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,0,0.01,-0.01,9000.0,0,0.34,-0.34,264.7,0.35,-0.35,257.1,17/12/2020
+"Barnes (Ashley)  Ashley Barnes (Burnley, Forward)",BUR,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/12/2020
+"Brady  Robert Brady (Burnley, Midfielder)",BUR,5.0,0,0.01,-0.01,8900.0,0,0.1,-0.1,890.0,0.11,-0.11,809.1,17/12/2020
+"Brownhill  Josh Brownhill (Burnley, Midfielder)",BUR,4.5,0,0.09,-0.09,1000.0,0,0.0,0.0,inf,0.09,-0.09,1000.0,17/12/2020
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,17/12/2020
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,17/12/2020
+"Mee  Ben Mee (Burnley, Defender)",BUR,5.0,0,0.01,-0.01,9000.0,0,0.07,-0.07,1285.7,0.08,-0.08,1125.0,17/12/2020
+"Pieters  Erik Pieters (Burnley, Defender)",BUR,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/12/2020
+"Pope  Nick Pope (Burnley, Goalkeeper)",BUR,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/12/2020
+"Rodriguez  Jay Rodriguez (Burnley, Forward)",BUR,5.5,0,0.02,-0.02,3250.0,0,0.05,-0.05,1300.0,0.07,-0.07,928.6,17/12/2020
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,17/12/2020
+"Taylor (Charlie)  Charlie Taylor (Burnley, Defender)",BUR,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/12/2020
+"Vydra  Matej Vydra (Burnley, Forward)",BUR,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/12/2020
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,0,0.03,-0.03,3000.0,0,0.05,-0.05,1800.0,0.08,-0.08,1125.0,17/12/2020
+"Wood  Chris Wood (Burnley, Forward)",BUR,7.0,0,0.0,0.0,inf,0,0.06,-0.06,1366.7,0.06,-0.06,1366.7,17/12/2020

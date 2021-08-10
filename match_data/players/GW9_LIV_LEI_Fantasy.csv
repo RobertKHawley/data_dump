@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,1,90,0,0,0,0,0,0,0,3,0,0,0,LIV,9,22/11/2020,MID,False
+"Barnes (Harvey)  Harvey Barnes (Leicester City, Midfielder)",LEI,7.0,1,62,0,1,0,0,0,0,0,2,0,0,0,LIV,9,22/11/2020,MID,False
+"Evans  Jonny Evans (Leicester City, Defender)",LEI,5.5,1,90,0,0,0,0,0,0,0,3,1,0,0,LIV,9,22/11/2020,DEF,False
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,LIV,9,22/11/2020,DEF,False
+"Fuchs  Christian Fuchs (Leicester City, Defender)",LEI,4.5,1,62,0,1,0,0,0,0,0,2,0,0,0,LIV,9,22/11/2020,DEF,False
+"Justin  James Justin (Leicester City, Defender)",LEI,5.0,1,90,0,0,0,0,0,0,0,3,0,1,0,LIV,9,22/11/2020,DEF,False
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,1,90,0,0,0,0,0,0,0,3,0,0,0,LIV,9,22/11/2020,MID,False
+"Mendy (Nampalys)  Nampalys Mendy (Leicester City, Midfielder)",LEI,4.5,1,90,0,0,0,0,0,0,0,3,0,1,0,LIV,9,22/11/2020,MID,False
+"Praet  Dennis Praet (Leicester City, Midfielder)",LEI,5.0,0,28,1,0,0,0,0,0,0,1,0,0,0,LIV,9,22/11/2020,MID,False
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,LIV,9,22/11/2020,GKP,False
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,1,90,0,0,0,0,0,0,0,3,0,0,0,LIV,9,22/11/2020,MID,False
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,1,90,0,0,0,0,0,0,0,3,0,0,0,LIV,9,22/11/2020,FWD,False
+"Ünder  Cengiz Ünder (Leicester City, Midfielder)",LEI,5.7,0,28,1,0,0,0,0,0,0,1,0,0,0,LIV,9,22/11/2020,MID,False
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,1,90,0,0,1,0,0,0,1,0,0,0,0,LEI,9,22/11/2020,FWD,True
+"Jones (Curtis)  Curtis Jones (Liverpool, Midfielder)",LIV,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LEI,9,22/11/2020,MID,True
+"Keita  Naby Keita (Liverpool, Midfielder)",LIV,5.0,1,54,0,1,0,0,0,0,0,0,0,0,0,LEI,9,22/11/2020,MID,True
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,1,89,0,1,0,0,0,0,1,0,0,0,0,LEI,9,22/11/2020,MID,True
+"Matip  Joel Matip (Liverpool, Defender)",LIV,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LEI,9,22/11/2020,DEF,True
+"Milner  James Milner (Liverpool, Midfielder)",LIV,5.0,1,90,0,0,0,1,1,2,1,0,0,0,0,LEI,9,22/11/2020,MID,True
+"Minamino  Takumi Minamino (Liverpool, Midfielder)",LIV,5.5,0,1,1,0,0,0,0,0,0,0,0,0,0,LEI,9,22/11/2020,MID,True
+"Origi  Divock Origi (Liverpool, Forward)",LIV,5.0,0,1,1,0,0,0,0,0,0,0,0,0,0,LEI,9,22/11/2020,FWD,True
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,LEI,9,22/11/2020,GKP,True
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,1,90,0,0,0,1,0,1,1,0,0,0,0,LEI,9,22/11/2020,DEF,True
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,LEI,9,22/11/2020,MID,True
+"Diogo Jota  Diogo José Teixeira da Silva (Liverpool, Midfielder)",LIV,7.5,1,89,0,1,1,0,0,0,1,0,0,0,0,LEI,9,22/11/2020,MID,True
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,1,90,0,0,0,0,0,0,1,0,0,0,0,LEI,9,22/11/2020,MID,True
+"Williams (Neco)  Neco Williams (Liverpool, Defender)",LIV,4.0,0,36,1,0,0,0,0,0,0,0,0,0,0,LEI,9,22/11/2020,DEF,True

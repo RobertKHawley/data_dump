@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Alderweireld  Toby Alderweireld (Tottenham Hotspur, Defender)",TOT,5.0,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,16/05/2021
+"Alli  Bamidele Alli (Tottenham Hotspur, Midfielder)",TOT,6.5,0,0.29,-0.29,282.8,0,0.89,-0.89,92.1,1.18,-1.18,69.5,16/05/2021
+"Bale  Gareth Bale (Tottenham Hotspur, Midfielder)",TOT,9.2,0,0.12,-0.12,741.7,0,0.17,-0.17,523.5,0.29,-0.29,306.9,16/05/2021
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,0,0.01,-0.01,9000.0,0,0.34,-0.34,264.7,0.35,-0.35,257.1,16/05/2021
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,1,0.21,0.79,428.6,1,0.56,0.44,160.7,0.77,1.23,116.9,16/05/2021
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,0,0.02,-0.02,4500.0,1,1.31,-0.31,68.7,1.33,-0.33,67.7,16/05/2021
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/05/2021
+"Lo Celso  Giovani Lo Celso (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.03,-0.03,2300.0,0,0.09,-0.09,766.7,0.12,-0.12,575.0,16/05/2021
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.02,-0.02,400.0,0,0.0,0.0,inf,0.02,-0.02,400.0,16/05/2021
+"Reguilón  Sergio Reguilón (Tottenham Hotspur, Defender)",TOT,5.0,0,0.05,-0.05,1800.0,0,0.05,-0.05,1800.0,0.1,-0.1,900.0,16/05/2021
+"Sissoko  Moussa Sissoko (Tottenham Hotspur, Midfielder)",TOT,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/05/2021
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,0,0.15,-0.15,600.0,0,0.06,-0.06,1500.0,0.21,-0.21,428.6,16/05/2021
+"Tanganga  Japhet Tanganga (Tottenham Hotspur, Defender)",TOT,4.5,0,0.01,-0.01,9000.0,0,0.09,-0.09,1000.0,0.1,-0.1,900.0,16/05/2021
+"Winks  Harry Winks (Tottenham Hotspur, Midfielder)",TOT,4.5,0,0.01,-0.01,2100.0,0,0.0,0.0,inf,0.01,-0.01,2100.0,16/05/2021
+"Coady  Conor Coady (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/05/2021
+"Corbeanu  Theo Corbeanu (Wolverhampton Wanderers, Forward)",WOL,4.4,0,0.03,-0.03,266.7,0,0.0,0.0,inf,0.03,-0.03,266.7,16/05/2021
+"Willian José  Willian José Da Silva (Wolverhampton Wanderers, Forward)",WOL,6.8,0,0.1,-0.1,270.0,0,0.0,0.0,inf,0.1,-0.1,270.0,16/05/2021
+"Dendoncker (Leander)  Leander Dendoncker (Wolverhampton Wanderers, Midfielder)",WOL,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,16/05/2021
+"Gibbs-White  Morgan Gibbs-White (Wolverhampton Wanderers, Midfielder)",WOL,4.5,0,0.17,-0.17,429.4,0,0.0,0.0,inf,0.17,-0.17,429.4,16/05/2021
+"Hoever  Ki-Jana Hoever (Wolverhampton Wanderers, Defender)",WOL,4.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/05/2021
+"Vitor Ferreira  Vitor Machado Ferreira (Wolverhampton Wanderers, Midfielder)",WOL,4.7,0,0.14,-0.14,450.0,0,0.07,-0.07,900.0,0.21,-0.21,300.0,16/05/2021
+"Moutinho  João Moutinho (Wolverhampton Wanderers, Midfielder)",WOL,5.0,0,0.06,-0.06,1500.0,0,0.08,-0.08,1125.0,0.14,-0.14,642.9,16/05/2021
+"Saiss  Romain Saiss (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.01,-0.01,9000.0,0,0.19,-0.19,473.7,0.2,-0.2,450.0,16/05/2021
+"Semedo  Nelson Semedo (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/05/2021
+"Fabio Silva  Fabio Daniel Soares Silva (Wolverhampton Wanderers, Forward)",WOL,6.0,0,0.0,0.0,inf,0,0.48,-0.48,170.8,0.48,-0.48,170.8,16/05/2021
+"Traoré  Adama Traoré (Wolverhampton Wanderers, Midfielder)",WOL,6.0,0,0.34,-0.34,264.7,0,0.08,-0.08,1125.0,0.42,-0.42,214.3,16/05/2021
+"Ruben Neves  Rúben Diogo da Silva Neves (Wolverhampton Wanderers, Midfielder)",WOL,5.5,0,0.0,0.0,inf,0,0.02,-0.02,850.0,0.02,-0.02,850.0,16/05/2021
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,16/05/2021

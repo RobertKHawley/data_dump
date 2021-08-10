@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Bailly  Eric Bailly (Manchester United, Defender)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,04/10/2020
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,0,0.12,-0.12,375.0,1,0.79,0.21,57.0,0.91,0.09,49.5,04/10/2020
+"De Gea  David De Gea (Manchester United, Goalkeeper)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,04/10/2020
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,0,0.01,-0.01,6700.0,0,0.1,-0.1,670.0,0.11,-0.11,609.1,04/10/2020
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,04/10/2020
+"Martial  Anthony Martial (Manchester United, Forward)",MUN,8.0,0,0.02,-0.02,1400.0,0,0.0,0.0,inf,0.02,-0.02,1400.0,04/10/2020
+"Matic  Nemanja Matic (Manchester United, Midfielder)",MUN,4.5,0,0.04,-0.04,1125.0,0,0.0,0.0,inf,0.04,-0.04,1125.0,04/10/2020
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,0,0.01,-0.01,4500.0,0,0.0,0.0,inf,0.01,-0.01,4500.0,04/10/2020
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,0,0.04,-0.04,2250.0,0,0.06,-0.06,1500.0,0.1,-0.1,900.0,04/10/2020
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,04/10/2020
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,0,0.01,-0.01,4500.0,0,0.0,0.0,inf,0.01,-0.01,4500.0,04/10/2020
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,0,0.06,-0.06,1500.0,0,0.0,0.0,inf,0.06,-0.06,1500.0,04/10/2020
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,04/10/2020
+"van de Beek  Donny van de Beek (Manchester United, Midfielder)",MUN,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,04/10/2020
+"Alli  Bamidele Alli (Tottenham Hotspur, Midfielder)",TOT,6.5,0,0.0,0.0,inf,0,0.08,-0.08,262.5,0.08,-0.08,262.5,04/10/2020
+"Aurier  Serge Aurier (Tottenham Hotspur, Defender)",TOT,5.0,1,0.02,0.98,4500.0,1,0.38,0.62,236.8,0.4,1.6,225.0,04/10/2020
+"Davies (Ben)  Ben Davies (Tottenham Hotspur, Defender)",TOT,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,04/10/2020
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,04/10/2020
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,1,0.03,0.97,3000.0,0,0.01,-0.01,9000.0,0.04,0.96,2250.0,04/10/2020
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,1,0.06,0.94,1500.0,2,1.38,0.62,65.2,1.44,1.56,62.5,04/10/2020
+"Lamela  Erik Lamela (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.03,-0.03,1500.0,0,0.14,-0.14,321.4,0.17,-0.17,264.7,04/10/2020
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,04/10/2020
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.04,-0.04,1725.0,1,0.64,0.36,107.8,0.68,0.32,101.5,04/10/2020
+"Reguilón  Sergio Reguilón (Tottenham Hotspur, Defender)",TOT,5.0,0,0.16,-0.16,562.5,0,0.06,-0.06,1500.0,0.22,-0.22,409.1,04/10/2020
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,04/10/2020
+"Sissoko  Moussa Sissoko (Tottenham Hotspur, Midfielder)",TOT,4.5,0,0.06,-0.06,1500.0,0,0.0,0.0,inf,0.06,-0.06,1500.0,04/10/2020
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,1,0.32,0.68,228.1,2,0.44,1.56,165.9,0.76,2.24,96.1,04/10/2020
+"DSanchez  Davinson Sánchez (Tottenham Hotspur, Defender)",TOT,4.5,0,0.0,0.0,inf,0,0.37,-0.37,243.2,0.37,-0.37,243.2,04/10/2020

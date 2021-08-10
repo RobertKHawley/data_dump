@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Bissouma  Yves Bissouma (Brighton and Hove Albion, Midfielder)",BHA,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,28,14/03/2021,MID,False
+"Burn  Dan Burn (Brighton and Hove Albion, Defender)",BHA,4.5,1,45,0,1,0,0,0,0,0,1,0,0,0,SOU,28,14/03/2021,DEF,False
+"Dunk  Lewis Dunk (Brighton and Hove Albion, Defender)",BHA,5.0,1,90,0,0,1,0,0,0,0,1,0,0,0,SOU,28,14/03/2021,DEF,False
+"Groß  Pascal Groß (Brighton and Hove Albion, Midfielder)",BHA,6.0,1,90,0,0,0,1,0,1,0,1,0,0,0,SOU,28,14/03/2021,MID,False
+"Lallana  Adam Lallana (Brighton and Hove Albion, Midfielder)",BHA,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,28,14/03/2021,MID,False
+"Maupay  Neal Maupay (Brighton and Hove Albion, Forward)",BHA,6.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,28,14/03/2021,FWD,False
+"Moder  Jakub Moder (Brighton and Hove Albion, Midfielder)",BHA,4.5,0,4,1,0,0,0,0,0,0,0,0,0,0,SOU,28,14/03/2021,MID,False
+"Pröpper  Davy Pröpper (Brighton and Hove Albion, Midfielder)",BHA,4.5,0,13,1,0,0,0,0,0,0,0,0,0,0,SOU,28,14/03/2021,MID,False
+"Sanchez  Robert Sanchez (Brighton and Hove Albion, Goalkeeper)",BHA,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,28,14/03/2021,GKP,False
+"Trossard  Leandro Trossard (Brighton and Hove Albion, Midfielder)",BHA,6.5,1,86,0,1,1,0,0,0,0,1,0,0,0,SOU,28,14/03/2021,MID,False
+"Veltman  Joël Veltman (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,28,14/03/2021,DEF,False
+"Welbeck  Danny Welbeck (Brighton and Hove Albion, Forward)",BHA,6.0,1,77,0,1,0,1,0,1,0,1,0,0,0,SOU,28,14/03/2021,FWD,False
+"White (Ben)  Ben White (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,28,14/03/2021,DEF,False
+"Zeqiri  Andi Zeqiri (Brighton and Hove Albion, Forward)",BHA,5.0,0,45,1,0,0,0,0,0,0,0,0,0,0,SOU,28,14/03/2021,FWD,False
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,1,90,0,0,1,0,0,0,0,2,0,0,0,BHA,28,14/03/2021,FWD,True
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,1,87,0,1,0,0,0,0,0,2,0,0,0,BHA,28,14/03/2021,MID,True
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,BHA,28,14/03/2021,DEF,True
+"Bertrand  Ryan Bertrand (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,1,1,0,2,0,0,0,BHA,28,14/03/2021,DEF,True
+"Diallo  Ibrahima Diallo (Southampton, Midfielder)",SOU,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,BHA,28,14/03/2021,MID,True
+"Djenepo  Moussa Djenepo (Southampton, Midfielder)",SOU,5.5,0,22,1,0,0,0,0,0,0,0,0,0,0,BHA,28,14/03/2021,MID,True
+"Forster  Fraser Forster (Southampton, Goalkeeper)",SOU,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,BHA,28,14/03/2021,GKP,True
+"Minamino  Takumi Minamino (Southampton, Midfielder)",SOU,5.5,1,65,0,1,0,0,0,0,0,2,0,0,0,BHA,28,14/03/2021,MID,True
+"N'Lundulu  Daniel N&#039;Lundulu (Southampton, Forward)",SOU,4.5,0,3,1,0,0,0,0,0,0,0,0,0,0,BHA,28,14/03/2021,FWD,True
+"Redmond  Nathan Redmond (Southampton, Midfielder)",SOU,6.0,0,25,1,0,0,0,0,0,0,0,0,0,0,BHA,28,14/03/2021,MID,True
+"Tella  Nathan Tella (Southampton, Midfielder)",SOU,5.0,1,68,0,1,0,0,0,0,0,2,0,0,0,BHA,28,14/03/2021,MID,True
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,BHA,28,14/03/2021,DEF,True
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,BHA,28,14/03/2021,DEF,True
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,1,90,0,0,0,0,0,0,0,2,0,0,0,BHA,28,14/03/2021,MID,True

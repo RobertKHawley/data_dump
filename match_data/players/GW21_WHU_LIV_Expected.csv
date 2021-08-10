@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Thiago Alcántara  Thiago Alcántara do Nascimento (Liverpool, Midfielder)",LIV,5.5,0,0.41,-0.41,219.5,0,0.04,-0.04,2250.0,0.45,-0.45,200.0,31/01/2021
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,31/01/2021
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,1,0.17,0.83,123.5,0,0.0,0.0,inf,0.17,0.83,123.5,31/01/2021
+"Henderson (Jordan)  Jordan Henderson (Liverpool, Midfielder)",LIV,5.0,0,0.11,-0.11,818.2,0,0.0,0.0,inf,0.11,-0.11,818.2,31/01/2021
+"Jones (Curtis)  Curtis Jones (Liverpool, Midfielder)",LIV,5.0,1,0.02,0.98,1650.0,0,0.0,0.0,inf,0.02,0.98,1650.0,31/01/2021
+"Milner  James Milner (Liverpool, Midfielder)",LIV,5.0,0,0.03,-0.03,1900.0,0,0.0,0.0,inf,0.03,-0.03,1900.0,31/01/2021
+"Origi  Divock Origi (Liverpool, Forward)",LIV,5.0,0,0.15,-0.15,533.3,0,0.68,-0.68,117.6,0.83,-0.83,96.4,31/01/2021
+"Oxlade-Chamberlain  Alex Oxlade-Chamberlain (Liverpool, Midfielder)",LIV,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/01/2021
+"Phillips (Nathaniel)  Nathaniel Phillips (Liverpool, Defender)",LIV,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,31/01/2021
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/01/2021
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,31/01/2021
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,0,0.04,-0.04,2250.0,2,0.83,1.17,108.4,0.87,1.13,103.4,31/01/2021
+"Shaqiri  Xherdan Shaqiri (Liverpool, Midfielder)",LIV,6.0,1,0.1,0.9,690.0,0,0.06,-0.06,1150.0,0.16,0.84,431.3,31/01/2021
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,0,0.03,-0.03,3000.0,1,0.36,0.64,250.0,0.39,0.61,230.8,31/01/2021
+"Antonio  Michail Antonio (West Ham United, Forward)",WHU,7.5,0,0.0,0.0,inf,0,0.09,-0.09,877.8,0.09,-0.09,877.8,31/01/2021
+"Benrahma  Said Benrahma (West Ham United, Midfielder)",WHU,6.0,0,0.03,-0.03,3000.0,0,0.03,-0.03,3000.0,0.06,-0.06,1500.0,31/01/2021
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,0,0.19,-0.19,415.8,0,0.0,0.0,inf,0.19,-0.19,415.8,31/01/2021
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,31/01/2021
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,0,0.07,-0.07,1285.7,0,0.0,0.0,inf,0.07,-0.07,1285.7,31/01/2021
+"Dawson  Craig Dawson (West Ham United, Defender)",WHU,5.0,0,0.01,-0.01,9000.0,1,0.63,0.37,142.9,0.64,0.36,140.6,31/01/2021
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/01/2021
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,0,0.04,-0.04,1550.0,0,0.07,-0.07,885.7,0.11,-0.11,563.6,31/01/2021
+"Fredericks  Ryan Fredericks (West Ham United, Defender)",WHU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/01/2021
+"Noble  Mark Noble (West Ham United, Midfielder)",WHU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/01/2021
+"Ogbonna  Angelo Ogbonna (West Ham United, Defender)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/01/2021
+"Rice  Declan Rice (West Ham United, Midfielder)",WHU,5.0,0,0.01,-0.01,9000.0,0,0.03,-0.03,3000.0,0.04,-0.04,2250.0,31/01/2021
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,31/01/2021
+"Yarmolenko  Andriy Yarmolenko (West Ham United, Midfielder)",WHU,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,31/01/2021

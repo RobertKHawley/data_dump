@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Barnes (Ashley)  Ashley Barnes (Burnley, Forward)",BUR,5.5,1,77,0,1,0,0,0,0,1,0,0,0,0,WBA,5,19/10/2020,FWD,False
+"Gudmundsson  Johann Berg Gudmundsson (Burnley, Midfielder)",BUR,5.5,1,69,0,1,0,0,0,0,1,0,0,0,0,WBA,5,19/10/2020,MID,False
+"Brady  Robert Brady (Burnley, Midfielder)",BUR,5.0,0,21,1,0,0,0,0,0,0,0,0,0,0,WBA,5,19/10/2020,MID,False
+"Brownhill  Josh Brownhill (Burnley, Midfielder)",BUR,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,WBA,5,19/10/2020,MID,False
+"Long (Kevin)  Kevin Long (Burnley, Defender)",BUR,4.0,1,90,0,0,0,0,0,0,1,0,0,0,0,WBA,5,19/10/2020,DEF,False
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,WBA,5,19/10/2020,MID,False
+"Pieters  Erik Pieters (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,WBA,5,19/10/2020,DEF,False
+"Pope  Nick Pope (Burnley, Goalkeeper)",BUR,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,WBA,5,19/10/2020,GKP,False
+"Rodriguez  Jay Rodriguez (Burnley, Forward)",BUR,5.5,0,13,1,0,0,0,0,0,0,0,0,0,0,WBA,5,19/10/2020,FWD,False
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,WBA,5,19/10/2020,DEF,False
+"Taylor (Charlie)  Charlie Taylor (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,1,0,0,1,0,WBA,5,19/10/2020,DEF,False
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,1,90,0,0,0,0,0,0,1,0,0,1,0,WBA,5,19/10/2020,MID,False
+"Wood  Chris Wood (Burnley, Forward)",BUR,7.0,1,90,0,0,0,0,0,0,1,0,0,0,0,WBA,5,19/10/2020,FWD,False
+"Matheus Pereira  Matheus Fellipe Costa Pereira (West Bromwich Albion, Midfielder)",WBA,5.4,1,88,0,1,0,0,0,0,1,0,0,0,0,BUR,5,19/10/2020,MID,True
+"Diangana  Grady Diangana (West Bromwich Albion, Midfielder)",WBA,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,5,19/10/2020,MID,True
+"Furlong  Darnell Furlong (West Bromwich Albion, Defender)",WBA,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,5,19/10/2020,DEF,True
+"Gallagher  Conor Gallagher (West Bromwich Albion, Midfielder)",WBA,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,5,19/10/2020,MID,True
+"Grant (Karlan)  Karlan Grant (West Bromwich Albion, Forward)",WBA,5.6,1,73,0,1,0,0,0,0,1,0,0,0,0,BUR,5,19/10/2020,FWD,True
+"Hegazi  Ahmed El-Sayed Hegazy (West Bromwich Albion, Defender)",WBA,4.1,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,5,19/10/2020,DEF,True
+"Ivanovic  Branislav Ivanovic (West Bromwich Albion, Defender)",WBA,4.4,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,5,19/10/2020,DEF,True
+"Johnstone  Sam Johnstone (West Bromwich Albion, Goalkeeper)",WBA,4.6,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,5,19/10/2020,GKP,True
+"Krovinovic  Filip Krovinovic (West Bromwich Albion, Midfielder)",WBA,4.9,1,79,0,1,0,0,0,0,1,0,0,0,0,BUR,5,19/10/2020,MID,True
+"Livermore  Jake Livermore (West Bromwich Albion, Midfielder)",WBA,4.7,1,90,0,0,0,0,0,0,1,0,0,1,0,BUR,5,19/10/2020,MID,True
+"Phillips (Matthew)  Matthew Phillips (West Bromwich Albion, Midfielder)",WBA,5.1,0,2,1,0,0,0,0,0,0,0,0,1,0,BUR,5,19/10/2020,MID,True
+"Robinson (Callum)  Callum Robinson (West Bromwich Albion, Forward)",WBA,5.2,0,17,1,0,0,0,0,0,0,0,0,0,0,BUR,5,19/10/2020,FWD,True
+"Sawyers  Romaine Sawyers (West Bromwich Albion, Midfielder)",WBA,4.6,0,11,1,0,0,0,0,0,0,0,0,0,0,BUR,5,19/10/2020,MID,True
+"Townsend (Conor)  Conor Townsend (West Bromwich Albion, Defender)",WBA,4.4,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,5,19/10/2020,DEF,True

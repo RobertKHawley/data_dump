@@ -1,0 +1,27 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Jordan Ayew  Jordan Ayew (Crystal Palace, Forward)",CRY,6.0,0,0.03,-0.03,2533.3,0,0.11,-0.11,690.9,0.14,-0.14,542.9,08/02/2021
+"Batshuayi  Michy Batshuayi (Crystal Palace, Forward)",CRY,5.5,0,0.06,-0.06,416.7,0,0.0,0.0,inf,0.06,-0.06,416.7,08/02/2021
+"Benteke  Christian Benteke (Crystal Palace, Forward)",CRY,6.5,0,0.0,0.0,inf,0,0.06,-0.06,233.3,0.06,-0.06,233.3,08/02/2021
+"Cahill  Gary Cahill (Crystal Palace, Defender)",CRY,4.5,0,0.0,0.0,inf,0,0.05,-0.05,1800.0,0.05,-0.05,1800.0,08/02/2021
+"Clyne  Nathaniel Clyne (Crystal Palace, Defender)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,08/02/2021
+"Dann  Scott Dann (Crystal Palace, Defender)",CRY,4.2,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,08/02/2021
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,0,0.1,-0.1,900.0,0,0.12,-0.12,750.0,0.22,-0.22,409.1,08/02/2021
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,08/02/2021
+"Mateta  Jean-Philippe Mateta (Crystal Palace, Forward)",CRY,5.5,0,0.03,-0.03,2166.7,0,0.0,0.0,inf,0.03,-0.03,2166.7,08/02/2021
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,08/02/2021
+"Mitchell  Tyrick Mitchell (Crystal Palace, Defender)",CRY,4.5,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,08/02/2021
+"Riedewald  Jairo Riedewald (Crystal Palace, Midfielder)",CRY,5.0,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,08/02/2021
+"Townsend (Andros)  Andros Townsend (Crystal Palace, Midfielder)",CRY,5.5,0,0.04,-0.04,1125.0,0,0.04,-0.04,1125.0,0.08,-0.08,562.5,08/02/2021
+"Van Aanholt  Patrick Van Aanholt (Crystal Palace, Defender)",CRY,5.4,0,0.02,-0.02,2250.0,0,0.0,0.0,inf,0.02,-0.02,2250.0,08/02/2021
+"Alioski  Ezgjan Alioski (Leeds United, Defender)",LEE,4.4,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,08/02/2021
+"Ayling  Luke Ayling (Leeds United, Defender)",LEE,4.5,0,0.18,-0.18,500.0,0,0.0,0.0,inf,0.18,-0.18,500.0,08/02/2021
+"Bamford  Patrick Bamford (Leeds United, Forward)",LEE,8.0,0,0.02,-0.02,4500.0,1,0.81,0.19,111.1,0.83,0.17,108.4,08/02/2021
+"Cooper  Liam Cooper (Leeds United, Defender)",LEE,4.5,0,0.0,0.0,inf,0,0.05,-0.05,1800.0,0.05,-0.05,1800.0,08/02/2021
+"Dallas  Stuart Dallas (Leeds United, Defender)",LEE,5.5,1,0.12,0.88,750.0,0,0.06,-0.06,1500.0,0.18,0.82,500.0,08/02/2021
+"Raphinha  Raphael Dias Belloli (Leeds United, Midfielder)",LEE,6.5,0,0.32,-0.32,281.3,0,0.31,-0.31,290.3,0.63,-0.63,142.9,08/02/2021
+"Harrison  Jack Harrison (Leeds United, Midfielder)",LEE,6.0,0,0.03,-0.03,3000.0,1,0.1,0.9,900.0,0.13,0.87,692.3,08/02/2021
+"Klich  Mateusz Klich (Leeds United, Midfielder)",LEE,5.5,0,0.1,-0.1,900.0,0,0.0,0.0,inf,0.1,-0.1,900.0,08/02/2021
+"Meslier  Illan Meslier (Leeds United, Goalkeeper)",LEE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,08/02/2021
+"Phillips (Kalvin)  Kalvin Phillips (Leeds United, Midfielder)",LEE,5.0,0,0.44,-0.44,200.0,0,0.0,0.0,inf,0.44,-0.44,200.0,08/02/2021
+"Shackleton  Jamie Shackleton (Leeds United, Midfielder)",LEE,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,08/02/2021
+"Struijk  Pascal Struijk (Leeds United, Defender)",LEE,4.5,0,0.0,0.0,inf,0,0.61,-0.61,147.5,0.61,-0.61,147.5,08/02/2021

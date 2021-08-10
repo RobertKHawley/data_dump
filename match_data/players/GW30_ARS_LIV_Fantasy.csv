@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Cedric  Cedric Ricardo Alves Soares (Arsenal, Defender)",ARS,4.5,0,44,1,0,0,0,0,0,0,3,0,0,0,LIV,30,03/04/2021,DEF,True
+"Aubameyang  Pierre-Emerick Aubameyang (Arsenal, Midfielder)",ARS,10.0,1,77,0,1,0,0,0,0,0,2,0,0,0,LIV,30,03/04/2021,MID,True
+"Dani Ceballos  Daniel Ceballos Fernández (Arsenal, Midfielder)",ARS,4.7,1,58,0,1,0,0,0,0,0,0,0,0,0,LIV,30,03/04/2021,MID,True
+"Chambers  Calum Chambers (Arsenal, Defender)",ARS,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,LIV,30,03/04/2021,DEF,True
+"Elneny  Mohamed Elneny (Arsenal, Midfielder)",ARS,4.5,0,32,1,0,0,0,0,0,0,3,0,0,0,LIV,30,03/04/2021,MID,True
+"Holding  Rob Holding (Arsenal, Defender)",ARS,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,LIV,30,03/04/2021,DEF,True
+"Lacazette  Alexandre Lacazette (Arsenal, Forward)",ARS,8.5,1,90,0,0,0,0,0,0,0,3,0,0,0,LIV,30,03/04/2021,FWD,True
+"Leno  Bernd Leno (Arsenal, Goalkeeper)",ARS,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,LIV,30,03/04/2021,GKP,True
+"Gabriel Martinelli  Gabriel Teodoro Martinelli Silva (Arsenal, Midfielder)",ARS,5.5,0,13,1,0,0,0,0,0,0,1,0,0,0,LIV,30,03/04/2021,MID,True
+"Odegaard  Martin Odegaard (Arsenal, Midfielder)",ARS,5.6,1,90,0,0,0,0,0,0,0,3,0,0,0,LIV,30,03/04/2021,MID,True
+"Partey  Thomas Partey (Arsenal, Midfielder)",ARS,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,LIV,30,03/04/2021,MID,True
+"Pepe  Nicolas Pepe (Arsenal, Midfielder)",ARS,7.5,1,90,0,0,0,0,0,0,0,3,0,0,0,LIV,30,03/04/2021,MID,True
+"Tierney  Kieran Tierney (Arsenal, Defender)",ARS,5.0,1,46,0,1,0,0,0,0,0,0,0,0,0,LIV,30,03/04/2021,DEF,True
+"Gabriel Magalhães  Gabriel dos Santos Magalhães (Arsenal, Defender)",ARS,5.0,1,90,0,0,0,0,0,0,0,3,0,1,0,LIV,30,03/04/2021,DEF,True
+"Thiago Alcántara  Thiago Alcántara do Nascimento (Liverpool, Midfielder)",LIV,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,ARS,30,03/04/2021,MID,False
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,1,90,0,0,0,1,0,1,1,0,0,0,0,ARS,30,03/04/2021,DEF,False
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,1,78,0,1,0,0,0,0,1,0,0,0,0,ARS,30,03/04/2021,FWD,False
+"Kabak  Ozan Kabak (Liverpool, Defender)",LIV,5.0,1,84,0,1,0,0,0,0,1,0,0,0,0,ARS,30,03/04/2021,DEF,False
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,1,90,0,0,0,1,0,1,1,0,0,0,0,ARS,30,03/04/2021,MID,False
+"Milner  James Milner (Liverpool, Midfielder)",LIV,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,ARS,30,03/04/2021,MID,False
+"Phillips (Nathaniel)  Nathaniel Phillips (Liverpool, Defender)",LIV,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,ARS,30,03/04/2021,DEF,False
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,ARS,30,03/04/2021,GKP,False
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,1,61,0,1,0,0,0,0,1,0,0,0,0,ARS,30,03/04/2021,DEF,False
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,1,90,0,0,1,0,0,0,1,0,0,0,0,ARS,30,03/04/2021,MID,False
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,1,90,0,0,0,0,1,1,1,0,0,0,0,ARS,30,03/04/2021,MID,False
+"Diogo Jota  Diogo José Teixeira da Silva (Liverpool, Midfielder)",LIV,7.5,0,29,1,0,2,0,0,0,0,0,0,1,0,ARS,30,03/04/2021,MID,False
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,0,12,1,0,0,0,0,0,0,0,0,0,0,ARS,30,03/04/2021,MID,False
+"Rhys Williams  Rhys Williams (Liverpool, Defender)",LIV,4.5,0,6,1,0,0,0,0,0,0,0,0,0,0,ARS,30,03/04/2021,DEF,False

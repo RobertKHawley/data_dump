@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Willian  Willian Borges Da Silva (Arsenal, Midfielder)",ARS,6.5,1,90,0,0,1,0,0,0,0,1,0,0,0,WBA,35,09/05/2021,MID,True
+"Dani Ceballos  Daniel Ceballos Fernández (Arsenal, Midfielder)",ARS,4.7,1,76,0,1,0,0,0,0,0,1,0,1,0,WBA,35,09/05/2021,MID,True
+"Chambers  Calum Chambers (Arsenal, Defender)",ARS,4.5,1,90,0,0,0,1,0,1,0,1,0,0,0,WBA,35,09/05/2021,DEF,True
+"Elneny  Mohamed Elneny (Arsenal, Midfielder)",ARS,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,35,09/05/2021,MID,True
+"Holding  Rob Holding (Arsenal, Defender)",ARS,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,35,09/05/2021,DEF,True
+"Lacazette  Alexandre Lacazette (Arsenal, Forward)",ARS,8.5,0,30,1,0,0,0,0,0,0,1,0,0,0,WBA,35,09/05/2021,FWD,True
+"Leno  Bernd Leno (Arsenal, Goalkeeper)",ARS,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,35,09/05/2021,GKP,True
+"Gabriel Martinelli  Gabriel Teodoro Martinelli Silva (Arsenal, Midfielder)",ARS,5.5,1,60,0,1,0,0,0,0,1,0,0,0,0,WBA,35,09/05/2021,MID,True
+"Partey  Thomas Partey (Arsenal, Midfielder)",ARS,5.0,0,14,1,0,0,0,0,0,0,0,0,0,0,WBA,35,09/05/2021,MID,True
+"Pepe  Nicolas Pepe (Arsenal, Midfielder)",ARS,7.5,1,90,0,0,1,0,0,0,0,1,0,0,0,WBA,35,09/05/2021,MID,True
+"Saka  Bukayo Saka (Arsenal, Midfielder)",ARS,6.5,1,90,0,0,0,1,0,1,0,1,0,0,0,WBA,35,09/05/2021,MID,True
+"Smith-Rowe  Emile Smith-Rowe (Arsenal, Midfielder)",ARS,5.5,1,63,0,1,1,0,0,0,1,0,0,0,0,WBA,35,09/05/2021,MID,True
+"Tierney  Kieran Tierney (Arsenal, Defender)",ARS,5.0,0,27,1,0,0,0,0,0,0,1,0,0,0,WBA,35,09/05/2021,DEF,True
+"Gabriel Magalhães  Gabriel dos Santos Magalhães (Arsenal, Defender)",ARS,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WBA,35,09/05/2021,DEF,True
+"Ajayi  Semi Ajayi (West Bromwich Albion, Defender)",WBA,4.8,1,90,0,0,0,0,0,0,0,3,0,0,0,ARS,35,09/05/2021,DEF,False
+"Bartley  Kyle Bartley (West Bromwich Albion, Defender)",WBA,4.4,1,90,0,0,0,0,0,0,0,3,0,0,0,ARS,35,09/05/2021,DEF,False
+"Matheus Pereira  Matheus Fellipe Costa Pereira (West Bromwich Albion, Midfielder)",WBA,5.4,1,90,0,0,1,0,0,0,0,3,0,0,0,ARS,35,09/05/2021,MID,False
+"Diagne  Mbaye Diagne (West Bromwich Albion, Forward)",WBA,6.0,1,56,0,1,0,0,0,0,0,2,0,0,0,ARS,35,09/05/2021,FWD,False
+"Diangana  Grady Diangana (West Bromwich Albion, Midfielder)",WBA,5.0,0,22,1,0,0,0,0,0,0,1,0,0,0,ARS,35,09/05/2021,MID,False
+"Furlong  Darnell Furlong (West Bromwich Albion, Defender)",WBA,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,ARS,35,09/05/2021,DEF,False
+"Gallagher  Conor Gallagher (West Bromwich Albion, Midfielder)",WBA,5.5,1,90,0,0,0,0,0,0,0,3,0,1,0,ARS,35,09/05/2021,MID,False
+"Johnstone  Sam Johnstone (West Bromwich Albion, Goalkeeper)",WBA,4.6,1,90,0,0,0,0,0,0,0,3,0,0,0,ARS,35,09/05/2021,GKP,False
+"Phillips (Matthew)  Matthew Phillips (West Bromwich Albion, Midfielder)",WBA,5.1,1,90,0,0,0,0,0,0,0,3,0,0,0,ARS,35,09/05/2021,MID,False
+"Robinson (Callum)  Callum Robinson (West Bromwich Albion, Forward)",WBA,5.2,1,68,0,1,0,0,0,0,0,2,0,0,0,ARS,35,09/05/2021,FWD,False
+"Robson-Kanu  Hal Robson-Kanu (West Bromwich Albion, Forward)",WBA,5.2,0,34,1,0,0,0,0,0,0,1,0,1,0,ARS,35,09/05/2021,FWD,False
+"Townsend (Conor)  Conor Townsend (West Bromwich Albion, Defender)",WBA,4.4,1,90,0,0,0,1,0,1,0,3,0,0,0,ARS,35,09/05/2021,DEF,False
+"Yokuslu  Okay Yokuslu (West Bromwich Albion, Midfielder)",WBA,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,ARS,35,09/05/2021,MID,False

@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Barnes (Ashley)  Ashley Barnes (Burnley, Forward)",BUR,5.5,0,0.04,-0.04,2025.0,0,0.1,-0.1,810.0,0.14,-0.14,578.6,28/11/2020
+"Benson  Josh Benson (Burnley, Midfielder)",BUR,4.5,0,0.01,-0.01,9000.0,0,0.19,-0.19,473.7,0.2,-0.2,450.0,28/11/2020
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,28/11/2020
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,0,0.03,-0.03,3000.0,0,0.06,-0.06,1500.0,0.09,-0.09,1000.0,28/11/2020
+"Mee  Ben Mee (Burnley, Defender)",BUR,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/11/2020
+"Peacock-Farrell  Bailey Peacock-Farrell (Burnley, Goalkeeper)",BUR,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/11/2020
+"Pieters  Erik Pieters (Burnley, Defender)",BUR,4.5,0,0.01,-0.01,2300.0,0,0.0,0.0,inf,0.01,-0.01,2300.0,28/11/2020
+"Rodriguez  Jay Rodriguez (Burnley, Forward)",BUR,5.5,0,0.02,-0.02,4500.0,0,0.05,-0.05,1800.0,0.07,-0.07,1285.7,28/11/2020
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,0,0.0,0.0,inf,0,0.08,-0.08,1125.0,0.08,-0.08,1125.0,28/11/2020
+"Taylor (Charlie)  Charlie Taylor (Burnley, Defender)",BUR,4.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,28/11/2020
+"Vydra  Matej Vydra (Burnley, Forward)",BUR,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/11/2020
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,0,0.15,-0.15,600.0,0,0.0,0.0,inf,0.15,-0.15,600.0,28/11/2020
+"Wood  Chris Wood (Burnley, Forward)",BUR,7.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/11/2020
+"De Bruyne  Kevin De Bruyne (Manchester City, Midfielder)",MCI,12.0,2,0.2,1.8,450.0,0,0.11,-0.11,818.2,0.31,1.69,290.3,28/11/2020
+"Foden  Phil Foden (Manchester City, Midfielder)",MCI,8.0,1,0.4,0.6,57.5,0,0.05,-0.05,460.0,0.45,0.55,51.1,28/11/2020
+"Garcia  Eric Garcia (Manchester City, Defender)",MCI,4.7,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/11/2020
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,0,0.01,-0.01,7000.0,0,0.09,-0.09,777.8,0.1,-0.1,700.0,28/11/2020
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,0,0.11,-0.11,818.2,0,0.02,-0.02,4500.0,0.13,-0.13,692.3,28/11/2020
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,0,0.02,-0.02,2250.0,0,0.0,0.0,inf,0.02,-0.02,2250.0,28/11/2020
+"Fernandinho  Fernando Luiz Rosa (Manchester City, Defender)",MCI,5.0,0,0.01,-0.01,4500.0,0,0.06,-0.06,750.0,0.07,-0.07,642.9,28/11/2020
+"Mahrez  Riyad Mahrez (Manchester City, Midfielder)",MCI,9.0,0,0.36,-0.36,250.0,3,0.96,2.04,93.8,1.32,1.68,68.2,28/11/2020
+"Mendy (Benjamin)  Benjamin Mendy (Manchester City, Defender)",MCI,5.5,0,0.02,-0.02,4500.0,1,0.06,0.94,1500.0,0.08,0.92,1125.0,28/11/2020
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,28/11/2020
+"Stones  John Stones (Manchester City, Defender)",MCI,5.5,0,0.02,-0.02,4500.0,0,0.03,-0.03,3000.0,0.05,-0.05,1800.0,28/11/2020
+"Torres  Ferran Torres (Manchester City, Midfielder)",MCI,7.0,0,0.05,-0.05,1340.0,1,0.16,0.84,418.8,0.21,0.79,319.0,28/11/2020
+"Walker (Kyle)  Kyle Walker (Manchester City, Defender)",MCI,5.5,1,0.03,0.97,3000.0,0,0.03,-0.03,3000.0,0.06,0.94,1500.0,28/11/2020
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,1,0.23,0.77,391.3,0,0.14,-0.14,642.9,0.37,0.63,243.2,28/11/2020

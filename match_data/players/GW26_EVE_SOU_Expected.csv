@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Calvert-Lewin  Dominic Calvert-Lewin (Everton, Forward)",EVE,8.0,0,0.01,-0.01,9000.0,0,0.09,-0.09,1000.0,0.1,-0.1,900.0,01/03/2021
+"Digne  Lucas Digne (Everton, Defender)",EVE,5.5,0,0.06,-0.06,1500.0,0,0.0,0.0,inf,0.06,-0.06,1500.0,01/03/2021
+"Doucouré  Abdoulaye Doucouré (Everton, Midfielder)",EVE,5.5,0,0.31,-0.31,290.3,0,0.0,0.0,inf,0.31,-0.31,290.3,01/03/2021
+"Godfrey  Ben Godfrey (Everton, Defender)",EVE,5.0,0,0.0,0.0,inf,0,0.15,-0.15,600.0,0.15,-0.15,600.0,01/03/2021
+"Holgate  Mason Holgate (Everton, Defender)",EVE,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,01/03/2021
+"Iwobi  Alex Iwobi (Everton, Midfielder)",EVE,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,01/03/2021
+"Keane  Michael Keane (Everton, Defender)",EVE,5.0,0,0.0,0.0,inf,0,0.05,-0.05,1800.0,0.05,-0.05,1800.0,01/03/2021
+"King (Joshua)  Joshua King (Everton, Forward)",EVE,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,01/03/2021
+"Allan  Allan Marques Loureiro (Everton, Midfielder)",EVE,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,01/03/2021
+"Pickford  Jordan Pickford (Everton, Goalkeeper)",EVE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,01/03/2021
+"Sigurdsson  Gylfi Sigurdsson (Everton, Midfielder)",EVE,7.0,1,0.54,0.46,166.7,0,0.08,-0.08,1125.0,0.62,0.38,145.2,01/03/2021
+"André Gomes  André Filipe Tavares Gomes (Everton, Midfielder)",EVE,5.0,0,0.01,-0.01,8700.0,0,0.0,0.0,inf,0.01,-0.01,8700.0,01/03/2021
+"Richarlison  Richarlison de Andrade (Everton, Forward)",EVE,7.5,0,0.03,-0.03,2966.7,1,0.81,0.19,109.9,0.84,0.16,106.0,01/03/2021
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,0,0.01,-0.01,7700.0,0,0.0,0.0,inf,0.01,-0.01,7700.0,01/03/2021
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,0,0.05,-0.05,1800.0,0,0.02,-0.02,4500.0,0.07,-0.07,1285.7,01/03/2021
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,01/03/2021
+"Bertrand  Ryan Bertrand (Southampton, Defender)",SOU,5.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,01/03/2021
+"Djenepo  Moussa Djenepo (Southampton, Midfielder)",SOU,5.5,0,0.0,0.0,inf,0,0.27,-0.27,333.3,0.27,-0.27,333.3,01/03/2021
+"Forster  Fraser Forster (Southampton, Goalkeeper)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,01/03/2021
+"Ings  Danny Ings (Southampton, Forward)",SOU,8.0,0,0.01,-0.01,9000.0,0,0.08,-0.08,1125.0,0.09,-0.09,1000.0,01/03/2021
+"N'Lundulu  Daniel N&#039;Lundulu (Southampton, Forward)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,01/03/2021
+"Redmond  Nathan Redmond (Southampton, Midfielder)",SOU,6.0,0,0.01,-0.01,8800.0,0,0.05,-0.05,1760.0,0.06,-0.06,1466.7,01/03/2021
+"Salisu  Mohammed Salisu (Southampton, Defender)",SOU,4.5,0,0.0,0.0,inf,0,0.03,-0.03,2100.0,0.03,-0.03,2100.0,01/03/2021
+"Tella  Nathan Tella (Southampton, Midfielder)",SOU,5.0,0,0.01,-0.01,2700.0,0,0.03,-0.03,900.0,0.04,-0.04,675.0,01/03/2021
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,0,0.0,0.0,inf,0,0.09,-0.09,1000.0,0.09,-0.09,1000.0,01/03/2021
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,01/03/2021
+"Watts  Caleb Watts (Southampton, Midfielder)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,01/03/2021

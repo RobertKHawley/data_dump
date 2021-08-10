@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,0,0.66,-0.66,134.8,0,0.03,-0.03,2966.7,0.69,-0.69,129.0,11/04/2021
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,0,0.04,-0.04,2250.0,1,0.38,0.62,236.8,0.42,0.58,214.3,11/04/2021
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,1,0.12,0.88,150.0,1,0.09,0.91,200.0,0.21,1.79,85.7,11/04/2021
+"Henderson (Dean)  Dean Henderson (Manchester United, Goalkeeper)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,11/04/2021
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,11/04/2021
+"Matic  Nemanja Matic (Manchester United, Midfielder)",MUN,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,11/04/2021
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,0,0.01,-0.01,9000.0,0,0.05,-0.05,1800.0,0.06,-0.06,1500.0,11/04/2021
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,11/04/2021
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,1,0.09,0.91,1000.0,0,0.77,-0.77,116.9,0.86,0.14,104.7,11/04/2021
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,0,0.02,-0.02,3600.0,0,0.06,-0.06,1200.0,0.08,-0.08,900.0,11/04/2021
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,0,0.32,-0.32,281.3,1,0.78,0.22,115.4,1.1,-0.1,81.8,11/04/2021
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,0,0.15,-0.15,600.0,0,0.0,0.0,inf,0.15,-0.15,600.0,11/04/2021
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,0,0.06,-0.06,1500.0,0,0.04,-0.04,2250.0,0.1,-0.1,900.0,11/04/2021
+"Aurier  Serge Aurier (Tottenham Hotspur, Defender)",TOT,5.0,0,0.01,-0.01,9000.0,0,0.16,-0.16,562.5,0.17,-0.17,529.4,11/04/2021
+"Bale  Gareth Bale (Tottenham Hotspur, Midfielder)",TOT,9.2,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,11/04/2021
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,11/04/2021
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,11/04/2021
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,0,0.1,-0.1,900.0,0,0.1,-0.1,900.0,0.2,-0.2,450.0,11/04/2021
+"Lamela  Erik Lamela (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.01,-0.01,1200.0,0,0.0,0.0,inf,0.01,-0.01,1200.0,11/04/2021
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,11/04/2021
+"Lo Celso  Giovani Lo Celso (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.02,-0.02,3050.0,0,0.0,0.0,inf,0.02,-0.02,3050.0,11/04/2021
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.02,-0.02,3900.0,0,0.0,0.0,inf,0.02,-0.02,3900.0,11/04/2021
+"Reguilón  Sergio Reguilón (Tottenham Hotspur, Defender)",TOT,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,11/04/2021
+"Rodon  Joe Rodon (Tottenham Hotspur, Defender)",TOT,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,11/04/2021
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,1,0.17,0.83,482.4,0,0.06,-0.06,1366.7,0.23,0.77,356.5,11/04/2021
+"Sissoko  Moussa Sissoko (Tottenham Hotspur, Midfielder)",TOT,4.5,0,0.0,0.0,inf,0,0.03,-0.03,966.7,0.03,-0.03,966.7,11/04/2021
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,0,0.1,-0.1,900.0,1,0.51,0.49,176.5,0.61,0.39,147.5,11/04/2021

@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Azpilicueta  César Azpilicueta (Chelsea, Defender)",CHE,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,CRY,31,10/04/2021,DEF,False
+"Chilwell  Benjamin Chilwell (Chelsea, Defender)",CHE,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,CRY,31,10/04/2021,DEF,False
+"Jorginho  Jorge Luiz Frello Filho (Chelsea, Midfielder)",CHE,6.0,1,61,0,1,0,0,0,0,1,0,0,0,0,CRY,31,10/04/2021,MID,False
+"Havertz  Kai Havertz (Chelsea, Midfielder)",CHE,8.5,1,90,0,0,1,1,0,1,0,1,0,0,0,CRY,31,10/04/2021,MID,False
+"Hudson-Odoi  Callum Hudson-Odoi (Chelsea, Midfielder)",CHE,5.5,1,76,0,1,0,1,0,1,0,1,0,0,0,CRY,31,10/04/2021,MID,False
+"James (Reece)  Reece James (Chelsea, Defender)",CHE,5.5,0,14,1,0,0,0,1,1,0,0,0,0,0,CRY,31,10/04/2021,DEF,False
+"Kanté  N&#039;Golo Kanté (Chelsea, Midfielder)",CHE,5.0,0,29,1,0,0,0,0,0,0,1,0,0,0,CRY,31,10/04/2021,MID,False
+"Kovacic  Mateo Kovacic (Chelsea, Midfielder)",CHE,5.0,1,83,0,1,0,0,0,0,0,1,0,0,0,CRY,31,10/04/2021,MID,False
+"Mendy (Edouard)  Edouard Mendy (Chelsea, Goalkeeper)",CHE,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,CRY,31,10/04/2021,GKP,False
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,1,90,0,0,0,1,0,1,0,1,0,0,0,CRY,31,10/04/2021,MID,False
+"Pulisic  Christian Pulisic (Chelsea, Midfielder)",CHE,8.0,1,90,0,0,2,0,0,0,0,1,0,0,0,CRY,31,10/04/2021,MID,False
+"Rüdiger  Antonio Rüdiger (Chelsea, Defender)",CHE,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,CRY,31,10/04/2021,DEF,False
+"Ziyech  Hakim Ziyech (Chelsea, Midfielder)",CHE,7.5,0,7,1,0,0,0,0,0,0,0,0,0,0,CRY,31,10/04/2021,MID,False
+"Zouma  Kurt Zouma (Chelsea, Defender)",CHE,5.5,1,90,0,0,1,0,0,0,0,1,0,0,0,CRY,31,10/04/2021,DEF,False
+"Jordan Ayew  Jordan Ayew (Crystal Palace, Forward)",CRY,6.0,1,76,0,1,0,0,0,0,0,3,0,0,0,CHE,31,10/04/2021,FWD,True
+"Benteke  Christian Benteke (Crystal Palace, Forward)",CRY,6.5,1,90,0,0,1,0,0,0,0,4,0,0,0,CHE,31,10/04/2021,FWD,True
+"Cahill  Gary Cahill (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,CHE,31,10/04/2021,DEF,True
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,1,59,0,1,0,0,0,0,0,3,0,0,0,CHE,31,10/04/2021,MID,True
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,CHE,31,10/04/2021,GKP,True
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,1,90,0,0,0,0,0,0,0,4,0,1,0,CHE,31,10/04/2021,MID,True
+"McCarthy (James)  James McCarthy (Crystal Palace, Midfielder)",CRY,4.3,0,31,1,0,0,0,0,0,0,1,0,0,0,CHE,31,10/04/2021,MID,True
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,1,90,0,0,0,0,0,0,0,4,0,0,0,CHE,31,10/04/2021,MID,True
+"Riedewald  Jairo Riedewald (Crystal Palace, Midfielder)",CRY,5.0,1,59,0,1,0,0,0,0,0,3,0,0,0,CHE,31,10/04/2021,MID,True
+"Schlupp  Jeffrey Schlupp (Crystal Palace, Midfielder)",CRY,5.5,0,31,1,0,0,1,0,1,0,1,0,0,0,CHE,31,10/04/2021,MID,True
+"Townsend (Andros)  Andros Townsend (Crystal Palace, Midfielder)",CRY,5.5,0,14,1,0,0,0,0,0,0,1,0,0,0,CHE,31,10/04/2021,MID,True
+"Van Aanholt  Patrick Van Aanholt (Crystal Palace, Defender)",CRY,5.4,1,90,0,0,0,0,0,0,0,4,0,0,0,CHE,31,10/04/2021,DEF,True
+"Ward (Joel)  Joel Ward (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,CHE,31,10/04/2021,DEF,True
+"Zaha  Wilfried Zaha (Crystal Palace, Midfielder)",CRY,7.0,1,90,0,0,0,0,0,0,0,4,0,0,0,CHE,31,10/04/2021,MID,True

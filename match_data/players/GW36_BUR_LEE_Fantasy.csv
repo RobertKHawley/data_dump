@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Barnes (Ashley)  Ashley Barnes (Burnley, Forward)",BUR,5.5,0,25,1,0,0,0,0,0,0,2,0,0,0,LEE,36,15/05/2021,FWD,True
+"Gudmundsson  Johann Berg Gudmundsson (Burnley, Midfielder)",BUR,5.5,0,20,1,0,0,0,0,0,0,2,0,0,0,LEE,36,15/05/2021,MID,True
+"Brownhill  Josh Brownhill (Burnley, Midfielder)",BUR,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,LEE,36,15/05/2021,MID,True
+"Cork  Jack Cork (Burnley, Midfielder)",BUR,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,LEE,36,15/05/2021,MID,True
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,LEE,36,15/05/2021,DEF,True
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,1,70,0,1,0,0,0,0,0,2,0,0,0,LEE,36,15/05/2021,MID,True
+"Mee  Ben Mee (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,0,4,0,0,0,LEE,36,15/05/2021,DEF,True
+"Peacock-Farrell  Bailey Peacock-Farrell (Burnley, Goalkeeper)",BUR,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,LEE,36,15/05/2021,GKP,True
+"Rodriguez  Jay Rodriguez (Burnley, Forward)",BUR,5.5,0,25,1,0,0,0,0,0,0,2,0,0,0,LEE,36,15/05/2021,FWD,True
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,0,4,0,0,0,LEE,36,15/05/2021,DEF,True
+"Taylor (Charlie)  Charlie Taylor (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,0,4,0,0,0,LEE,36,15/05/2021,DEF,True
+"Vydra  Matej Vydra (Burnley, Forward)",BUR,5.5,1,65,0,1,0,0,0,0,0,2,0,0,0,LEE,36,15/05/2021,FWD,True
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,1,90,0,0,0,0,0,0,0,4,0,1,0,LEE,36,15/05/2021,MID,True
+"Wood  Chris Wood (Burnley, Forward)",BUR,7.0,1,65,0,1,0,0,0,0,0,2,0,0,0,LEE,36,15/05/2021,FWD,True
+"Alioski  Ezgjan Alioski (Leeds United, Defender)",LEE,4.4,1,90,0,0,0,1,0,1,1,0,0,0,0,BUR,36,15/05/2021,DEF,False
+"Ayling  Luke Ayling (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,36,15/05/2021,DEF,False
+"Bamford  Patrick Bamford (Leeds United, Forward)",LEE,8.0,1,58,0,1,0,0,0,0,0,0,0,0,0,BUR,36,15/05/2021,FWD,False
+"Dallas  Stuart Dallas (Leeds United, Defender)",LEE,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,36,15/05/2021,DEF,False
+"Raphinha  Raphael Dias Belloli (Leeds United, Midfielder)",LEE,6.5,1,81,0,1,0,1,0,1,1,0,0,0,0,BUR,36,15/05/2021,MID,False
+"Harrison  Jack Harrison (Leeds United, Midfielder)",LEE,6.0,1,90,0,0,1,2,0,2,1,0,0,0,0,BUR,36,15/05/2021,MID,False
+"Klich  Mateusz Klich (Leeds United, Midfielder)",LEE,5.5,1,76,0,1,1,0,0,0,1,0,0,0,0,BUR,36,15/05/2021,MID,False
+"Diego Llorente  Diego Javier Llorente Ríos (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,36,15/05/2021,DEF,False
+"Meslier  Illan Meslier (Leeds United, Goalkeeper)",LEE,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,36,15/05/2021,GKP,False
+"Rodrigo  Rodrigo Moreno Machado (Leeds United, Forward)",LEE,6.5,0,32,1,0,2,0,0,0,0,0,0,0,0,BUR,36,15/05/2021,FWD,False
+"Phillips (Kalvin)  Kalvin Phillips (Leeds United, Midfielder)",LEE,5.0,1,90,0,0,0,0,0,0,1,0,0,1,0,BUR,36,15/05/2021,MID,False
+"Poveda-Ocampo  Ian Carlo Poveda-Ocampo (Leeds United, Midfielder)",LEE,4.5,0,9,1,0,0,0,0,0,0,0,0,0,0,BUR,36,15/05/2021,MID,False
+"Roberts (Tyler)  Tyler Roberts (Leeds United, Midfielder)",LEE,5.0,0,14,1,0,0,0,0,0,0,0,0,0,0,BUR,36,15/05/2021,MID,False
+"Struijk  Pascal Struijk (Leeds United, Defender)",LEE,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,36,15/05/2021,DEF,False

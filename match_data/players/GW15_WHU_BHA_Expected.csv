@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Alzate  Steven Alzate (Brighton and Hove Albion, Midfielder)",BHA,5.0,0,0.01,-0.01,4500.0,0,0.0,0.0,inf,0.01,-0.01,4500.0,27/12/2020
+"Bissouma  Yves Bissouma (Brighton and Hove Albion, Midfielder)",BHA,4.5,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,27/12/2020
+"Burn  Dan Burn (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.09,-0.09,1000.0,0,0.03,-0.03,3000.0,0.12,-0.12,750.0,27/12/2020
+"Dunk  Lewis Dunk (Brighton and Hove Albion, Defender)",BHA,5.0,0,0.0,0.0,inf,1,0.26,0.74,346.2,0.26,0.74,346.2,27/12/2020
+"Groß  Pascal Groß (Brighton and Hove Albion, Midfielder)",BHA,6.0,0,0.04,-0.04,175.0,0,0.0,0.0,inf,0.04,-0.04,175.0,27/12/2020
+"Jahanbakhsh  Alireza Jahanbakhsh (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/12/2020
+"Lallana  Adam Lallana (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.01,-0.01,4500.0,0,0.0,0.0,inf,0.01,-0.01,4500.0,27/12/2020
+"March  Solomon March (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.03,-0.03,3000.0,0,0.13,-0.13,692.3,0.16,-0.16,562.5,27/12/2020
+"Maupay  Neal Maupay (Brighton and Hove Albion, Forward)",BHA,6.5,0,0.03,-0.03,2966.7,1,0.49,0.51,181.6,0.52,0.48,171.2,27/12/2020
+"Sanchez  Robert Sanchez (Brighton and Hove Albion, Goalkeeper)",BHA,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/12/2020
+"Trossard  Leandro Trossard (Brighton and Hove Albion, Midfielder)",BHA,6.5,0,0.15,-0.15,600.0,0,0.11,-0.11,818.2,0.26,-0.26,346.2,27/12/2020
+"Webster  Adam Webster (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.02,-0.02,4500.0,0,0.11,-0.11,818.2,0.13,-0.13,692.3,27/12/2020
+"Welbeck  Danny Welbeck (Brighton and Hove Albion, Forward)",BHA,6.0,0,0.02,-0.02,4150.0,0,0.04,-0.04,2075.0,0.06,-0.06,1383.3,27/12/2020
+"White (Ben)  Ben White (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,27/12/2020
+"Balbuena  Fabián Balbuena (West Ham United, Defender)",WHU,4.1,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,27/12/2020
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,0,0.02,-0.02,2250.0,0,0.04,-0.04,1125.0,0.06,-0.06,750.0,27/12/2020
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,0,0.08,-0.08,1125.0,0,0.05,-0.05,1800.0,0.13,-0.13,692.3,27/12/2020
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,0,0.06,-0.06,1500.0,0,0.03,-0.03,3000.0,0.09,-0.09,1000.0,27/12/2020
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/12/2020
+"Haller  Sébastien Haller (West Ham United, Forward)",WHU,6.1,0,0.35,-0.35,257.1,0,0.05,-0.05,1800.0,0.4,-0.4,225.0,27/12/2020
+"Johnson (Ben)  Ben Johnson (West Ham United, Defender)",WHU,4.0,0,0.01,-0.01,9000.0,1,0.38,0.62,236.8,0.39,0.61,230.8,27/12/2020
+"Lanzini  Manuel Lanzini (West Ham United, Midfielder)",WHU,6.0,1,0.47,0.53,95.7,0,0.12,-0.12,375.0,0.59,0.41,76.3,27/12/2020
+"Noble  Mark Noble (West Ham United, Midfielder)",WHU,4.5,0,0.02,-0.02,2250.0,0,0.0,0.0,inf,0.02,-0.02,2250.0,27/12/2020
+"Ogbonna  Angelo Ogbonna (West Ham United, Defender)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/12/2020
+"Rice  Declan Rice (West Ham United, Midfielder)",WHU,5.0,0,0.13,-0.13,692.3,0,0.02,-0.02,4500.0,0.15,-0.15,600.0,27/12/2020
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,0,0.67,-0.67,134.3,1,0.59,0.41,152.5,1.26,-0.26,71.4,27/12/2020
+"Yarmolenko  Andriy Yarmolenko (West Ham United, Midfielder)",WHU,5.5,0,0.15,-0.15,300.0,0,0.0,0.0,inf,0.15,-0.15,300.0,27/12/2020

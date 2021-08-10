@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Barnes (Ashley)  Ashley Barnes (Burnley, Forward)",BUR,5.5,1,63,0,1,0,0,0,0,0,1,0,1,0,WHU,19,16/01/2021,FWD,False
+"Gudmundsson  Johann Berg Gudmundsson (Burnley, Midfielder)",BUR,5.5,1,45,0,1,0,0,0,0,0,1,0,0,0,WHU,19,16/01/2021,MID,False
+"Brady  Robert Brady (Burnley, Midfielder)",BUR,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,19,16/01/2021,MID,False
+"Brownhill  Josh Brownhill (Burnley, Midfielder)",BUR,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,19,16/01/2021,MID,False
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,19,16/01/2021,DEF,False
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,0,45,1,0,0,0,0,0,0,0,0,0,0,WHU,19,16/01/2021,MID,False
+"Mee  Ben Mee (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,19,16/01/2021,DEF,False
+"Pieters  Erik Pieters (Burnley, Defender)",BUR,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,19,16/01/2021,DEF,False
+"Pope  Nick Pope (Burnley, Goalkeeper)",BUR,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,19,16/01/2021,GKP,False
+"Rodriguez  Jay Rodriguez (Burnley, Forward)",BUR,5.5,0,18,1,0,0,0,0,0,0,0,0,0,0,WHU,19,16/01/2021,FWD,False
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,19,16/01/2021,DEF,False
+"Vydra  Matej Vydra (Burnley, Forward)",BUR,5.5,0,27,1,0,0,0,0,0,0,0,0,0,0,WHU,19,16/01/2021,FWD,False
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,WHU,19,16/01/2021,MID,False
+"Wood  Chris Wood (Burnley, Forward)",BUR,7.0,1,72,0,1,0,0,0,0,0,1,0,0,0,WHU,19,16/01/2021,FWD,False
+"Antonio  Michail Antonio (West Ham United, Forward)",WHU,7.5,1,90,0,0,1,0,0,0,1,0,0,0,0,BUR,19,16/01/2021,FWD,True
+"Benrahma  Said Benrahma (West Ham United, Midfielder)",WHU,6.0,1,68,0,1,0,0,0,0,1,0,0,0,0,BUR,19,16/01/2021,MID,True
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,1,82,0,1,0,0,0,0,1,0,0,0,0,BUR,19,16/01/2021,MID,True
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,19,16/01/2021,DEF,True
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,19,16/01/2021,DEF,True
+"Dawson  Craig Dawson (West Ham United, Defender)",WHU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,19,16/01/2021,DEF,True
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,19,16/01/2021,GKP,True
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,1,90,0,0,0,0,1,1,1,0,0,0,0,BUR,19,16/01/2021,MID,True
+"Lanzini  Manuel Lanzini (West Ham United, Midfielder)",WHU,6.0,0,22,1,0,0,0,0,0,0,0,0,0,0,BUR,19,16/01/2021,MID,True
+"Ogbonna  Angelo Ogbonna (West Ham United, Defender)",WHU,5.0,1,90,0,0,0,0,0,0,1,0,0,1,0,BUR,19,16/01/2021,DEF,True
+"Rice  Declan Rice (West Ham United, Midfielder)",WHU,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,BUR,19,16/01/2021,MID,True
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,1,90,0,0,0,0,0,0,1,0,0,1,0,BUR,19,16/01/2021,MID,True
+"Yarmolenko  Andriy Yarmolenko (West Ham United, Midfielder)",WHU,5.5,0,8,1,0,0,0,0,0,0,0,0,0,0,BUR,19,16/01/2021,MID,True

@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,0,0.67,-0.67,134.3,0,0.12,-0.12,750.0,0.79,-0.79,113.9,27/01/2021
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,0,0.0,0.0,inf,0,0.06,-0.06,400.0,0.06,-0.06,400.0,27/01/2021
+"De Gea  David De Gea (Manchester United, Goalkeeper)",MUN,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/01/2021
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,0,0.02,-0.02,3300.0,0,0.38,-0.38,173.7,0.4,-0.4,165.0,27/01/2021
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,0,0.01,-0.01,9000.0,1,0.14,0.86,642.9,0.15,0.85,600.0,27/01/2021
+"Martial  Anthony Martial (Manchester United, Forward)",MUN,8.0,0,0.04,-0.04,2250.0,0,0.14,-0.14,642.9,0.18,-0.18,500.0,27/01/2021
+"Matic  Nemanja Matic (Manchester United, Midfielder)",MUN,4.5,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,27/01/2021
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,0,0.09,-0.09,1000.0,0,0.09,-0.09,1000.0,0.18,-0.18,500.0,27/01/2021
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,0,0.04,-0.04,2250.0,0,0.1,-0.1,900.0,0.14,-0.14,642.9,27/01/2021
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,0,0.06,-0.06,133.3,0,0.0,0.0,inf,0.06,-0.06,133.3,27/01/2021
+"Alex Telles  Alex Nicolao Telles (Manchester United, Defender)",MUN,5.0,1,0.27,0.73,303.7,0,0.03,-0.03,2733.3,0.3,0.7,273.3,27/01/2021
+"Tuanzebe  Axel Tuanzebe (Manchester United, Defender)",MUN,4.5,0,0.01,-0.01,8200.0,0,0.0,0.0,inf,0.01,-0.01,8200.0,27/01/2021
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,0,0.11,-0.11,818.2,0,0.03,-0.03,3000.0,0.14,-0.14,642.9,27/01/2021
+"van de Beek  Donny van de Beek (Manchester United, Midfielder)",MUN,6.0,0,0.02,-0.02,400.0,0,0.0,0.0,inf,0.02,-0.02,400.0,27/01/2021
+"Ampadu  Ethan Ampadu (Sheffield United, Defender)",SHU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/01/2021
+"Baldock  George Baldock (Sheffield United, Defender)",SHU,4.9,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,27/01/2021
+"Basham  Chris Basham (Sheffield United, Defender)",SHU,4.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/01/2021
+"Bogle  Jayden Bogle (Sheffield United, Defender)",SHU,4.3,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/01/2021
+"Brewster  Rhian Brewster (Sheffield United, Forward)",SHU,4.2,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/01/2021
+"Bryan (Kean)  Kean Bryan (Sheffield United, Defender)",SHU,3.9,0,0.01,-0.01,5300.0,1,0.72,0.28,73.6,0.73,0.27,72.6,27/01/2021
+"Oliver Burke  Oliver Burke (Sheffield United, Midfielder)",SHU,4.1,0,0.0,0.0,inf,1,0.12,0.88,166.7,0.12,0.88,166.7,27/01/2021
+"Fleck  John Fleck (Sheffield United, Midfielder)",SHU,5.6,1,0.35,0.65,257.1,0,0.0,0.0,inf,0.35,0.65,257.1,27/01/2021
+"Jagielka  Phil Jagielka (Sheffield United, Defender)",SHU,3.9,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/01/2021
+"Lundstram  John Lundstram (Sheffield United, Midfielder)",SHU,4.8,1,0.04,0.96,2250.0,0,0.0,0.0,inf,0.04,0.96,2250.0,27/01/2021
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,0,0.01,-0.01,8000.0,0,0.04,-0.04,2000.0,0.05,-0.05,1600.0,27/01/2021
+"Norwood  Oliver Norwood (Sheffield United, Midfielder)",SHU,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,27/01/2021
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/01/2021
+"Sharp  Billy Sharp (Sheffield United, Forward)",SHU,5.5,0,0.01,-0.01,7000.0,0,0.08,-0.08,875.0,0.09,-0.09,777.8,27/01/2021

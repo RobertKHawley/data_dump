@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Jordan Ayew  Jordan Ayew (Crystal Palace, Forward)",CRY,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/04/2021
+"Benteke  Christian Benteke (Crystal Palace, Forward)",CRY,6.5,0,0.0,0.0,inf,0,0.21,-0.21,428.6,0.21,-0.21,428.6,26/04/2021
+"Dann  Scott Dann (Crystal Palace, Defender)",CRY,4.2,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/04/2021
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,1,0.45,0.55,200.0,0,0.0,0.0,inf,0.45,0.55,200.0,26/04/2021
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/04/2021
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,26/04/2021
+"McCarthy (James)  James McCarthy (Crystal Palace, Midfielder)",CRY,4.3,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/04/2021
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,0,0.02,-0.02,4150.0,0,0.0,0.0,inf,0.02,-0.02,4150.0,26/04/2021
+"Riedewald  Jairo Riedewald (Crystal Palace, Midfielder)",CRY,5.0,0,0.01,-0.01,8500.0,0,0.0,0.0,inf,0.01,-0.01,8500.0,26/04/2021
+"Schlupp  Jeffrey Schlupp (Crystal Palace, Midfielder)",CRY,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/04/2021
+"Townsend (Andros)  Andros Townsend (Crystal Palace, Midfielder)",CRY,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/04/2021
+"Van Aanholt  Patrick Van Aanholt (Crystal Palace, Defender)",CRY,5.4,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,26/04/2021
+"Ward (Joel)  Joel Ward (Crystal Palace, Defender)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/04/2021
+"Zaha  Wilfried Zaha (Crystal Palace, Midfielder)",CRY,7.0,0,0.18,-0.18,500.0,1,0.54,0.46,166.7,0.72,0.28,125.0,26/04/2021
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,0,0.01,-0.01,2000.0,0,0.0,0.0,inf,0.01,-0.01,2000.0,26/04/2021
+"Castagne  Timothy Castagne (Leicester City, Defender)",LEI,5.5,0,0.02,-0.02,4500.0,1,0.28,0.72,321.4,0.3,0.7,300.0,26/04/2021
+"Evans  Jonny Evans (Leicester City, Defender)",LEI,5.5,1,0.06,0.94,1500.0,0,0.0,0.0,inf,0.06,0.94,1500.0,26/04/2021
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,26/04/2021
+"Iheanacho  Kelechi Iheanacho (Leicester City, Forward)",LEI,7.5,1,0.69,0.31,130.4,1,0.14,0.86,642.9,0.83,1.17,108.4,26/04/2021
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,0,0.22,-0.22,318.2,0,0.11,-0.11,636.4,0.33,-0.33,212.1,26/04/2021
+"Ndidi  Onyinye Wilfred Ndidi (Leicester City, Midfielder)",LEI,5.0,0,0.02,-0.02,4500.0,0,0.05,-0.05,1800.0,0.07,-0.07,1285.7,26/04/2021
+"Ayoze Pérez  Ayoze Pérez Gutiérrez (Leicester City, Midfielder)",LEI,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/04/2021
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,26/04/2021
+"Söyüncü  Caglar Söyüncü (Leicester City, Defender)",LEI,5.0,0,0.01,-0.01,9000.0,0,0.05,-0.05,1800.0,0.06,-0.06,1500.0,26/04/2021
+"Thomas (Luke)  Luke Thomas (Leicester City, Defender)",LEI,4.5,0,0.05,-0.05,1400.0,0,0.0,0.0,inf,0.05,-0.05,1400.0,26/04/2021
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,0,0.09,-0.09,1000.0,0,0.11,-0.11,818.2,0.2,-0.2,450.0,26/04/2021
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,0,0.02,-0.02,4500.0,0,0.77,-0.77,116.9,0.79,-0.79,113.9,26/04/2021

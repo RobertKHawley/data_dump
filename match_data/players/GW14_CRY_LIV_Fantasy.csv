@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Jordan Ayew  Jordan Ayew (Crystal Palace, Forward)",CRY,6.0,1,90,0,0,0,0,0,0,0,7,0,0,0,LIV,14,19/12/2020,FWD,True
+"Batshuayi  Michy Batshuayi (Crystal Palace, Forward)",CRY,5.5,0,21,1,0,0,0,0,0,0,2,0,0,0,LIV,14,19/12/2020,FWD,True
+"Cahill  Gary Cahill (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,0,0,0,7,0,0,0,LIV,14,19/12/2020,DEF,True
+"Clyne  Nathaniel Clyne (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,0,0,0,7,0,1,0,LIV,14,19/12/2020,DEF,True
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,1,69,0,1,0,0,0,0,0,5,0,0,0,LIV,14,19/12/2020,MID,True
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,1,90,0,0,0,0,0,0,0,7,0,0,0,LIV,14,19/12/2020,GKP,True
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,1,63,0,1,0,0,0,0,0,4,0,0,0,LIV,14,19/12/2020,MID,True
+"McArthur  James McArthur (Crystal Palace, Midfielder)",CRY,4.5,1,75,0,1,0,0,0,0,0,5,0,0,0,LIV,14,19/12/2020,MID,True
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,1,90,0,0,0,0,0,0,0,7,0,0,0,LIV,14,19/12/2020,MID,True
+"Riedewald  Jairo Riedewald (Crystal Palace, Midfielder)",CRY,5.0,0,15,1,0,0,0,0,0,0,2,0,0,0,LIV,14,19/12/2020,MID,True
+"Schlupp  Jeffrey Schlupp (Crystal Palace, Midfielder)",CRY,5.5,1,90,0,0,0,0,0,0,0,7,0,0,0,LIV,14,19/12/2020,MID,True
+"Tomkins  James Tomkins (Crystal Palace, Defender)",CRY,4.5,0,27,1,0,0,0,0,0,0,3,0,0,0,LIV,14,19/12/2020,DEF,True
+"Van Aanholt  Patrick Van Aanholt (Crystal Palace, Defender)",CRY,5.4,1,90,0,0,0,0,0,0,0,7,0,0,0,LIV,14,19/12/2020,DEF,True
+"Zaha  Wilfried Zaha (Crystal Palace, Midfielder)",CRY,7.0,1,90,0,0,0,0,0,0,0,7,0,0,0,LIV,14,19/12/2020,MID,True
+"Alexander-Arnold  Trent Alexander-Arnold (Liverpool, Defender)",LIV,7.5,1,90,0,0,0,1,0,1,1,0,0,0,0,CRY,14,19/12/2020,DEF,False
+"Firmino  Roberto Firmino Barbosa de Oliveira (Liverpool, Forward)",LIV,9.0,1,75,0,1,2,1,0,1,1,0,0,0,0,CRY,14,19/12/2020,FWD,False
+"Henderson (Jordan)  Jordan Henderson (Liverpool, Midfielder)",LIV,5.0,1,90,0,0,1,0,0,0,1,0,0,0,0,CRY,14,19/12/2020,MID,False
+"Jones (Curtis)  Curtis Jones (Liverpool, Midfielder)",LIV,5.0,0,21,1,0,0,0,0,0,0,0,0,0,0,CRY,14,19/12/2020,MID,False
+"Keita  Naby Keita (Liverpool, Midfielder)",LIV,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,14,19/12/2020,MID,False
+"Mane  Sadio Mane (Liverpool, Midfielder)",LIV,12.0,1,57,0,1,1,1,0,1,0,0,0,0,0,CRY,14,19/12/2020,MID,False
+"Matip  Joel Matip (Liverpool, Defender)",LIV,5.0,1,90,0,0,0,1,0,1,1,0,0,0,0,CRY,14,19/12/2020,DEF,False
+"Minamino  Takumi Minamino (Liverpool, Midfielder)",LIV,5.5,1,90,0,0,1,0,0,0,1,0,0,0,0,CRY,14,19/12/2020,MID,False
+"Oxlade-Chamberlain  Alex Oxlade-Chamberlain (Liverpool, Midfielder)",LIV,6.0,0,15,1,0,0,1,0,1,0,0,0,0,0,CRY,14,19/12/2020,MID,False
+"Alisson  Alisson Ramses Becker (Liverpool, Goalkeeper)",LIV,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,14,19/12/2020,GKP,False
+"Robertson  Andrew Robertson (Liverpool, Defender)",LIV,7.0,1,90,0,0,0,1,0,1,1,0,0,0,0,CRY,14,19/12/2020,DEF,False
+"Salah  Mohamed Salah (Liverpool, Midfielder)",LIV,12.5,0,33,1,0,2,1,0,1,0,0,0,0,0,CRY,14,19/12/2020,MID,False
+"Fabinho  Fabio Henrique Tavares (Liverpool, Midfielder)",LIV,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,CRY,14,19/12/2020,MID,False
+"Wijnaldum  Georginio Wijnaldum (Liverpool, Midfielder)",LIV,5.3,1,69,0,1,0,0,0,0,1,0,0,0,0,CRY,14,19/12/2020,MID,False

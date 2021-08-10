@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Tosin  Oluwatosin Adarabioyo (Fulham, Defender)",FUL,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,SOU,36,15/05/2021,DEF,False
+"Aina  Ola Aina (Fulham, Defender)",FUL,4.3,1,62,0,1,0,0,0,0,0,2,0,0,0,SOU,36,15/05/2021,DEF,False
+"Andersen  Joachim Andersen (Fulham, Defender)",FUL,4.5,1,90,0,0,0,0,0,0,0,3,0,1,0,SOU,36,15/05/2021,DEF,False
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,SOU,36,15/05/2021,GKP,False
+"Bryan (Joe)  Joe Bryan (Fulham, Defender)",FUL,4.5,0,28,1,0,0,0,0,0,0,1,0,0,0,SOU,36,15/05/2021,DEF,False
+"Carvalho  Fabio Carvalho (Fulham, Midfielder)",FUL,4.5,1,90,0,0,1,0,0,0,0,3,0,0,0,SOU,36,15/05/2021,MID,False
+"Cavaleiro  Ivan Cavaleiro (Fulham, Midfielder)",FUL,5.3,1,90,0,0,0,0,0,0,0,3,0,0,0,SOU,36,15/05/2021,MID,False
+"DeCordova-Reid  Bobby DeCordova-Reid (Fulham, Forward)",FUL,5.3,1,90,0,0,0,1,0,1,0,3,0,0,0,SOU,36,15/05/2021,FWD,False
+"Lookman  Ademola Lookman (Fulham, Midfielder)",FUL,4.7,0,27,1,0,0,0,0,0,0,1,0,0,0,SOU,36,15/05/2021,MID,False
+"Maja  Josh Maja (Fulham, Forward)",FUL,5.0,0,14,1,0,0,0,0,0,0,1,0,0,0,SOU,36,15/05/2021,FWD,False
+"Onomah  Josh Onomah (Fulham, Midfielder)",FUL,4.6,1,76,0,1,0,0,0,0,0,2,0,0,0,SOU,36,15/05/2021,MID,False
+"Reed  Harrison Reed (Fulham, Midfielder)",FUL,4.4,1,90,0,0,0,0,0,0,0,3,0,0,0,SOU,36,15/05/2021,MID,False
+"Tete  Kenny Tete (Fulham, Defender)",FUL,4.3,1,90,0,0,0,0,0,0,0,3,0,0,0,SOU,36,15/05/2021,DEF,False
+"Zambo Anguissa  André-Frank Zambo Anguissa (Fulham, Midfielder)",FUL,4.4,1,63,0,1,0,0,0,0,0,2,0,0,0,SOU,36,15/05/2021,MID,False
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,1,90,0,0,1,0,0,0,0,1,0,0,0,FUL,36,15/05/2021,FWD,True
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,1,78,0,1,0,0,0,0,0,1,0,0,0,FUL,36,15/05/2021,MID,True
+"Diallo  Ibrahima Diallo (Southampton, Midfielder)",SOU,4.5,0,12,1,0,0,0,0,0,0,0,0,0,0,FUL,36,15/05/2021,MID,True
+"Ings  Danny Ings (Southampton, Forward)",SOU,8.0,1,58,0,1,0,0,0,0,0,0,0,0,0,FUL,36,15/05/2021,FWD,True
+"McCarthy (Alex)  Alex McCarthy (Southampton, Goalkeeper)",SOU,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,36,15/05/2021,GKP,True
+"Minamino  Takumi Minamino (Southampton, Midfielder)",SOU,5.5,1,76,0,1,0,0,0,0,0,1,0,0,0,FUL,36,15/05/2021,MID,True
+"Redmond  Nathan Redmond (Southampton, Midfielder)",SOU,6.0,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,36,15/05/2021,MID,True
+"Salisu  Mohammed Salisu (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,36,15/05/2021,DEF,True
+"Stephens (Jack)  Jack Stephens (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,36,15/05/2021,DEF,True
+"Tella  Nathan Tella (Southampton, Midfielder)",SOU,5.0,0,32,1,0,1,1,0,1,0,1,0,0,0,FUL,36,15/05/2021,MID,True
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,36,15/05/2021,DEF,True
+"Walcott  Theo Walcott (Southampton, Midfielder)",SOU,6.0,0,14,1,0,1,0,0,0,0,0,0,0,0,FUL,36,15/05/2021,MID,True
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,1,90,0,0,0,1,0,1,0,1,0,0,0,FUL,36,15/05/2021,DEF,True
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,1,90,0,0,0,1,0,1,0,1,0,0,0,FUL,36,15/05/2021,MID,True

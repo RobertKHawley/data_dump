@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Ampadu  Ethan Ampadu (Sheffield United, Defender)",SHU,4.5,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,15/02/2021
+"Basham  Chris Basham (Sheffield United, Defender)",SHU,4.6,0,0.01,-0.01,9000.0,0,0.04,-0.04,2250.0,0.05,-0.05,1800.0,15/02/2021
+"Bogle  Jayden Bogle (Sheffield United, Defender)",SHU,4.3,0,0.08,-0.08,1125.0,0,0.0,0.0,inf,0.08,-0.08,1125.0,15/02/2021
+"Egan  John Egan (Sheffield United, Defender)",SHU,4.7,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,15/02/2021
+"Jagielka  Phil Jagielka (Sheffield United, Defender)",SHU,3.9,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,15/02/2021
+"Lundstram  John Lundstram (Sheffield United, Midfielder)",SHU,4.8,0,0.02,-0.02,4500.0,0,0.04,-0.04,2250.0,0.06,-0.06,1500.0,15/02/2021
+"McBurnie  Oliver McBurnie (Sheffield United, Forward)",SHU,5.6,0,0.02,-0.02,1400.0,0,0.05,-0.05,560.0,0.07,-0.07,400.0,15/02/2021
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,0,0.06,-0.06,1500.0,0,0.51,-0.51,176.5,0.57,-0.57,157.9,15/02/2021
+"Norwood  Oliver Norwood (Sheffield United, Midfielder)",SHU,4.5,0,0.2,-0.2,310.0,0,0.0,0.0,inf,0.2,-0.2,310.0,15/02/2021
+"Osborn  Ben Osborn (Sheffield United, Midfielder)",SHU,4.7,0,0.37,-0.37,243.2,0,0.03,-0.03,3000.0,0.4,-0.4,225.0,15/02/2021
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,15/02/2021
+"Sharp  Billy Sharp (Sheffield United, Forward)",SHU,5.5,0,0.24,-0.24,375.0,0,0.0,0.0,inf,0.24,-0.24,375.0,15/02/2021
+"Stevens (Enda)  Enda Stevens (Sheffield United, Defender)",SHU,5.0,0,0.1,-0.1,900.0,0,0.0,0.0,inf,0.1,-0.1,900.0,15/02/2021
+"Benrahma  Said Benrahma (West Ham United, Midfielder)",WHU,6.0,1,0.01,0.99,800.0,0,0.0,0.0,inf,0.01,0.99,800.0,15/02/2021
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,0,0.03,-0.03,3000.0,0,0.06,-0.06,1500.0,0.09,-0.09,1000.0,15/02/2021
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,0,0.01,-0.01,9000.0,0,0.45,-0.45,200.0,0.46,-0.46,195.7,15/02/2021
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,1,0.21,0.79,428.6,0,0.06,-0.06,1500.0,0.27,0.73,333.3,15/02/2021
+"Dawson  Craig Dawson (West Ham United, Defender)",WHU,5.0,0,0.0,0.0,inf,0,0.08,-0.08,1125.0,0.08,-0.08,1125.0,15/02/2021
+"Diop  Issa Diop (West Ham United, Defender)",WHU,4.5,0,0.0,0.0,inf,1,0.12,0.88,750.0,0.12,0.88,750.0,15/02/2021
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,15/02/2021
+"Fredericks  Ryan Fredericks (West Ham United, Defender)",WHU,4.5,0,0.0,0.0,inf,1,0.05,0.95,20.0,0.05,0.95,20.0,15/02/2021
+"Johnson (Ben)  Ben Johnson (West Ham United, Defender)",WHU,4.0,0,0.01,-0.01,8900.0,0,0.0,0.0,inf,0.01,-0.01,8900.0,15/02/2021
+"Lanzini  Manuel Lanzini (West Ham United, Midfielder)",WHU,6.0,0,0.03,-0.03,2100.0,0,0.0,0.0,inf,0.03,-0.03,2100.0,15/02/2021
+"Lingard  Jesse Lingard (West Ham United, Midfielder)",WHU,7.0,0,0.04,-0.04,2050.0,0,0.27,-0.27,303.7,0.31,-0.31,264.5,15/02/2021
+"Noble  Mark Noble (West Ham United, Midfielder)",WHU,4.5,0,0.01,-0.01,2700.0,0,0.0,0.0,inf,0.01,-0.01,2700.0,15/02/2021
+"Rice  Declan Rice (West Ham United, Midfielder)",WHU,5.0,0,0.01,-0.01,9000.0,1,0.86,0.14,104.7,0.87,0.13,103.4,15/02/2021
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,15/02/2021

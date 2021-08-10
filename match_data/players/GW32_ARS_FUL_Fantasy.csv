@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Bellerín  Héctor Bellerín (Arsenal, Defender)",ARS,5.0,1,68,0,1,0,0,0,0,0,1,0,0,0,FUL,32,18/04/2021,DEF,True
+"Dani Ceballos  Daniel Ceballos Fernández (Arsenal, Midfielder)",ARS,4.7,1,90,0,0,0,0,1,1,0,1,0,0,0,FUL,32,18/04/2021,MID,True
+"Elneny  Mohamed Elneny (Arsenal, Midfielder)",ARS,4.5,1,68,0,1,0,0,0,0,0,1,0,0,0,FUL,32,18/04/2021,MID,True
+"Holding  Rob Holding (Arsenal, Defender)",ARS,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,32,18/04/2021,DEF,True
+"Lacazette  Alexandre Lacazette (Arsenal, Forward)",ARS,8.5,1,70,0,1,0,0,0,0,0,1,0,0,0,FUL,32,18/04/2021,FWD,True
+"Gabriel Martinelli  Gabriel Teodoro Martinelli Silva (Arsenal, Midfielder)",ARS,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,32,18/04/2021,MID,True
+"Eddie Nketiah  Edward Nketiah (Arsenal, Forward)",ARS,5.5,0,20,1,0,1,0,0,0,0,0,0,0,0,FUL,32,18/04/2021,FWD,True
+"Partey  Thomas Partey (Arsenal, Midfielder)",ARS,5.0,0,22,1,0,0,0,0,0,0,0,0,0,0,FUL,32,18/04/2021,MID,True
+"Pepe  Nicolas Pepe (Arsenal, Midfielder)",ARS,7.5,0,22,1,0,0,0,0,0,0,0,0,0,0,FUL,32,18/04/2021,MID,True
+"Mat Ryan  Mathew Ryan (Arsenal, Goalkeeper)",ARS,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,32,18/04/2021,GKP,True
+"Saka  Bukayo Saka (Arsenal, Midfielder)",ARS,6.5,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,32,18/04/2021,MID,True
+"Smith-Rowe  Emile Smith-Rowe (Arsenal, Midfielder)",ARS,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,32,18/04/2021,MID,True
+"Xhaka  Granit Xhaka (Arsenal, Midfielder)",ARS,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,32,18/04/2021,MID,True
+"Gabriel Magalhães  Gabriel dos Santos Magalhães (Arsenal, Defender)",ARS,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,FUL,32,18/04/2021,DEF,True
+"Tosin  Oluwatosin Adarabioyo (Fulham, Defender)",FUL,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,ARS,32,18/04/2021,DEF,False
+"Aina  Ola Aina (Fulham, Defender)",FUL,4.3,1,90,0,0,0,0,0,0,0,1,0,0,0,ARS,32,18/04/2021,DEF,False
+"Andersen  Joachim Andersen (Fulham, Defender)",FUL,4.5,1,90,0,0,0,0,0,0,0,1,0,1,0,ARS,32,18/04/2021,DEF,False
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,1,90,0,0,0,0,0,0,0,1,0,1,0,ARS,32,18/04/2021,GKP,False
+"Bryan (Joe)  Joe Bryan (Fulham, Defender)",FUL,4.5,0,6,1,0,0,0,0,0,0,1,0,0,0,ARS,32,18/04/2021,DEF,False
+"Cavaleiro  Ivan Cavaleiro (Fulham, Midfielder)",FUL,5.3,1,84,0,1,0,0,0,0,1,0,0,0,0,ARS,32,18/04/2021,MID,False
+"DeCordova-Reid  Bobby DeCordova-Reid (Fulham, Forward)",FUL,5.3,1,90,0,0,0,0,0,0,0,1,0,1,0,ARS,32,18/04/2021,FWD,False
+"Lemina  Mario Lemina (Fulham, Midfielder)",FUL,4.5,1,90,0,0,0,0,1,1,0,1,0,0,0,ARS,32,18/04/2021,MID,False
+"Loftus-Cheek  Ruben Loftus-Cheek (Fulham, Midfielder)",FUL,5.5,0,13,1,0,0,0,0,0,0,1,0,0,0,ARS,32,18/04/2021,MID,False
+"Lookman  Ademola Lookman (Fulham, Midfielder)",FUL,4.7,1,69,0,1,0,0,0,0,1,0,0,0,0,ARS,32,18/04/2021,MID,False
+"Maja  Josh Maja (Fulham, Forward)",FUL,5.0,1,77,0,1,1,0,0,0,1,0,0,0,0,ARS,32,18/04/2021,FWD,False
+"Reed  Harrison Reed (Fulham, Midfielder)",FUL,4.4,0,21,1,0,0,0,0,0,0,1,0,0,0,ARS,32,18/04/2021,MID,False
+"Robinson (Antonee)  Antonee Robinson (Fulham, Defender)",FUL,4.4,1,90,0,0,0,0,0,0,0,1,0,0,0,ARS,32,18/04/2021,DEF,False
+"Zambo Anguissa  André-Frank Zambo Anguissa (Fulham, Midfielder)",FUL,4.4,1,90,0,0,0,0,0,0,0,1,0,0,0,ARS,32,18/04/2021,MID,False

@@ -1,0 +1,27 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Brownhill  Josh Brownhill (Burnley, Midfielder)",BUR,4.5,0,0.03,-0.03,3000.0,0,0.08,-0.08,1125.0,0.11,-0.11,818.2,03/03/2021
+"Cork  Jack Cork (Burnley, Midfielder)",BUR,4.5,0,0.06,-0.06,1500.0,0,0.0,0.0,inf,0.06,-0.06,1500.0,03/03/2021
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,0,0.6,-0.6,150.0,0,0.02,-0.02,4500.0,0.62,-0.62,145.2,03/03/2021
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,0,0.26,-0.26,346.2,0,0.03,-0.03,3000.0,0.29,-0.29,310.3,03/03/2021
+"Mee  Ben Mee (Burnley, Defender)",BUR,5.0,0,0.0,0.0,inf,0,0.08,-0.08,1125.0,0.08,-0.08,1125.0,03/03/2021
+"Pope  Nick Pope (Burnley, Goalkeeper)",BUR,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/03/2021
+"Rodriguez  Jay Rodriguez (Burnley, Forward)",BUR,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/03/2021
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,0,0.01,-0.01,9000.0,0,0.25,-0.25,360.0,0.26,-0.26,346.2,03/03/2021
+"Taylor (Charlie)  Charlie Taylor (Burnley, Defender)",BUR,4.5,0,0.02,-0.02,4500.0,0,0.02,-0.02,4500.0,0.04,-0.04,2250.0,03/03/2021
+"Vydra  Matej Vydra (Burnley, Forward)",BUR,5.5,0,0.02,-0.02,4450.0,1,0.91,0.09,97.8,0.93,0.07,95.7,03/03/2021
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,0,0.08,-0.08,1125.0,0,0.03,-0.03,3000.0,0.11,-0.11,818.2,03/03/2021
+"Wood  Chris Wood (Burnley, Forward)",BUR,7.0,0,0.1,-0.1,900.0,0,0.34,-0.34,264.7,0.44,-0.44,204.5,03/03/2021
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,0,0.08,-0.08,287.5,0,0.07,-0.07,328.6,0.15,-0.15,153.3,03/03/2021
+"Amartey  Daniel Amartey (Leicester City, Defender)",LEI,4.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,03/03/2021
+"Ricardo Pereira  Ricardo Domingos Barbosa Pereira (Leicester City, Defender)",LEI,5.5,0,0.23,-0.23,391.3,0,0.05,-0.05,1800.0,0.28,-0.28,321.4,03/03/2021
+"Castagne  Timothy Castagne (Leicester City, Defender)",LEI,5.5,0,0.11,-0.11,818.2,0,0.08,-0.08,1125.0,0.19,-0.19,473.7,03/03/2021
+"Choudhury  Hamza Choudhury (Leicester City, Midfielder)",LEI,4.5,0,0.01,-0.01,7700.0,0,0.37,-0.37,208.1,0.38,-0.38,202.6,03/03/2021
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/03/2021
+"Iheanacho  Kelechi Iheanacho (Leicester City, Forward)",LEI,7.5,0,0.04,-0.04,1675.0,1,0.38,0.62,176.3,0.42,0.58,159.5,03/03/2021
+"Mendy (Nampalys)  Nampalys Mendy (Leicester City, Midfielder)",LEI,4.5,0,0.02,-0.02,3300.0,0,0.0,0.0,inf,0.02,-0.02,3300.0,03/03/2021
+"Ndidi  Onyinye Wilfred Ndidi (Leicester City, Midfielder)",LEI,5.0,1,0.21,0.79,428.6,0,0.04,-0.04,2250.0,0.25,0.75,360.0,03/03/2021
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/03/2021
+"Söyüncü  Caglar Söyüncü (Leicester City, Defender)",LEI,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,03/03/2021
+"Tavares (Sidnei)  Sidnei Tavares (Leicester City, Midfielder)",LEI,4.4,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/03/2021
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,0,0.05,-0.05,1800.0,0,0.17,-0.17,529.4,0.22,-0.22,409.1,03/03/2021
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,0,0.02,-0.02,4500.0,0,0.05,-0.05,1800.0,0.07,-0.07,1285.7,03/03/2021

@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,1,90,0,0,0,0,0,0,0,2,0,0,0,TOT,32,21/04/2021,FWD,False
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,1,90,0,0,0,0,0,0,0,2,0,0,0,TOT,32,21/04/2021,MID,False
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,TOT,32,21/04/2021,DEF,False
+"Diallo  Ibrahima Diallo (Southampton, Midfielder)",SOU,4.5,0,33,1,0,0,0,0,0,0,2,0,0,0,TOT,32,21/04/2021,MID,False
+"Djenepo  Moussa Djenepo (Southampton, Midfielder)",SOU,5.5,0,23,1,0,0,0,0,0,0,1,0,1,0,TOT,32,21/04/2021,MID,False
+"Ings  Danny Ings (Southampton, Forward)",SOU,8.0,1,57,0,1,1,0,0,0,0,0,0,0,0,TOT,32,21/04/2021,FWD,False
+"McCarthy (Alex)  Alex McCarthy (Southampton, Goalkeeper)",SOU,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,TOT,32,21/04/2021,GKP,False
+"Redmond  Nathan Redmond (Southampton, Midfielder)",SOU,6.0,0,6,1,0,0,0,0,0,0,1,0,0,0,TOT,32,21/04/2021,MID,False
+"Salisu  Mohammed Salisu (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,TOT,32,21/04/2021,DEF,False
+"Tella  Nathan Tella (Southampton, Midfielder)",SOU,5.0,1,84,0,1,0,0,0,0,0,1,0,0,0,TOT,32,21/04/2021,MID,False
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,TOT,32,21/04/2021,DEF,False
+"Walcott  Theo Walcott (Southampton, Midfielder)",SOU,6.0,1,67,0,1,0,0,0,0,0,1,0,0,0,TOT,32,21/04/2021,MID,False
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,TOT,32,21/04/2021,DEF,False
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,1,90,0,0,0,1,0,1,0,2,0,0,0,TOT,32,21/04/2021,MID,False
+"Alderweireld  Toby Alderweireld (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,32,21/04/2021,DEF,True
+"Aurier  Serge Aurier (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,32,21/04/2021,DEF,True
+"Bale  Gareth Bale (Tottenham Hotspur, Midfielder)",TOT,9.2,1,83,0,1,1,0,0,0,0,1,0,0,0,SOU,32,21/04/2021,MID,True
+"Bergwijn  Steven Bergwijn (Tottenham Hotspur, Midfielder)",TOT,6.0,0,7,1,0,0,0,0,0,0,0,0,0,0,SOU,32,21/04/2021,MID,True
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,1,90,0,0,0,0,0,0,0,1,0,1,0,SOU,32,21/04/2021,DEF,True
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,32,21/04/2021,MID,True
+"Lamela  Erik Lamela (Tottenham Hotspur, Midfielder)",TOT,6.0,0,11,1,0,0,0,0,0,0,0,0,0,0,SOU,32,21/04/2021,MID,True
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,32,21/04/2021,GKP,True
+"Lo Celso  Giovani Lo Celso (Tottenham Hotspur, Midfielder)",TOT,6.0,1,79,0,1,0,0,0,0,0,1,0,0,0,SOU,32,21/04/2021,MID,True
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,1,73,0,1,0,0,0,0,0,1,0,1,0,SOU,32,21/04/2021,MID,True
+"Reguilón  Sergio Reguilón (Tottenham Hotspur, Defender)",TOT,5.0,1,90,0,0,0,0,1,1,0,1,0,0,0,SOU,32,21/04/2021,DEF,True
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,1,90,0,0,0,0,1,1,0,1,0,0,0,SOU,32,21/04/2021,MID,True
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,1,90,0,0,1,0,0,0,0,1,0,0,0,SOU,32,21/04/2021,MID,True
+"Winks  Harry Winks (Tottenham Hotspur, Midfielder)",TOT,4.5,0,17,1,0,0,0,0,0,0,0,0,0,0,SOU,32,21/04/2021,MID,True

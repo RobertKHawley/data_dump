@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Bellerín  Héctor Bellerín (Arsenal, Defender)",ARS,5.0,0,0.02,-0.02,3400.0,0,0.2,-0.2,340.0,0.22,-0.22,309.1,18/04/2021
+"Dani Ceballos  Daniel Ceballos Fernández (Arsenal, Midfielder)",ARS,4.7,0,0.24,-0.24,375.0,0,0.06,-0.06,1500.0,0.3,-0.3,300.0,18/04/2021
+"Elneny  Mohamed Elneny (Arsenal, Midfielder)",ARS,4.5,0,0.03,-0.03,2266.7,0,0.0,0.0,inf,0.03,-0.03,2266.7,18/04/2021
+"Holding  Rob Holding (Arsenal, Defender)",ARS,4.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,18/04/2021
+"Lacazette  Alexandre Lacazette (Arsenal, Forward)",ARS,8.5,0,0.34,-0.34,205.9,0,0.14,-0.14,500.0,0.48,-0.48,145.8,18/04/2021
+"Gabriel Martinelli  Gabriel Teodoro Martinelli Silva (Arsenal, Midfielder)",ARS,5.5,0,0.27,-0.27,333.3,0,1.09,-1.09,82.6,1.36,-1.36,66.2,18/04/2021
+"Eddie Nketiah  Edward Nketiah (Arsenal, Forward)",ARS,5.5,0,0.03,-0.03,666.7,1,0.77,0.23,26.0,0.8,0.2,25.0,18/04/2021
+"Partey  Thomas Partey (Arsenal, Midfielder)",ARS,5.0,0,0.01,-0.01,2200.0,0,0.0,0.0,inf,0.01,-0.01,2200.0,18/04/2021
+"Pepe  Nicolas Pepe (Arsenal, Midfielder)",ARS,7.5,0,0.05,-0.05,440.0,0,0.28,-0.28,78.6,0.33,-0.33,66.7,18/04/2021
+"Mat Ryan  Mathew Ryan (Arsenal, Goalkeeper)",ARS,4.5,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,18/04/2021
+"Saka  Bukayo Saka (Arsenal, Midfielder)",ARS,6.5,0,0.21,-0.21,428.6,0,0.04,-0.04,2250.0,0.25,-0.25,360.0,18/04/2021
+"Smith-Rowe  Emile Smith-Rowe (Arsenal, Midfielder)",ARS,5.5,0,0.52,-0.52,173.1,0,0.06,-0.06,1500.0,0.58,-0.58,155.2,18/04/2021
+"Xhaka  Granit Xhaka (Arsenal, Midfielder)",ARS,5.0,0,0.05,-0.05,1800.0,0,0.01,-0.01,9000.0,0.06,-0.06,1500.0,18/04/2021
+"Gabriel Magalhães  Gabriel dos Santos Magalhães (Arsenal, Defender)",ARS,5.0,0,0.04,-0.04,2250.0,0,0.06,-0.06,1500.0,0.1,-0.1,900.0,18/04/2021
+"Tosin  Oluwatosin Adarabioyo (Fulham, Defender)",FUL,4.5,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,18/04/2021
+"Aina  Ola Aina (Fulham, Defender)",FUL,4.3,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,18/04/2021
+"Andersen  Joachim Andersen (Fulham, Defender)",FUL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,18/04/2021
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,18/04/2021
+"Bryan (Joe)  Joe Bryan (Fulham, Defender)",FUL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,18/04/2021
+"Cavaleiro  Ivan Cavaleiro (Fulham, Midfielder)",FUL,5.3,0,0.02,-0.02,4200.0,0,0.0,0.0,inf,0.02,-0.02,4200.0,18/04/2021
+"DeCordova-Reid  Bobby DeCordova-Reid (Fulham, Forward)",FUL,5.3,0,0.0,0.0,inf,0,0.03,-0.03,3000.0,0.03,-0.03,3000.0,18/04/2021
+"Lemina  Mario Lemina (Fulham, Midfielder)",FUL,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,18/04/2021
+"Loftus-Cheek  Ruben Loftus-Cheek (Fulham, Midfielder)",FUL,5.5,0,0.02,-0.02,650.0,0,0.0,0.0,inf,0.02,-0.02,650.0,18/04/2021
+"Lookman  Ademola Lookman (Fulham, Midfielder)",FUL,4.7,0,0.01,-0.01,6900.0,0,0.0,0.0,inf,0.01,-0.01,6900.0,18/04/2021
+"Maja  Josh Maja (Fulham, Forward)",FUL,5.0,0,0.01,-0.01,7700.0,1,0.85,0.15,90.6,0.86,0.14,89.5,18/04/2021
+"Reed  Harrison Reed (Fulham, Midfielder)",FUL,4.4,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,18/04/2021
+"Robinson (Antonee)  Antonee Robinson (Fulham, Defender)",FUL,4.4,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,18/04/2021
+"Zambo Anguissa  André-Frank Zambo Anguissa (Fulham, Midfielder)",FUL,4.4,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,18/04/2021

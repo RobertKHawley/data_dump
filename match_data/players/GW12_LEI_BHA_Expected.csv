@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Alzate  Steven Alzate (Brighton and Hove Albion, Midfielder)",BHA,5.0,0,0.01,-0.01,3500.0,0,0.0,0.0,inf,0.01,-0.01,3500.0,13/12/2020
+"Bissouma  Yves Bissouma (Brighton and Hove Albion, Midfielder)",BHA,4.5,0,0.05,-0.05,1440.0,0,0.04,-0.04,1800.0,0.09,-0.09,800.0,13/12/2020
+"Burn  Dan Burn (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,13/12/2020
+"Connolly  Aaron Connolly (Brighton and Hove Albion, Forward)",BHA,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/12/2020
+"Dunk  Lewis Dunk (Brighton and Hove Albion, Defender)",BHA,5.0,0,0.01,-0.01,9000.0,0,0.14,-0.14,642.9,0.15,-0.15,600.0,13/12/2020
+"Groß  Pascal Groß (Brighton and Hove Albion, Midfielder)",BHA,6.0,0,0.12,-0.12,750.0,0,0.0,0.0,inf,0.12,-0.12,750.0,13/12/2020
+"Jahanbakhsh  Alireza Jahanbakhsh (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.27,-0.27,203.7,0,0.13,-0.13,423.1,0.4,-0.4,137.5,13/12/2020
+"Mac Allister  Alexis Mac Allister (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.0,0.0,inf,0,0.02,-0.02,900.0,0.02,-0.02,900.0,13/12/2020
+"March  Solomon March (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.15,-0.15,600.0,0,0.04,-0.04,2250.0,0.19,-0.19,473.7,13/12/2020
+"Maupay  Neal Maupay (Brighton and Hove Albion, Forward)",BHA,6.5,0,0.02,-0.02,4500.0,0,0.14,-0.14,642.9,0.16,-0.16,562.5,13/12/2020
+"Mat Ryan  Mathew Ryan (Brighton and Hove Albion, Goalkeeper)",BHA,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/12/2020
+"Veltman  Joël Veltman (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,13/12/2020
+"Welbeck  Danny Welbeck (Brighton and Hove Albion, Forward)",BHA,6.0,0,0.0,0.0,inf,0,0.39,-0.39,159.0,0.39,-0.39,159.0,13/12/2020
+"White (Ben)  Ben White (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,13/12/2020
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,0,0.15,-0.15,600.0,0,0.06,-0.06,1500.0,0.21,-0.21,428.6,13/12/2020
+"Barnes (Harvey)  Harvey Barnes (Leicester City, Midfielder)",LEI,7.0,0,0.07,-0.07,400.0,0,0.0,0.0,inf,0.07,-0.07,400.0,13/12/2020
+"Evans  Jonny Evans (Leicester City, Defender)",LEI,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/12/2020
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,13/12/2020
+"Fuchs  Christian Fuchs (Leicester City, Defender)",LEI,4.5,0,0.01,-0.01,9000.0,0,0.01,-0.01,9000.0,0.02,-0.02,4500.0,13/12/2020
+"Justin  James Justin (Leicester City, Defender)",LEI,5.0,1,0.43,0.57,209.3,0,0.0,0.0,inf,0.43,0.57,209.3,13/12/2020
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,0,0.06,-0.06,1233.3,2,0.27,1.73,274.1,0.33,1.67,224.2,13/12/2020
+"Mendy (Nampalys)  Nampalys Mendy (Leicester City, Midfielder)",LEI,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/12/2020
+"Ndidi  Onyinye Wilfred Ndidi (Leicester City, Midfielder)",LEI,5.0,0,0.02,-0.02,4000.0,0,0.12,-0.12,666.7,0.14,-0.14,571.4,13/12/2020
+"Praet  Dennis Praet (Leicester City, Midfielder)",LEI,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/12/2020
+"Ayoze Pérez  Ayoze Pérez Gutiérrez (Leicester City, Midfielder)",LEI,6.0,0,0.06,-0.06,1033.3,0,0.08,-0.08,775.0,0.14,-0.14,442.9,13/12/2020
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,13/12/2020
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,0,0.02,-0.02,4500.0,0,0.02,-0.02,4500.0,0.04,-0.04,2250.0,13/12/2020
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,2,0.01,1.99,9000.0,1,1.0,0.0,90.0,1.01,1.99,89.1,13/12/2020

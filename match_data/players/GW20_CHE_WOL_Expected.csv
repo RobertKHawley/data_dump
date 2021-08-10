@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Abraham  Tammy Abraham (Chelsea, Forward)",CHE,6.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/01/2021
+"Azpilicueta  César Azpilicueta (Chelsea, Defender)",CHE,6.0,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,27/01/2021
+"Chilwell  Benjamin Chilwell (Chelsea, Defender)",CHE,6.0,0,0.02,-0.02,3800.0,0,0.11,-0.11,690.9,0.13,-0.13,584.6,27/01/2021
+"Jorginho  Jorge Luiz Frello Filho (Chelsea, Midfielder)",CHE,6.0,0,0.08,-0.08,1125.0,0,0.0,0.0,inf,0.08,-0.08,1125.0,27/01/2021
+"Giroud  Olivier Giroud (Chelsea, Forward)",CHE,6.5,0,0.02,-0.02,3850.0,0,0.14,-0.14,550.0,0.16,-0.16,481.3,27/01/2021
+"Havertz  Kai Havertz (Chelsea, Midfielder)",CHE,8.5,0,0.09,-0.09,1000.0,0,0.17,-0.17,529.4,0.26,-0.26,346.2,27/01/2021
+"Hudson-Odoi  Callum Hudson-Odoi (Chelsea, Midfielder)",CHE,5.5,0,0.06,-0.06,1500.0,0,0.07,-0.07,1285.7,0.13,-0.13,692.3,27/01/2021
+"Kovacic  Mateo Kovacic (Chelsea, Midfielder)",CHE,5.0,0,0.09,-0.09,1000.0,0,0.03,-0.03,3000.0,0.12,-0.12,750.0,27/01/2021
+"Mendy (Edouard)  Edouard Mendy (Chelsea, Goalkeeper)",CHE,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/01/2021
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,0,0.05,-0.05,140.0,0,0.0,0.0,inf,0.05,-0.05,140.0,27/01/2021
+"Pulisic  Christian Pulisic (Chelsea, Midfielder)",CHE,8.0,0,0.01,-0.01,1400.0,0,0.0,0.0,inf,0.01,-0.01,1400.0,27/01/2021
+"Rüdiger  Antonio Rüdiger (Chelsea, Defender)",CHE,5.5,0,0.01,-0.01,9000.0,0,0.07,-0.07,1285.7,0.08,-0.08,1125.0,27/01/2021
+"Ziyech  Hakim Ziyech (Chelsea, Midfielder)",CHE,7.5,0,0.26,-0.26,319.2,0,0.09,-0.09,922.2,0.35,-0.35,237.1,27/01/2021
+"Thiago Silva  Thiago Emiliano da Silva (Chelsea, Defender)",CHE,5.5,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,27/01/2021
+"Ait Nouri  Rayan Ait Nouri (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/01/2021
+"Boly  Willy Boly (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/01/2021
+"Coady  Conor Coady (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/01/2021
+"Willian José  Willian José Da Silva (Wolverhampton Wanderers, Forward)",WOL,6.8,0,0.01,-0.01,1800.0,0,0.0,0.0,inf,0.01,-0.01,1800.0,27/01/2021
+"Dendoncker (Leander)  Leander Dendoncker (Wolverhampton Wanderers, Midfielder)",WOL,5.0,0,0.03,-0.03,3000.0,0,0.05,-0.05,1800.0,0.08,-0.08,1125.0,27/01/2021
+"Hoever  Ki-Jana Hoever (Wolverhampton Wanderers, Defender)",WOL,4.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/01/2021
+"Kilman  Max Kilman (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/01/2021
+"Moutinho  João Moutinho (Wolverhampton Wanderers, Midfielder)",WOL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/01/2021
+"Neto  Pedro Neto (Wolverhampton Wanderers, Midfielder)",WOL,6.5,0,0.07,-0.07,1285.7,0,0.38,-0.38,236.8,0.45,-0.45,200.0,27/01/2021
+"Podence  Daniel Podence (Wolverhampton Wanderers, Midfielder)",WOL,5.5,0,0.01,-0.01,7200.0,0,0.0,0.0,inf,0.01,-0.01,7200.0,27/01/2021
+"Semedo  Nelson Semedo (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/01/2021
+"Traoré  Adama Traoré (Wolverhampton Wanderers, Midfielder)",WOL,6.0,0,0.01,-0.01,8900.0,0,0.0,0.0,inf,0.01,-0.01,8900.0,27/01/2021
+"Ruben Neves  Rúben Diogo da Silva Neves (Wolverhampton Wanderers, Midfielder)",WOL,5.5,0,0.0,0.0,inf,0,0.1,-0.1,900.0,0.1,-0.1,900.0,27/01/2021
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,27/01/2021

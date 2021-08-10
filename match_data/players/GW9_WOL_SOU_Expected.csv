@@ -1,0 +1,27 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,1,0.71,0.29,126.8,0,0.1,-0.1,900.0,0.81,0.19,111.1,23/11/2020
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,0,0.13,-0.13,684.6,0,0.11,-0.11,809.1,0.24,-0.24,370.8,23/11/2020
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/11/2020
+"Bertrand  Ryan Bertrand (Southampton, Defender)",SOU,5.0,0,0.13,-0.13,692.3,0,0.0,0.0,inf,0.13,-0.13,692.3,23/11/2020
+"Diallo  Ibrahima Diallo (Southampton, Midfielder)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/11/2020
+"Djenepo  Moussa Djenepo (Southampton, Midfielder)",SOU,5.5,0,0.1,-0.1,790.0,0,0.0,0.0,inf,0.1,-0.1,790.0,23/11/2020
+"Long (Shane)  Shane Long (Southampton, Forward)",SOU,5.1,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/11/2020
+"McCarthy (Alex)  Alex McCarthy (Southampton, Goalkeeper)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/11/2020
+"Romeu  Oriol Romeu (Southampton, Midfielder)",SOU,4.5,0,0.02,-0.02,4500.0,0,0.02,-0.02,4500.0,0.04,-0.04,2250.0,23/11/2020
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,23/11/2020
+"Walcott  Theo Walcott (Southampton, Midfielder)",SOU,6.0,0,0.07,-0.07,1285.7,1,0.77,0.23,116.9,0.84,0.16,107.1,23/11/2020
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,23/11/2020
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,23/11/2020
+"Ait Nouri  Rayan Ait Nouri (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.11,-0.11,818.2,0,0.02,-0.02,4500.0,0.13,-0.13,692.3,23/11/2020
+"Boly  Willy Boly (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.0,0.0,inf,0,0.04,-0.04,2250.0,0.04,-0.04,2250.0,23/11/2020
+"Dendoncker (Leander)  Leander Dendoncker (Wolverhampton Wanderers, Midfielder)",WOL,5.0,0,0.01,-0.01,9000.0,0,0.08,-0.08,1125.0,0.09,-0.09,1000.0,23/11/2020
+"Raúl Jiménez  Raul Alonso Jimenez Rodriguez (Wolverhampton Wanderers, Forward)",WOL,7.5,0,0.04,-0.04,2250.0,0,0.2,-0.2,450.0,0.24,-0.24,375.0,23/11/2020
+"Kilman  Max Kilman (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.0,0.0,inf,0,0.35,-0.35,257.1,0.35,-0.35,257.1,23/11/2020
+"Vitor Ferreira  Vitor Machado Ferreira (Wolverhampton Wanderers, Midfielder)",WOL,4.7,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/11/2020
+"Moutinho  João Moutinho (Wolverhampton Wanderers, Midfielder)",WOL,5.0,0,0.19,-0.19,473.7,0,0.09,-0.09,1000.0,0.28,-0.28,321.4,23/11/2020
+"Neto  Pedro Neto (Wolverhampton Wanderers, Midfielder)",WOL,6.5,0,0.0,0.0,inf,1,0.55,0.45,36.4,0.55,0.45,36.4,23/11/2020
+"Podence  Daniel Podence (Wolverhampton Wanderers, Midfielder)",WOL,5.5,0,0.06,-0.06,1416.7,0,0.19,-0.19,447.4,0.25,-0.25,340.0,23/11/2020
+"Semedo  Nelson Semedo (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.04,-0.04,2250.0,0,0.02,-0.02,4500.0,0.06,-0.06,1500.0,23/11/2020
+"Traoré  Adama Traoré (Wolverhampton Wanderers, Midfielder)",WOL,6.0,0,0.1,-0.1,900.0,0,0.02,-0.02,4500.0,0.12,-0.12,750.0,23/11/2020
+"Ruben Neves  Rúben Diogo da Silva Neves (Wolverhampton Wanderers, Midfielder)",WOL,5.5,0,0.01,-0.01,7000.0,0,0.0,0.0,inf,0.01,-0.01,7000.0,23/11/2020
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/11/2020

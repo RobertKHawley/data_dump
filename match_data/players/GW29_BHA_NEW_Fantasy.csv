@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Bissouma  Yves Bissouma (Brighton and Hove Albion, Midfielder)",BHA,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,29,20/03/2021,MID,True
+"Dunk  Lewis Dunk (Brighton and Hove Albion, Defender)",BHA,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,29,20/03/2021,DEF,True
+"Groß  Pascal Groß (Brighton and Hove Albion, Midfielder)",BHA,6.0,1,90,0,0,0,1,0,1,1,0,0,0,0,NEW,29,20/03/2021,MID,True
+"Lallana  Adam Lallana (Brighton and Hove Albion, Midfielder)",BHA,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,29,20/03/2021,MID,True
+"Mac Allister  Alexis Mac Allister (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,11,1,0,0,0,0,0,0,0,0,0,0,NEW,29,20/03/2021,MID,True
+"Maupay  Neal Maupay (Brighton and Hove Albion, Forward)",BHA,6.5,1,90,0,0,1,0,0,0,1,0,0,0,0,NEW,29,20/03/2021,FWD,True
+"Moder  Jakub Moder (Brighton and Hove Albion, Midfielder)",BHA,4.5,1,89,0,1,0,0,0,0,1,0,0,0,0,NEW,29,20/03/2021,MID,True
+"Pröpper  Davy Pröpper (Brighton and Hove Albion, Midfielder)",BHA,4.5,0,1,1,0,0,0,0,0,0,0,0,0,0,NEW,29,20/03/2021,MID,True
+"Sanchez  Robert Sanchez (Brighton and Hove Albion, Goalkeeper)",BHA,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,29,20/03/2021,GKP,True
+"Trossard  Leandro Trossard (Brighton and Hove Albion, Midfielder)",BHA,6.5,1,79,0,1,1,1,0,1,1,0,0,0,0,NEW,29,20/03/2021,MID,True
+"Veltman  Joël Veltman (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,1,0,1,1,0,0,0,0,NEW,29,20/03/2021,DEF,True
+"Welbeck  Danny Welbeck (Brighton and Hove Albion, Forward)",BHA,6.0,1,83,0,1,1,0,0,0,1,0,0,0,0,NEW,29,20/03/2021,FWD,True
+"White (Ben)  Ben White (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,NEW,29,20/03/2021,DEF,True
+"Zeqiri  Andi Zeqiri (Brighton and Hove Albion, Forward)",BHA,5.0,0,7,1,0,0,0,0,0,0,0,0,0,0,NEW,29,20/03/2021,FWD,True
+"Almirón  Miguel Almirón (Newcastle United, Midfielder)",NEW,5.5,1,76,0,1,0,0,0,0,0,3,0,0,0,BHA,29,20/03/2021,MID,False
+"Joelinton  Joelinton Cássio Apolinário de Lira (Newcastle United, Forward)",NEW,6.0,1,90,0,0,0,0,0,0,0,3,0,0,0,BHA,29,20/03/2021,FWD,False
+"Clark  Ciaran Clark (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,BHA,29,20/03/2021,DEF,False
+"Dubravka  Martin Dubravka (Newcastle United, Goalkeeper)",NEW,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,BHA,29,20/03/2021,GKP,False
+"Dummett  Paul Dummett (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,3,0,1,0,BHA,29,20/03/2021,DEF,False
+"Fraser  Ryan Fraser (Newcastle United, Midfielder)",NEW,5.5,1,90,0,0,0,0,0,0,0,3,0,0,0,BHA,29,20/03/2021,MID,False
+"Hayden (Isaac)  Isaac Hayden (Newcastle United, Midfielder)",NEW,4.5,1,47,0,1,0,0,0,0,0,0,0,0,0,BHA,29,20/03/2021,MID,False
+"Hendrick  Jeff Hendrick (Newcastle United, Midfielder)",NEW,5.0,0,43,1,0,0,0,0,0,0,3,0,0,0,BHA,29,20/03/2021,MID,False
+"Lascelles  Jamaal Lascelles (Newcastle United, Defender)",NEW,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,BHA,29,20/03/2021,DEF,False
+"Longstaff (Sean)  Sean Longstaff (Newcastle United, Midfielder)",NEW,4.5,0,14,1,0,0,0,0,0,0,0,0,0,0,BHA,29,20/03/2021,MID,False
+"Manquillo  Javier Manquillo (Newcastle United, Defender)",NEW,4.0,1,90,0,0,0,0,0,0,0,3,0,0,0,BHA,29,20/03/2021,DEF,False
+"Jacob Murphy  Jacob Murphy (Newcastle United, Midfielder)",NEW,5.0,0,28,1,0,0,0,0,0,0,1,0,0,0,BHA,29,20/03/2021,MID,False
+"Shelvey  Jonjo Shelvey (Newcastle United, Midfielder)",NEW,5.5,1,90,0,0,0,0,0,0,0,3,0,0,0,BHA,29,20/03/2021,MID,False
+"Willock  Joseph Willock (Newcastle United, Midfielder)",NEW,6.0,1,62,0,1,0,0,0,0,0,2,0,0,0,BHA,29,20/03/2021,MID,False

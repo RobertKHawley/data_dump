@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Abraham  Tammy Abraham (Chelsea, Forward)",CHE,6.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/10/2020
+"Kepa  Kepa Arrizabalaga Revuelta (Chelsea, Goalkeeper)",CHE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/10/2020
+"Azpilicueta  César Azpilicueta (Chelsea, Defender)",CHE,6.0,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,17/10/2020
+"Chilwell  Benjamin Chilwell (Chelsea, Defender)",CHE,6.0,1,0.1,0.9,900.0,0,0.06,-0.06,1500.0,0.16,0.84,562.5,17/10/2020
+"Christensen  Andreas Christensen (Chelsea, Defender)",CHE,5.0,0,0.0,0.0,inf,0,0.06,-0.06,1500.0,0.06,-0.06,1500.0,17/10/2020
+"Jorginho  Jorge Luiz Frello Filho (Chelsea, Midfielder)",CHE,6.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,17/10/2020
+"Havertz  Kai Havertz (Chelsea, Midfielder)",CHE,8.5,0,0.12,-0.12,750.0,1,0.48,0.52,187.5,0.6,0.4,150.0,17/10/2020
+"James (Reece)  Reece James (Chelsea, Defender)",CHE,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/10/2020
+"Kanté  N&#039;Golo Kanté (Chelsea, Midfielder)",CHE,5.0,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,17/10/2020
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,0,0.04,-0.04,1800.0,0,0.2,-0.2,360.0,0.24,-0.24,300.0,17/10/2020
+"Pulisic  Christian Pulisic (Chelsea, Midfielder)",CHE,8.0,0,0.04,-0.04,2175.0,0,0.09,-0.09,966.7,0.13,-0.13,669.2,17/10/2020
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,1,0.22,0.78,404.5,2,0.83,1.17,107.2,1.05,1.95,84.8,17/10/2020
+"Ziyech  Hakim Ziyech (Chelsea, Midfielder)",CHE,7.5,0,0.09,-0.09,200.0,0,0.0,0.0,inf,0.09,-0.09,200.0,17/10/2020
+"Zouma  Kurt Zouma (Chelsea, Defender)",CHE,5.5,0,0.0,0.0,inf,0,0.04,-0.04,2250.0,0.04,-0.04,2250.0,17/10/2020
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,1,0.01,0.99,8600.0,1,0.77,0.23,111.7,0.78,1.22,110.3,17/10/2020
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,17/10/2020
+"Bertrand  Ryan Bertrand (Southampton, Defender)",SOU,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,17/10/2020
+"Diallo  Ibrahima Diallo (Southampton, Midfielder)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/10/2020
+"Ings  Danny Ings (Southampton, Forward)",SOU,8.0,0,0.02,-0.02,4500.0,1,0.86,0.14,104.7,0.88,0.12,102.3,17/10/2020
+"Long (Shane)  Shane Long (Southampton, Forward)",SOU,5.1,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/10/2020
+"McCarthy (Alex)  Alex McCarthy (Southampton, Goalkeeper)",SOU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/10/2020
+"Redmond  Nathan Redmond (Southampton, Midfielder)",SOU,6.0,0,0.02,-0.02,3850.0,0,0.03,-0.03,2566.7,0.05,-0.05,1540.0,17/10/2020
+"Romeu  Oriol Romeu (Southampton, Midfielder)",SOU,4.5,0,0.05,-0.05,1740.0,0,0.03,-0.03,2900.0,0.08,-0.08,1087.5,17/10/2020
+"Tella  Nathan Tella (Southampton, Midfielder)",SOU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,17/10/2020
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,0,0.01,-0.01,9000.0,1,0.09,0.91,1000.0,0.1,0.9,900.0,17/10/2020
+"Walcott  Theo Walcott (Southampton, Midfielder)",SOU,6.0,1,0.09,0.91,1000.0,0,0.08,-0.08,1125.0,0.17,0.83,529.4,17/10/2020
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,0,0.02,-0.02,4500.0,0,0.04,-0.04,2250.0,0.06,-0.06,1500.0,17/10/2020
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,0,0.18,-0.18,500.0,0,0.0,0.0,inf,0.18,-0.18,500.0,17/10/2020

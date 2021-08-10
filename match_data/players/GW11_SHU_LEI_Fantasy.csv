@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,1,90,0,0,0,0,1,1,0,1,0,0,0,SHU,11,06/12/2020,MID,False
+"Evans  Jonny Evans (Leicester City, Defender)",LEI,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,11,06/12/2020,DEF,False
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,11,06/12/2020,DEF,False
+"Fuchs  Christian Fuchs (Leicester City, Defender)",LEI,4.5,1,90,0,0,0,0,0,0,0,1,0,1,0,SHU,11,06/12/2020,DEF,False
+"Iheanacho  Kelechi Iheanacho (Leicester City, Forward)",LEI,7.5,0,21,1,0,0,0,0,0,0,0,0,0,0,SHU,11,06/12/2020,FWD,False
+"Justin  James Justin (Leicester City, Defender)",LEI,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,11,06/12/2020,DEF,False
+"Maddison  James Maddison (Leicester City, Midfielder)",LEI,7.0,1,89,0,1,0,1,0,1,0,1,0,1,0,SHU,11,06/12/2020,MID,False
+"Mendy (Nampalys)  Nampalys Mendy (Leicester City, Midfielder)",LEI,4.5,1,69,0,1,0,0,0,0,0,1,0,0,0,SHU,11,06/12/2020,MID,False
+"Ndidi  Onyinye Wilfred Ndidi (Leicester City, Midfielder)",LEI,5.0,0,21,1,0,0,0,0,0,0,0,0,0,0,SHU,11,06/12/2020,MID,False
+"Praet  Dennis Praet (Leicester City, Midfielder)",LEI,5.0,0,1,1,0,0,0,0,0,0,0,0,0,0,SHU,11,06/12/2020,MID,False
+"Ayoze Pérez  Ayoze Pérez Gutiérrez (Leicester City, Midfielder)",LEI,6.0,1,69,0,1,1,0,0,0,0,1,0,0,0,SHU,11,06/12/2020,MID,False
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,11,06/12/2020,GKP,False
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,11,06/12/2020,MID,False
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,1,90,0,0,1,0,0,0,0,1,0,1,0,SHU,11,06/12/2020,FWD,False
+"Baldock  George Baldock (Sheffield United, Defender)",SHU,4.9,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,11,06/12/2020,DEF,True
+"Basham  Chris Basham (Sheffield United, Defender)",SHU,4.6,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,11,06/12/2020,DEF,True
+"Berge  Sander Berge (Sheffield United, Midfielder)",SHU,4.9,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,11,06/12/2020,MID,True
+"Brewster  Rhian Brewster (Sheffield United, Forward)",SHU,4.2,0,9,1,0,0,0,0,0,0,1,0,0,0,LEI,11,06/12/2020,FWD,True
+"Bryan (Kean)  Kean Bryan (Sheffield United, Defender)",SHU,3.9,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,11,06/12/2020,DEF,True
+"Oliver Burke  Oliver Burke (Sheffield United, Midfielder)",SHU,4.1,1,81,0,1,0,0,0,0,0,1,0,0,0,LEI,11,06/12/2020,MID,True
+"Egan  John Egan (Sheffield United, Defender)",SHU,4.7,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,11,06/12/2020,DEF,True
+"Fleck  John Fleck (Sheffield United, Midfielder)",SHU,5.6,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,11,06/12/2020,MID,True
+"Lowe  Max Lowe (Sheffield United, Defender)",SHU,4.2,1,45,0,1,0,0,0,0,0,1,0,1,0,LEI,11,06/12/2020,DEF,True
+"Lundstram  John Lundstram (Sheffield United, Midfielder)",SHU,4.8,1,63,0,1,0,1,0,1,0,1,0,0,0,LEI,11,06/12/2020,MID,True
+"McBurnie  Oliver McBurnie (Sheffield United, Forward)",SHU,5.6,1,90,0,0,1,0,0,0,0,2,0,0,0,LEI,11,06/12/2020,FWD,True
+"Norwood  Oliver Norwood (Sheffield United, Midfielder)",SHU,4.5,0,27,1,0,0,0,0,0,0,1,0,0,0,LEI,11,06/12/2020,MID,True
+"Osborn  Ben Osborn (Sheffield United, Midfielder)",SHU,4.7,0,45,1,0,0,0,0,0,0,1,0,0,0,LEI,11,06/12/2020,MID,True
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,11,06/12/2020,GKP,True

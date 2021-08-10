@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Jordan Ayew  Jordan Ayew (Crystal Palace, Forward)",CRY,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/03/2021
+"Benteke  Christian Benteke (Crystal Palace, Forward)",CRY,6.5,0,0.01,-0.01,7400.0,1,0.39,0.61,189.7,0.4,0.6,185.0,07/03/2021
+"Cahill  Gary Cahill (Crystal Palace, Defender)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/03/2021
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,0,0.01,-0.01,4500.0,0,0.0,0.0,inf,0.01,-0.01,4500.0,07/03/2021
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/03/2021
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/03/2021
+"Mateta  Jean-Philippe Mateta (Crystal Palace, Forward)",CRY,5.5,0,0.0,0.0,inf,0,0.06,-0.06,266.7,0.06,-0.06,266.7,07/03/2021
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,1,0.23,0.77,391.3,0,0.0,0.0,inf,0.23,0.77,391.3,07/03/2021
+"Riedewald  Jairo Riedewald (Crystal Palace, Midfielder)",CRY,5.0,0,0.01,-0.01,9000.0,0,0.04,-0.04,2250.0,0.05,-0.05,1800.0,07/03/2021
+"Schlupp  Jeffrey Schlupp (Crystal Palace, Midfielder)",CRY,5.5,0,0.01,-0.01,2500.0,0,0.0,0.0,inf,0.01,-0.01,2500.0,07/03/2021
+"Townsend (Andros)  Andros Townsend (Crystal Palace, Midfielder)",CRY,5.5,0,0.09,-0.09,722.2,0,0.0,0.0,inf,0.09,-0.09,722.2,07/03/2021
+"Van Aanholt  Patrick Van Aanholt (Crystal Palace, Defender)",CRY,5.4,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,07/03/2021
+"Ward (Joel)  Joel Ward (Crystal Palace, Defender)",CRY,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,07/03/2021
+"Zaha  Wilfried Zaha (Crystal Palace, Midfielder)",CRY,7.0,0,0.0,0.0,inf,0,0.04,-0.04,1125.0,0.04,-0.04,1125.0,07/03/2021
+"Alderweireld  Toby Alderweireld (Tottenham Hotspur, Defender)",TOT,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,07/03/2021
+"Carlos Vinicius  Carlos Vinicius Alves Morais (Tottenham Hotspur, Forward)",TOT,6.9,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/03/2021
+"Bale  Gareth Bale (Tottenham Hotspur, Midfielder)",TOT,9.2,0,0.26,-0.26,269.2,2,1.31,0.69,53.4,1.57,0.43,44.6,07/03/2021
+"Doherty  Matt Doherty (Tottenham Hotspur, Defender)",TOT,5.0,1,0.09,0.91,1000.0,0,0.0,0.0,inf,0.09,0.91,1000.0,07/03/2021
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,07/03/2021
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,2,0.91,1.09,87.9,2,0.9,1.1,88.9,1.81,2.19,44.2,07/03/2021
+"Lamela  Erik Lamela (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.09,-0.09,222.2,0,0.04,-0.04,500.0,0.13,-0.13,153.8,07/03/2021
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/03/2021
+"Reguilón  Sergio Reguilón (Tottenham Hotspur, Defender)",TOT,5.0,0,0.16,-0.16,562.5,0,0.2,-0.2,450.0,0.36,-0.36,250.0,07/03/2021
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,07/03/2021
+"Sissoko  Moussa Sissoko (Tottenham Hotspur, Midfielder)",TOT,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/03/2021
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,1,0.66,0.34,136.4,0,0.24,-0.24,375.0,0.9,0.1,100.0,07/03/2021
+"DSanchez  Davinson Sánchez (Tottenham Hotspur, Defender)",TOT,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,07/03/2021
+"Winks  Harry Winks (Tottenham Hotspur, Midfielder)",TOT,4.5,0,0.03,-0.03,2333.3,0,0.0,0.0,inf,0.03,-0.03,2333.3,07/03/2021

@@ -1,0 +1,26 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Tosin  Oluwatosin Adarabioyo (Fulham, Defender)",FUL,4.5,0,0.0,0.0,inf,0,0.1,-0.1,900.0,0.1,-0.1,900.0,05/12/2020
+"Aina  Ola Aina (Fulham, Defender)",FUL,4.3,0,0.01,-0.01,9000.0,0,0.02,-0.02,4500.0,0.03,-0.03,3000.0,05/12/2020
+"Andersen  Joachim Andersen (Fulham, Defender)",FUL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/12/2020
+"Areola  Alphonse Areola (Fulham, Goalkeeper)",FUL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/12/2020
+"Cairney  Tom Cairney (Fulham, Midfielder)",FUL,5.2,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/12/2020
+"Cavaleiro  Ivan Cavaleiro (Fulham, Midfielder)",FUL,5.3,0,0.0,0.0,inf,0,0.06,-0.06,1500.0,0.06,-0.06,1500.0,05/12/2020
+"DeCordova-Reid  Bobby DeCordova-Reid (Fulham, Forward)",FUL,5.3,0,0.01,-0.01,7100.0,0,0.0,0.0,inf,0.01,-0.01,7100.0,05/12/2020
+"Kamara  Aboubakar Kamara (Fulham, Midfielder)",FUL,4.8,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/12/2020
+"Lemina  Mario Lemina (Fulham, Midfielder)",FUL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/12/2020
+"Loftus-Cheek  Ruben Loftus-Cheek (Fulham, Midfielder)",FUL,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/12/2020
+"Lookman  Ademola Lookman (Fulham, Midfielder)",FUL,4.7,0,0.01,-0.01,9000.0,0,0.05,-0.05,1800.0,0.06,-0.06,1500.0,05/12/2020
+"Reed  Harrison Reed (Fulham, Midfielder)",FUL,4.4,0,0.13,-0.13,523.1,0,0.0,0.0,inf,0.13,-0.13,523.1,05/12/2020
+"Robinson (Antonee)  Antonee Robinson (Fulham, Defender)",FUL,4.4,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,05/12/2020
+"Zambo Anguissa  André-Frank Zambo Anguissa (Fulham, Midfielder)",FUL,4.4,0,0.02,-0.02,4500.0,0,0.06,-0.06,1500.0,0.08,-0.08,1125.0,05/12/2020
+"João Cancelo  João Pedro Cavaco Cancelo (Manchester City, Defender)",MCI,6.0,0,0.11,-0.11,818.2,0,0.03,-0.03,3000.0,0.14,-0.14,642.9,05/12/2020
+"De Bruyne  Kevin De Bruyne (Manchester City, Midfielder)",MCI,12.0,1,0.44,0.56,204.5,1,1.38,-0.38,65.2,1.82,0.18,49.5,05/12/2020
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,0,0.02,-0.02,4500.0,0,0.34,-0.34,264.7,0.36,-0.36,250.0,05/12/2020
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,0,0.06,-0.06,1500.0,0,0.07,-0.07,1285.7,0.13,-0.13,692.3,05/12/2020
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,0,0.06,-0.06,1500.0,0,0.02,-0.02,4500.0,0.08,-0.08,1125.0,05/12/2020
+"Mahrez  Riyad Mahrez (Manchester City, Midfielder)",MCI,9.0,0,0.26,-0.26,346.2,0,0.05,-0.05,1800.0,0.31,-0.31,290.3,05/12/2020
+"Mendy (Benjamin)  Benjamin Mendy (Manchester City, Defender)",MCI,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,05/12/2020
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,05/12/2020
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,0,0.03,-0.03,3000.0,1,0.99,0.01,90.9,1.02,-0.02,88.2,05/12/2020
+"Stones  John Stones (Manchester City, Defender)",MCI,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,05/12/2020
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,0,0.11,-0.11,818.2,0,0.0,0.0,inf,0.11,-0.11,818.2,05/12/2020

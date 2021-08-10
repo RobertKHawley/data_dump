@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Abraham  Tammy Abraham (Chelsea, Forward)",CHE,6.5,0,19,1,0,0,0,0,0,0,0,0,0,0,MUN,6,24/10/2020,FWD,False
+"Azpilicueta  César Azpilicueta (Chelsea, Defender)",CHE,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,MUN,6,24/10/2020,DEF,False
+"Chilwell  Benjamin Chilwell (Chelsea, Defender)",CHE,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,MUN,6,24/10/2020,DEF,False
+"Jorginho  Jorge Luiz Frello Filho (Chelsea, Midfielder)",CHE,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,MUN,6,24/10/2020,MID,False
+"Havertz  Kai Havertz (Chelsea, Midfielder)",CHE,8.5,1,72,0,1,0,0,0,0,1,0,0,1,0,MUN,6,24/10/2020,MID,False
+"James (Reece)  Reece James (Chelsea, Defender)",CHE,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,MUN,6,24/10/2020,DEF,False
+"Kanté  N&#039;Golo Kanté (Chelsea, Midfielder)",CHE,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,MUN,6,24/10/2020,MID,False
+"Mendy (Edouard)  Edouard Mendy (Chelsea, Goalkeeper)",CHE,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,MUN,6,24/10/2020,GKP,False
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,0,18,1,0,0,0,0,0,0,0,0,0,0,MUN,6,24/10/2020,MID,False
+"Pulisic  Christian Pulisic (Chelsea, Midfielder)",CHE,8.0,1,81,0,1,0,0,0,0,1,0,0,0,0,MUN,6,24/10/2020,MID,False
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,1,71,0,1,0,0,0,0,1,0,0,0,0,MUN,6,24/10/2020,FWD,False
+"Ziyech  Hakim Ziyech (Chelsea, Midfielder)",CHE,7.5,0,9,1,0,0,0,0,0,0,0,0,0,0,MUN,6,24/10/2020,MID,False
+"Zouma  Kurt Zouma (Chelsea, Defender)",CHE,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,MUN,6,24/10/2020,DEF,False
+"Thiago Silva  Thiago Emiliano da Silva (Chelsea, Defender)",CHE,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,MUN,6,24/10/2020,DEF,False
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,1,90,0,0,0,0,0,0,1,0,0,0,0,CHE,6,24/10/2020,MID,True
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,0,32,1,0,0,0,0,0,0,0,0,0,0,CHE,6,24/10/2020,FWD,True
+"De Gea  David De Gea (Manchester United, Goalkeeper)",MUN,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,CHE,6,24/10/2020,GKP,True
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,0,7,1,0,0,0,0,0,0,0,0,0,0,CHE,6,24/10/2020,MID,True
+"James (Daniel)  Daniel James (Manchester United, Midfielder)",MUN,6.0,1,58,0,1,0,0,0,0,0,0,0,0,0,CHE,6,24/10/2020,MID,True
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,CHE,6,24/10/2020,DEF,True
+"Mata  Juan Mata (Manchester United, Midfielder)",MUN,5.0,1,58,0,1,0,0,0,0,0,0,0,0,0,CHE,6,24/10/2020,MID,True
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,1,83,0,1,0,0,0,0,1,0,0,0,0,CHE,6,24/10/2020,MID,True
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,CHE,6,24/10/2020,DEF,True
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,0,32,1,0,0,0,0,0,0,0,0,0,0,CHE,6,24/10/2020,MID,True
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,1,90,0,0,0,0,0,0,1,0,0,1,0,CHE,6,24/10/2020,MID,True
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,1,90,0,0,0,0,0,0,1,0,0,1,0,CHE,6,24/10/2020,MID,True
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,1,0,0,1,0,CHE,6,24/10/2020,DEF,True
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,CHE,6,24/10/2020,DEF,True

@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Cedric  Cedric Ricardo Alves Soares (Arsenal, Defender)",ARS,4.5,0,5,1,0,0,0,0,0,0,0,0,0,0,SOU,13,16/12/2020,DEF,True
+"Aubameyang  Pierre-Emerick Aubameyang (Arsenal, Midfielder)",ARS,10.0,1,90,0,0,1,0,0,0,0,1,0,0,0,SOU,13,16/12/2020,MID,True
+"Dani Ceballos  Daniel Ceballos Fernández (Arsenal, Midfielder)",ARS,4.7,1,67,0,1,0,0,0,0,0,1,0,1,0,SOU,13,16/12/2020,MID,True
+"Elneny  Mohamed Elneny (Arsenal, Midfielder)",ARS,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,13,16/12/2020,MID,True
+"Holding  Rob Holding (Arsenal, Defender)",ARS,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,13,16/12/2020,DEF,True
+"Leno  Bernd Leno (Arsenal, Goalkeeper)",ARS,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,13,16/12/2020,GKP,True
+"Luiz  David Luiz Moreira Marinho (Arsenal, Defender)",ARS,5.4,0,25,1,0,0,0,0,0,0,0,0,0,0,SOU,13,16/12/2020,DEF,True
+"Maitland-Niles  Ainsley Maitland-Niles (Arsenal, Defender)",ARS,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,13,16/12/2020,DEF,True
+"Eddie Nketiah  Edward Nketiah (Arsenal, Forward)",ARS,5.5,1,65,0,1,0,1,0,1,0,1,0,0,0,SOU,13,16/12/2020,FWD,True
+"Pepe  Nicolas Pepe (Arsenal, Midfielder)",ARS,7.5,1,85,0,1,0,0,0,0,0,1,0,0,0,SOU,13,16/12/2020,MID,True
+"Saka  Bukayo Saka (Arsenal, Midfielder)",ARS,6.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,13,16/12/2020,MID,True
+"Tierney  Kieran Tierney (Arsenal, Defender)",ARS,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SOU,13,16/12/2020,DEF,True
+"Willock  Joseph Willock (Arsenal, Midfielder)",ARS,6.0,0,23,1,0,0,0,0,0,0,0,0,0,0,SOU,13,16/12/2020,MID,True
+"Gabriel Magalhães  Gabriel dos Santos Magalhães (Arsenal, Defender)",ARS,5.0,1,62,0,0,0,0,0,0,0,1,0,0,1,SOU,13,16/12/2020,DEF,True
+"Adams  Che Adams (Southampton, Forward)",SOU,7.0,1,90,0,0,0,1,0,1,0,1,0,0,0,ARS,13,16/12/2020,FWD,False
+"Armstrong  Stuart Armstrong (Southampton, Midfielder)",SOU,6.0,1,63,0,1,0,0,0,0,0,1,0,0,0,ARS,13,16/12/2020,MID,False
+"Bednarek  Jan Bednarek (Southampton, Defender)",SOU,4.5,1,90,0,0,0,0,0,0,0,1,0,1,0,ARS,13,16/12/2020,DEF,False
+"Bertrand  Ryan Bertrand (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,1,0,1,0,ARS,13,16/12/2020,DEF,False
+"Djenepo  Moussa Djenepo (Southampton, Midfielder)",SOU,5.5,0,27,1,0,0,0,0,0,0,0,0,0,0,ARS,13,16/12/2020,MID,False
+"Ings  Danny Ings (Southampton, Forward)",SOU,8.0,1,90,0,0,0,0,0,0,0,1,0,1,0,ARS,13,16/12/2020,FWD,False
+"McCarthy (Alex)  Alex McCarthy (Southampton, Goalkeeper)",SOU,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,ARS,13,16/12/2020,GKP,False
+"Redmond  Nathan Redmond (Southampton, Midfielder)",SOU,6.0,0,27,1,0,0,0,0,0,0,0,0,0,0,ARS,13,16/12/2020,MID,False
+"Romeu  Oriol Romeu (Southampton, Midfielder)",SOU,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,ARS,13,16/12/2020,MID,False
+"Vestergaard  Jannik Vestergaard (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,ARS,13,16/12/2020,DEF,False
+"Walcott  Theo Walcott (Southampton, Midfielder)",SOU,6.0,1,63,0,1,1,0,0,0,0,1,0,0,0,ARS,13,16/12/2020,MID,False
+"Walker-Peters  Kyle Walker-Peters (Southampton, Defender)",SOU,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,ARS,13,16/12/2020,DEF,False
+"Ward-Prowse  James Ward-Prowse (Southampton, Midfielder)",SOU,6.5,1,90,0,0,0,0,0,0,0,1,0,0,0,ARS,13,16/12/2020,MID,False

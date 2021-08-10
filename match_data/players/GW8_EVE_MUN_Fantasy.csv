@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Bernard  Bernard Anício Caldeira Duarte (Everton, Midfielder)",EVE,5.5,1,90,0,0,1,0,0,0,0,3,0,0,0,MUN,8,07/11/2020,MID,True
+"Calvert-Lewin  Dominic Calvert-Lewin (Everton, Forward)",EVE,8.0,1,90,0,0,0,0,1,1,0,3,0,0,0,MUN,8,07/11/2020,FWD,True
+"Coleman  Seamus Coleman (Everton, Defender)",EVE,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,8,07/11/2020,DEF,True
+"Digne  Lucas Digne (Everton, Defender)",EVE,5.5,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,8,07/11/2020,DEF,True
+"Doucouré  Abdoulaye Doucouré (Everton, Midfielder)",EVE,5.5,1,90,0,0,0,0,0,0,0,3,0,1,0,MUN,8,07/11/2020,MID,True
+"Holgate  Mason Holgate (Everton, Defender)",EVE,4.5,1,90,0,0,0,0,0,0,0,3,0,1,0,MUN,8,07/11/2020,DEF,True
+"Iwobi  Alex Iwobi (Everton, Midfielder)",EVE,6.0,0,23,1,0,0,0,0,0,0,1,0,0,0,MUN,8,07/11/2020,MID,True
+"Keane  Michael Keane (Everton, Defender)",EVE,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,8,07/11/2020,DEF,True
+"Allan  Allan Marques Loureiro (Everton, Midfielder)",EVE,4.5,1,90,0,0,0,0,0,0,0,3,0,1,0,MUN,8,07/11/2020,MID,True
+"Pickford  Jordan Pickford (Everton, Goalkeeper)",EVE,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,MUN,8,07/11/2020,GKP,True
+"Rodríguez  James Rodríguez (Everton, Midfielder)",EVE,7.0,1,80,0,1,0,0,0,0,0,2,0,0,0,MUN,8,07/11/2020,MID,True
+"Sigurdsson  Gylfi Sigurdsson (Everton, Midfielder)",EVE,7.0,1,67,0,1,0,0,0,0,0,2,0,0,0,MUN,8,07/11/2020,MID,True
+"Tosun  Cenk Tosun (Everton, Forward)",EVE,6.0,0,10,1,0,0,0,0,0,0,1,0,1,0,MUN,8,07/11/2020,FWD,True
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,1,90,0,0,2,1,0,1,0,1,0,1,0,EVE,8,07/11/2020,MID,False
+"Cavani  Edinson Cavani (Manchester United, Forward)",MUN,8.5,0,8,1,0,1,0,0,0,0,0,0,0,0,EVE,8,07/11/2020,FWD,False
+"De Gea  David De Gea (Manchester United, Goalkeeper)",MUN,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,8,07/11/2020,GKP,False
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,8,07/11/2020,DEF,False
+"Martial  Anthony Martial (Manchester United, Forward)",MUN,8.0,1,82,0,1,0,0,0,0,0,1,0,0,0,EVE,8,07/11/2020,FWD,False
+"Mata  Juan Mata (Manchester United, Midfielder)",MUN,5.0,1,82,0,1,0,0,0,0,0,1,0,0,0,EVE,8,07/11/2020,MID,False
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,8,07/11/2020,MID,False
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,8,07/11/2020,DEF,False
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,0,8,1,0,0,0,0,0,0,0,0,0,0,EVE,8,07/11/2020,MID,False
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,1,90,0,0,0,1,0,1,0,1,0,0,0,EVE,8,07/11/2020,MID,False
+"Fred  Frederico Rodrigues de Paula Santos (Manchester United, Midfielder)",MUN,5.0,1,90,0,0,0,0,0,0,0,1,0,1,0,EVE,8,07/11/2020,MID,False
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,1,67,0,1,0,1,0,1,0,1,0,0,0,EVE,8,07/11/2020,DEF,False
+"Tuanzebe  Axel Tuanzebe (Manchester United, Defender)",MUN,4.5,0,23,1,0,0,0,0,0,0,0,0,0,0,EVE,8,07/11/2020,DEF,False
+"Wan-Bissaka  Aaron Wan-Bissaka (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,0,1,0,0,0,EVE,8,07/11/2020,DEF,False

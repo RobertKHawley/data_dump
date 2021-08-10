@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Bissouma  Yves Bissouma (Brighton and Hove Albion, Midfielder)",BHA,4.5,0,0.1,-0.1,900.0,0,0.11,-0.11,818.2,0.21,-0.21,428.6,24/04/2021
+"Connolly  Aaron Connolly (Brighton and Hove Albion, Forward)",BHA,5.5,0,0.0,0.0,inf,0,0.03,-0.03,766.7,0.03,-0.03,766.7,24/04/2021
+"Dunk  Lewis Dunk (Brighton and Hove Albion, Defender)",BHA,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,24/04/2021
+"Groß  Pascal Groß (Brighton and Hove Albion, Midfielder)",BHA,6.0,0,0.16,-0.16,418.8,0,0.0,0.0,inf,0.16,-0.16,418.8,24/04/2021
+"Izquierdo  José Heriberto Izquierdo (Brighton and Hove Albion, Forward)",BHA,5.5,0,0.01,-0.01,800.0,0,0.02,-0.02,400.0,0.03,-0.03,266.7,24/04/2021
+"Jahanbakhsh  Alireza Jahanbakhsh (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.69,-0.69,33.3,0,0.07,-0.07,328.6,0.76,-0.76,30.3,24/04/2021
+"Lallana  Adam Lallana (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,0.06,-0.06,1500.0,0,0.13,-0.13,692.3,0.19,-0.19,473.7,24/04/2021
+"Maupay  Neal Maupay (Brighton and Hove Albion, Forward)",BHA,6.5,0,0.05,-0.05,1800.0,0,1.2,-1.2,75.0,1.25,-1.25,72.0,24/04/2021
+"Moder  Jakub Moder (Brighton and Hove Albion, Midfielder)",BHA,4.5,0,0.11,-0.11,609.1,0,0.12,-0.12,558.3,0.23,-0.23,291.3,24/04/2021
+"Sanchez  Robert Sanchez (Brighton and Hove Albion, Goalkeeper)",BHA,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,24/04/2021
+"Trossard  Leandro Trossard (Brighton and Hove Albion, Midfielder)",BHA,6.5,0,0.05,-0.05,1640.0,0,0.0,0.0,inf,0.05,-0.05,1640.0,24/04/2021
+"Veltman  Joël Veltman (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,24/04/2021
+"Webster  Adam Webster (Brighton and Hove Albion, Defender)",BHA,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,24/04/2021
+"Welbeck  Danny Welbeck (Brighton and Hove Albion, Forward)",BHA,6.0,0,0.15,-0.15,600.0,0,0.33,-0.33,272.7,0.48,-0.48,187.5,24/04/2021
+"Baldock  George Baldock (Sheffield United, Defender)",SHU,4.9,0,0.16,-0.16,562.5,0,0.0,0.0,inf,0.16,-0.16,562.5,24/04/2021
+"Bogle  Jayden Bogle (Sheffield United, Defender)",SHU,4.3,0,0.01,-0.01,9000.0,0,0.13,-0.13,692.3,0.14,-0.14,642.9,24/04/2021
+"Brewster  Rhian Brewster (Sheffield United, Forward)",SHU,4.2,0,0.0,0.0,inf,0,0.07,-0.07,928.6,0.07,-0.07,928.6,24/04/2021
+"Bryan (Kean)  Kean Bryan (Sheffield United, Defender)",SHU,3.9,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,24/04/2021
+"Oliver Burke  Oliver Burke (Sheffield United, Midfielder)",SHU,4.1,0,0.02,-0.02,1250.0,0,0.0,0.0,inf,0.02,-0.02,1250.0,24/04/2021
+"Egan  John Egan (Sheffield United, Defender)",SHU,4.7,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,24/04/2021
+"Fleck  John Fleck (Sheffield United, Midfielder)",SHU,5.6,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,24/04/2021
+"Lundstram  John Lundstram (Sheffield United, Midfielder)",SHU,4.8,0,0.01,-0.01,900.0,0,0.0,0.0,inf,0.01,-0.01,900.0,24/04/2021
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,0,0.02,-0.02,4500.0,1,0.54,0.46,166.7,0.56,0.44,160.7,24/04/2021
+"Norwood  Oliver Norwood (Sheffield United, Midfielder)",SHU,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,24/04/2021
+"Osborn  Ben Osborn (Sheffield United, Midfielder)",SHU,4.7,0,0.02,-0.02,4050.0,0,0.0,0.0,inf,0.02,-0.02,4050.0,24/04/2021
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,24/04/2021
+"Stevens (Enda)  Enda Stevens (Sheffield United, Defender)",SHU,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,24/04/2021

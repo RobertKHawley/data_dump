@@ -1,0 +1,27 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Foden  Phil Foden (Manchester City, Midfielder)",MCI,8.0,0,0.08,-0.08,1125.0,0,0.0,0.0,inf,0.08,-0.08,1125.0,30/01/2021
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,0,0.02,-0.02,4500.0,0,0.19,-0.19,473.7,0.21,-0.21,428.6,30/01/2021
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,0,0.3,-0.3,300.0,0,0.0,0.0,inf,0.3,-0.3,300.0,30/01/2021
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,30/01/2021
+"Laporte  Aymeric Laporte (Manchester City, Defender)",MCI,5.5,0,0.02,-0.02,4500.0,0,0.07,-0.07,1285.7,0.09,-0.09,1000.0,30/01/2021
+"Fernandinho  Fernando Luiz Rosa (Manchester City, Defender)",MCI,5.0,0,0.08,-0.08,1125.0,0,0.04,-0.04,2250.0,0.12,-0.12,750.0,30/01/2021
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,30/01/2021
+"Torres  Ferran Torres (Manchester City, Midfielder)",MCI,7.0,1,0.56,0.44,158.9,0,0.0,0.0,inf,0.56,0.44,158.9,30/01/2021
+"Bernardo Silva  Bernardo Mota Veiga de Carvalho e Silva (Manchester City, Midfielder)",MCI,7.0,0,0.11,-0.11,818.2,0,0.11,-0.11,818.2,0.22,-0.22,409.1,30/01/2021
+"Walker (Kyle)  Kyle Walker (Manchester City, Defender)",MCI,5.5,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,30/01/2021
+"Zinchenko  Oleksandr Zinchenko (Manchester City, Defender)",MCI,5.5,0,0.06,-0.06,1500.0,0,0.08,-0.08,1125.0,0.14,-0.14,642.9,30/01/2021
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,0,0.02,-0.02,4500.0,1,1.08,-0.08,83.3,1.1,-0.1,81.8,30/01/2021
+"Ampadu  Ethan Ampadu (Sheffield United, Defender)",SHU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,30/01/2021
+"Baldock  George Baldock (Sheffield United, Defender)",SHU,4.9,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,30/01/2021
+"Basham  Chris Basham (Sheffield United, Defender)",SHU,4.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,30/01/2021
+"Bogle  Jayden Bogle (Sheffield United, Defender)",SHU,4.3,0,0.01,-0.01,9000.0,0,0.04,-0.04,2250.0,0.05,-0.05,1800.0,30/01/2021
+"Brewster  Rhian Brewster (Sheffield United, Forward)",SHU,4.2,0,0.02,-0.02,3100.0,0,0.06,-0.06,1033.3,0.08,-0.08,775.0,30/01/2021
+"Oliver Burke  Oliver Burke (Sheffield United, Midfielder)",SHU,4.1,0,0.01,-0.01,7700.0,0,0.0,0.0,inf,0.01,-0.01,7700.0,30/01/2021
+"Egan  John Egan (Sheffield United, Defender)",SHU,4.7,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,30/01/2021
+"Fleck  John Fleck (Sheffield United, Midfielder)",SHU,5.6,0,0.01,-0.01,9000.0,0,0.05,-0.05,1800.0,0.06,-0.06,1500.0,30/01/2021
+"Lundstram  John Lundstram (Sheffield United, Midfielder)",SHU,4.8,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,30/01/2021
+"McBurnie  Oliver McBurnie (Sheffield United, Forward)",SHU,5.6,0,0.03,-0.03,400.0,0,0.0,0.0,inf,0.03,-0.03,400.0,30/01/2021
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,30/01/2021
+"Norwood  Oliver Norwood (Sheffield United, Midfielder)",SHU,4.5,0,0.03,-0.03,3000.0,0,0.05,-0.05,1800.0,0.08,-0.08,1125.0,30/01/2021
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,30/01/2021
+"Sharp  Billy Sharp (Sheffield United, Forward)",SHU,5.5,0,0.01,-0.01,1300.0,0,0.0,0.0,inf,0.01,-0.01,1300.0,30/01/2021

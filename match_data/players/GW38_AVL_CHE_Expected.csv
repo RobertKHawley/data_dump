@@ -1,0 +1,28 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Chukwuemeka  Carney Chukwuemeka (Aston Villa, Midfielder)",AVL,4.5,0,0.04,-0.04,425.0,0,0.0,0.0,inf,0.04,-0.04,425.0,23/05/2021
+"El Ghazi  Anwar El Ghazi (Aston Villa, Midfielder)",AVL,6.0,0,0.01,-0.01,7900.0,1,0.85,0.15,92.9,0.86,0.14,91.9,23/05/2021
+"Grealish  Jack Grealish (Aston Villa, Midfielder)",AVL,8.0,0,0.24,-0.24,375.0,0,0.0,0.0,inf,0.24,-0.24,375.0,23/05/2021
+"Hause  Kortney Hause (Aston Villa, Defender)",AVL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"Konsa Ngoyo  Ezri Konsa Ngoyo (Aston Villa, Defender)",AVL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,0,0.01,-0.01,9000.0,0,0.04,-0.04,2250.0,0.05,-0.05,1800.0,23/05/2021
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"Nakamba  Marvelous Nakamba (Aston Villa, Midfielder)",AVL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"Jacob Ramsey  Jacob Ramsey (Aston Villa, Midfielder)",AVL,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,1,0.05,0.95,1800.0,0,0.0,0.0,inf,0.05,0.95,1800.0,23/05/2021
+"Traore (Bertrand)  Bertrand Traore (Aston Villa, Midfielder)",AVL,6.0,0,0.01,-0.01,7300.0,1,0.17,0.83,429.4,0.18,0.82,405.6,23/05/2021
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,23/05/2021
+"Kepa  Kepa Arrizabalaga Revuelta (Chelsea, Goalkeeper)",CHE,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"Azpilicueta  César Azpilicueta (Chelsea, Defender)",CHE,6.0,0,0.45,-0.45,197.8,0,0.03,-0.03,2966.7,0.48,-0.48,185.4,23/05/2021
+"Chilwell  Benjamin Chilwell (Chelsea, Defender)",CHE,6.0,0,0.22,-0.22,409.1,1,0.97,0.03,92.8,1.19,-0.19,75.6,23/05/2021
+"Jorginho  Jorge Luiz Frello Filho (Chelsea, Midfielder)",CHE,6.0,0,0.16,-0.16,375.0,0,0.0,0.0,inf,0.16,-0.16,375.0,23/05/2021
+"Havertz  Kai Havertz (Chelsea, Midfielder)",CHE,8.5,0,0.02,-0.02,1200.0,0,0.83,-0.83,28.9,0.85,-0.85,28.2,23/05/2021
+"James (Reece)  Reece James (Chelsea, Defender)",CHE,5.5,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,23/05/2021
+"Kovacic  Mateo Kovacic (Chelsea, Midfielder)",CHE,5.0,0,0.09,-0.09,733.3,0,0.08,-0.08,825.0,0.17,-0.17,388.2,23/05/2021
+"Mendy (Edouard)  Edouard Mendy (Chelsea, Goalkeeper)",CHE,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,23/05/2021
+"Mount  Mason Mount (Chelsea, Midfielder)",CHE,7.5,0,0.21,-0.21,428.6,0,0.82,-0.82,109.8,1.03,-1.03,87.4,23/05/2021
+"Pulisic  Christian Pulisic (Chelsea, Midfielder)",CHE,8.0,1,0.38,0.62,236.8,0,0.32,-0.32,281.3,0.7,0.3,128.6,23/05/2021
+"Rüdiger  Antonio Rüdiger (Chelsea, Defender)",CHE,5.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,23/05/2021
+"Werner  Timo Werner (Chelsea, Forward)",CHE,9.0,0,0.09,-0.09,1000.0,0,0.21,-0.21,428.6,0.3,-0.3,300.0,23/05/2021
+"Ziyech  Hakim Ziyech (Chelsea, Midfielder)",CHE,7.5,0,0.36,-0.36,83.3,0,0.03,-0.03,1000.0,0.39,-0.39,76.9,23/05/2021
+"Thiago Silva  Thiago Emiliano da Silva (Chelsea, Defender)",CHE,5.5,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,23/05/2021

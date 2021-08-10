@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Aubameyang  Pierre-Emerick Aubameyang (Arsenal, Midfielder)",ARS,10.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,4,04/10/2020,MID,True
+"Bellerín  Héctor Bellerín (Arsenal, Defender)",ARS,5.0,1,90,0,0,0,2,0,2,0,1,0,0,0,SHU,4,04/10/2020,DEF,True
+"Willian  Willian Borges Da Silva (Arsenal, Midfielder)",ARS,6.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,4,04/10/2020,MID,True
+"Dani Ceballos  Daniel Ceballos Fernández (Arsenal, Midfielder)",ARS,4.7,1,81,0,1,0,0,0,0,1,0,0,0,0,SHU,4,04/10/2020,MID,True
+"Elneny  Mohamed Elneny (Arsenal, Midfielder)",ARS,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,4,04/10/2020,MID,True
+"Leno  Bernd Leno (Arsenal, Goalkeeper)",ARS,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,4,04/10/2020,GKP,True
+"Luiz  David Luiz Moreira Marinho (Arsenal, Defender)",ARS,5.4,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,4,04/10/2020,DEF,True
+"Maitland-Niles  Ainsley Maitland-Niles (Arsenal, Defender)",ARS,5.5,0,3,1,0,0,0,0,0,0,0,0,0,0,SHU,4,04/10/2020,DEF,True
+"Eddie Nketiah  Edward Nketiah (Arsenal, Forward)",ARS,5.5,1,58,0,1,0,0,0,0,0,0,0,0,0,SHU,4,04/10/2020,FWD,True
+"Pepe  Nicolas Pepe (Arsenal, Midfielder)",ARS,7.5,0,32,1,0,1,0,0,0,0,1,0,0,0,SHU,4,04/10/2020,MID,True
+"Saka  Bukayo Saka (Arsenal, Midfielder)",ARS,6.5,1,87,0,1,1,0,0,0,0,1,0,0,0,SHU,4,04/10/2020,MID,True
+"Tierney  Kieran Tierney (Arsenal, Defender)",ARS,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,4,04/10/2020,DEF,True
+"Xhaka  Granit Xhaka (Arsenal, Midfielder)",ARS,5.0,0,9,1,0,0,0,0,0,0,1,0,0,0,SHU,4,04/10/2020,MID,True
+"Gabriel Magalhães  Gabriel dos Santos Magalhães (Arsenal, Defender)",ARS,5.0,1,90,0,0,0,0,0,0,0,1,0,0,0,SHU,4,04/10/2020,DEF,True
+"Baldock  George Baldock (Sheffield United, Defender)",SHU,4.9,1,90,0,0,0,1,0,1,0,2,0,0,0,ARS,4,04/10/2020,DEF,False
+"Basham  Chris Basham (Sheffield United, Defender)",SHU,4.6,1,76,0,1,0,0,0,0,0,2,0,0,0,ARS,4,04/10/2020,DEF,False
+"Berge  Sander Berge (Sheffield United, Midfielder)",SHU,4.9,1,90,0,0,0,0,0,0,0,2,0,1,0,ARS,4,04/10/2020,MID,False
+"Oliver Burke  Oliver Burke (Sheffield United, Midfielder)",SHU,4.1,1,56,0,1,0,0,0,0,0,0,0,0,0,ARS,4,04/10/2020,MID,False
+"Egan  John Egan (Sheffield United, Defender)",SHU,4.7,1,90,0,0,0,0,0,0,0,2,0,0,0,ARS,4,04/10/2020,DEF,False
+"Fleck  John Fleck (Sheffield United, Midfielder)",SHU,5.6,0,27,1,0,0,0,0,0,0,1,0,0,0,ARS,4,04/10/2020,MID,False
+"Lundstram  John Lundstram (Sheffield United, Midfielder)",SHU,4.8,1,90,0,0,0,0,0,0,0,2,0,0,0,ARS,4,04/10/2020,MID,False
+"McBurnie  Oliver McBurnie (Sheffield United, Forward)",SHU,5.6,0,34,1,0,0,0,0,0,0,2,0,0,0,ARS,4,04/10/2020,FWD,False
+"McGoldrick  David McGoldrick (Sheffield United, Forward)",SHU,5.2,1,90,0,0,1,0,0,0,0,2,0,0,0,ARS,4,04/10/2020,FWD,False
+"Osborn  Ben Osborn (Sheffield United, Midfielder)",SHU,4.7,1,63,0,1,0,0,0,0,0,1,0,0,0,ARS,4,04/10/2020,MID,False
+"Ramsdale  Aaron Ramsdale (Sheffield United, Goalkeeper)",SHU,4.6,1,90,0,0,0,0,0,0,0,2,0,0,0,ARS,4,04/10/2020,GKP,False
+"Robinson (Jack)  Jack Robinson (Sheffield United, Defender)",SHU,4.2,1,90,0,0,0,0,0,0,0,2,0,0,0,ARS,4,04/10/2020,DEF,False
+"Sharp  Billy Sharp (Sheffield United, Forward)",SHU,5.5,0,14,1,0,0,0,0,0,0,0,0,0,0,ARS,4,04/10/2020,FWD,False
+"Stevens (Enda)  Enda Stevens (Sheffield United, Defender)",SHU,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,ARS,4,04/10/2020,DEF,False

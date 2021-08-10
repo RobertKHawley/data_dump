@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Bissouma  Yves Bissouma (Brighton and Hove Albion, Midfielder)",BHA,4.5,1,45,0,1,0,0,0,0,0,3,0,1,0,WOL,17,02/01/2021,MID,True
+"Burn  Dan Burn (Brighton and Hove Albion, Defender)",BHA,4.5,1,69,0,1,0,0,0,0,0,3,1,1,0,WOL,17,02/01/2021,DEF,True
+"Connolly  Aaron Connolly (Brighton and Hove Albion, Forward)",BHA,5.5,1,45,0,1,1,0,0,0,0,3,0,0,0,WOL,17,02/01/2021,FWD,True
+"Dunk  Lewis Dunk (Brighton and Hove Albion, Defender)",BHA,5.0,1,90,0,0,1,0,0,0,0,3,0,0,0,WOL,17,02/01/2021,DEF,True
+"Lallana  Adam Lallana (Brighton and Hove Albion, Midfielder)",BHA,5.5,0,21,1,0,0,0,0,0,0,0,0,0,0,WOL,17,02/01/2021,MID,True
+"March  Solomon March (Brighton and Hove Albion, Midfielder)",BHA,5.5,1,90,0,0,0,0,0,0,0,3,0,0,0,WOL,17,02/01/2021,MID,True
+"Maupay  Neal Maupay (Brighton and Hove Albion, Forward)",BHA,6.5,1,90,0,0,1,0,0,0,0,3,0,0,0,WOL,17,02/01/2021,FWD,True
+"Pröpper  Davy Pröpper (Brighton and Hove Albion, Midfielder)",BHA,4.5,0,45,1,0,0,0,0,0,0,0,0,0,0,WOL,17,02/01/2021,MID,True
+"Sanchez  Robert Sanchez (Brighton and Hove Albion, Goalkeeper)",BHA,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,WOL,17,02/01/2021,GKP,True
+"Trossard  Leandro Trossard (Brighton and Hove Albion, Midfielder)",BHA,6.5,1,90,0,0,0,2,0,2,0,3,0,0,0,WOL,17,02/01/2021,MID,True
+"Veltman  Joël Veltman (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,WOL,17,02/01/2021,DEF,True
+"Webster  Adam Webster (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,WOL,17,02/01/2021,DEF,True
+"White (Ben)  Ben White (Brighton and Hove Albion, Defender)",BHA,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,WOL,17,02/01/2021,DEF,True
+"Zeqiri  Andi Zeqiri (Brighton and Hove Albion, Forward)",BHA,5.0,0,45,1,0,0,0,0,0,0,0,0,0,0,WOL,17,02/01/2021,FWD,True
+"Ait Nouri  Rayan Ait Nouri (Wolverhampton Wanderers, Defender)",WOL,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,BHA,17,02/01/2021,DEF,False
+"Coady  Conor Coady (Wolverhampton Wanderers, Defender)",WOL,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,BHA,17,02/01/2021,DEF,False
+"Kilman  Max Kilman (Wolverhampton Wanderers, Defender)",WOL,4.5,0,26,1,0,0,0,0,0,0,1,0,0,0,BHA,17,02/01/2021,DEF,False
+"Vitor Ferreira  Vitor Machado Ferreira (Wolverhampton Wanderers, Midfielder)",WOL,4.7,1,64,0,1,0,0,0,0,0,2,0,0,0,BHA,17,02/01/2021,MID,False
+"Moutinho  João Moutinho (Wolverhampton Wanderers, Midfielder)",WOL,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,BHA,17,02/01/2021,MID,False
+"Neto  Pedro Neto (Wolverhampton Wanderers, Midfielder)",WOL,6.5,1,90,0,0,0,0,1,1,0,3,0,0,0,BHA,17,02/01/2021,MID,False
+"Otasowie  Owen Otasowie (Wolverhampton Wanderers, Midfielder)",WOL,4.5,0,3,1,0,0,0,0,0,0,0,0,0,0,BHA,17,02/01/2021,MID,False
+"Saiss  Romain Saiss (Wolverhampton Wanderers, Defender)",WOL,5.0,1,90,0,0,1,0,0,0,0,3,0,0,0,BHA,17,02/01/2021,DEF,False
+"Semedo  Nelson Semedo (Wolverhampton Wanderers, Defender)",WOL,5.0,1,90,0,0,0,1,0,1,0,3,0,1,0,BHA,17,02/01/2021,DEF,False
+"Fabio Silva  Fabio Daniel Soares Silva (Wolverhampton Wanderers, Forward)",WOL,6.0,1,87,0,1,0,0,0,0,0,3,0,0,0,BHA,17,02/01/2021,FWD,False
+"Traoré  Adama Traoré (Wolverhampton Wanderers, Midfielder)",WOL,6.0,1,90,0,0,0,0,1,1,0,3,0,0,0,BHA,17,02/01/2021,MID,False
+"Ruben Neves  Rúben Diogo da Silva Neves (Wolverhampton Wanderers, Midfielder)",WOL,5.5,1,90,0,0,1,0,0,0,0,3,0,0,0,BHA,17,02/01/2021,MID,False
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,BHA,17,02/01/2021,GKP,False

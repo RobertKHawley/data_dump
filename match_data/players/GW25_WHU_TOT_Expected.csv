@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Alli  Bamidele Alli (Tottenham Hotspur, Midfielder)",TOT,6.5,0,0.02,-0.02,650.0,0,0.0,0.0,inf,0.02,-0.02,650.0,21/02/2021
+"Bale  Gareth Bale (Tottenham Hotspur, Midfielder)",TOT,9.2,1,0.11,0.89,409.1,0,0.13,-0.13,346.2,0.24,0.76,187.5,21/02/2021
+"Dier  Eric Dier (Tottenham Hotspur, Defender)",TOT,4.5,0,0.09,-0.09,1000.0,0,0.13,-0.13,692.3,0.22,-0.22,409.1,21/02/2021
+"Doherty  Matt Doherty (Tottenham Hotspur, Defender)",TOT,5.0,0,0.05,-0.05,900.0,0,0.0,0.0,inf,0.05,-0.05,900.0,21/02/2021
+"Højbjerg  Pierre-Emile Højbjerg (Tottenham Hotspur, Midfielder)",TOT,5.0,0,0.06,-0.06,1500.0,0,0.0,0.0,inf,0.06,-0.06,1500.0,21/02/2021
+"Kane  Harry Kane (Tottenham Hotspur, Forward)",TOT,12.5,0,0.04,-0.04,2250.0,0,0.41,-0.41,219.5,0.45,-0.45,200.0,21/02/2021
+"Lamela  Erik Lamela (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.08,-0.08,562.5,0,0.08,-0.08,562.5,0.16,-0.16,281.3,21/02/2021
+"Lloris  Hugo Lloris (Tottenham Hotspur, Goalkeeper)",TOT,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/02/2021
+"NDombele  Tanguy NDombele (Tottenham Hotspur, Midfielder)",TOT,6.0,0,0.08,-0.08,1125.0,0,0.0,0.0,inf,0.08,-0.08,1125.0,21/02/2021
+"Reguilón  Sergio Reguilón (Tottenham Hotspur, Defender)",TOT,5.0,0,0.04,-0.04,1925.0,0,0.06,-0.06,1283.3,0.1,-0.1,770.0,21/02/2021
+"Lucas Moura  Lucas Rodrigues Moura da Silva (Tottenham Hotspur, Midfielder)",TOT,6.5,0,0.09,-0.09,1000.0,1,0.13,0.87,692.3,0.22,0.78,409.1,21/02/2021
+"Son  Heung-Min Son (Tottenham Hotspur, Midfielder)",TOT,10.0,0,0.06,-0.06,1500.0,0,0.09,-0.09,1000.0,0.15,-0.15,600.0,21/02/2021
+"DSanchez  Davinson Sánchez (Tottenham Hotspur, Defender)",TOT,4.5,0,0.01,-0.01,9000.0,0,0.04,-0.04,2250.0,0.05,-0.05,1800.0,21/02/2021
+"Tanganga  Japhet Tanganga (Tottenham Hotspur, Defender)",TOT,4.5,0,0.01,-0.01,4500.0,0,0.0,0.0,inf,0.01,-0.01,4500.0,21/02/2021
+"Antonio  Michail Antonio (West Ham United, Forward)",WHU,7.5,0,0.03,-0.03,3000.0,1,1.6,-0.6,56.3,1.63,-0.63,55.2,21/02/2021
+"Benrahma  Said Benrahma (West Ham United, Midfielder)",WHU,6.0,0,0.01,-0.01,2500.0,0,0.0,0.0,inf,0.01,-0.01,2500.0,21/02/2021
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,0,0.4,-0.4,162.5,0,0.0,0.0,inf,0.4,-0.4,162.5,21/02/2021
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,21/02/2021
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,0,0.09,-0.09,1000.0,0,0.0,0.0,inf,0.09,-0.09,1000.0,21/02/2021
+"Dawson  Craig Dawson (West Ham United, Defender)",WHU,5.0,0,0.0,0.0,inf,0,0.06,-0.06,1500.0,0.06,-0.06,1500.0,21/02/2021
+"Diop  Issa Diop (West Ham United, Defender)",WHU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/02/2021
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/02/2021
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,1,0.01,0.99,8100.0,0,0.0,0.0,inf,0.01,0.99,8100.0,21/02/2021
+"Johnson (Ben)  Ben Johnson (West Ham United, Defender)",WHU,4.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/02/2021
+"Lingard  Jesse Lingard (West Ham United, Midfielder)",WHU,7.0,0,0.01,-0.01,8900.0,1,0.08,0.92,1112.5,0.09,0.91,988.9,21/02/2021
+"Noble  Mark Noble (West Ham United, Midfielder)",WHU,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,21/02/2021
+"Rice  Declan Rice (West Ham United, Midfielder)",WHU,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,21/02/2021
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,21/02/2021

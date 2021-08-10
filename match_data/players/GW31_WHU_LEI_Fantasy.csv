@@ -1,0 +1,28 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Albrighton  Marc Albrighton (Leicester City, Midfielder)",LEI,5.5,0,31,1,0,0,0,1,1,0,0,0,0,0,WHU,31,11/04/2021,MID,False
+"Amartey  Daniel Amartey (Leicester City, Defender)",LEI,4.0,1,45,0,1,0,0,0,0,0,2,0,0,0,WHU,31,11/04/2021,DEF,False
+"Ricardo Pereira  Ricardo Domingos Barbosa Pereira (Leicester City, Defender)",LEI,5.5,1,90,0,0,0,1,0,1,0,3,0,1,0,WHU,31,11/04/2021,DEF,False
+"Castagne  Timothy Castagne (Leicester City, Defender)",LEI,5.5,1,90,0,0,0,0,0,0,0,3,0,0,0,WHU,31,11/04/2021,DEF,False
+"Evans  Jonny Evans (Leicester City, Defender)",LEI,5.5,1,90,0,0,0,0,0,0,0,3,0,0,0,WHU,31,11/04/2021,DEF,False
+"Fofana  Wesley Fofana (Leicester City, Defender)",LEI,4.5,1,90,0,0,0,0,0,0,0,3,0,1,0,WHU,31,11/04/2021,DEF,False
+"Iheanacho  Kelechi Iheanacho (Leicester City, Forward)",LEI,7.5,1,90,0,0,2,0,0,0,0,3,0,0,0,WHU,31,11/04/2021,FWD,False
+"Ndidi  Onyinye Wilfred Ndidi (Leicester City, Midfielder)",LEI,5.0,1,90,0,0,0,0,0,0,0,3,0,1,0,WHU,31,11/04/2021,MID,False
+"Praet  Dennis Praet (Leicester City, Midfielder)",LEI,5.0,1,59,0,1,0,0,0,0,0,3,0,0,0,WHU,31,11/04/2021,MID,False
+"Schmeichel  Kasper Schmeichel (Leicester City, Goalkeeper)",LEI,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,WHU,31,11/04/2021,GKP,False
+"Thomas (Luke)  Luke Thomas (Leicester City, Defender)",LEI,4.5,0,45,1,0,0,0,0,0,0,1,0,0,0,WHU,31,11/04/2021,DEF,False
+"Tielemans  Youri Tielemans (Leicester City, Midfielder)",LEI,6.5,1,90,0,0,0,0,0,0,0,3,0,0,0,WHU,31,11/04/2021,MID,False
+"Vardy  Jamie Vardy (Leicester City, Forward)",LEI,10.5,1,90,0,0,0,0,0,0,0,3,0,0,0,WHU,31,11/04/2021,FWD,False
+"Balbuena  Fabián Balbuena (West Ham United, Defender)",WHU,4.1,0,37,1,0,0,0,0,0,0,2,0,0,0,LEI,31,11/04/2021,DEF,True
+"Benrahma  Said Benrahma (West Ham United, Midfielder)",WHU,6.0,0,6,1,0,0,0,0,0,0,1,0,0,0,LEI,31,11/04/2021,MID,True
+"Bowen  Jarrod Bowen (West Ham United, Midfielder)",WHU,6.5,1,84,0,1,1,1,0,1,0,1,0,0,0,LEI,31,11/04/2021,MID,True
+"Coufal  Vladimir Coufal (West Ham United, Defender)",WHU,5.0,1,90,0,0,0,1,0,1,0,2,0,0,0,LEI,31,11/04/2021,DEF,True
+"Cresswell (Aaron)  Aaron Cresswell (West Ham United, Defender)",WHU,5.5,1,53,0,1,0,0,0,0,0,0,0,1,0,LEI,31,11/04/2021,DEF,True
+"Dawson  Craig Dawson (West Ham United, Defender)",WHU,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,31,11/04/2021,DEF,True
+"Diop  Issa Diop (West Ham United, Defender)",WHU,4.5,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,31,11/04/2021,DEF,True
+"Fabianski  Lukasz Fabianski (West Ham United, Goalkeeper)",WHU,5.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,31,11/04/2021,GKP,True
+"Fornals  Pablo Fornals (West Ham United, Midfielder)",WHU,6.0,1,90,0,0,0,0,0,0,0,2,0,0,0,LEI,31,11/04/2021,MID,True
+"Johnson (Ben)  Ben Johnson (West Ham United, Defender)",WHU,4.0,0,8,1,0,0,0,0,0,0,1,0,0,0,LEI,31,11/04/2021,DEF,True
+"Lingard  Jesse Lingard (West Ham United, Midfielder)",WHU,7.0,1,90,0,0,2,0,0,0,0,2,0,0,0,LEI,31,11/04/2021,MID,True
+"Masuaku  Arthur Masuaku (West Ham United, Defender)",WHU,4.5,1,90,0,0,0,0,0,0,0,2,0,1,0,LEI,31,11/04/2021,DEF,True
+"Noble  Mark Noble (West Ham United, Midfielder)",WHU,4.5,1,82,0,1,0,0,0,0,0,1,0,0,0,LEI,31,11/04/2021,MID,True
+"Soucek  Tomas Soucek (West Ham United, Midfielder)",WHU,6.0,1,90,0,0,0,1,0,1,0,2,0,1,0,LEI,31,11/04/2021,MID,True

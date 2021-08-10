@@ -1,0 +1,29 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Jordan Ayew  Jordan Ayew (Crystal Palace, Forward)",CRY,6.0,1,81,0,1,0,0,1,1,0,1,0,0,0,MUN,2,19/09/2020,FWD,False
+"Batshuayi  Michy Batshuayi (Crystal Palace, Forward)",CRY,5.5,0,9,1,0,0,0,0,0,0,0,0,0,0,MUN,2,19/09/2020,FWD,False
+"Eze  Eberechi Eze (Crystal Palace, Midfielder)",CRY,6.0,0,15,1,0,0,0,0,0,0,1,0,0,0,MUN,2,19/09/2020,MID,False
+"Guaita  Vicente Guaita (Crystal Palace, Goalkeeper)",CRY,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,MUN,2,19/09/2020,GKP,False
+"Kouyaté  Cheikhou Kouyaté (Crystal Palace, Midfielder)",CRY,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,MUN,2,19/09/2020,MID,False
+"McArthur  James McArthur (Crystal Palace, Midfielder)",CRY,4.5,1,90,0,0,0,0,0,0,0,1,0,0,0,MUN,2,19/09/2020,MID,False
+"McCarthy (James)  James McCarthy (Crystal Palace, Midfielder)",CRY,4.3,1,88,0,1,0,0,0,0,0,1,0,0,0,MUN,2,19/09/2020,MID,False
+"Milivojevic  Luka Milivojevic (Crystal Palace, Midfielder)",CRY,5.5,0,2,1,0,0,0,0,0,0,0,0,0,0,MUN,2,19/09/2020,MID,False
+"Mitchell  Tyrick Mitchell (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,1,1,0,1,0,0,0,MUN,2,19/09/2020,DEF,False
+"Sakho  Mamadou Sakho (Crystal Palace, Defender)",CRY,4.4,1,90,0,0,0,0,0,0,0,1,0,0,0,MUN,2,19/09/2020,DEF,False
+"Schlupp  Jeffrey Schlupp (Crystal Palace, Midfielder)",CRY,5.5,1,75,0,1,0,1,0,1,1,0,0,0,0,MUN,2,19/09/2020,MID,False
+"Townsend (Andros)  Andros Townsend (Crystal Palace, Midfielder)",CRY,5.5,1,90,0,0,1,0,0,0,0,1,0,0,0,MUN,2,19/09/2020,MID,False
+"Ward (Joel)  Joel Ward (Crystal Palace, Defender)",CRY,4.5,1,90,0,0,0,0,0,0,0,1,0,1,0,MUN,2,19/09/2020,DEF,False
+"Zaha  Wilfried Zaha (Crystal Palace, Midfielder)",CRY,7.0,1,90,0,0,2,0,0,0,0,1,0,0,0,MUN,2,19/09/2020,MID,False
+"Bruno Fernandes  Bruno Miguel Borges Fernandes (Manchester United, Midfielder)",MUN,12.0,1,90,0,0,0,0,0,0,0,3,0,0,0,CRY,2,19/09/2020,MID,True
+"De Gea  David De Gea (Manchester United, Goalkeeper)",MUN,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,CRY,2,19/09/2020,GKP,True
+"Fosu-Mensah  Timothy Fosu-Mensah (Manchester United, Defender)",MUN,4.3,1,81,0,1,0,0,0,0,0,2,0,1,0,CRY,2,19/09/2020,DEF,True
+"Greenwood (Mason)  Mason Greenwood (Manchester United, Midfielder)",MUN,7.5,0,45,1,0,0,0,0,0,0,2,0,0,0,CRY,2,19/09/2020,MID,True
+"Ighalo  Odion Ighalo (Manchester United, Forward)",MUN,6.1,0,9,1,0,0,0,0,0,0,1,0,0,0,CRY,2,19/09/2020,FWD,True
+"James (Daniel)  Daniel James (Manchester United, Midfielder)",MUN,6.0,1,45,0,1,0,0,0,0,0,1,0,0,0,CRY,2,19/09/2020,MID,True
+"Maguire (Harry)  Harry Maguire (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,0,3,0,1,0,CRY,2,19/09/2020,DEF,True
+"Martial  Anthony Martial (Manchester United, Forward)",MUN,8.0,1,90,0,0,0,0,0,0,0,3,0,0,0,CRY,2,19/09/2020,FWD,True
+"McTominay  Scott McTominay (Manchester United, Midfielder)",MUN,5.5,1,90,0,0,0,0,0,0,0,3,0,0,0,CRY,2,19/09/2020,MID,True
+"Lindelof  Victor Nilsson-Lindelof (Manchester United, Defender)",MUN,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,CRY,2,19/09/2020,DEF,True
+"Pogba  Paul Pogba (Manchester United, Midfielder)",MUN,7.5,1,67,0,1,0,0,0,0,0,1,0,0,0,CRY,2,19/09/2020,MID,True
+"Rashford  Marcus Rashford (Manchester United, Midfielder)",MUN,9.5,1,90,0,0,0,0,0,0,0,3,0,0,0,CRY,2,19/09/2020,MID,True
+"Shaw  Luke Shaw (Manchester United, Defender)",MUN,5.5,1,90,0,0,0,0,0,0,0,3,0,0,0,CRY,2,19/09/2020,DEF,True
+"van de Beek  Donny van de Beek (Manchester United, Midfielder)",MUN,6.0,0,23,1,0,1,0,0,0,0,2,0,0,0,CRY,2,19/09/2020,MID,True

@@ -1,0 +1,29 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Almirón  Miguel Almirón (Newcastle United, Midfielder)",NEW,5.5,0,0.01,-0.01,9000.0,0,0.09,-0.09,1000.0,0.1,-0.1,900.0,25/10/2020
+"Joelinton  Joelinton Cássio Apolinário de Lira (Newcastle United, Forward)",NEW,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/10/2020
+"Carroll  Andy Carroll (Newcastle United, Forward)",NEW,5.1,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/10/2020
+"Darlow  Karl Darlow (Newcastle United, Goalkeeper)",NEW,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/10/2020
+"Fernández  Federico Fernández (Newcastle United, Defender)",NEW,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/10/2020
+"Fraser  Ryan Fraser (Newcastle United, Midfielder)",NEW,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/10/2020
+"Hendrick  Jeff Hendrick (Newcastle United, Midfielder)",NEW,5.0,0,0.01,-0.01,9000.0,0,0.03,-0.03,3000.0,0.04,-0.04,2250.0,25/10/2020
+"Lascelles  Jamaal Lascelles (Newcastle United, Defender)",NEW,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/10/2020
+"Lewis (Jamal)  Jamal Lewis (Newcastle United, Defender)",NEW,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/10/2020
+"Longstaff (Sean)  Sean Longstaff (Newcastle United, Midfielder)",NEW,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/10/2020
+"Jacob Murphy  Jacob Murphy (Newcastle United, Midfielder)",NEW,5.0,0,0.08,-0.08,1125.0,1,0.08,0.92,1125.0,0.16,0.84,562.5,25/10/2020
+"Saint-Maximin  Allan Saint-Maximin (Newcastle United, Midfielder)",NEW,6.5,0,0.01,-0.01,7900.0,0,0.03,-0.03,2633.3,0.04,-0.04,1975.0,25/10/2020
+"Schär  Fabian Schär (Newcastle United, Defender)",NEW,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/10/2020
+"C Wilson  Callum Wilson (Newcastle United, Forward)",NEW,7.5,0,0.11,-0.11,818.2,0,0.05,-0.05,1800.0,0.16,-0.16,562.5,25/10/2020
+"Boly  Willy Boly (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,25/10/2020
+"Coady  Conor Coady (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,25/10/2020
+"Dendoncker (Leander)  Leander Dendoncker (Wolverhampton Wanderers, Midfielder)",WOL,5.0,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,25/10/2020
+"Raúl Jiménez  Raul Alonso Jimenez Rodriguez (Wolverhampton Wanderers, Forward)",WOL,7.5,0,0.05,-0.05,1800.0,1,0.29,0.71,310.3,0.34,0.66,264.7,25/10/2020
+"Kilman  Max Kilman (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,25/10/2020
+"Marçal  Fernando Marçal de Oliveira (Wolverhampton Wanderers, Defender)",WOL,4.5,0,0.04,-0.04,550.0,0,0.04,-0.04,550.0,0.08,-0.08,275.0,25/10/2020
+"Moutinho  João Moutinho (Wolverhampton Wanderers, Midfielder)",WOL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/10/2020
+"Neto  Pedro Neto (Wolverhampton Wanderers, Midfielder)",WOL,6.5,0,0.06,-0.06,1500.0,0,0.2,-0.2,450.0,0.26,-0.26,346.2,25/10/2020
+"Podence  Daniel Podence (Wolverhampton Wanderers, Midfielder)",WOL,5.5,0,0.09,-0.09,755.6,0,0.13,-0.13,523.1,0.22,-0.22,309.1,25/10/2020
+"Saiss  Romain Saiss (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.02,-0.02,3400.0,0,0.0,0.0,inf,0.02,-0.02,3400.0,25/10/2020
+"Semedo  Nelson Semedo (Wolverhampton Wanderers, Defender)",WOL,5.0,0,0.04,-0.04,2250.0,0,0.0,0.0,inf,0.04,-0.04,2250.0,25/10/2020
+"Traoré  Adama Traoré (Wolverhampton Wanderers, Midfielder)",WOL,6.0,0,0.01,-0.01,2200.0,0,0.0,0.0,inf,0.01,-0.01,2200.0,25/10/2020
+"Ruben Neves  Rúben Diogo da Silva Neves (Wolverhampton Wanderers, Midfielder)",WOL,5.5,0,0.05,-0.05,1660.0,0,0.05,-0.05,1660.0,0.1,-0.1,830.0,25/10/2020
+"Rui Patrício  Rui Pedro dos Santos Patrício (Wolverhampton Wanderers, Goalkeeper)",WOL,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,25/10/2020

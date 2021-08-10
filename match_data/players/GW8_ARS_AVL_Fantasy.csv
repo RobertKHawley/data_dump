@@ -1,0 +1,27 @@
+Name,Team,Cost,Starts,Mins,On,Off,G,A,FA,TA,CS,GC,OG,PL YC,PL RC,Vs,GW,date,Position,Home
+"Aubameyang  Pierre-Emerick Aubameyang (Arsenal, Midfielder)",ARS,10.0,1,90,0,0,0,0,0,0,0,3,0,0,0,AVL,8,08/11/2020,MID,True
+"Bellerín  Héctor Bellerín (Arsenal, Defender)",ARS,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,AVL,8,08/11/2020,DEF,True
+"Willian  Willian Borges Da Silva (Arsenal, Midfielder)",ARS,6.5,1,65,0,1,0,0,0,0,0,1,0,0,0,AVL,8,08/11/2020,MID,True
+"Dani Ceballos  Daniel Ceballos Fernández (Arsenal, Midfielder)",ARS,4.7,0,45,1,0,0,0,0,0,0,2,0,0,0,AVL,8,08/11/2020,MID,True
+"Elneny  Mohamed Elneny (Arsenal, Midfielder)",ARS,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,AVL,8,08/11/2020,MID,True
+"Holding  Rob Holding (Arsenal, Defender)",ARS,4.5,1,90,0,0,0,0,0,0,0,3,0,0,0,AVL,8,08/11/2020,DEF,True
+"Lacazette  Alexandre Lacazette (Arsenal, Forward)",ARS,8.5,1,65,0,1,0,0,0,0,0,1,0,0,0,AVL,8,08/11/2020,FWD,True
+"Leno  Bernd Leno (Arsenal, Goalkeeper)",ARS,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,AVL,8,08/11/2020,GKP,True
+"Eddie Nketiah  Edward Nketiah (Arsenal, Forward)",ARS,5.5,0,25,1,0,0,0,0,0,0,2,0,0,0,AVL,8,08/11/2020,FWD,True
+"Partey  Thomas Partey (Arsenal, Midfielder)",ARS,5.0,1,45,0,1,0,0,0,0,0,1,0,0,0,AVL,8,08/11/2020,MID,True
+"Pepe  Nicolas Pepe (Arsenal, Midfielder)",ARS,7.5,0,25,1,0,0,0,0,0,0,2,0,0,0,AVL,8,08/11/2020,MID,True
+"Saka  Bukayo Saka (Arsenal, Midfielder)",ARS,6.5,1,90,0,0,0,0,0,0,0,3,1,0,0,AVL,8,08/11/2020,MID,True
+"Tierney  Kieran Tierney (Arsenal, Defender)",ARS,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,AVL,8,08/11/2020,DEF,True
+"Gabriel Magalhães  Gabriel dos Santos Magalhães (Arsenal, Defender)",ARS,5.0,1,90,0,0,0,0,0,0,0,3,0,0,0,AVL,8,08/11/2020,DEF,True
+"Barkley  Ross Barkley (Aston Villa, Midfielder)",AVL,5.5,1,90,0,0,0,1,0,1,1,0,0,0,0,ARS,8,08/11/2020,MID,False
+"Cash  Matthew Cash (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,ARS,8,08/11/2020,DEF,False
+"El Ghazi  Anwar El Ghazi (Aston Villa, Midfielder)",AVL,6.0,0,2,1,0,0,0,0,0,0,0,0,0,0,ARS,8,08/11/2020,MID,False
+"Grealish  Jack Grealish (Aston Villa, Midfielder)",AVL,8.0,1,90,0,0,0,1,0,1,1,0,0,0,0,ARS,8,08/11/2020,MID,False
+"Trezeguet  Mahmoud Hassan (Aston Villa, Midfielder)",AVL,5.5,1,88,0,1,0,0,0,0,1,0,0,0,0,ARS,8,08/11/2020,MID,False
+"Konsa Ngoyo  Ezri Konsa Ngoyo (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,ARS,8,08/11/2020,DEF,False
+"Martinez  Emiliano Martinez (Aston Villa, Goalkeeper)",AVL,5.5,1,90,0,0,0,0,0,0,1,0,0,0,0,ARS,8,08/11/2020,GKP,False
+"McGinn  John McGinn (Aston Villa, Midfielder)",AVL,6.0,1,90,0,0,0,0,0,0,1,0,0,0,0,ARS,8,08/11/2020,MID,False
+"Mings  Tyrone Mings (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,0,0,1,0,0,0,0,ARS,8,08/11/2020,DEF,False
+"Douglas Luiz  Douglas Luiz Soares de Paulo (Aston Villa, Midfielder)",AVL,4.5,1,90,0,0,0,0,0,0,1,0,0,0,0,ARS,8,08/11/2020,MID,False
+"Targett  Matt Targett (Aston Villa, Defender)",AVL,5.0,1,90,0,0,0,0,1,1,1,0,0,0,0,ARS,8,08/11/2020,DEF,False
+"Watkins  Ollie Watkins (Aston Villa, Forward)",AVL,7.5,1,90,0,0,2,0,0,0,1,0,0,0,0,ARS,8,08/11/2020,FWD,False

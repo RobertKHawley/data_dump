@@ -1,0 +1,27 @@
+Name,Team,Cost,A,xA,Δ,Mins/xA,G,xG,Δ.1,Mins/xG,xGI,Δ.2,Mins/xGI,date
+"Benson  Josh Benson (Burnley, Midfielder)",BUR,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/02/2021
+"Gudmundsson  Johann Berg Gudmundsson (Burnley, Midfielder)",BUR,5.5,0,0.01,-0.01,9000.0,0,0.02,-0.02,4500.0,0.03,-0.03,3000.0,03/02/2021
+"Cork  Jack Cork (Burnley, Midfielder)",BUR,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/02/2021
+"Lowton  Matthew Lowton (Burnley, Defender)",BUR,4.5,0,0.07,-0.07,1285.7,0,0.0,0.0,inf,0.07,-0.07,1285.7,03/02/2021
+"McNeil  Dwight McNeil (Burnley, Midfielder)",BUR,6.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,03/02/2021
+"Mee  Ben Mee (Burnley, Defender)",BUR,5.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/02/2021
+"Mumbongo  Joel Mumbongo (Burnley, Forward)",BUR,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/02/2021
+"Pieters  Erik Pieters (Burnley, Defender)",BUR,4.5,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,03/02/2021
+"Pope  Nick Pope (Burnley, Goalkeeper)",BUR,5.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/02/2021
+"Rodriguez  Jay Rodriguez (Burnley, Forward)",BUR,5.5,0,0.01,-0.01,7700.0,0,0.0,0.0,inf,0.01,-0.01,7700.0,03/02/2021
+"Stephens (Dale)  Dale Stephens (Burnley, Midfielder)",BUR,4.5,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/02/2021
+"Tarkowski  James Tarkowski (Burnley, Defender)",BUR,5.0,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,03/02/2021
+"Vydra  Matej Vydra (Burnley, Forward)",BUR,5.5,0,0.03,-0.03,3000.0,0,0.05,-0.05,1800.0,0.08,-0.08,1125.0,03/02/2021
+"Westwood  Ashley Roy Westwood (Burnley, Midfielder)",BUR,5.5,0,0.03,-0.03,2700.0,0,0.0,0.0,inf,0.03,-0.03,2700.0,03/02/2021
+"João Cancelo  João Pedro Cavaco Cancelo (Manchester City, Defender)",MCI,6.0,0,0.08,-0.08,800.0,0,0.17,-0.17,376.5,0.25,-0.25,256.0,03/02/2021
+"Rúben Dias  Rúben Santos Gato Alves Dias (Manchester City, Defender)",MCI,6.0,0,0.01,-0.01,9000.0,0,0.0,0.0,inf,0.01,-0.01,9000.0,03/02/2021
+"Gündogan  Ilkay Gündogan (Manchester City, Midfielder)",MCI,7.5,1,0.67,0.33,134.3,0,0.03,-0.03,3000.0,0.7,0.3,128.6,03/02/2021
+"Rodri  Rodrigo Hernández Cascante (Manchester City, Midfielder)",MCI,5.5,0,0.05,-0.05,1800.0,0,0.0,0.0,inf,0.05,-0.05,1800.0,03/02/2021
+"Laporte  Aymeric Laporte (Manchester City, Defender)",MCI,5.5,0,0.02,-0.02,4500.0,0,0.0,0.0,inf,0.02,-0.02,4500.0,03/02/2021
+"Mahrez  Riyad Mahrez (Manchester City, Midfielder)",MCI,9.0,0,0.36,-0.36,250.0,0,0.04,-0.04,2250.0,0.4,-0.4,225.0,03/02/2021
+"Ederson  Ederson Santana de Moraes (Manchester City, Goalkeeper)",MCI,6.0,0,0.0,0.0,inf,0,0.0,0.0,inf,0.0,0.0,inf,03/02/2021
+"Sterling  Raheem Sterling (Manchester City, Midfielder)",MCI,11.0,0,0.13,-0.13,692.3,1,1.09,-0.09,82.6,1.22,-0.22,73.8,03/02/2021
+"Stones  John Stones (Manchester City, Defender)",MCI,5.5,0,0.03,-0.03,3000.0,0,0.0,0.0,inf,0.03,-0.03,3000.0,03/02/2021
+"Bernardo Silva  Bernardo Mota Veiga de Carvalho e Silva (Manchester City, Midfielder)",MCI,7.0,0,0.06,-0.06,1500.0,0,0.1,-0.1,900.0,0.16,-0.16,562.5,03/02/2021
+"Zinchenko  Oleksandr Zinchenko (Manchester City, Defender)",MCI,5.5,0,0.01,-0.01,2600.0,0,0.0,0.0,inf,0.01,-0.01,2600.0,03/02/2021
+"Jesus  Gabriel Fernando de Jesus (Manchester City, Forward)",MCI,8.5,0,0.03,-0.03,3000.0,1,0.62,0.38,145.2,0.65,0.35,138.5,03/02/2021
