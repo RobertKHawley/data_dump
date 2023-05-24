@@ -1,0 +1,387 @@
+{
+    "basics": {
+        "name": "Robert Hawley",
+        "email": "robertkhawley@gmail.com",
+        "phone": "+44 7415 773536",
+        "photo": {
+            "url": "",
+            "filters": {
+                "size": 128,
+                "shape": "square",
+                "border": false,
+                "grayscale": false
+            },
+            "visible": true
+        },
+        "summary": "A proficient data analyst and developer with a strong foundation in Python and SQL. I bring a unique blend of academic, professional, and project-based experience. My work as a DevOps Engineer, coupled with an ongoing personal project leveraging data from football matches, showcases my practical application of data. With a first-class master's degree in physics, I am well-equipped to tackle complex analytical challenges.",
+        "website": "",
+        "headline": "",
+        "location": {
+            "city": "Bradford",
+            "region": "",
+            "address": "",
+            "country": "United Kingdom",
+            "postalCode": ""
+        },
+        "profiles": [
+            {
+                "id": "ddfbb33c-56cc-4035-8682-1ab6c90fa7c7",
+                "url": "https://www.linkedin.com/in/robertkhawley/",
+                "network": "LinkedIn",
+                "username": "robertkhawley"
+            }
+        ],
+        "birthdate": "1996-10-09"
+    },
+    "sections": {
+        "work": {
+            "id": "work",
+            "name": "Work Experience",
+            "type": "work",
+            "items": [
+                {
+                    "id": "76e6eafb-81ba-4e58-82b5-f05899265096",
+                    "url": "https://c365cloud.co.uk/",
+                    "date": {
+                        "end": "2022-03-16",
+                        "start": "2021-08-16"
+                    },
+                    "name": "C365Cloud",
+                    "summary": "- Built and maintained various SSRS dashboards as requested by clients to fulfil their **business intelligence** needs.\n- Successfully **integrated** new clients' legacy **data** into the company system.\n- **Automated** workflow using scripts, such as the recovery of cryptic data, which saved several hours of manual work and earned the trust of a new important client\n- **Collaborated** with cross-functional teams to ensure smooth implementation of the compliance management system.\n- Provided **technical support** and troubleshooting assistance to clients on system-related issues.",
+                    "position": "DevOps Engineer"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "awards": {
+            "id": "awards",
+            "name": "Awards",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "skills": {
+            "id": "skills",
+            "name": "Skills",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "0a14f7db-2d30-416f-92b6-5821546addb2",
+                    "name": "Python",
+                    "level": "",
+                    "keywords": [
+                        "NumPy",
+                        "Pandas",
+                        "SciKitLearn",
+                        "SciPy",
+                        "statsmodels",
+                        "xgboost",
+                        "BeautifulSoup",
+                        "Selenium",
+                        "Requests",
+                        "Matplotlib",
+                        "Cython",
+                        "Numba",
+                        "Flask"
+                    ],
+                    "levelNum": 8
+                },
+                {
+                    "id": "3d9b230e-663c-4aa4-b3f9-8ec333e89adb",
+                    "name": "SQL",
+                    "level": "",
+                    "keywords": [
+                        "T-SQL",
+                        "Dynamic"
+                    ],
+                    "levelNum": 8
+                },
+                {
+                    "id": "a43ec8b6-c724-4760-a7f0-7f3e0419c345",
+                    "name": "SSRS",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 8
+                },
+                {
+                    "id": "a22f0c0e-a900-496a-aefa-eb7fc31a0cf1",
+                    "name": "SSMS",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 7
+                },
+                {
+                    "id": "0b098678-f578-4186-b6ca-abfa9544115b",
+                    "name": "Excel",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 7
+                },
+                {
+                    "id": "5f9b371c-7feb-4469-b567-5103dc204c5a",
+                    "name": "MATLAB",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 7
+                },
+                {
+                    "id": "faab7a9e-773a-4d8b-9fe3-d4c8f5a85df3",
+                    "name": "Tableau",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 6
+                },
+                {
+                    "id": "f01347ab-58f2-492d-ac4a-70f0e3a7af58",
+                    "name": "C",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 6
+                },
+                {
+                    "id": "aa56a740-6d7c-4a95-834b-d1c44df6e491",
+                    "name": "Git",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 6
+                },
+                {
+                    "id": "03be0d42-6abd-4e2a-91b4-164daedf2e2f",
+                    "name": "WordPress",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 6
+                },
+                {
+                    "id": "89692b81-cdd8-43e6-82af-c2de19262c34",
+                    "name": "HTML",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 6
+                },
+                {
+                    "id": "a63d5400-b2aa-47ec-a2ca-bd9345b3631e",
+                    "name": "CSS",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 6
+                },
+                {
+                    "id": "18b0c6af-ab6d-4872-9add-73657279d592",
+                    "name": "JavaScript",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "1b107fd3-16ab-46ad-bee0-ac6b5bcb16cf",
+                    "name": "LaTeX",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 5
+                },
+                {
+                    "id": "cc1d2bdd-9450-46c9-b351-f8b5326b4bd1",
+                    "name": "AWS",
+                    "level": "",
+                    "keywords": [],
+                    "levelNum": 4
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "projects": {
+            "id": "projects",
+            "name": "Projects",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "f7667aa0-bdcd-44b8-b048-cb7e143e00a8",
+                    "url": "https://fplprophecy.com",
+                    "date": {
+                        "end": "",
+                        "start": "2021-08-01"
+                    },
+                    "name": "The FPL Prophecy",
+                    "summary": "- Blended official FPL API data with data scraped from two additional websites, employing Pandas in an **ETL** pipeline with a bespoke fuzzy matching algorithm and automatic data cleaning capabilities.\n- Trained and tested various **mathematical models** on historical data for forecasting upcoming fixtures and player contributions.\n- Developed a dynamic **web application** to assist FPL managers in making informed decisions.",
+                    "keywords": [],
+                    "description": "A Fantasy Premier League analytics project"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "education": {
+            "id": "education",
+            "name": "Education",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "2912cb6b-cd0e-4554-8111-89eabf3a756a",
+                    "url": "https://www.nottingham.ac.uk/physics/",
+                    "area": "Physics with Theoretical Physics",
+                    "date": {
+                        "end": "2019-07-17",
+                        "start": "2015-09-21"
+                    },
+                    "score": "First Class Honours",
+                    "degree": "Master of Science (MSci)",
+                    "courses": [],
+                    "summary": "- Specialised in **computational physics**, specifically using MATLAB to simulate accurate physical models for research purposes.\n- Completed a **collaborative** year-long research project, involving cooperative planning and **problem-solving**.\n- Scored an exceptional 85%+ in seven modules over the second and third years, demonstrating strong **analytical skills**.",
+                    "institution": "The University of Nottingham"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "interests": {
+            "id": "interests",
+            "name": "Interests",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "7d124e65-e508-4251-b5ee-e98ac36c0b1f",
+                    "name": "Poker",
+                    "keywords": []
+                },
+                {
+                    "id": "184723b0-b7d1-4e63-9b88-b88f7effdffc",
+                    "name": "Fantasy Premier League",
+                    "keywords": []
+                },
+                {
+                    "id": "5ef165a7-2748-48ed-858b-ac552e1d74c5",
+                    "name": "Travelling",
+                    "keywords": []
+                },
+                {
+                    "id": "c37ba776-1e1c-4be7-999f-5a5c4c3d135b",
+                    "name": "Football",
+                    "keywords": []
+                },
+                {
+                    "id": "31d57f4b-bd89-4b7b-a2d6-38a9d28c4a5d",
+                    "name": "Korfball",
+                    "keywords": []
+                }
+            ],
+            "columns": 2,
+            "visible": false
+        },
+        "languages": {
+            "id": "languages",
+            "name": "Languages",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "volunteer": {
+            "id": "volunteer",
+            "name": "Volunteer Experience",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "references": {
+            "id": "references",
+            "name": "References",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "publications": {
+            "id": "publications",
+            "name": "Publications",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "certifications": {
+            "id": "certifications",
+            "name": "Certifications",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "df135d9f-d1cb-498d-a235-63163ba68bd1": {
+            "name": "References",
+            "type": "custom",
+            "items": [
+                {
+                    "id": "6a63ba52-7459-4066-8440-d2a15e592c16",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "level": "",
+                    "title": "Available upon request.",
+                    "summary": "",
+                    "keywords": [],
+                    "levelNum": 0,
+                    "subtitle": ""
+                }
+            ],
+            "columns": 1,
+            "visible": false
+        }
+    },
+    "metadata": {
+        "css": {
+            "value": "/* Enter custom CSS here */\n\n\n\nstrong {\n    color: white;\n    font-weight: 1000;\n}",
+            "visible": true
+        },
+        "date": {
+            "format": "MMM YYYY"
+        },
+        "page": {
+            "format": "A4"
+        },
+        "theme": {
+            "text": "#ffffff",
+            "primary": "#1DB954",
+            "background": "#191414"
+        },
+        "layout": [
+            [
+                [
+                    "work",
+                    "education",
+                    "projects",
+                    "volunteer",
+                    "references"
+                ],
+                [
+                    "skills",
+                    "interests",
+                    "languages",
+                    "awards",
+                    "certifications",
+                    "publications",
+                    "df135d9f-d1cb-498d-a235-63163ba68bd1"
+                ]
+            ]
+        ],
+        "locale": "en",
+        "template": "gengar",
+        "typography": {
+            "size": {
+                "body": 14,
+                "heading": 28
+            },
+            "family": {
+                "body": "Open Sans",
+                "heading": "Open Sans"
+            }
+        }
+    },
+    "public": true
+}
