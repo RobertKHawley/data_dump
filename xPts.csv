@@ -1,35 +1,35 @@
 id,e_code,t_code,element_type,Team,Name,Pos,Price,34,35,36,37,38
-1,232223,3,4,Arsenal,Balogun,FWD,44,0.0,0.0,0.0,0.0,0.0
-2,58822,3,2,Arsenal,Cédric,DEF,38,0.0,0.0,0.0,0.0,0.0
-3,153256,3,3,Arsenal,M.Elneny,MID,44,0.0,0.0,0.1,0.1,0.1
-4,438098,3,3,Arsenal,Fábio Vieira,MID,54,0.3,0.4,0.5,0.6,0.7
-5,226597,3,2,Arsenal,Gabriel,DEF,54,3.9,3.3,4.3,3.4,4.0
-6,219847,3,3,Arsenal,Havertz,MID,74,3.8,3.4,4.2,3.6,3.8
+1,232223,3,4,Arsenal,Balogun,FWD,44,,0.0,0.0,0.0,0.0
+2,58822,3,2,Arsenal,Cédric,DEF,38,,0.0,0.0,0.0,0.0
+3,153256,3,3,Arsenal,M.Elneny,MID,44,,0.0,0.1,0.1,0.1
+4,438098,3,3,Arsenal,Fábio Vieira,MID,54,,0.4,0.5,0.6,0.7
+5,226597,3,2,Arsenal,Gabriel,DEF,54,,3.3,4.3,3.4,4.0
+6,219847,3,3,Arsenal,Havertz,MID,74,,3.4,4.2,3.6,3.8
 7,156074,31,2,Crystal Palace,Holding,DEF,43,2.1,1.7,1.2,1.0,0.5
-8,205651,3,4,Arsenal,G.Jesus,FWD,77,3.6,3.2,3.7,3.4,3.7
-9,85955,3,3,Arsenal,Jorginho,MID,53,1.4,1.3,1.5,1.3,1.4
-10,440854,3,2,Arsenal,Kiwior,DEF,43,0.9,1.0,1.2,1.2,1.3
-11,479683,3,3,Arsenal,Marquinhos,MID,45,0.0,0.0,0.0,0.0,0.0
-12,444145,3,3,Arsenal,Martinelli,MID,76,2.5,2.7,3.3,2.8,3.1
-13,205533,3,4,Arsenal,Nketiah,FWD,50,0.4,0.4,0.6,0.6,0.6
-14,184029,3,3,Arsenal,Ødegaard,MID,86,4.1,3.7,4.4,3.8,4.2
-15,167199,3,3,Arsenal,Thomas,MID,48,0.8,0.9,1.1,1.0,1.0
-16,195735,3,3,Arsenal,Pepe,MID,49,0.0,0.0,0.0,0.0,0.0
-17,225321,3,1,Arsenal,Ramsdale,GKP,45,0.2,0.3,0.3,0.4,0.3
-18,115918,3,1,Arsenal,Rúnarsson,GKP,40,0.0,0.0,0.0,0.0,0.0
-19,223340,3,3,Arsenal,Saka,MID,90,5.0,4.4,5.2,4.5,4.8
-20,462424,3,2,Arsenal,Saliba,DEF,59,3.3,2.8,3.6,2.9,3.5
+8,205651,3,4,Arsenal,G.Jesus,FWD,77,,3.2,3.7,3.4,3.7
+9,85955,3,3,Arsenal,Jorginho,MID,53,,1.3,1.5,1.3,1.4
+10,440854,3,2,Arsenal,Kiwior,DEF,43,,1.0,1.2,1.2,1.3
+11,479683,3,3,Arsenal,Marquinhos,MID,45,,0.0,0.0,0.0,0.0
+12,444145,3,3,Arsenal,Martinelli,MID,76,,2.7,3.3,2.8,3.1
+13,205533,3,4,Arsenal,Nketiah,FWD,50,,0.4,0.6,0.6,0.6
+14,184029,3,3,Arsenal,Ødegaard,MID,86,,3.7,4.4,3.8,4.2
+15,167199,3,3,Arsenal,Thomas,MID,48,,0.9,1.1,1.0,1.0
+16,195735,3,3,Arsenal,Pepe,MID,49,,0.0,0.0,0.0,0.0
+17,225321,3,1,Arsenal,Ramsdale,GKP,45,,0.3,0.3,0.4,0.3
+18,115918,3,1,Arsenal,Rúnarsson,GKP,40,,0.0,0.0,0.0,0.0
+19,223340,3,3,Arsenal,Saka,MID,90,,4.4,5.2,4.5,4.8
+20,462424,3,2,Arsenal,Saliba,DEF,59,,2.8,3.6,2.9,3.5
 21,437742,102,3,Luton,Sambi,MID,49,,0.8,1.7,1.9,1.9
-22,209289,3,3,Arsenal,Smith Rowe,MID,53,0.8,0.9,1.2,1.1,1.3
+22,209289,3,3,Arsenal,Smith Rowe,MID,53,,0.9,1.2,1.1,1.3
 23,437626,17,2,Nott'm Forest,Tavares,DEF,40,,0.4,0.6,0.5,0.6
-24,192895,3,2,Arsenal,Tierney,DEF,44,0.0,0.0,0.0,0.0,0.0
-25,223723,3,2,Arsenal,Tomiyasu,DEF,45,2.3,2.0,2.4,1.9,2.2
-26,116216,3,3,Arsenal,Trossard,MID,65,2.5,2.0,2.4,2.2,2.4
+24,192895,3,2,Arsenal,Tierney,DEF,44,,0.0,0.0,0.0,0.0
+25,223723,3,2,Arsenal,Tomiyasu,DEF,45,,2.0,2.4,1.9,2.2
+26,116216,3,3,Arsenal,Trossard,MID,65,,2.0,2.4,2.2,2.4
 27,201410,49,2,Sheffield Utd,Trusty,DEF,39,1.5,1.4,2.4,1.7,1.5
 28,224068,17,1,Nott'm Forest,Turner,GKP,38,,0.1,0.1,0.1,0.1
-29,198869,3,2,Arsenal,White,DEF,60,3.5,2.9,3.7,3.0,3.5
-30,84450,3,3,Arsenal,Xhaka,MID,60,0.0,0.0,0.0,0.0,0.0
-31,206325,3,2,Arsenal,Zinchenko,DEF,50,2.4,1.9,2.3,1.9,2.0
+29,198869,3,2,Arsenal,White,DEF,60,,2.9,3.7,3.0,3.5
+30,84450,3,3,Arsenal,Xhaka,MID,60,,0.0,0.0,0.0,0.0
+31,206325,3,2,Arsenal,Zinchenko,DEF,50,,1.9,2.3,1.9,2.0
 32,106468,7,2,Aston Villa,Alex Moreno,DEF,49,,0.0,0.5,1.4,1.8
 33,433979,49,4,Sheffield Utd,Archer,FWD,42,1.5,1.4,1.4,1.3,1.3
 34,215711,7,3,Aston Villa,Bailey,MID,55,,2.7,2.3,2.4,2.4
@@ -111,7 +111,7 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,34,35,36,37,38
 110,128295,94,3,Brentford,Nørgaard,MID,52,,2.6,2.9,2.6,2.7
 111,428580,94,3,Brentford,Onyeka,MID,49,,0.7,0.9,1.0,1.0
 112,231065,94,2,Brentford,Pinnock,DEF,45,,2.1,3.5,2.7,2.7
-113,154561,3,1,Arsenal,Raya,GKP,52,3.8,3.6,3.9,3.6,3.8
+113,154561,3,1,Arsenal,Raya,GKP,52,,3.6,3.9,3.6,3.8
 114,226956,94,2,Brentford,Roerslev,DEF,44,,1.7,1.4,0.9,1.1
 115,513418,94,3,Brentford,Schade,MID,52,,0.4,0.4,0.4,0.4
 116,140200,94,1,Brentford,Strakosha,GKP,39,,0.1,0.1,0.2,0.2
@@ -124,7 +124,7 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,34,35,36,37,38
 123,235382,36,3,Brighton,Alzate,MID,44,0.0,0.0,0.0,0.0,0.0
 124,509416,36,3,Brighton,Ayari,MID,45,0.0,0.0,0.0,0.0,0.0
 125,536916,36,3,Brighton,Buonanotte,MID,47,1.3,1.4,1.6,2.6,1.3
-126,486672,8,3,Chelsea,Caicedo,MID,45,1.8,3.2,2.0,3.9,2.0
+126,486672,8,3,Chelsea,Caicedo,MID,45,,3.2,2.0,3.9,2.0
 127,233425,36,4,Brighton,Connolly,FWD,45,0.0,0.0,0.0,0.0,0.0
 128,168090,36,3,Brighton,Dahoud,MID,48,0.0,0.0,0.0,0.0,0.0
 129,83299,36,2,Brighton,Dunk,DEF,52,2.2,2.9,3.2,5.4,3.1
@@ -143,7 +143,7 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,34,35,36,37,38
 142,15157,36,3,Brighton,Milner,MID,48,0.7,0.9,1.2,2.3,1.3
 143,451340,36,3,Brighton,Mitoma,MID,64,0.0,0.0,0.0,0.6,1.6
 144,243505,36,3,Brighton,Moder,MID,44,1.6,1.8,1.6,2.9,1.5
-145,215059,8,1,Chelsea,Sanchez,GKP,45,0.1,0.6,0.4,0.9,0.6
+145,215059,8,1,Chelsea,Sanchez,GKP,45,,0.6,0.4,0.9,0.6
 146,441192,36,3,Brighton,Sarmiento,MID,45,0.0,0.0,0.0,0.0,0.0
 147,240514,36,1,Brighton,Scherpen,GKP,40,0.0,0.0,0.0,0.0,0.0
 148,49262,36,1,Brighton,Steele,GKP,41,0.4,0.4,0.5,1.1,0.5
@@ -183,40 +183,40 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,34,35,36,37,38
 182,441455,90,2,Burnley,Vitinho,DEF,44,,1.6,1.9,1.6,2.4
 183,120202,90,4,Burnley,Weghorst,FWD,55,,0.0,0.0,0.0,0.0
 184,511783,90,3,Burnley,Zaroury,MID,46,,0.0,0.0,0.0,0.0
-185,199598,8,2,Chelsea,Ampadu,DEF,40,0.0,0.0,0.0,0.0,0.0
-186,532605,8,3,Chelsea,Andrey,MID,42,0.0,0.0,0.0,0.0,0.0
-187,109745,8,1,Chelsea,Arrizabalaga,GKP,50,0.0,0.0,0.0,0.0,0.0
-188,54694,8,4,Chelsea,Aubameyang,FWD,65,0.0,0.0,0.0,0.0,0.0
-189,41328,8,2,Chelsea,Azpilicueta,DEF,45,0.0,0.0,0.0,0.0,0.0
-190,118335,8,2,Chelsea,Baba,DEF,40,0.0,0.0,0.0,0.0,0.0
-191,242880,8,2,Chelsea,B.Badiashile,DEF,44,1.4,2.8,1.5,2.5,1.5
-192,122074,8,1,Chelsea,Bettinelli,GKP,40,0.0,0.0,0.0,0.0,0.0
+185,199598,8,2,Chelsea,Ampadu,DEF,40,,0.0,0.0,0.0,0.0
+186,532605,8,3,Chelsea,Andrey,MID,42,,0.0,0.0,0.0,0.0
+187,109745,8,1,Chelsea,Arrizabalaga,GKP,50,,0.0,0.0,0.0,0.0
+188,54694,8,4,Chelsea,Aubameyang,FWD,65,,0.0,0.0,0.0,0.0
+189,41328,8,2,Chelsea,Azpilicueta,DEF,45,,0.0,0.0,0.0,0.0
+190,118335,8,2,Chelsea,Baba,DEF,40,,0.0,0.0,0.0,0.0
+191,242880,8,2,Chelsea,B.Badiashile,DEF,44,,2.8,1.5,2.5,1.5
+192,122074,8,1,Chelsea,Bettinelli,GKP,40,,0.0,0.0,0.0,0.0
 193,440323,54,4,Fulham,Broja,FWD,49,,0.4,0.5,0.4,0.6
-194,180736,8,2,Chelsea,Chalobah,DEF,43,0.9,1.8,0.9,1.6,1.0
-195,172850,8,2,Chelsea,Chilwell,DEF,54,1.5,4.8,2.5,3.9,2.3
-196,478912,8,3,Chelsea,Chukwuemeka,MID,42,0.8,1.7,0.7,1.2,0.7
-197,460028,8,2,Chelsea,Colwill,DEF,46,0.3,2.7,2.5,4.4,2.6
-198,179268,8,2,Chelsea,Cucurella,DEF,48,1.1,1.8,0.7,1.3,0.7
-199,448047,8,3,Chelsea,Enzo,MID,48,2.0,6.1,3.3,5.6,3.2
+194,180736,8,2,Chelsea,Chalobah,DEF,43,,1.8,0.9,1.6,1.0
+195,172850,8,2,Chelsea,Chilwell,DEF,54,,4.8,2.5,3.9,2.3
+196,478912,8,3,Chelsea,Chukwuemeka,MID,42,,1.7,0.7,1.2,0.7
+197,460028,8,2,Chelsea,Colwill,DEF,46,,2.7,2.5,4.4,2.6
+198,179268,8,2,Chelsea,Cucurella,DEF,48,,1.8,0.7,1.3,0.7
+199,448047,8,3,Chelsea,Enzo,MID,48,,6.1,3.3,5.6,3.2
 200,520295,90,4,Burnley,D.D.Fofana,FWD,50,,3.3,3.4,3.0,3.3
-201,444463,8,2,Chelsea,W.Fofana,DEF,44,0.0,0.0,0.0,0.0,0.0
-202,232787,8,3,Chelsea,Gallagher,MID,54,2.1,5.0,2.7,4.6,2.6
-203,482609,8,2,Chelsea,Gusto,DEF,43,2.0,5.0,2.9,4.1,2.0
+201,444463,8,2,Chelsea,W.Fofana,DEF,44,,0.0,0.0,0.0,0.0
+202,232787,8,3,Chelsea,Gallagher,MID,54,,5.0,2.7,4.6,2.6
+203,482609,8,2,Chelsea,Gusto,DEF,43,,5.0,2.9,4.1,2.0
 204,487838,4,2,Newcastle,Hall,DEF,42,1.6,2.0,1.3,1.2,0.5
 205,209046,17,3,Nott'm Forest,Hudson-Odoi,MID,47,,1.8,2.1,2.0,2.0
-206,225796,8,2,Chelsea,James,DEF,53,0.0,0.5,0.9,2.9,2.3
-207,66749,8,4,Chelsea,Lukaku,FWD,68,0.0,0.0,0.0,0.0,0.0
-208,248857,8,3,Chelsea,Madueke,MID,53,1.0,1.9,0.8,1.4,0.9
+206,225796,8,2,Chelsea,James,DEF,53,,0.5,0.9,2.9,2.3
+207,66749,8,4,Chelsea,Lukaku,FWD,68,,0.0,0.0,0.0,0.0
+208,248857,8,3,Chelsea,Madueke,MID,53,,1.9,0.8,1.4,0.9
 209,184341,1,3,Man Utd,Mount,MID,68,0.6,0.9,1.0,2.3,1.2
-210,465920,8,3,Chelsea,Mudryk,MID,63,1.7,4.2,1.9,3.4,1.9
-211,517052,8,4,Chelsea,N.Jackson,FWD,68,3.5,7.9,4.8,7.9,4.7
-212,213198,8,4,Chelsea,Nkunku,FWD,72,0.4,3.8,3.0,5.6,3.2
-213,176413,8,3,Chelsea,Pulisic,MID,55,0.0,0.0,0.0,0.0,0.0
-214,204727,8,2,Chelsea,M.Sarr,DEF,43,0.0,0.0,0.0,0.0,0.0
-215,471798,8,1,Chelsea,Slonina,GKP,40,0.0,0.0,0.0,0.0,0.0
-216,103955,8,3,Chelsea,Sterling,MID,68,2.0,5.1,2.6,4.1,2.5
-217,51090,8,2,Chelsea,T.Silva,DEF,50,1.8,4.3,2.6,4.2,2.4
-218,124183,8,3,Chelsea,Ziyech,MID,54,0.0,0.0,0.0,0.0,0.0
+210,465920,8,3,Chelsea,Mudryk,MID,63,,4.2,1.9,3.4,1.9
+211,517052,8,4,Chelsea,N.Jackson,FWD,68,,7.9,4.8,7.9,4.7
+212,213198,8,4,Chelsea,Nkunku,FWD,72,,3.8,3.0,5.6,3.2
+213,176413,8,3,Chelsea,Pulisic,MID,55,,0.0,0.0,0.0,0.0
+214,204727,8,2,Chelsea,M.Sarr,DEF,43,,0.0,0.0,0.0,0.0
+215,471798,8,1,Chelsea,Slonina,GKP,40,,0.0,0.0,0.0,0.0
+216,103955,8,3,Chelsea,Sterling,MID,68,,5.1,2.6,4.1,2.5
+217,51090,8,2,Chelsea,T.Silva,DEF,50,,4.3,2.6,4.2,2.4
+218,124183,8,3,Chelsea,Ziyech,MID,54,,0.0,0.0,0.0,0.0
 219,466117,31,3,Crystal Palace,Ahamada,MID,43,0.1,0.1,0.1,0.1,0.1
 220,174874,31,2,Crystal Palace,Andersen,DEF,47,2.4,2.7,2.6,2.8,2.7
 221,80146,31,3,Crystal Palace,J.Ayew,MID,54,2.1,1.9,2.0,1.8,1.8
@@ -360,7 +360,7 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,34,35,36,37,38
 359,103025,43,3,Man City,Mahrez,MID,75,0.0,0.0,0.0,0.0,0.0
 360,432714,49,3,Sheffield Utd,McAtee,MID,44,2.4,2.1,1.8,1.5,1.3
 361,88248,43,1,Man City,Ortega Moreno,GKP,37,0.1,0.2,0.2,0.6,0.3
-362,244851,8,3,Chelsea,Palmer,MID,62,3.3,8.9,5.0,8.1,4.8
+362,244851,8,3,Chelsea,Palmer,MID,62,,8.9,5.0,8.1,4.8
 363,482769,43,3,Man City,Perrone,MID,44,0.0,0.0,0.0,0.0,0.0
 364,155405,21,3,West Ham,Phillips,MID,47,,0.5,0.5,0.8,0.0
 365,220566,43,3,Man City,Rodrigo,MID,56,2.7,2.8,3.1,5.4,3.0
@@ -413,7 +413,7 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,34,35,36,37,38
 412,232826,4,3,Newcastle,Gordon,MID,61,3.6,4.7,3.9,7.4,3.5
 413,153127,4,3,Newcastle,Hayden,MID,44,0.0,0.0,0.0,0.0,0.0
 414,83314,4,3,Newcastle,Hendrick,MID,44,0.0,0.0,0.0,0.0,0.0
-415,219168,4,4,Newcastle,Isak,FWD,80,3.7,4.8,3.9,7.1,3.1
+415,219168,4,4,Newcastle,Isak,FWD,81,3.7,4.8,3.9,7.1,3.1
 416,180974,4,3,Newcastle,Joelinton,MID,58,0.0,0.0,0.0,0.5,1.2
 417,111773,4,2,Newcastle,Krafth,DEF,44,2.4,2.7,1.9,2.8,1.4
 418,564510,4,3,Newcastle,Kuol,MID,45,0.0,0.0,0.0,0.0,0.0
@@ -538,7 +538,7 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,34,35,36,37,38
 537,201057,21,2,West Ham,Kehrer,DEF,42,,0.0,0.0,0.0,0.0
 538,487837,21,4,West Ham,Mubama,FWD,41,,0.1,0.1,0.2,0.1
 539,224024,21,3,West Ham,L.Paquetá,MID,60,,3.0,2.9,3.8,2.4
-540,204480,3,3,Arsenal,Rice,MID,55,2.8,2.6,2.8,2.6,2.7
+540,204480,3,3,Arsenal,Rice,MID,55,,2.6,2.8,2.6,2.7
 541,195899,21,4,West Ham,Scamacca,FWD,60,,0.0,0.0,0.0,0.0
 542,215439,21,3,West Ham,Souček,MID,49,,2.8,2.7,3.5,2.4
 543,180151,21,3,West Ham,Vlašić,MID,45,,0.0,0.0,0.0,0.0
@@ -576,18 +576,18 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,34,35,36,37,38
 575,108796,102,2,Luton,Lockyer,DEF,42,,0.0,0.0,0.0,0.0
 576,83427,49,2,Sheffield Utd,Robinson,DEF,43,0.3,0.9,2.7,2.0,2.1
 577,40669,21,2,West Ham,Ogbonna,DEF,42,,0.1,0.2,0.3,0.2
-578,200641,3,3,Arsenal,Nelson,MID,48,0.2,0.2,0.3,0.3,0.4
+578,200641,3,3,Arsenal,Nelson,MID,48,,0.2,0.3,0.3,0.4
 579,11948,11,1,Everton,Lonergan,GKP,39,0.0,0.0,0.0,0.0,0.0
 580,104542,4,1,Newcastle,Karius,GKP,39,0.0,0.0,0.0,0.0,0.0
 581,106618,4,2,Newcastle,Dummett,DEF,39,0.7,0.6,0.4,0.5,0.3
 582,104047,102,3,Luton,Mpanzu,MID,46,,1.7,1.0,0.7,0.6
 583,235674,6,3,Spurs,Solomon,MID,51,,0.0,0.0,0.0,0.0
 584,244954,7,2,Aston Villa,Pau,DEF,46,,2.6,2.0,1.9,2.8
-585,445122,3,2,Arsenal,J.Timber,DEF,46,0.0,0.2,0.7,1.1,1.7
+585,445122,3,2,Arsenal,J.Timber,DEF,46,,0.2,0.7,1.1,1.7
 586,222677,102,3,Luton,Chong,MID,45,,2.4,2.2,2.0,2.0
 587,504198,49,3,Sheffield Utd,Slimane,MID,47,0.3,0.4,0.3,0.3,0.3
 588,18892,11,2,Everton,Young,DEF,44,1.3,1.7,1.8,2.3,1.1
-589,518620,8,3,Chelsea,Ângelo,MID,50,0.0,0.0,0.0,0.0,0.0
+589,518620,8,3,Chelsea,Ângelo,MID,50,,0.0,0.0,0.0,0.0
 590,430871,39,4,Wolves,Cunha,FWD,56,0.8,2.9,2.3,3.0,2.7
 591,47431,54,3,Fulham,Willian,MID,53,,3.2,2.9,2.5,3.3
 592,432990,49,2,Sheffield Utd,Larouci,DEF,43,1.3,1.1,1.4,1.1,0.9
@@ -607,10 +607,10 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,34,35,36,37,38
 606,223434,36,2,Brighton,Igor,DEF,43,1.6,1.7,1.7,3.0,1.7
 607,215531,91,1,Bournemouth,Radu,GKP,43,0.0,0.0,0.0,0.0,0.0
 608,179458,90,3,Burnley,Bruun Larsen,MID,48,,2.6,2.8,2.4,2.8
-609,441302,8,3,Chelsea,Maatsen,MID,51,0.0,0.0,0.0,0.0,0.0
+609,441302,8,3,Chelsea,Maatsen,MID,51,,0.0,0.0,0.0,0.0
 610,232892,54,2,Fulham,Bassey,DEF,44,,2.9,1.9,1.6,2.4
-611,220362,8,2,Chelsea,Disasi,DEF,49,1.4,5.0,2.9,4.8,2.8
-613,503714,8,3,Chelsea,Ugochukwu,MID,44,0.0,0.0,0.0,0.1,0.1
+611,220362,8,2,Chelsea,Disasi,DEF,49,,5.0,2.9,4.8,2.8
+613,503714,8,3,Chelsea,Ugochukwu,MID,44,,0.0,0.0,0.1,0.1
 614,54738,102,1,Luton,Kaminski,GKP,45,,3.7,3.7,3.7,3.7
 615,536694,31,3,Crystal Palace,Matheus França,MID,48,0.0,0.0,0.0,0.0,0.0
 616,477424,43,2,Man City,Gvardiol,DEF,49,2.6,3.1,3.2,5.5,3.1
@@ -620,7 +620,7 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,34,35,36,37,38
 620,501284,94,3,Brentford,Olakigbe,MID,45,,0.0,0.0,0.0,0.0
 621,532529,36,3,Brighton,Hinshelwood,MID,45,0.0,0.0,0.0,0.0,0.0
 622,461567,90,2,Burnley,Dodgson,DEF,40,,0.0,0.0,0.0,0.0
-623,534392,8,4,Chelsea,Burstow,FWD,45,0.0,0.0,0.0,0.0,0.0
+623,534392,8,4,Chelsea,Burstow,FWD,45,,0.0,0.0,0.0,0.0
 624,461421,11,3,Everton,Dobbin,MID,45,0.0,0.0,0.1,0.1,0.1
 625,547686,54,2,Fulham,De Fougerolles,DEF,39,,0.0,0.0,0.0,0.0
 626,441428,14,2,Liverpool,Quansah,DEF,40,1.8,1.6,1.7,1.4,1.8
@@ -643,7 +643,7 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,34,35,36,37,38
 643,232980,91,2,Bournemouth,Aarons,DEF,44,0.7,1.0,0.7,1.1,0.9
 644,503139,91,3,Bournemouth,Scott,MID,49,1.1,1.1,1.0,1.1,0.9
 645,491012,11,4,Everton,Y. Chermiti,FWD,48,0.1,0.0,0.1,0.1,0.0
-646,463748,3,1,Arsenal,Hein,GKP,40,0.0,0.0,0.0,0.0,0.0
+646,463748,3,1,Arsenal,Hein,GKP,40,,0.0,0.0,0.0,0.0
 647,447879,21,1,West Ham,Anang,GKP,40,,0.0,0.0,0.0,0.0
 648,552030,102,2,Luton,Francis-Clarke,DEF,40,,0.0,0.0,0.0,0.0
 649,461416,11,4,Everton,Cannon,FWD,45,0.0,0.0,0.0,0.0,0.0
@@ -656,7 +656,7 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,34,35,36,37,38
 656,487836,49,4,Sheffield Utd,Hackford,FWD,44,0.0,0.0,0.0,0.0,0.0
 657,450542,31,3,Crystal Palace,Rak-Sakyi,MID,45,0.0,0.0,0.1,0.2,0.2
 658,461382,31,4,Crystal Palace,Gordon,FWD,45,0.0,0.0,0.0,0.0,0.0
-659,482158,8,1,Chelsea,Bergström,GKP,39,0.0,0.0,0.0,0.0,0.0
+659,482158,8,1,Chelsea,Bergström,GKP,39,,0.0,0.0,0.0,0.0
 660,550839,90,3,Burnley,Odobert,MID,50,,2.9,3.0,2.7,3.1
 661,221399,11,3,Everton,Harrison,MID,55,2.2,2.3,2.2,2.4,1.7
 662,159533,54,3,Fulham,Adama,MID,49,,1.1,1.2,1.1,1.5
@@ -664,27 +664,27 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,34,35,36,37,38
 664,101178,21,3,West Ham,Ward-Prowse,MID,58,,2.3,2.3,3.3,2.2
 665,20480,102,1,Luton,Krul,GKP,44,,0.1,0.1,0.2,0.2
 666,173807,49,3,Sheffield Utd,T.Davies,MID,50,0.0,0.0,0.0,0.0,0.2
-667,514356,8,3,Chelsea,Lavia,MID,49,0.0,0.0,0.0,0.0,0.0
+667,514356,8,3,Chelsea,Lavia,MID,49,,0.0,0.0,0.0,0.0
 668,158983,14,3,Liverpool,Endo,MID,54,1.9,1.8,1.8,1.7,1.8
 669,477733,1,1,Man Utd,Vítek,GKP,40,0.0,0.0,0.0,0.0,0.0
 670,462381,7,1,Aston Villa,Marschall,GKP,40,,0.0,0.0,0.0,0.0
-671,461188,8,2,Chelsea,Humphreys,DEF,40,0.0,0.0,0.0,0.0,0.0
+671,461188,8,2,Chelsea,Humphreys,DEF,40,,0.0,0.0,0.0,0.0
 672,245414,7,3,Aston Villa,Zaniolo,MID,54,,0.9,1.4,1.4,1.4
 673,200785,91,3,Bournemouth,Adams,MID,49,0.1,0.4,0.6,0.9,1.0
 674,247245,90,2,Burnley,Delcroix,DEF,40,,0.3,0.4,0.4,0.7
 675,447715,90,3,Burnley,A.Ramsey,MID,50,,0.0,0.0,0.0,0.0
 676,233963,21,2,West Ham,Mavropanos,DEF,45,,1.8,2.0,3.1,1.4
-677,617054,8,4,Chelsea,Deivid,FWD,45,0.0,0.3,0.1,0.2,0.1
+677,617054,8,4,Chelsea,Deivid,FWD,45,,0.3,0.1,0.2,0.1
 678,248875,43,3,Man City,Doku,MID,64,1.9,1.9,2.1,3.8,2.1
 679,218430,17,2,Nott'm Forest,G.Montiel,DEF,44,,0.2,0.3,0.4,0.4
-680,474803,8,1,Chelsea,Beach,GKP,40,0.0,0.0,0.0,0.0,0.0
-681,491011,8,3,Chelsea,Diego Moreira,MID,45,0.0,0.0,0.0,0.0,0.0
+680,474803,8,1,Chelsea,Beach,GKP,40,,0.0,0.0,0.0,0.0
+681,491011,8,3,Chelsea,Diego Moreira,MID,45,,0.0,0.0,0.0,0.0
 682,611011,102,2,Luton,Johnson,DEF,40,,0.2,0.1,0.1,0.1
 683,515024,54,3,Fulham,Harris,MID,45,,0.0,0.0,0.0,0.0
 684,494041,94,3,Brentford,Brierley,MID,45,,0.0,0.0,0.0,0.0
 685,504598,1,3,Man Utd,Gore,MID,45,0.0,0.0,0.0,0.0,0.0
 686,516159,7,1,Aston Villa,Zych,GKP,40,,0.0,0.0,0.0,0.0
-687,457569,8,1,Chelsea,Petrović,GKP,46,3.7,7.3,3.7,7.2,3.6
+687,457569,8,1,Chelsea,Petrović,GKP,46,,7.3,3.7,7.2,3.6
 688,166477,54,2,Fulham,Castagne,DEF,45,,3.2,2.1,1.7,2.6
 689,460842,21,3,West Ham,Kudus,MID,68,,3.3,3.1,3.9,2.6
 690,535301,36,3,Brighton,Baleba,MID,45,2.0,1.8,1.3,2.4,1.3
@@ -713,14 +713,14 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,34,35,36,37,38
 713,210462,17,3,Nott'm Forest,Sangaré,MID,49,,0.9,1.1,1.1,1.2
 714,152760,17,4,Nott'm Forest,Origi,FWD,50,,0.7,0.8,0.7,0.8
 715,231057,39,3,Wolves,Bellegarde,MID,49,0.9,1.2,1.2,1.2,1.1
-716,514280,8,2,Chelsea,Gilchrist,DEF,40,0.1,0.1,0.1,0.1,0.0
-717,517996,8,4,Chelsea,Stutter,FWD,45,0.0,0.0,0.0,0.0,0.0
-718,519198,8,3,Chelsea,Matos,MID,45,0.0,0.0,0.0,0.0,0.0
+716,514280,8,2,Chelsea,Gilchrist,DEF,40,,0.1,0.1,0.1,0.0
+717,517996,8,4,Chelsea,Stutter,FWD,45,,0.0,0.0,0.0,0.0
+718,519198,8,3,Chelsea,Matos,MID,45,,0.0,0.0,0.0,0.0
 719,447261,11,3,Everton,Hunt,MID,45,0.0,0.0,0.0,0.0,0.0
 720,531993,31,4,Crystal Palace,Ola-Adebomi,FWD,45,0.0,0.0,0.0,0.0,0.0
 721,531989,31,3,Crystal Palace,Ozoh,MID,45,0.5,0.6,0.5,0.3,0.2
 722,513588,6,4,Spurs,Donley,FWD,45,,0.0,0.0,0.0,0.0
-723,248854,8,2,Chelsea,Brooking,DEF,40,0.0,0.0,0.0,0.0,0.0
+723,248854,8,2,Chelsea,Brooking,DEF,40,,0.0,0.0,0.0,0.0
 724,474908,31,3,Crystal Palace,Raymond,MID,45,0.0,0.0,0.0,0.0,0.0
 725,570241,94,2,Brentford,Kim Ji-Soo,DEF,40,,0.0,0.0,0.0,0.0
 726,462491,14,2,Liverpool,Chambers,DEF,40,0.0,0.0,0.0,0.0,0.0
@@ -732,9 +732,9 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,34,35,36,37,38
 732,487693,54,2,Fulham,Tanton,DEF,40,,0.0,0.0,0.0,0.0
 733,516432,94,2,Brentford,Adedokun,DEF,40,,0.0,0.0,0.0,0.0
 734,589114,102,3,Luton,Nelson,MID,45,,0.0,0.0,0.0,0.0
-735,516874,3,3,Arsenal,Sagoe,MID,45,0.0,0.0,0.0,0.0,0.0
-736,535262,3,2,Arsenal,Walters,DEF,40,0.0,0.0,0.0,0.0,0.0
-737,535264,3,3,Arsenal,Ibrahim,MID,45,0.0,0.0,0.0,0.0,0.0
+735,516874,3,3,Arsenal,Sagoe,MID,45,,0.0,0.0,0.0,0.0
+736,535262,3,2,Arsenal,Walters,DEF,40,,0.0,0.0,0.0,0.0
+737,535264,3,3,Arsenal,Ibrahim,MID,45,,0.0,0.0,0.0,0.0
 738,248859,4,3,Newcastle,Diallo,MID,45,0.0,0.1,0.0,0.0,0.0
 739,547716,4,4,Newcastle,Parkinson,FWD,45,0.1,0.2,0.2,0.1,0.0
 740,519321,6,2,Spurs,Dorrington,DEF,40,,0.0,0.0,0.0,0.0
@@ -755,13 +755,13 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,34,35,36,37,38
 755,500052,36,3,Brighton,Barrington,MID,45,0.0,0.0,0.0,0.0,0.0
 756,443629,14,1,Liverpool,Pitaluga,GKP,40,0.0,0.0,0.0,0.0,0.0
 757,492777,14,2,Liverpool,Bradley,DEF,42,0.0,0.0,0.3,0.7,1.1
-758,517995,8,3,Chelsea,Castledine,MID,45,0.0,0.0,0.0,0.0,0.0
+758,517995,8,3,Chelsea,Castledine,MID,45,,0.0,0.0,0.0,0.0
 759,552425,49,3,Sheffield Utd,Peck,MID,44,0.0,0.0,0.0,0.0,0.0
 760,491557,11,3,Everton,Metcalfe,MID,45,0.0,0.0,0.0,0.0,0.0
 761,491745,11,2,Everton,Campbell,DEF,40,0.0,0.0,0.0,0.0,0.0
 762,496283,43,3,Man City,Susoho,MID,45,0.0,0.0,0.1,0.2,0.2
 763,501468,31,2,Crystal Palace,Adaramola,DEF,40,0.0,0.0,0.0,0.0,0.0
-764,499169,3,3,Arsenal,Lewis-Skelly,MID,45,0.0,0.0,0.0,0.0,0.0
+764,499169,3,3,Arsenal,Lewis-Skelly,MID,45,,0.0,0.0,0.0,0.0
 765,564505,7,1,Aston Villa,Proctor,GKP,40,,0.0,0.0,0.0,0.0
 766,518466,1,2,Man Utd,Kambwala,DEF,39,3.2,2.4,0.4,0.2,0.1
 767,515599,7,3,Aston Villa,O'Reilly,MID,45,,0.0,0.0,0.0,0.0
@@ -769,7 +769,7 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,34,35,36,37,38
 769,432712,39,3,Wolves,Hesketh,MID,45,0.0,0.0,0.0,0.0,0.0
 770,490095,39,3,Wolves,Barnett,MID,45,0.0,0.0,0.0,0.0,0.0
 771,462438,43,3,Man City,Hamilton,MID,45,0.0,0.0,0.0,0.0,0.0
-772,499175,3,3,Arsenal,Nwaneri,MID,45,0.0,0.0,0.0,0.0,0.0
+772,499175,3,3,Arsenal,Nwaneri,MID,45,,0.0,0.0,0.0,0.0
 773,518442,21,3,West Ham,Orford,MID,45,,0.0,0.0,0.0,0.0
 774,518438,21,2,West Ham,Casey,DEF,40,,0.0,0.0,0.0,0.0
 775,204814,49,3,Sheffield Utd,Brereton Díaz,MID,50,3.1,2.9,3.2,2.8,3.0
@@ -788,7 +788,7 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,34,35,36,37,38
 788,501837,39,2,Wolves,Mosquera,DEF,40,0.0,0.0,0.0,0.0,0.0
 789,507433,94,1,Brentford,Valdimarsson,GKP,40,,0.0,0.0,0.0,0.0
 790,173268,49,1,Sheffield Utd,Grbić,GKP,45,3.7,3.7,3.7,3.7,3.7
-791,505187,8,3,Chelsea,Casadei,MID,45,0.1,0.9,0.3,0.4,0.3
+791,505187,8,3,Chelsea,Casadei,MID,45,,0.9,0.3,0.4,0.3
 792,247348,31,2,Crystal Palace,Muñoz,DEF,45,3.3,3.4,3.4,3.5,3.4
 793,465390,7,2,Aston Villa,Kesler-Hayden,DEF,40,,0.1,0.1,0.0,0.1
 794,461484,4,3,Newcastle,White,MID,45,0.1,0.1,0.1,0.0,0.0
@@ -812,12 +812,12 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,34,35,36,37,38
 812,514514,14,4,Liverpool,Koumas,FWD,45,0.0,0.0,0.0,0.0,0.0
 813,518199,14,1,Liverpool,Mrozek,GKP,40,0.0,0.0,0.0,0.0,0.0
 814,516250,43,3,Man City,Wright,MID,45,0.0,0.1,0.1,0.2,0.1
-815,504751,3,3,Arsenal,Bandeira,MID,45,0.0,0.0,0.0,0.0,0.0
+815,504751,3,3,Arsenal,Bandeira,MID,45,,0.0,0.0,0.0,0.0
 816,543158,36,2,Brighton,Barco,DEF,40,0.4,0.3,0.3,0.5,0.3
-817,503308,3,2,Arsenal,Sweet,DEF,40,0.0,0.0,0.0,0.0,0.0
+817,503308,3,2,Arsenal,Sweet,DEF,40,,0.0,0.0,0.0,0.0
 818,462492,7,1,Aston Villa,Gauci,GKP,39,,0.0,0.0,0.0,0.0
-819,536238,8,2,Chelsea,Samuels-Smith,DEF,40,0.0,0.0,0.0,0.0,0.0
-820,597983,8,3,Chelsea,Harrison,MID,45,0.0,0.0,0.0,0.0,0.0
+819,536238,8,2,Chelsea,Samuels-Smith,DEF,40,,0.0,0.0,0.0,0.0
+820,597983,8,3,Chelsea,Harrison,MID,45,,0.0,0.0,0.0,0.0
 821,574398,31,4,Crystal Palace,Umeh-Chibueze,FWD,45,0.0,0.0,0.0,0.0,0.0
 822,591539,49,4,Sheffield Utd,Blacker,FWD,45,0.0,0.0,0.0,0.0,0.0
 823,532372,49,3,Sheffield Utd,Arblaster,MID,45,2.1,2.0,2.1,2.0,2.0
@@ -827,7 +827,7 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,34,35,36,37,38
 827,616094,49,2,Sheffield Utd,Sasnauskas,DEF,40,0.1,0.1,0.1,0.1,0.0
 828,549344,49,2,Sheffield Utd,Curtis,DEF,40,0.1,0.1,0.0,0.1,0.0
 829,490885,21,3,West Ham,Earthy,MID,45,,0.0,0.0,0.0,0.0
-830,514277,8,3,Chelsea,Tauriainen,MID,45,0.0,0.0,0.0,0.0,0.0
+830,514277,8,3,Chelsea,Tauriainen,MID,45,,0.0,0.0,0.0,0.0
 831,547668,102,3,Luton,Piesold,MID,45,,0.0,0.0,0.0,0.0
 832,613467,39,2,Wolves,Okoduwa,DEF,40,0.2,0.1,0.1,0.1,0.1
 833,519325,1,2,Man Utd,Ogunneye,DEF,40,0.7,0.4,0.1,0.1,0.0
@@ -835,7 +835,7 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,34,35,36,37,38
 835,461537,1,1,Man Utd,Mee,GKP,40,0.0,0.0,0.0,0.0,0.0
 836,589507,39,4,Wolves,Chiwome,FWD,45,0.0,0.0,0.0,0.0,0.0
 837,611926,14,2,Liverpool,Nallo,DEF,40,0.0,0.0,0.0,0.0,0.0
-838,577016,8,2,Chelsea,Acheampong,DEF,40,0.0,0.0,0.0,0.0,0.0
+838,577016,8,2,Chelsea,Acheampong,DEF,40,,0.0,0.0,0.0,0.0
 839,647597,102,3,Luton,Martins,MID,45,,0.0,0.0,0.0,0.0
 840,602934,39,4,Wolves,Holman,FWD,45,0.1,0.0,0.0,0.0,0.0
 841,461453,11,3,Everton,Warrington,MID,45,0.0,0.0,0.0,0.0,0.0
@@ -844,9 +844,9 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,34,35,36,37,38
 844,634640,102,2,Luton,Chigozie,DEF,40,,0.0,0.0,0.0,0.0
 845,445548,36,2,Brighton,Offiah,DEF,40,0.0,0.0,0.0,0.0,0.0
 846,577974,1,2,Man Utd,Amass,DEF,40,0.7,0.5,0.1,0.1,0.0
-847,499857,8,1,Chelsea,Sharman-Lowe,GKP,40,0.0,0.0,0.0,0.0,0.0
+847,499857,8,1,Chelsea,Sharman-Lowe,GKP,40,,0.0,0.0,0.0,0.0
 848,551995,102,4,Luton,Harris,FWD,45,,0.0,0.0,0.0,0.0
 849,596572,91,3,Bournemouth,Dacosta Gonzalez,MID,45,0.0,0.0,0.0,0.0,0.0
 850,575034,1,4,Man Utd,Wheatley,FWD,45,0.0,0.0,0.0,0.0,0.0
-851,550615,8,4,Chelsea,George,FWD,45,0.0,0.0,0.0,0.0,0.0
-852,559963,8,3,Chelsea,Dyer,MID,45,0.0,0.0,0.0,0.0,0.0
+851,550615,8,4,Chelsea,George,FWD,45,,0.0,0.0,0.0,0.0
+852,559963,8,3,Chelsea,Dyer,MID,45,,0.0,0.0,0.0,0.0
