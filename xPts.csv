@@ -107,7 +107,7 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,35,36,37,38
 106,207283,94,3,Brentford,Jensen,MID,52,,2.3,2.0,2.1
 107,249231,94,3,Brentford,Lewis-Potter,MID,47,,1.2,1.0,1.1
 108,446008,94,3,Brentford,Mbeumo,MID,68,,4.3,3.6,4.0
-109,51927,94,2,Brentford,Mee,DEF,48,,0.0,0.0,0.0
+109,51927,94,2,Brentford,Mee,DEF,47,,0.0,0.0,0.0
 110,128295,94,3,Brentford,Nørgaard,MID,52,,2.9,2.6,2.7
 111,428580,94,3,Brentford,Onyeka,MID,49,,0.9,1.0,1.0
 112,231065,94,2,Brentford,Pinnock,DEF,45,,3.5,2.7,2.7
@@ -243,7 +243,7 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,35,36,37,38
 242,55494,31,2,Crystal Palace,Ward,DEF,45,,1.7,1.7,1.4
 243,487818,31,1,Crystal Palace,Whitworth,GKP,39,,0.0,0.0,0.0
 244,120250,11,3,Everton,André Gomes,MID,44,,0.7,0.8,0.6
-245,480455,11,2,Everton,Branthwaite,DEF,43,,2.8,3.7,1.5
+245,480455,11,2,Everton,Branthwaite,DEF,44,,2.8,3.7,1.5
 246,177815,11,4,Everton,Calvert-Lewin,FWD,58,,3.8,4.1,2.6
 247,59949,11,2,Everton,Coleman,DEF,44,,2.4,3.0,1.4
 248,108823,11,3,Everton,Dele,MID,48,,0.0,0.1,0.1
@@ -291,7 +291,7 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,35,36,37,38
 290,169187,14,2,Liverpool,Alexander-Arnold,DEF,84,,3.9,3.4,4.6
 291,116535,14,1,Liverpool,A.Becker,GKP,57,,3.6,3.6,3.8
 292,535928,14,3,Liverpool,Bajcetic,MID,47,,0.1,0.1,0.2
-293,447203,14,4,Liverpool,Darwin,FWD,77,,4.3,3.9,4.6
+293,447203,14,4,Liverpool,Darwin,FWD,76,,4.3,3.9,4.6
 294,194634,14,3,Liverpool,Diogo J.,MID,79,,3.7,3.3,4.1
 295,444884,14,3,Liverpool,Elliott,MID,48,,0.9,0.9,1.0
 296,116643,14,3,Liverpool,Fabinho,MID,50,,0.0,0.0,0.0
@@ -351,7 +351,7 @@ id,e_code,t_code,element_type,Team,Name,Pos,Price,35,36,37,38
 350,171314,43,2,Man City,Rúben,DEF,55,,3.5,5.8,3.3
 351,220394,39,3,Wolves,Doyle,MID,44,,0.0,1.1,1.0
 352,121160,43,1,Man City,Ederson M.,GKP,55,,4.0,7.5,3.9
-353,209244,43,3,Man City,Foden,MID,83,,4.7,7.9,4.5
+353,209244,43,3,Man City,Foden,MID,84,,4.7,7.9,4.5
 354,114283,43,3,Man City,Grealish,MID,72,,2.6,4.7,2.6
 355,223094,43,4,Man City,Haaland,FWD,141,,6.8,11.5,6.6
 356,91651,43,3,Man City,Kovačić,MID,46,,1.4,2.7,1.4
